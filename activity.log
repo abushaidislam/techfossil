@@ -14,3 +14,4 @@
 [2025-11-23T14:51:56+06:00] style: refine responsive padding across dashboard layouts
 [2025-11-23T04:20:17+06:00] feat: implement authentication flow and session refresh
 [2025-11-25T05:17:23+06:00] docs: clarify environment configuration and setup steps
+[2025-11-25T13:12:37+06:00] refactor: extract reusable state logic into custom hooks
