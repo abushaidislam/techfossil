@@ -27,3 +27,4 @@
 [2025-11-28T06:32:51+06:00] chore: bump dependencies and patch security alerts
 [2025-12-01T05:22:50+06:00] style: refine responsive padding across dashboard layouts
 [2025-12-01T04:18:51+06:00] refactor: extract reusable state logic into custom hooks
+[2025-12-01T12:57:28+06:00] docs: clarify environment configuration and setup steps
