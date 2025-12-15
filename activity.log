@@ -49,3 +49,4 @@
 [2025-12-15T10:25:35+06:00] chore: bump dependencies and patch security alerts
 [2025-12-15T17:45:47+06:00] chore: bump dependencies and patch security alerts
 [2025-12-15T10:05:22+06:00] fix: resolve edge case in payload deserialization
+[2025-12-15T06:37:46+06:00] refactor: extract reusable state logic into custom hooks
