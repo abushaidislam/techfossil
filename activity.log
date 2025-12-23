@@ -71,3 +71,4 @@
 [2025-12-22T14:31:03+06:00] test: add unit coverage for parsing utilities
 [2025-12-22T14:50:58+06:00] style: refine responsive padding across dashboard layouts
 [2025-12-22T12:06:04+06:00] chore: bump dependencies and patch security alerts
+[2025-12-23T09:11:11+06:00] refactor: extract reusable state logic into custom hooks
