@@ -79,3 +79,4 @@
 [2025-12-24T04:14:29+06:00] chore: bump dependencies and patch security alerts
 [2025-12-24T14:39:56+06:00] chore: bump dependencies and patch security alerts
 [2025-12-25T13:06:40+06:00] feat: implement authentication flow and session refresh
+[2025-12-25T12:13:09+06:00] docs: clarify environment configuration and setup steps
