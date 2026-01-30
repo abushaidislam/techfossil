@@ -144,3 +144,4 @@
 [2026-01-29T06:21:45+06:00] refactor: extract reusable state logic into custom hooks
 [2026-01-29T08:01:18+06:00] perf: optimize query caching layer and indexing
 [2026-01-29T08:35:11+06:00] perf: optimize query caching layer and indexing
+[2026-01-30T14:09:56+06:00] docs: clarify environment configuration and setup steps
