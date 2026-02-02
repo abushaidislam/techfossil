@@ -151,3 +151,4 @@
 [2026-02-02T06:05:13+06:00] style: refine responsive padding across dashboard layouts
 [2026-02-02T10:08:39+06:00] chore: bump dependencies and patch security alerts
 [2026-02-02T08:43:42+06:00] refactor: extract reusable state logic into custom hooks
+[2026-02-02T15:30:09+06:00] docs: clarify environment configuration and setup steps
