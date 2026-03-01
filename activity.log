@@ -208,3 +208,4 @@
 [2026-02-27T15:20:46+06:00] fix: resolve edge case in payload deserialization
 [2026-02-28T06:51:44+06:00] feat: implement authentication flow and session refresh
 [2026-02-28T14:27:25+06:00] feat: implement authentication flow and session refresh
+[2026-03-01T07:12:51+06:00] test: add unit coverage for parsing utilities
