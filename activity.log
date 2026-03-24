@@ -261,3 +261,4 @@
 [2026-03-24T04:25:20+06:00] refactor: extract reusable state logic into custom hooks
 [2026-03-24T14:31:53+06:00] chore: bump dependencies and patch security alerts
 [2026-03-25T06:34:30+06:00] chore: bump dependencies and patch security alerts
+[2026-03-25T05:57:38+06:00] docs: clarify environment configuration and setup steps
