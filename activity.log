@@ -270,3 +270,4 @@
 [2026-03-27T09:29:57+06:00] docs: clarify environment configuration and setup steps
 [2026-03-27T15:39:18+06:00] fix: resolve edge case in payload deserialization
 [2026-03-30T07:32:25+06:00] style: refine responsive padding across dashboard layouts
+[2026-03-30T16:57:12+06:00] docs: clarify environment configuration and setup steps
