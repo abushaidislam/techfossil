@@ -272,3 +272,4 @@
 [2026-03-30T07:32:25+06:00] style: refine responsive padding across dashboard layouts
 [2026-03-30T16:57:12+06:00] docs: clarify environment configuration and setup steps
 [2026-03-30T10:07:29+06:00] perf: optimize query caching layer and indexing
+[2026-03-31T14:17:19+06:00] fix: resolve edge case in payload deserialization
