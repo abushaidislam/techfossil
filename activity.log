@@ -301,3 +301,4 @@
 [2026-04-15T08:45:24+06:00] test: add unit coverage for parsing utilities
 [2026-04-15T17:44:56+06:00] chore: bump dependencies and patch security alerts
 [2026-04-15T12:07:31+06:00] feat: implement authentication flow and session refresh
+[2026-04-15T11:12:05+06:00] docs: clarify environment configuration and setup steps
