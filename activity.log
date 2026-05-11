@@ -355,3 +355,4 @@
 [2026-05-08T17:30:37+06:00] test: add unit coverage for parsing utilities
 [2026-05-08T13:54:21+06:00] refactor: extract reusable state logic into custom hooks
 [2026-05-09T12:41:32+06:00] docs: clarify environment configuration and setup steps
+[2026-05-11T15:02:22+06:00] docs: clarify environment configuration and setup steps
