@@ -361,3 +361,4 @@
 [2026-05-11T05:40:49+06:00] refactor: extract reusable state logic into custom hooks
 [2026-05-12T05:59:05+06:00] feat: implement authentication flow and session refresh
 [2026-05-13T05:46:38+06:00] refactor: extract reusable state logic into custom hooks
+[2026-05-14T08:54:09+06:00] docs: clarify environment configuration and setup steps
