@@ -377,3 +377,4 @@
 [2026-05-20T12:46:50+06:00] style: refine responsive padding across dashboard layouts
 [2026-05-20T06:56:52+06:00] chore: bump dependencies and patch security alerts
 [2026-05-20T06:56:26+06:00] chore: bump dependencies and patch security alerts
+[2026-05-20T17:40:27+06:00] fix: resolve edge case in payload deserialization
