@@ -434,3 +434,4 @@
 [2026-06-16T10:59:08+06:00] test: add unit coverage for parsing utilities
 [2026-06-17T16:53:45+06:00] style: refine responsive padding across dashboard layouts
 [2026-06-17T10:44:24+06:00] style: refine responsive padding across dashboard layouts
+[2026-06-17T15:51:53+06:00] docs: clarify environment configuration and setup steps
