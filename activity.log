@@ -445,3 +445,4 @@
 [2026-06-26T06:20:18+06:00] style: refine responsive padding across dashboard layouts
 [2026-06-26T14:14:35+06:00] style: refine responsive padding across dashboard layouts
 [2026-06-28T08:06:31+06:00] docs: clarify environment configuration and setup steps
+[2026-06-28T17:14:38+06:00] refactor: extract reusable state logic into custom hooks
