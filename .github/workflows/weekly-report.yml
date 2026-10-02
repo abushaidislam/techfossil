@@ -1,0 +1,22 @@
+name: Weekly Report & Statistics
+
+on:
+  schedule:
+    # Every Sunday at 12:00 UTC
+    - cron: '0 12 * * 0'
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: echo "Compiling weekly statistics..."
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data(stats): update weekly ecosystem statistics [skip ci]"
+          file_pattern: "data/*"

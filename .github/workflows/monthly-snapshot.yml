@@ -1,0 +1,22 @@
+name: Monthly Archive Snapshot
+
+on:
+  schedule:
+    # 1st of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: echo "Generating monthly immutable snapshot..."
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(snapshot): archive monthly dataset snapshot [skip ci]"
+          file_pattern: "data/*"

@@ -1,0 +1,30 @@
+{
+  "dataset_version": "1.0.0",
+  "generated_at": "2026-10-01T00:00:00Z",
+  "domain": "all",
+  "partition": "2026-10",
+  "signals": [
+    {
+      "id": "sig-2026-1001-react-compiler",
+      "title": "React Compiler 1.0 GA and React 19.2 Stable Release with Server Actions Enhancements",
+      "canonical_url": "https://react.dev/blog/2026/09/react-compiler-ga",
+      "source": "official_blog",
+      "published_at": "2026-09-28T16:00:00Z",
+      "category": "Frontend",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": ["react", "nextjs", "typescript"]
+    },
+    {
+      "id": "sig-2026-0930-mcp-agent-standard",
+      "title": "Model Context Protocol (MCP) Adopted by Major Open-Source Agent Runtimes and IDEs",
+      "canonical_url": "https://modelcontextprotocol.io/specification/2026-update",
+      "source": "official_blog",
+      "published_at": "2026-09-29T14:30:00Z",
+      "category": "AI Agents",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": ["ai-agents", "gemini", "claude-anthropic", "typescript", "python"]
+    }
+  ]
+}

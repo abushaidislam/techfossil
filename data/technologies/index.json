@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-10-01T00:00:00Z",
+  "total_entities": 12,
+  "technologies": [
+    { "slug": "react", "name": "React", "category": "Frontend", "first_observed": "2013-05-29" },
+    { "slug": "nextjs", "name": "Next.js", "category": "Frameworks", "first_observed": "2016-10-25" },
+    { "slug": "typescript", "name": "TypeScript", "category": "TypeScript", "first_observed": "2012-10-01" },
+    { "slug": "gemini", "name": "Google Gemini", "category": "AI", "first_observed": "2023-12-06" },
+    { "slug": "ai-agents", "name": "AI Agent Architecture", "category": "AI Agents", "first_observed": "2023-03-15" },
+    { "slug": "rust", "name": "Rust", "category": "Rust", "first_observed": "2010-07-07" },
+    { "slug": "python", "name": "Python", "category": "Python", "first_observed": "1991-02-20" },
+    { "slug": "nodejs", "name": "Node.js", "category": "Backend", "first_observed": "2009-05-27" },
+    { "slug": "bun", "name": "Bun", "category": "DevTools", "first_observed": "2021-04-12" },
+    { "slug": "postgresql", "name": "PostgreSQL", "category": "Databases", "first_observed": "1996-07-08" },
+    { "slug": "claude-anthropic", "name": "Claude & Anthropic", "category": "AI", "first_observed": "2021-02-01" },
+    { "slug": "docker", "name": "Docker & Containers", "category": "DevOps", "first_observed": "2013-03-20" }
+  ]
+}

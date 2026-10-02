@@ -1,0 +1,102 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+    /* Modular Typographic Scale (Major Third - 1.250) */
+    --scale-ratio: 1.25;
+    --type-xs: 0.75rem;     /* 12px */
+    --type-sm: 0.875rem;    /* 14px */
+    --type-base: 1rem;      /* 16px */
+    --type-md: 1.25rem;     /* 20px - h4 */
+    --type-lg: 1.563rem;    /* 25px - h3 */
+    --type-xl: 1.953rem;    /* 31.25px - h2 */
+    --type-2xl: 2.441rem;   /* 39.06px - h1 sub */
+    --type-display: 3.052rem;/* 48.83px - h1 display */
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #0d0e10;
+    color: #e5e5e7;
+    font-size: var(--type-base);
+    line-height: 1.6;
+    letter-spacing: -0.011em;
+    overflow-x: hidden;
+  }
+
+  /* Universal body paragraph & text readability */
+  p, li, dd {
+    line-height: 1.6;
+  }
+
+  /* Refined Modular Scale Headers */
+  h1 {
+    font-size: clamp(2rem, 4.5vw, var(--type-display));
+    line-height: 1.15;
+    font-weight: 600;
+    letter-spacing: -0.028em;
+  }
+
+  h2 {
+    font-size: clamp(1.35rem, 2.8vw, var(--type-xl));
+    line-height: 1.25;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    font-size: clamp(1.1rem, 2vw, var(--type-lg));
+    line-height: 1.35;
+    font-weight: 600;
+    letter-spacing: -0.015em;
+  }
+
+  h4 {
+    font-size: var(--type-md);
+    line-height: 1.4;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  /* Technical identifiers & metadata */
+  code, kbd, samp, pre {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d0e10;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #23252a;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #34373e;
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 18s linear infinite;
+}

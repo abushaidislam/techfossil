@@ -1,0 +1,7 @@
+{
+  "name": "TechFossil",
+  "description": "Preserving the evolution of technology — an open-source, continuously growing archive of software, AI, research, security, and developer ecosystem changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
