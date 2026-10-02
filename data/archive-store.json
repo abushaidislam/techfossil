@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T04:19:40.712Z",
+  "updated_at": "2026-10-02T11:32:46.507Z",
   "signals": [
     {
       "id": "sig-2026-1001-react-compiler",
@@ -2208,6 +2208,382 @@
       "related_signals": [],
       "created_at": "2026-10-02T04:12:25.477Z",
       "updated_at": "2026-10-02T04:12:25.477Z"
+    },
+    {
+      "id": "sig-1790940766485-7hdgi",
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "canonical_url": "https://arxiv.org/abs/2610.02207v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:58Z",
+      "discovered_at": "2026-10-02T11:32:46.485Z",
+      "category": "Research",
+      "summary": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "detailed_summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshape...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766485-7hdgi-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02207v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.485Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02207v1",
+        "Published event: One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Av"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.485Z",
+      "updated_at": "2026-10-02T11:32:46.485Z"
+    },
+    {
+      "id": "sig-1790940766488-pgb7f",
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "canonical_url": "https://arxiv.org/abs/2610.02206v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:55Z",
+      "discovered_at": "2026-10-02T11:32:46.488Z",
+      "category": "Research",
+      "summary": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "detailed_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable comm...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766488-pgb7f-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02206v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.488Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02206v1",
+        "Published event: KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux wit"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.488Z",
+      "updated_at": "2026-10-02T11:32:46.488Z"
+    },
+    {
+      "id": "sig-1790940766491-qai66",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "canonical_url": "https://arxiv.org/abs/2610.02204v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:50Z",
+      "discovered_at": "2026-10-02T11:32:46.491Z",
+      "category": "Research",
+      "summary": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "detailed_summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems withou...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766491-qai66-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02204v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.491Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02204v1",
+        "Published event: Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.491Z",
+      "updated_at": "2026-10-02T11:32:46.491Z"
+    },
+    {
+      "id": "sig-1790940766493-ptyqp",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "canonical_url": "https://arxiv.org/abs/2610.02202v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:47Z",
+      "discovered_at": "2026-10-02T11:32:46.493Z",
+      "category": "Research",
+      "summary": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "detailed_summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which ear...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766493-ptyqp-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02202v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.493Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02202v1",
+        "Published event: ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.493Z",
+      "updated_at": "2026-10-02T11:32:46.493Z"
+    },
+    {
+      "id": "sig-1790940766496-4qwk1",
+      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "canonical_url": "https://arxiv.org/abs/2610.02201v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:46Z",
+      "discovered_at": "2026-10-02T11:32:46.496Z",
+      "category": "Research",
+      "summary": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "detailed_summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topologi...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766496-4qwk1-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02201v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.496Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02201v1",
+        "Published event: SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D G"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.496Z",
+      "updated_at": "2026-10-02T11:32:46.496Z"
+    },
+    {
+      "id": "sig-1790940766498-g2lrx",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "canonical_url": "https://arxiv.org/abs/2610.02200v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:45Z",
+      "discovered_at": "2026-10-02T11:32:46.498Z",
+      "category": "Research",
+      "summary": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "detailed_summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows th...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766498-g2lrx-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02200v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.498Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02200v1",
+        "Published event: VISTA: A Visual Harness for Reasoning in an Interactive World"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.498Z",
+      "updated_at": "2026-10-02T11:32:46.498Z"
+    },
+    {
+      "id": "sig-1790940766501-46tpb",
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "canonical_url": "https://arxiv.org/abs/2610.02198v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:41Z",
+      "discovered_at": "2026-10-02T11:32:46.501Z",
+      "category": "Research",
+      "summary": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "detailed_summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potent...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766501-46tpb-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02198v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.501Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02198v1",
+        "Published event: FERPO: Forward Entropy-Regularized Policy Optimization"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.501Z",
+      "updated_at": "2026-10-02T11:32:46.501Z"
+    },
+    {
+      "id": "sig-1790940766504-d2jj1",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "canonical_url": "https://arxiv.org/abs/2610.02193v1",
+      "source": "arxiv",
+      "source_label": "ARXIV",
+      "published_at": "2026-10-01T17:59:39Z",
+      "discovered_at": "2026-10-02T11:32:46.504Z",
+      "category": "Research",
+      "summary": "Hierarchical Continuous Diffusion Language Models",
+      "detailed_summary": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, sev...",
+      "importance_score": 80,
+      "confidence_score": 0.95,
+      "entities": [
+        "arxiv"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "research",
+        "arxiv"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790940766504-d2jj1-1",
+          "type": "official_source",
+          "label": "arxiv upstream API record",
+          "url": "https://arxiv.org/abs/2610.02193v1",
+          "verified": true,
+          "discovered_at": "2026-10-02T11:32:46.504Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790940757607]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://arxiv.org/abs/2610.02193v1",
+        "Published event: Hierarchical Continuous Diffusion Language Models"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T11:32:46.504Z",
+      "updated_at": "2026-10-02T11:32:46.504Z"
     }
   ],
   "releases": [
@@ -2748,6 +3124,142 @@
       ],
       "pdf_url": "https://arxiv.org/pdf/2608.09112.pdf",
       "source_url": "https://arxiv.org/abs/2608.09112"
+    },
+    {
+      "id": "paper-sig-1790940766485-7hdgi",
+      "arxiv_id": "arXiv:2610.02207v1",
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshape...",
+      "published_at": "2026-10-01T17:59:58Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02207v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02207v1",
+      "signal_id": "sig-1790940766485-7hdgi"
+    },
+    {
+      "id": "paper-sig-1790940766488-pgb7f",
+      "arxiv_id": "arXiv:2610.02206v1",
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable comm...",
+      "published_at": "2026-10-01T17:59:55Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02206v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02206v1",
+      "signal_id": "sig-1790940766488-pgb7f"
+    },
+    {
+      "id": "paper-sig-1790940766491-qai66",
+      "arxiv_id": "arXiv:2610.02204v1",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems withou...",
+      "published_at": "2026-10-01T17:59:50Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02204v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02204v1",
+      "signal_id": "sig-1790940766491-qai66"
+    },
+    {
+      "id": "paper-sig-1790940766493-ptyqp",
+      "arxiv_id": "arXiv:2610.02202v1",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know firsthand which ear...",
+      "published_at": "2026-10-01T17:59:47Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02202v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02202v1",
+      "signal_id": "sig-1790940766493-ptyqp"
+    },
+    {
+      "id": "paper-sig-1790940766496-4qwk1",
+      "arxiv_id": "arXiv:2610.02201v1",
+      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topologi...",
+      "published_at": "2026-10-01T17:59:46Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02201v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02201v1",
+      "signal_id": "sig-1790940766496-4qwk1"
+    },
+    {
+      "id": "paper-sig-1790940766498-g2lrx",
+      "arxiv_id": "arXiv:2610.02200v1",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness that gives a general-purpose multimodal model long-horizon vision. VISTA allows th...",
+      "published_at": "2026-10-01T17:59:45Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02200v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02200v1",
+      "signal_id": "sig-1790940766498-g2lrx"
+    },
+    {
+      "id": "paper-sig-1790940766501-46tpb",
+      "arxiv_id": "arXiv:2610.02198v1",
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potent...",
+      "published_at": "2026-10-01T17:59:41Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02198v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02198v1",
+      "signal_id": "sig-1790940766501-46tpb"
+    },
+    {
+      "id": "paper-sig-1790940766504-d2jj1",
+      "arxiv_id": "arXiv:2610.02193v1",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "authors": [
+        "arxiv"
+      ],
+      "abstract": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, sev...",
+      "published_at": "2026-10-01T17:59:39Z",
+      "primary_category": "cs.AI",
+      "related_technologies": [
+        "open-source"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2610.02193v1.pdf",
+      "source_url": "https://arxiv.org/abs/2610.02193v1",
+      "signal_id": "sig-1790940766504-d2jj1"
     }
   ],
   "timelineEvents": [
@@ -3358,9 +3870,377 @@
       "importance": 85,
       "signal_id": "sig-1790914345477-ql1v5",
       "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57"
+    },
+    {
+      "id": "tl-sig-1790940766485-7hdgi",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "description": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "importance": 80,
+      "signal_id": "sig-1790940766485-7hdgi",
+      "source_url": "https://arxiv.org/abs/2610.02207v1"
+    },
+    {
+      "id": "tl-sig-1790940766488-pgb7f",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "description": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "importance": 80,
+      "signal_id": "sig-1790940766488-pgb7f",
+      "source_url": "https://arxiv.org/abs/2610.02206v1"
+    },
+    {
+      "id": "tl-sig-1790940766491-qai66",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "description": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "importance": 80,
+      "signal_id": "sig-1790940766491-qai66",
+      "source_url": "https://arxiv.org/abs/2610.02204v1"
+    },
+    {
+      "id": "tl-sig-1790940766493-ptyqp",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "description": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "importance": 80,
+      "signal_id": "sig-1790940766493-ptyqp",
+      "source_url": "https://arxiv.org/abs/2610.02202v1"
+    },
+    {
+      "id": "tl-sig-1790940766496-4qwk1",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "description": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "importance": 80,
+      "signal_id": "sig-1790940766496-4qwk1",
+      "source_url": "https://arxiv.org/abs/2610.02201v1"
+    },
+    {
+      "id": "tl-sig-1790940766498-g2lrx",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "description": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "importance": 80,
+      "signal_id": "sig-1790940766498-g2lrx",
+      "source_url": "https://arxiv.org/abs/2610.02200v1"
+    },
+    {
+      "id": "tl-sig-1790940766501-46tpb",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "description": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "importance": 80,
+      "signal_id": "sig-1790940766501-46tpb",
+      "source_url": "https://arxiv.org/abs/2610.02198v1"
+    },
+    {
+      "id": "tl-sig-1790940766504-d2jj1",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "description": "Hierarchical Continuous Diffusion Language Models",
+      "importance": 80,
+      "signal_id": "sig-1790940766504-d2jj1",
+      "source_url": "https://arxiv.org/abs/2610.02193v1"
     }
   ],
   "processingJobs": [
+    {
+      "id": "job-1790940757607",
+      "source": "all",
+      "started_at": "2026-10-02T11:32:37.607Z",
+      "status": "completed",
+      "records_found": 34,
+      "records_processed": 34,
+      "records_created": 8,
+      "duplicates": 26,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "11:32:37 AM",
+          "level": "info",
+          "message": "Pipeline started [Job job-1790940757607]."
+        },
+        {
+          "timestamp": "11:32:37 AM",
+          "level": "info",
+          "message": "STAGE 1 & 2: COLLECT - Querying 4 active source adapters..."
+        },
+        {
+          "timestamp": "11:32:39 AM",
+          "level": "info",
+          "message": "[GitHub Releases & Tags] Discovered 15 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "11:32:45 AM",
+          "level": "info",
+          "message": "[npm Package Registry] Discovered 5 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "11:32:45 AM",
+          "level": "info",
+          "message": "[arXiv Computer Science Feed] Discovered 8 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "[OSV & Security Feeds] Discovered 6 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 3 & 4: NORMALIZE & DEDUPLICATE - Checking canonical URLs & content hashes..."
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.3.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.2.8"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.1.9"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v7.0.2"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v6.0.3"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.99.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.1"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/drizzle-orm/v/0.45.3"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/ai/v/7.0.127"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/next/v/16.3.8"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/react/v/19.3.0"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"One Basis to Animate Them All: Gaussian ...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766485-7hdgi] One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"KaliBench: A Fine-Grained Benchmark for ...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766488-pgb7f] KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"Reconstruct, Practice, Go Real: Guided S...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766491-qai66] Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"ScholarCatalyst: A Benchmark for Retriev...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766493-ptyqp] ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"SILSA: Sliding-Window Slice Latents for ...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766496-4qwk1] SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"VISTA: A Visual Harness for Reasoning in...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766498-g2lrx] VISTA: A Visual Harness for Reasoning in an Interactive World"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"FERPO: Forward Entropy-Regularized Polic...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766501-46tpb] FERPO: Forward Entropy-Regularized Policy Optimization"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"Hierarchical Continuous Diffusion Langua...\""
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790940766504-d2jj1] Hierarchical Continuous Diffusion Language Models"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2013-7035"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/facebook/react"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2024-10491"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2014-6393"
+        },
+        {
+          "timestamp": "11:32:46 AM",
+          "level": "info",
+          "message": "Pipeline cycle completed successfully. Created: 8, Duplicates: 26."
+        }
+      ],
+      "finished_at": "2026-10-02T11:32:46.506Z"
+    },
     {
       "id": "job-1790914754797",
       "source": "all",
