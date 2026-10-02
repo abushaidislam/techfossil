@@ -150,13 +150,16 @@ export const Header: React.FC<Props> = ({
                 <button
                   key={item.id}
                   onClick={() => onNavigate(item.id)}
-                  className={`px-3 py-1.5 rounded-md font-medium transition-colors ${
+                  className={`px-3 py-1.5 rounded-md font-medium transition-colors relative ${
                     isActive
-                      ? 'text-white bg-white/[0.08]'
+                      ? 'text-white bg-white/[0.08] shadow-sm'
                       : 'text-neutral-400 hover:text-white hover:bg-white/[0.03]'
                   }`}
                 >
                   {item.label}
+                  {isActive && (
+                    <span className="absolute bottom-0 left-3 right-3 h-[2px] bg-amber-400/80 rounded-full" />
+                  )}
                 </button>
               );
             })}
