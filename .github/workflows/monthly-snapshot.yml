@@ -9,14 +9,32 @@ on:
 jobs:
   snapshot:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm ci
-      - run: echo "Generating monthly immutable snapshot..."
-      - uses: stefanzweifel/git-auto-commit-action@v5
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Generate Monthly Snapshot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run snapshot:generate
+
+      - name: Commit Monthly Snapshot
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(snapshot): archive monthly dataset snapshot [skip ci]"
           file_pattern: "data/*"

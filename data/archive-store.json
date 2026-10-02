@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:44:00.156Z",
+  "updated_at": "2026-10-02T04:19:40.712Z",
   "signals": [
     {
       "id": "sig-2026-1001-react-compiler",
@@ -2160,6 +2160,54 @@
       "related_signals": [],
       "created_at": "2026-10-02T03:44:00.144Z",
       "updated_at": "2026-10-02T03:44:00.144Z"
+    },
+    {
+      "id": "sig-1790914345477-ql1v5",
+      "title": "vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57",
+      "canonical_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-10-02T03:44:18Z",
+      "discovered_at": "2026-10-02T04:12:25.477Z",
+      "category": "AI Agents",
+      "summary": "vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57",
+      "detailed_summary": "### Misc Changes\n\n- Resolve React dependency warnings from the target app: #99536\n- Move upgrade workflows out of public docs: #99546\n- Use Agent terminology throughout upgrades: #99545\n- Turbopack: Commit updated generated-native file: #99561\n- test: enable Relay multi-project deployment coverage: ...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "react",
+        "nextjs"
+      ],
+      "organizations": [],
+      "tags": [
+        "ai-agents",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790914345477-ql1v5-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+          "verified": true,
+          "discovered_at": "2026-10-02T04:12:25.477Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790914306784]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+        "Published event: vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T04:12:25.477Z",
+      "updated_at": "2026-10-02T04:12:25.477Z"
     }
   ],
   "releases": [
@@ -2537,6 +2585,20 @@
       ],
       "source_url": "https://www.npmjs.com/package/react/v/19.3.0",
       "signal_id": "sig-1790912640077-7662g"
+    },
+    {
+      "id": "rel-sig-1790914345477-ql1v5",
+      "technology_slug": "react",
+      "version": "v16.4.0-canary.57",
+      "tag_name": "v16.4.0-canary.57",
+      "release_date": "2026-10-02",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+        "Published event: vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57"
+      ],
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57",
+      "signal_id": "sig-1790914345477-ql1v5"
     }
   ],
   "securityAdvisories": [
@@ -3283,9 +3345,395 @@
       "importance": 100,
       "signal_id": "sig-1790912640144-jurpf",
       "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2014-6393"
+    },
+    {
+      "id": "tl-sig-1790914345477-ql1v5",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-02",
+      "event_type": "release",
+      "title": "vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57",
+      "description": "vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57",
+      "importance": 85,
+      "signal_id": "sig-1790914345477-ql1v5",
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57"
     }
   ],
   "processingJobs": [
+    {
+      "id": "job-1790914754797",
+      "source": "all",
+      "started_at": "2026-10-02T04:19:14.797Z",
+      "status": "completed",
+      "records_found": 26,
+      "records_processed": 26,
+      "records_created": 0,
+      "duplicates": 26,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "4:19:14 AM",
+          "level": "info",
+          "message": "Pipeline started [Job job-1790914754797]."
+        },
+        {
+          "timestamp": "4:19:14 AM",
+          "level": "info",
+          "message": "STAGE 1 & 2: COLLECT - Querying 4 active source adapters..."
+        },
+        {
+          "timestamp": "4:19:16 AM",
+          "level": "info",
+          "message": "[GitHub Releases & Tags] Discovered 15 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:19:22 AM",
+          "level": "info",
+          "message": "[npm Package Registry] Discovered 5 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "[arXiv Computer Science Feed] Discovered 0 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "[OSV & Security Feeds] Discovered 6 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "STAGE 3 & 4: NORMALIZE & DEDUPLICATE - Checking canonical URLs & content hashes..."
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.3.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.2.8"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.1.9"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v7.0.2"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v6.0.3"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.57"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.99.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.1"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/drizzle-orm/v/0.45.3"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/ai/v/7.0.127"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/next/v/16.3.8"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/react/v/19.3.0"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2013-7035"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/facebook/react"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2024-10491"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2014-6393"
+        },
+        {
+          "timestamp": "4:19:38 AM",
+          "level": "info",
+          "message": "Pipeline cycle completed successfully. Created: 0, Duplicates: 26."
+        }
+      ],
+      "finished_at": "2026-10-02T04:19:38.849Z"
+    },
+    {
+      "id": "job-1790914306784",
+      "source": "all",
+      "started_at": "2026-10-02T04:11:46.784Z",
+      "status": "completed",
+      "records_found": 26,
+      "records_processed": 26,
+      "records_created": 1,
+      "duplicates": 25,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "4:11:46 AM",
+          "level": "info",
+          "message": "Pipeline started [Job job-1790914306784]."
+        },
+        {
+          "timestamp": "4:11:47 AM",
+          "level": "info",
+          "message": "STAGE 1 & 2: COLLECT - Querying 4 active source adapters..."
+        },
+        {
+          "timestamp": "4:11:48 AM",
+          "level": "info",
+          "message": "[GitHub Releases & Tags] Discovered 15 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:11:55 AM",
+          "level": "info",
+          "message": "[npm Package Registry] Discovered 5 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:12:24 AM",
+          "level": "info",
+          "message": "[arXiv Computer Science Feed] Discovered 0 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "[OSV & Security Feeds] Discovered 6 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "STAGE 3 & 4: NORMALIZE & DEDUPLICATE - Checking canonical URLs & content hashes..."
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.3.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.2.8"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/react/react/releases/tag/v19.1.9"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v7.0.2"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/microsoft/TypeScript/releases/tag/v6.0.3"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"vercel/next.js v16.4.0-canary.57: v16.4....\""
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790914345477-ql1v5] vercel/next.js v16.4.0-canary.57: v16.4.0-canary.57"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.99.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.1"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/rust-lang/rust/releases/tag/1.98.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/drizzle-orm/v/0.45.3"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/ai/v/7.0.127"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/next/v/16.3.8"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://www.npmjs.com/package/react/v/19.3.0"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2013-7035"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://github.com/facebook/react"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2024-10491"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Deduplication: Skipped existing record: https://nvd.nist.gov/vuln/detail/CVE-2014-6393"
+        },
+        {
+          "timestamp": "4:12:25 AM",
+          "level": "info",
+          "message": "Pipeline cycle completed successfully. Created: 1, Duplicates: 25."
+        }
+      ],
+      "finished_at": "2026-10-02T04:12:25.488Z"
+    },
     {
       "id": "job-1790912592261",
       "source": "all",
