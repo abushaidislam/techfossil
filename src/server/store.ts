@@ -1,3 +1,5 @@
+import fs from 'fs';
+import path from 'path';
 import {
   Signal,
   Technology,
@@ -40,6 +42,9 @@ const STOP_WORDS = new Set([
   'you\'ll', 'you\'re', 'you\'ve', 'your', 'yours', 'yourself', 'yourselves', 'year', 'month'
 ]);
 
+const DATA_DIR = path.join(process.cwd(), 'data');
+const PERSISTENCE_FILE = path.join(DATA_DIR, 'archive-store.json');
+
 class ArchiveStore {
   private technologies: Map<string, Technology> = new Map();
   private signals: Map<string, Signal> = new Map();
@@ -61,10 +66,15 @@ class ArchiveStore {
   }> = [];
 
   constructor() {
-    this.seed();
+    this.init();
   }
 
-  private seed() {
+  private init() {
+    this.seedDefaults();
+    this.loadFromDisk();
+  }
+
+  private seedDefaults() {
     for (const tech of SEED_TECHNOLOGIES) {
       this.technologies.set(tech.slug, { ...tech });
     }
@@ -118,6 +128,68 @@ class ArchiveStore {
         status: 'pending',
       },
     ];
+  }
+
+  private loadFromDisk() {
+    try {
+      if (fs.existsSync(PERSISTENCE_FILE)) {
+        const raw = fs.readFileSync(PERSISTENCE_FILE, 'utf-8');
+        const parsed = JSON.parse(raw);
+
+        if (Array.isArray(parsed.signals)) {
+          for (const sig of parsed.signals) {
+            this.signals.set(sig.id, sig);
+          }
+        }
+        if (Array.isArray(parsed.releases)) {
+          for (const rel of parsed.releases) {
+            this.releases.set(rel.id, rel);
+          }
+        }
+        if (Array.isArray(parsed.securityAdvisories)) {
+          for (const sec of parsed.securityAdvisories) {
+            this.securityAdvisories.set(sec.id, sec);
+          }
+        }
+        if (Array.isArray(parsed.researchPapers)) {
+          for (const paper of parsed.researchPapers) {
+            this.researchPapers.set(paper.id, paper);
+          }
+        }
+        if (Array.isArray(parsed.timelineEvents)) {
+          for (const evt of parsed.timelineEvents) {
+            this.timelineEvents.set(evt.id, evt);
+          }
+        }
+        if (Array.isArray(parsed.processingJobs)) {
+          this.processingJobs = parsed.processingJobs;
+        }
+      }
+    } catch (err) {
+      console.warn('Failed to load store persistence from disk:', err);
+    }
+  }
+
+  public saveToDisk() {
+    try {
+      if (!fs.existsSync(DATA_DIR)) {
+        fs.mkdirSync(DATA_DIR, { recursive: true });
+      }
+
+      const payload = {
+        updated_at: new Date().toISOString(),
+        signals: Array.from(this.signals.values()),
+        releases: Array.from(this.releases.values()),
+        securityAdvisories: Array.from(this.securityAdvisories.values()),
+        researchPapers: Array.from(this.researchPapers.values()),
+        timelineEvents: Array.from(this.timelineEvents.values()),
+        processingJobs: this.processingJobs,
+      };
+
+      fs.writeFileSync(PERSISTENCE_FILE, JSON.stringify(payload, null, 2), 'utf-8');
+    } catch (err) {
+      console.warn('Failed to save store persistence to disk:', err);
+    }
   }
 
   // Technologies
@@ -325,6 +397,7 @@ class ArchiveStore {
         tech.latest_update = signal.published_at.slice(0, 10);
       }
     }
+    this.saveToDisk();
     return signal;
   }
 
@@ -337,6 +410,7 @@ class ArchiveStore {
       updated_at: new Date().toISOString(),
     };
     this.signals.set(id, updated);
+    this.saveToDisk();
     return updated;
   }
 
@@ -351,6 +425,7 @@ class ArchiveStore {
 
   addTimelineEvent(evt: TimelineEvent): TimelineEvent {
     this.timelineEvents.set(evt.id, evt);
+    this.saveToDisk();
     return evt;
   }
 
@@ -370,6 +445,7 @@ class ArchiveStore {
       tech.stats.releases_count += 1;
       tech.latest_update = release.release_date;
     }
+    this.saveToDisk();
     return release;
   }
 
@@ -390,6 +466,7 @@ class ArchiveStore {
         tech.stats.vulnerabilities_count += 1;
       }
     }
+    this.saveToDisk();
     return advisory;
   }
 
@@ -404,6 +481,7 @@ class ArchiveStore {
 
   addResearchPaper(paper: ResearchPaper): ResearchPaper {
     this.researchPapers.set(paper.id, paper);
+    this.saveToDisk();
     return paper;
   }
 
@@ -429,6 +507,7 @@ class ArchiveStore {
 
   saveDailyDigest(digest: DailyDigest): DailyDigest {
     this.dailyDigests.set(digest.date, digest);
+    this.saveToDisk();
     return digest;
   }
 
@@ -441,6 +520,7 @@ class ArchiveStore {
 
   addProcessingJob(job: ProcessingJob): ProcessingJob {
     this.processingJobs.unshift(job);
+    this.saveToDisk();
     return job;
   }
 
@@ -448,6 +528,7 @@ class ArchiveStore {
     const job = this.processingJobs.find((j) => j.id === id);
     if (!job) return undefined;
     Object.assign(job, updates);
+    this.saveToDisk();
     return job;
   }
 
@@ -467,6 +548,7 @@ class ArchiveStore {
         }
       }
     }
+    this.saveToDisk();
     return item;
   }
 

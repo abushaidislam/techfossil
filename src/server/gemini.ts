@@ -1,5 +1,5 @@
 import { GoogleGenAI } from '@google/genai';
-import { Signal, Technology, AIResearchSynthesis, DailyDigest, CategoryType } from '../types';
+import { Signal, Technology, AIResearchSynthesis, CategoryType } from '../types';
 
 function getGeminiClient(): GoogleGenAI | null {
   const apiKey = process.env.GEMINI_API_KEY;
@@ -129,6 +129,85 @@ CRITICAL INSTRUCTIONS:
 }
 
 /**
+ * Deterministic extraction helper when Gemini API key is missing or fails
+ */
+function extractFallbackAnalysis(raw: {
+  title: string;
+  content: string;
+  source: string;
+  url: string;
+}): {
+  summary: string;
+  detailed_summary: string;
+  category: CategoryType;
+  entities: string[];
+  technologies: string[];
+  source_derived_facts: string[];
+  ai_analysis: string;
+  importance_score: number;
+} {
+  const text = `${raw.title} ${raw.content}`.toLowerCase();
+
+  // Category detection
+  let category: CategoryType = 'Open Source';
+  if (text.includes('cve-') || text.includes('vulnerability') || text.includes('overflow') || raw.source === 'cve_feed') {
+    category = 'Security';
+  } else if (text.includes('arxiv') || text.includes('paper') || text.includes('theorem') || text.includes('abstract') || raw.source === 'arxiv') {
+    category = 'Research';
+  } else if (text.includes('agent') || text.includes('mcp') || text.includes('model context protocol')) {
+    category = 'AI Agents';
+  } else if (text.includes('react') || text.includes('next.js') || text.includes('nextjs') || text.includes('frontend')) {
+    category = 'Frontend';
+  } else if (text.includes('rust') || text.includes('cargo')) {
+    category = 'Rust';
+  } else if (text.includes('typescript') || text.includes('tsc')) {
+    category = 'TypeScript';
+  } else if (text.includes('python')) {
+    category = 'Python';
+  }
+
+  // Technology extraction
+  const techMap: Record<string, string> = {
+    react: 'react',
+    'next.js': 'nextjs',
+    nextjs: 'nextjs',
+    typescript: 'typescript',
+    rust: 'rust',
+    python: 'python',
+    bun: 'bun',
+    drizzle: 'drizzle-orm',
+    mcp: 'ai-agents',
+    gemini: 'gemini',
+  };
+
+  const detectedTechs = new Set<string>();
+  for (const [key, slug] of Object.entries(techMap)) {
+    if (text.includes(key)) {
+      detectedTechs.add(slug);
+    }
+  }
+
+  const technologies = Array.from(detectedTechs);
+  if (technologies.length === 0) {
+    technologies.push('open-source');
+  }
+
+  return {
+    summary: raw.title,
+    detailed_summary: raw.content.length > 300 ? raw.content.slice(0, 300) + '...' : raw.content,
+    category,
+    entities: [raw.source],
+    technologies,
+    source_derived_facts: [
+      `Source URL: ${raw.url}`,
+      `Published event: ${raw.title.slice(0, 80)}`,
+    ],
+    ai_analysis: 'Structured categorization generated via TechFossil canonical parser.',
+    importance_score: raw.source === 'cve_feed' ? 90 : 80,
+  };
+}
+
+/**
  * AI Summarization and Entity Extraction for Ingested Raw Signals
  */
 export async function analyzeRawSignalWithGemini(raw: {
@@ -149,17 +228,7 @@ export async function analyzeRawSignalWithGemini(raw: {
   const ai = getGeminiClient();
 
   if (!ai) {
-    // Intelligent deterministic heuristic when API key is pending
-    return {
-      summary: raw.title,
-      detailed_summary: raw.content.slice(0, 300) + '...',
-      category: 'Open Source',
-      entities: [raw.source],
-      technologies: [],
-      source_derived_facts: [`Discovered from ${raw.source} at canonical URL ${raw.url}`],
-      ai_analysis: 'Deterministic normalization applied. Awaiting Gemini validation pipeline run.',
-      importance_score: 75,
-    };
+    return extractFallbackAnalysis(raw);
   }
 
   try {
@@ -195,22 +264,13 @@ Respond in valid JSON format only with this exact JSON structure:
       detailed_summary: parsed.detailed_summary || raw.content.slice(0, 200),
       category: (parsed.category as CategoryType) || 'Open Source',
       entities: Array.isArray(parsed.entities) ? parsed.entities : [],
-      technologies: Array.isArray(parsed.technologies) ? parsed.technologies : [],
+      technologies: Array.isArray(parsed.technologies) && parsed.technologies.length > 0 ? parsed.technologies : ['open-source'],
       source_derived_facts: Array.isArray(parsed.source_derived_facts) ? parsed.source_derived_facts : [raw.title],
       ai_analysis: parsed.ai_analysis || 'Analyzed via Gemini 3.8 Flash pipeline.',
       importance_score: typeof parsed.importance_score === 'number' ? parsed.importance_score : 80,
     };
   } catch (e) {
     console.error('Gemini signal analysis error:', e);
-    return {
-      summary: raw.title,
-      detailed_summary: raw.content.slice(0, 200),
-      category: 'Open Source',
-      entities: [],
-      technologies: [],
-      source_derived_facts: [raw.title],
-      ai_analysis: 'Processed through standard ingestion normalization fallback.',
-      importance_score: 70,
-    };
+    return extractFallbackAnalysis(raw);
   }
 }

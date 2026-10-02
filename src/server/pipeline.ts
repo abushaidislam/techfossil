@@ -1,3 +1,4 @@
+import crypto from 'crypto';
 import { archiveStore } from './store';
 import {
   Signal,
@@ -9,12 +10,45 @@ import {
 } from '../types';
 import { RawDiscoveredItem, SourceAdapter, SourceMetadata } from './adapters/types';
 import { analyzeRawSignalWithGemini } from './gemini';
+import { fetchWithRetry } from './utils/fetch';
+
+export function computeContentHash(str: string): string {
+  return crypto.createHash('sha256').update(str).digest('hex').substring(0, 16);
+}
+
+export function normalizeCanonicalUrl(urlStr: string): string {
+  try {
+    const parsed = new URL(urlStr);
+    parsed.hash = '';
+    // Strip common tracking query params
+    const searchParams = new URLSearchParams(parsed.search);
+    const trackingKeys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'ref'];
+    trackingKeys.forEach((key) => searchParams.delete(key));
+    parsed.search = searchParams.toString();
+
+    let result = parsed.toString();
+    if (result.endsWith('/')) {
+      result = result.slice(0, -1);
+    }
+    return result;
+  } catch {
+    return urlStr.trim();
+  }
+}
 
 // ==========================================
 // SOURCE ADAPTER IMPLEMENTATIONS
 // ==========================================
 
 export class GitHubReleasesAdapter implements SourceAdapter {
+  private repos = [
+    'facebook/react',
+    'microsoft/TypeScript',
+    'vercel/next.js',
+    'rust-lang/rust',
+    'oven-sh/bun',
+  ];
+
   getSourceMetadata(): SourceMetadata {
     return {
       id: 'github_releases',
@@ -28,70 +62,72 @@ export class GitHubReleasesAdapter implements SourceAdapter {
   }
 
   identify(item: RawDiscoveredItem): string {
-    return `github_${item.externalId}`;
+    return `github_${computeContentHash(normalizeCanonicalUrl(item.url))}`;
   }
 
   async fetch(): Promise<RawDiscoveredItem[]> {
-    const existingUrls = new Set(archiveStore.getAllSignals().map((s) => s.canonical_url.toLowerCase()));
-    const now = new Date().toISOString();
+    const items: RawDiscoveredItem[] = [];
+    const githubToken = process.env.GITHUB_TOKEN;
 
-    const candidates: RawDiscoveredItem[] = [
-      {
-        externalId: 'facebook-react-v19-2-1',
-        source: 'github_release',
-        title: 'facebook/react v19.2.1 Patch Release',
-        url: 'https://github.com/facebook/react/releases/tag/v19.2.1',
-        content: 'Patch release resolving memory leak in Server Action streaming fallback under heavy concurrent load.',
-        publishedAt: now,
-        metadata: { repo: 'facebook/react', tag: 'v19.2.1' },
-      },
-      {
-        externalId: 'microsoft-typescript-v5-7-2',
-        source: 'github_release',
-        title: 'microsoft/TypeScript v5.7.2 Maintenance Release',
-        url: 'https://github.com/microsoft/TypeScript/releases/tag/v5.7.2',
-        content: 'Fixes regression in module resolution for subpath exports using wildcard patterns.',
-        publishedAt: now,
-        metadata: { repo: 'microsoft/TypeScript', tag: 'v5.7.2' },
-      },
-      {
-        externalId: 'vercel-nextjs-v15-5-0',
-        source: 'github_release',
-        title: 'vercel/next.js v15.5.0 Turbopack Stable Release',
-        url: 'https://github.com/vercel/next.js/releases/tag/v15.5.0',
-        content: 'Default Turbopack bundling for all production builds with zero-config incremental static regeneration.',
-        publishedAt: now,
-        metadata: { repo: 'vercel/next.js', tag: 'v15.5.0' },
-      },
-      {
-        externalId: 'rust-lang-rust-v1-85-0',
-        source: 'github_release',
-        title: 'rust-lang/rust 1.85.0 Stable Toolchain Release',
-        url: 'https://github.com/rust-lang/rust/releases/tag/1.85.0',
-        content: 'Stabilizes async closures, raw pointer formatting, and cargo script execution without separate cargo.toml.',
-        publishedAt: now,
-        metadata: { repo: 'rust-lang/rust', tag: '1.85.0' },
-      },
-      {
-        externalId: 'oven-sh-bun-v1-2-2',
-        source: 'github_release',
-        title: 'oven-sh/bun v1.2.2 Fast JavaScript & TypeScript Engine',
-        url: 'https://github.com/oven-sh/bun/releases/tag/v1.2.2',
-        content: 'Introduces support for Node.js cluster module and 3x faster native TLS handshake implementation.',
-        publishedAt: now,
-        metadata: { repo: 'oven-sh/bun', tag: 'v1.2.2' },
-      },
-    ];
+    const headers: Record<string, string> = {
+      Accept: 'application/vnd.github.v3+json',
+    };
+    if (githubToken) {
+      headers.Authorization = `Bearer ${githubToken}`;
+    }
 
-    // Prefer un-ingested candidates; if all present, return newest candidates
-    const fresh = candidates.filter((c) => !existingUrls.has(c.url.toLowerCase()));
-    return fresh.length > 0 ? fresh : candidates.slice(0, 2);
+    for (const repo of this.repos) {
+      try {
+        const url = `https://api.github.com/repos/${repo}/releases?per_page=3`;
+        const response = await fetchWithRetry(url, { headers, retries: 2, timeoutMs: 10000 });
+
+        if (!response.ok) {
+          continue;
+        }
+
+        const releases = (await response.json()) as Array<{
+          id: number;
+          name: string;
+          tag_name: string;
+          html_url: string;
+          body: string;
+          published_at: string;
+          created_at: string;
+          draft: boolean;
+          prerelease: boolean;
+        }>;
+
+        if (!Array.isArray(releases)) continue;
+
+        for (const rel of releases) {
+          if (rel.draft) continue;
+
+          const title = rel.name || `${repo} ${rel.tag_name}`;
+          const content = rel.body ? rel.body.slice(0, 1000) : `Official release ${rel.tag_name} for ${repo}`;
+          const publishedAt = rel.published_at || rel.created_at || new Date().toISOString();
+
+          items.push({
+            externalId: `github-${repo.replace('/', '-')}-${rel.tag_name}`,
+            source: 'github_release',
+            title: `${repo} ${rel.tag_name}: ${title}`,
+            url: rel.html_url,
+            content,
+            publishedAt,
+            metadata: { repo, tag: rel.tag_name, prerelease: rel.prerelease },
+          });
+        }
+      } catch (err) {
+        console.warn(`GitHubReleasesAdapter warning for ${repo}:`, err);
+      }
+    }
+
+    return items;
   }
 
   async normalize(item: RawDiscoveredItem): Promise<Partial<Signal>> {
     return {
       title: item.title,
-      canonical_url: item.url,
+      canonical_url: normalizeCanonicalUrl(item.url),
       source: 'github_release',
       source_label: 'GitHub Official Release',
       published_at: item.publishedAt,
@@ -100,6 +136,14 @@ export class GitHubReleasesAdapter implements SourceAdapter {
 }
 
 export class NpmRegistryAdapter implements SourceAdapter {
+  private packages = [
+    '@modelcontextprotocol/sdk',
+    'drizzle-orm',
+    'ai',
+    'next',
+    'react',
+  ];
+
   getSourceMetadata(): SourceMetadata {
     return {
       id: 'npm_registry',
@@ -113,48 +157,54 @@ export class NpmRegistryAdapter implements SourceAdapter {
   }
 
   identify(item: RawDiscoveredItem): string {
-    return `npm_${item.externalId}`;
+    return `npm_${computeContentHash(normalizeCanonicalUrl(item.url))}`;
   }
 
   async fetch(): Promise<RawDiscoveredItem[]> {
-    const existingUrls = new Set(archiveStore.getAllSignals().map((s) => s.canonical_url.toLowerCase()));
-    const now = new Date().toISOString();
+    const items: RawDiscoveredItem[] = [];
 
-    const candidates: RawDiscoveredItem[] = [
-      {
-        externalId: 'modelcontextprotocol-sdk-v2-1-0',
-        source: 'npm',
-        title: '@modelcontextprotocol/sdk v2.1.0 Released on npm',
-        url: 'https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/2.1.0',
-        content: 'Official TypeScript client and server SDK for the Model Context Protocol v2.1.',
-        publishedAt: now,
-      },
-      {
-        externalId: 'drizzle-orm-v0-39-0',
-        source: 'npm',
-        title: 'drizzle-orm v0.39.0 Released on npm',
-        url: 'https://www.npmjs.com/package/drizzle-orm/v/0.39.0',
-        content: 'Adds comprehensive vector type support for PostgreSQL pgvector and SQLite-vec extensions.',
-        publishedAt: now,
-      },
-      {
-        externalId: 'ai-v4-2-0',
-        source: 'npm',
-        title: 'ai (Vercel AI SDK) v4.2.0 Released on npm',
-        url: 'https://www.npmjs.com/package/ai/v/4.2.0',
-        content: 'Native multi-step tool loops with structured outputs and automated telemetry hooks.',
-        publishedAt: now,
-      },
-    ];
+    for (const pkgName of this.packages) {
+      try {
+        const encodedPkg = pkgName.includes('/') ? pkgName.replace('/', '%2F') : pkgName;
+        const url = `https://registry.npmjs.org/${encodedPkg}`;
+        const response = await fetchWithRetry(url, { retries: 2, timeoutMs: 10000 });
 
-    const fresh = candidates.filter((c) => !existingUrls.has(c.url.toLowerCase()));
-    return fresh.length > 0 ? fresh : candidates.slice(0, 1);
+        if (!response.ok) continue;
+
+        const data = (await response.json()) as {
+          name: string;
+          description?: string;
+          'dist-tags'?: Record<string, string>;
+          time?: Record<string, string>;
+        };
+
+        if (!data || !data['dist-tags'] || !data['dist-tags'].latest) continue;
+
+        const latestVersion = data['dist-tags'].latest;
+        const releaseTime = data.time ? data.time[latestVersion] || new Date().toISOString() : new Date().toISOString();
+        const pkgUrl = `https://www.npmjs.com/package/${pkgName}/v/${latestVersion}`;
+
+        items.push({
+          externalId: `npm-${pkgName.replace(/[@/]/g, '-')}-${latestVersion}`,
+          source: 'npm',
+          title: `${pkgName} v${latestVersion} Released on npm`,
+          url: pkgUrl,
+          content: data.description || `${pkgName} version ${latestVersion} published to npm registry.`,
+          publishedAt: releaseTime,
+          metadata: { packageName: pkgName, version: latestVersion },
+        });
+      } catch (err) {
+        console.warn(`NpmRegistryAdapter warning for ${pkgName}:`, err);
+      }
+    }
+
+    return items;
   }
 
   async normalize(item: RawDiscoveredItem): Promise<Partial<Signal>> {
     return {
       title: item.title,
-      canonical_url: item.url,
+      canonical_url: normalizeCanonicalUrl(item.url),
       source: 'npm',
       source_label: 'npm Registry',
       published_at: item.publishedAt,
@@ -176,51 +226,61 @@ export class ArxivResearchAdapter implements SourceAdapter {
   }
 
   identify(item: RawDiscoveredItem): string {
-    return `arxiv_${item.externalId}`;
+    return `arxiv_${computeContentHash(normalizeCanonicalUrl(item.url))}`;
   }
 
   async fetch(): Promise<RawDiscoveredItem[]> {
-    const existingUrls = new Set(archiveStore.getAllSignals().map((s) => s.canonical_url.toLowerCase()));
-    const now = new Date().toISOString();
+    const items: RawDiscoveredItem[] = [];
 
-    const candidates: RawDiscoveredItem[] = [
-      {
-        externalId: 'arxiv-2610-00192',
-        source: 'arxiv',
-        title: 'Deterministic State-Machine Verification for Multimodal Tool-Using Agents',
-        url: 'https://arxiv.org/abs/2610.00192',
-        content: 'Introduces a hybrid temporal logic checker to prevent unrecoverable side-effects in autonomous coding tasks.',
-        publishedAt: now,
-        metadata: { category: 'cs.AI' },
-      },
-      {
-        externalId: 'arxiv-2610-00248',
-        source: 'arxiv',
-        title: 'Formal Verification of Speculative Execution in Just-In-Time Compilers',
-        url: 'https://arxiv.org/abs/2610.00248',
-        content: 'Proves absence of out-of-bounds reads during speculative de-optimization in modern JS virtual machines.',
-        publishedAt: now,
-        metadata: { category: 'cs.PL' },
-      },
-      {
-        externalId: 'arxiv-2610-00311',
-        source: 'arxiv',
-        title: 'Context Window Compression via Learned Hierarchical KV-Cache Pruning',
-        url: 'https://arxiv.org/abs/2610.00311',
-        content: 'Achieves 4.2x latency improvement on 2M token context lengths while preserving reasoning accuracy.',
-        publishedAt: now,
-        metadata: { category: 'cs.LG' },
-      },
-    ];
+    try {
+      const url =
+        'https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.SE+OR+cat:cs.PL&max_results=8&sortBy=submittedDate&sortOrder=descending';
+      const response = await fetchWithRetry(url, { retries: 2, timeoutMs: 12000 });
 
-    const fresh = candidates.filter((c) => !existingUrls.has(c.url.toLowerCase()));
-    return fresh.length > 0 ? fresh : candidates.slice(0, 1);
+      if (response.ok) {
+        const xmlText = await response.text();
+
+        // Check if rate limited
+        if (!xmlText.includes('Rate exceeded')) {
+          const entryMatches = xmlText.match(/<entry>[\s\S]*?<\/entry>/g) || [];
+
+          for (const entry of entryMatches) {
+            const idMatch = entry.match(/<id>(.*?)<\/id>/);
+            const titleMatch = entry.match(/<title>([\s\S]*?)<\/title>/);
+            const summaryMatch = entry.match(/<summary>([\s\S]*?)<\/summary>/);
+            const publishedMatch = entry.match(/<published>(.*?)<\/published>/);
+
+            if (idMatch && titleMatch) {
+              const rawUrl = idMatch[1].trim();
+              const arxivId = rawUrl.split('/abs/')[1] || rawUrl.split('/id/')[1] || computeContentHash(rawUrl);
+              const cleanTitle = titleMatch[1].replace(/\s+/g, ' ').trim();
+              const cleanSummary = summaryMatch ? summaryMatch[1].replace(/\s+/g, ' ').trim() : cleanTitle;
+              const pubDate = publishedMatch ? publishedMatch[1].trim() : new Date().toISOString();
+
+              items.push({
+                externalId: `arxiv-${arxivId}`,
+                source: 'arxiv',
+                title: cleanTitle,
+                url: rawUrl.replace('http://', 'https://'),
+                content: cleanSummary,
+                publishedAt: pubDate,
+                metadata: { arxivId },
+              });
+            }
+          }
+        }
+      }
+    } catch (err) {
+      console.warn('ArxivResearchAdapter warning:', err);
+    }
+
+    return items;
   }
 
   async normalize(item: RawDiscoveredItem): Promise<Partial<Signal>> {
     return {
       title: item.title,
-      canonical_url: item.url,
+      canonical_url: normalizeCanonicalUrl(item.url),
       source: 'arxiv',
       source_label: 'arXiv cs.AI',
       published_at: item.publishedAt,
@@ -229,12 +289,14 @@ export class ArxivResearchAdapter implements SourceAdapter {
 }
 
 export class SecurityAdvisoriesAdapter implements SourceAdapter {
+  private keyPackages = ['next', 'react', 'express', 'golang', 'rust'];
+
   getSourceMetadata(): SourceMetadata {
     return {
       id: 'cve_security',
-      name: 'NVD & CVE Feeds',
+      name: 'OSV & Security Feeds',
       sourceType: 'cve_feed',
-      description: 'Monitors NIST National Vulnerability Database and open-source ecosystem security bulletins.',
+      description: 'Monitors Open Source Vulnerabilities (OSV) database and security bulletins.',
       rateLimitPerMinute: 60,
       officialSource: true,
       frequency: 'Every 3 hours',
@@ -242,50 +304,70 @@ export class SecurityAdvisoriesAdapter implements SourceAdapter {
   }
 
   identify(item: RawDiscoveredItem): string {
-    return `cve_${item.externalId}`;
+    return `cve_${computeContentHash(normalizeCanonicalUrl(item.url))}`;
   }
 
   async fetch(): Promise<RawDiscoveredItem[]> {
-    const existingUrls = new Set(archiveStore.getAllSignals().map((s) => s.canonical_url.toLowerCase()));
-    const now = new Date().toISOString();
+    const items: RawDiscoveredItem[] = [];
 
-    const candidates: RawDiscoveredItem[] = [
-      {
-        externalId: 'CVE-2026-3091',
-        source: 'cve_feed',
-        title: 'CVE-2026-3091: High Severity Buffer Overflow in Async Rust Web Framework Hyper',
-        url: 'https://nvd.nist.gov/vuln/detail/CVE-2026-3091',
-        content: 'Crafted HTTP/2 continuation frames with malformed Huffman headers could induce memory exhaustion.',
-        publishedAt: now,
-      },
-      {
-        externalId: 'CVE-2026-2814',
-        source: 'cve_feed',
-        title: 'CVE-2026-2814: Authentication Bypass via Malformed JWT Header in Go OAuth2 Provider',
-        url: 'https://nvd.nist.gov/vuln/detail/CVE-2026-2814',
-        content: 'Improper validation of algorithm header in cryptographic signature verification leads to token spoofing.',
-        publishedAt: now,
-      },
-      {
-        externalId: 'CVE-2026-1904',
-        source: 'cve_feed',
-        title: 'CVE-2026-1904: Remote Code Execution via Insecure Deserialization in Python Async Framework',
-        url: 'https://nvd.nist.gov/vuln/detail/CVE-2026-1904',
-        content: 'Unchecked pickle payload unpacking over IPC socket connection exposes execution boundary to untrusted processes.',
-        publishedAt: now,
-      },
-    ];
+    for (const pkg of this.keyPackages) {
+      try {
+        const response = await fetchWithRetry('https://api.osv.dev/v1/query', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ package: { name: pkg, ecosystem: 'npm' } }),
+          retries: 2,
+          timeoutMs: 10000,
+        });
 
-    const fresh = candidates.filter((c) => !existingUrls.has(c.url.toLowerCase()));
-    return fresh.length > 0 ? fresh : candidates.slice(0, 1);
+        if (!response.ok) continue;
+
+        const data = (await response.json()) as {
+          vulns?: Array<{
+            id: string;
+            summary?: string;
+            details?: string;
+            published?: string;
+            modified?: string;
+            references?: Array<{ type: string; url: string }>;
+          }>;
+        };
+
+        if (!data.vulns || !Array.isArray(data.vulns)) continue;
+
+        for (const vuln of data.vulns.slice(0, 2)) {
+          const title = vuln.summary || `${vuln.id} Security Advisory for ${pkg}`;
+          const content = vuln.details ? vuln.details.slice(0, 1000) : title;
+          const refUrl =
+            vuln.references && vuln.references.length > 0
+              ? vuln.references[0].url
+              : `https://osv.dev/vulnerability/${vuln.id}`;
+          const publishedAt = vuln.published || vuln.modified || new Date().toISOString();
+
+          items.push({
+            externalId: vuln.id,
+            source: 'cve_feed',
+            title: `${vuln.id}: ${title}`,
+            url: refUrl,
+            content,
+            publishedAt,
+            metadata: { osvId: vuln.id, pkg },
+          });
+        }
+      } catch (err) {
+        console.warn(`SecurityAdvisoriesAdapter warning for ${pkg}:`, err);
+      }
+    }
+
+    return items;
   }
 
   async normalize(item: RawDiscoveredItem): Promise<Partial<Signal>> {
     return {
       title: item.title,
-      canonical_url: item.url,
+      canonical_url: normalizeCanonicalUrl(item.url),
       source: 'cve_feed',
-      source_label: 'NVD Security Feed',
+      source_label: 'OSV Security Feed',
       published_at: item.publishedAt,
     };
   }
@@ -313,12 +395,6 @@ export class IngestionPipeline {
     return Array.from(this.adapters.values()).map((a) => a.getSourceMetadata());
   }
 
-  /**
-   * Complete 14-stage execution pipeline:
-   * SOURCE -> COLLECT -> NORMALIZE -> DEDUPLICATE -> CLASSIFY ->
-   * EXTRACT ENTITIES -> VERIFY -> GENERATE SUMMARY -> CALCULATE IMPORTANCE ->
-   * CREATE RELATIONSHIPS -> STORE -> INDEX -> TIMELINE -> DAILY DIGEST -> PUBLIC ARCHIVE
-   */
   async executeCycle(targetSourceId?: string): Promise<ProcessingJob> {
     const jobId = `job-${Date.now()}`;
     const startTime = new Date().toISOString();
@@ -360,7 +436,7 @@ export class IngestionPipeline {
           job.logs.push({
             timestamp: new Date().toLocaleTimeString(),
             level: 'info',
-            message: `[${adapter.getSourceMetadata().name}] Discovered ${items.length} raw candidates.`,
+            message: `[${adapter.getSourceMetadata().name}] Discovered ${items.length} raw candidates from upstream APIs.`,
           });
         } catch (err: unknown) {
           const errMsg = err instanceof Error ? err.message : String(err);
@@ -383,22 +459,26 @@ export class IngestionPipeline {
       });
 
       const existingSignals = archiveStore.getAllSignals();
-      const existingUrls = new Set(existingSignals.map((s) => s.canonical_url.toLowerCase()));
+      const existingUrls = new Set(existingSignals.map((s) => normalizeCanonicalUrl(s.canonical_url).toLowerCase()));
+      const existingHashes = new Set(existingSignals.map((s) => computeContentHash(normalizeCanonicalUrl(s.canonical_url))));
 
       for (const item of rawItems) {
         job.records_processed += 1;
 
-        if (existingUrls.has(item.url.toLowerCase())) {
+        const normalizedUrl = normalizeCanonicalUrl(item.url).toLowerCase();
+        const contentHash = computeContentHash(normalizedUrl);
+
+        if (existingUrls.has(normalizedUrl) || existingHashes.has(contentHash)) {
           job.duplicates += 1;
           job.logs.push({
             timestamp: new Date().toLocaleTimeString(),
             level: 'info',
-            message: `Deduplication: Skipped existing canonical URL: ${item.url}`,
+            message: `Deduplication: Skipped existing record: ${item.url}`,
           });
           continue;
         }
 
-        // 3. CLASSIFY & EXTRACT ENTITIES via Gemini/Deterministic heuristic
+        // 3. CLASSIFY & EXTRACT ENTITIES via Gemini / Fallback
         job.logs.push({
           timestamp: new Date().toLocaleTimeString(),
           level: 'info',
@@ -413,13 +493,13 @@ export class IngestionPipeline {
         });
 
         // 4. VERIFY EVIDENCE
-        const isOfficialSource = ['github_release', 'official_blog', 'documentation', 'cve_feed'].includes(item.source);
+        const isOfficialSource = ['github_release', 'official_blog', 'documentation', 'cve_feed', 'npm', 'arxiv'].includes(item.source);
         const verificationStatus: VerificationStatus = isOfficialSource ? 'verified' : 'partially_verified';
 
         // 5. CALCULATE IMPORTANCE SCORE
         let importance = analysis.importance_score || 80;
         if (item.source === 'cve_feed') importance += 10;
-        if (item.source === 'official_blog') importance += 5;
+        if (item.source === 'github_release' || item.source === 'npm') importance += 5;
         importance = Math.min(100, Math.max(1, importance));
 
         // 6. BUILD SIGNAL OBJECT
@@ -427,9 +507,9 @@ export class IngestionPipeline {
         const newSignal: Signal = {
           id: signalId,
           title: item.title,
-          canonical_url: item.url,
+          canonical_url: normalizeCanonicalUrl(item.url),
           source: item.source,
-          source_label: item.source.replace('_', ' ').toUpperCase(),
+          source_label: item.source.replace(/_/g, ' ').toUpperCase(),
           published_at: item.publishedAt,
           discovered_at: new Date().toISOString(),
           category: analysis.category,
@@ -445,11 +525,11 @@ export class IngestionPipeline {
             {
               id: `ev-${signalId}-1`,
               type: isOfficialSource ? 'official_source' : 'secondary_report',
-              label: `${item.source} upstream record`,
+              label: `${item.source} upstream API record`,
               url: item.url,
               verified: isOfficialSource,
               discovered_at: new Date().toISOString(),
-              details: `Discovered during pipeline execution [Job ${jobId}].`,
+              details: `Discovered during ingestion pipeline execution [Job ${jobId}].`,
             },
           ],
           verification_status: verificationStatus,
@@ -465,7 +545,8 @@ export class IngestionPipeline {
         // 7. STORE & INDEX
         archiveStore.addSignal(newSignal);
         job.records_created += 1;
-        existingUrls.add(item.url.toLowerCase());
+        existingUrls.add(normalizedUrl);
+        existingHashes.add(contentHash);
 
         // 8. UPDATE DOMAIN TABLES (Releases, CVEs, Research Papers)
         const mainTech = analysis.technologies[0] || 'open-source';
@@ -486,8 +567,8 @@ export class IngestionPipeline {
             signal_id: signalId,
           });
         } else if (item.source === 'cve_feed') {
-          const cveMatch = item.title.match(/CVE-\d{4}-\d+/i) || item.externalId.match(/CVE-\d{4}-\d+/i);
-          const cveId = cveMatch ? cveMatch[0].toUpperCase() : `CVE-2026-${Math.floor(1000 + Math.random() * 9000)}`;
+          const cveMatch = item.title.match(/CVE-\d{4}-\d+/i) || item.externalId.match(/CVE-\d{4}-\d+/i) || item.externalId.match(/GHSA-[a-z0-9-]+/i);
+          const cveId = cveMatch ? cveMatch[0].toUpperCase() : item.externalId;
           archiveStore.addSecurityAdvisory({
             id: `sec-${signalId}`,
             cve_id: cveId,
@@ -505,7 +586,7 @@ export class IngestionPipeline {
           const arxivNum = item.externalId.replace('arxiv-', '');
           archiveStore.addResearchPaper({
             id: `paper-${signalId}`,
-            arxiv_id: item.externalId.replace('arxiv-', 'arXiv:'),
+            arxiv_id: `arXiv:${arxivNum}`,
             title: item.title,
             authors: analysis.entities.length > 0 ? analysis.entities : ['Academic Research Consortium'],
             abstract: analysis.detailed_summary,
@@ -518,8 +599,8 @@ export class IngestionPipeline {
           });
         }
 
-        // 9. UPDATE TIMELINE IF HIGH IMPORTANCE (>= 80)
-        if (importance >= 80 && analysis.technologies.length > 0) {
+        // 9. UPDATE TIMELINE IF HIGH IMPORTANCE (>= 75)
+        if (importance >= 75 && analysis.technologies.length > 0) {
           const newEvent: TimelineEvent = {
             id: `tl-${signalId}`,
             technology_slug: mainTech,

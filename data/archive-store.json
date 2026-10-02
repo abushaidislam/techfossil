@@ -1,0 +1,3672 @@
+{
+  "updated_at": "2026-10-02T03:44:00.156Z",
+  "signals": [
+    {
+      "id": "sig-2026-1001-react-compiler",
+      "title": "React Compiler 1.0 GA and React 19.2 Stable Release with Server Actions Enhancements",
+      "canonical_url": "https://react.dev/blog/2026/09/react-compiler-ga",
+      "source": "official_blog",
+      "source_label": "Official React Blog",
+      "published_at": "2026-09-28T16:00:00Z",
+      "discovered_at": "2026-09-28T16:15:00Z",
+      "category": "Frontend",
+      "subcategory": "Framework Updates",
+      "summary": "The React core team at Meta has officially declared React Compiler 1.0 General Availability alongside React 19.2, eliminating manual useMemo and useCallback hooks across modern codebases.",
+      "detailed_summary": "React Compiler automatically memoizes values and component trees at build time by analyzing JavaScript and React semantic rules. In React 19.2, server actions receive granular streaming error recovery, improved hydration performance for deep component hierarchies, and zero-runtime asset preloading hooks.",
+      "importance_score": 95,
+      "confidence_score": 0.99,
+      "entities": [
+        "Meta",
+        "React Team",
+        "React Compiler",
+        "React 19.2",
+        "Server Actions"
+      ],
+      "technologies": [
+        "react",
+        "nextjs",
+        "typescript"
+      ],
+      "organizations": [
+        "Meta",
+        "Vercel"
+      ],
+      "tags": [
+        "react",
+        "compiler",
+        "memoization",
+        "frontend",
+        "release",
+        "performance"
+      ],
+      "evidence": [
+        {
+          "id": "ev-1",
+          "type": "official_source",
+          "label": "React Official Announcement Post",
+          "url": "https://react.dev/blog/2026/09/react-compiler-ga",
+          "verified": true,
+          "discovered_at": "2026-09-28T16:15:00Z",
+          "details": "Signed cryptographic commit by React core maintainers on react.dev repo."
+        },
+        {
+          "id": "ev-2",
+          "type": "github_release",
+          "label": "GitHub Tag v19.2.0",
+          "url": "https://github.com/facebook/react/releases/tag/v19.2.0",
+          "verified": true,
+          "discovered_at": "2026-09-28T16:18:00Z",
+          "details": "SHA256 checksums verified on npm registry package @react/compiler@1.0.0"
+        },
+        {
+          "id": "ev-3",
+          "type": "documentation",
+          "label": "React Compiler Guide & Rules of React",
+          "url": "https://react.dev/learn/react-compiler",
+          "verified": true,
+          "discovered_at": "2026-09-28T16:30:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "React Compiler 1.0 reaches General Availability for production environments.",
+        "Manual useMemo and useCallback are no longer required when using the compiler.",
+        "React 19.2 introduces enhanced streaming boundary recovery during server-rendered action failures.",
+        "Node.js 20+ or Bun 1.2+ is required for the compilation toolchain."
+      ],
+      "ai_analysis": "The transition from manual developer memoization to compiler-driven memoization marks the most significant architectural paradigm shift in React since Hooks in 2018. It dramatically reduces developer cognitive overhead while mitigating memory leakage and unnecessary subtree re-renders.",
+      "inferred_relationships": [
+        {
+          "target": "nextjs",
+          "target_name": "Next.js",
+          "relationship": "affects",
+          "confidence": 0.98
+        },
+        {
+          "target": "typescript",
+          "target_name": "TypeScript",
+          "relationship": "depends_on",
+          "confidence": 0.92
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0925-nextjs-turbopack",
+        "sig-2026-0810-react-rfc-compiler"
+      ],
+      "created_at": "2026-09-28T16:15:00Z",
+      "updated_at": "2026-09-29T08:00:00Z"
+    },
+    {
+      "id": "sig-2026-0930-mcp-agent-standard",
+      "title": "Model Context Protocol (MCP) Adopted by Major Open-Source Agent Runtimes and IDEs",
+      "canonical_url": "https://modelcontextprotocol.io/specification/2026-update",
+      "source": "official_blog",
+      "source_label": "Model Context Protocol Working Group",
+      "published_at": "2026-09-29T14:30:00Z",
+      "discovered_at": "2026-09-29T15:00:00Z",
+      "category": "AI Agents",
+      "subcategory": "Interoperability Standards",
+      "summary": "The Model Context Protocol has emerged as the universal standard interface between AI coding agents and local/remote developer tools, databases, and version control systems.",
+      "detailed_summary": "Over 40 developer tools and runtime platforms have announced production support for the MCP 2026 specification. The updated spec introduces bi-directional streaming tool execution, zero-trust cryptographic capability authorization, and session-state multiplexing across multiple subagents.",
+      "importance_score": 98,
+      "confidence_score": 0.97,
+      "entities": [
+        "Anthropic",
+        "MCP Working Group",
+        "Google Cloud",
+        "Microsoft",
+        "GitHub Copilot",
+        "Cursor"
+      ],
+      "technologies": [
+        "ai-agents",
+        "gemini",
+        "claude-anthropic",
+        "typescript",
+        "python"
+      ],
+      "organizations": [
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "GitHub"
+      ],
+      "tags": [
+        "mcp",
+        "agents",
+        "standards",
+        "ai",
+        "interoperability",
+        "developer-tools"
+      ],
+      "evidence": [
+        {
+          "id": "ev-mcp-1",
+          "type": "official_source",
+          "label": "MCP Working Group Specification Release",
+          "url": "https://modelcontextprotocol.io/specification/2026-update",
+          "verified": true,
+          "discovered_at": "2026-09-29T15:00:00Z"
+        },
+        {
+          "id": "ev-mcp-2",
+          "type": "github_release",
+          "label": "GitHub MCP SDK v2.0 for TypeScript and Python",
+          "url": "https://github.com/modelcontextprotocol/sdk/releases/tag/v2.0.0",
+          "verified": true,
+          "discovered_at": "2026-09-29T15:10:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "MCP specification v2.0 introduces bidirectional capability authorization tokens.",
+        "Official SDK implementations released simultaneously for TypeScript, Python, and Go.",
+        "Supports multiplexed parallel tool execution with strict isolation guarantees."
+      ],
+      "ai_analysis": "MCP solves the fragmented N×M integration problem in AI developer tooling, replacing proprietary plugin architectures with an open, vendor-neutral protocol akin to Language Server Protocol (LSP) in 2016.",
+      "inferred_relationships": [
+        {
+          "target": "gemini",
+          "target_name": "Google Gemini",
+          "relationship": "related_to",
+          "confidence": 0.94
+        },
+        {
+          "target": "claude-anthropic",
+          "target_name": "Claude & Anthropic",
+          "relationship": "developed_by",
+          "confidence": 0.96
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0922-gemini-agent-protocols"
+      ],
+      "created_at": "2026-09-29T15:00:00Z",
+      "updated_at": "2026-09-30T10:00:00Z"
+    },
+    {
+      "id": "sig-2026-0925-nextjs-turbopack",
+      "title": "Next.js 15.3 Reaches 100% Turbopack Production Parity with Automated Route Cache Migration",
+      "canonical_url": "https://nextjs.org/blog/next-15-3",
+      "source": "official_blog",
+      "source_label": "Vercel Engineering",
+      "published_at": "2026-09-25T11:00:00Z",
+      "discovered_at": "2026-09-25T11:20:00Z",
+      "category": "Frameworks",
+      "subcategory": "Build Systems",
+      "summary": "Vercel has completed the multi-year migration to Turbopack as the default production bundler for Next.js, achieving up to 10x faster production builds and sub-50ms HMR updates.",
+      "detailed_summary": "Next.js 15.3 completely replaces Webpack with Rust-powered Turbopack across dev and production. In addition, the release provides an automated codemod to upgrade existing dynamic route caching behavior to explicit stale-while-revalidate policies.",
+      "importance_score": 91,
+      "confidence_score": 0.96,
+      "entities": [
+        "Vercel",
+        "Next.js Core",
+        "Turbopack",
+        "Rust"
+      ],
+      "technologies": [
+        "nextjs",
+        "react",
+        "rust",
+        "typescript"
+      ],
+      "organizations": [
+        "Vercel"
+      ],
+      "tags": [
+        "nextjs",
+        "turbopack",
+        "rust",
+        "bundler",
+        "production",
+        "performance"
+      ],
+      "evidence": [
+        {
+          "id": "ev-next-1",
+          "type": "official_source",
+          "label": "Vercel Blog Post: Next.js 15.3",
+          "url": "https://nextjs.org/blog/next-15-3",
+          "verified": true,
+          "discovered_at": "2026-09-25T11:20:00Z"
+        },
+        {
+          "id": "ev-next-2",
+          "type": "github_release",
+          "label": "GitHub Release v15.3.0",
+          "url": "https://github.com/vercel/next.js/releases/tag/v15.3.0",
+          "verified": true,
+          "discovered_at": "2026-09-25T11:25:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Turbopack is enabled by default for both development and production builds in Next.js 15.3.",
+        "Build times dropped by 78% on average across 10,000 top GitHub repositories tested.",
+        "Full backward compatibility maintained for custom Webpack configurations via opt-in fallback flag."
+      ],
+      "ai_analysis": "The completion of Turbopack represents Rust solidifying its role as the de facto foundational runtime for modern web development toolchains, superseding JavaScript-based bundlers.",
+      "inferred_relationships": [
+        {
+          "target": "react",
+          "target_name": "React",
+          "relationship": "depends_on",
+          "confidence": 0.99
+        },
+        {
+          "target": "rust",
+          "target_name": "Rust",
+          "relationship": "depends_on",
+          "confidence": 0.95
+        }
+      ],
+      "related_signals": [
+        "sig-2026-1001-react-compiler"
+      ],
+      "created_at": "2026-09-25T11:20:00Z",
+      "updated_at": "2026-09-26T09:00:00Z"
+    },
+    {
+      "id": "sig-2026-0922-gemini-agent-protocols",
+      "title": "Google DeepMind Unveils Gemini 3.8 Live Reasoning Engine and Autonomous Software Architect Agent",
+      "canonical_url": "https://blog.google/technology/ai/gemini-3-8-developer-announcement",
+      "source": "official_blog",
+      "source_label": "Google Technology Blog",
+      "published_at": "2026-09-22T17:00:00Z",
+      "discovered_at": "2026-09-22T17:15:00Z",
+      "category": "AI",
+      "subcategory": "Foundation Models & Agents",
+      "summary": "Google DeepMind announced Gemini 3.8 featuring ultra-low latency real-time multimodal reasoning, extended thinking traces for complex software engineering, and native multi-agent coordination.",
+      "detailed_summary": "Gemini 3.8 integrates continuous audio-visual perception with code synthesis across 200+ programming languages. Benchmarks on real-world engineering repositories demonstrate state-of-the-art results on SWE-bench Verified, with self-correction feedback loops capable of isolating and patching multi-file distributed system regressions.",
+      "importance_score": 97,
+      "confidence_score": 0.98,
+      "entities": [
+        "Google DeepMind",
+        "Gemini Team",
+        "Demis Hassabis",
+        "Google Cloud"
+      ],
+      "technologies": [
+        "gemini",
+        "ai-agents",
+        "python",
+        "typescript"
+      ],
+      "organizations": [
+        "Google",
+        "Alphabet"
+      ],
+      "tags": [
+        "gemini",
+        "deepmind",
+        "ai",
+        "multimodal",
+        "reasoning",
+        "coding-agent"
+      ],
+      "evidence": [
+        {
+          "id": "ev-gem-1",
+          "type": "official_source",
+          "label": "Google Official Announcement",
+          "url": "https://blog.google/technology/ai/gemini-3-8-developer-announcement",
+          "verified": true,
+          "discovered_at": "2026-09-22T17:15:00Z"
+        },
+        {
+          "id": "ev-gem-2",
+          "type": "documentation",
+          "label": "Google GenAI SDK Documentation for Gemini 3.8",
+          "url": "https://ai.google.dev/docs/gemini-3-8",
+          "verified": true,
+          "discovered_at": "2026-09-22T17:30:00Z"
+        },
+        {
+          "id": "ev-gem-3",
+          "type": "arxiv_paper",
+          "label": "ArXiv Technical Report: Multimodal Real-Time Reasoning Agents",
+          "url": "https://arxiv.org/abs/2609.14820",
+          "verified": true,
+          "discovered_at": "2026-09-22T18:00:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Gemini 3.8 introduces extended thinking mode with intermediate verification steps.",
+        "Supports 2M token context window natively with sub-second time-to-first-token.",
+        "Includes native function calling with verified schema enforcement."
+      ],
+      "ai_analysis": "DeepMind is targeting enterprise production software workflows, shifting the paradigm from ephemeral single-turn assistant prompts to persistent asynchronous engineering workers.",
+      "inferred_relationships": [
+        {
+          "target": "ai-agents",
+          "target_name": "AI Agent Architecture",
+          "relationship": "extends",
+          "confidence": 0.97
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0930-mcp-agent-standard"
+      ],
+      "created_at": "2026-09-22T17:15:00Z",
+      "updated_at": "2026-09-23T12:00:00Z"
+    },
+    {
+      "id": "sig-2026-0927-node-permission-security",
+      "title": "Node.js Releases Security Updates v22.8.1 and v20.17.1 Fixing Permission Model Bypass (CVE-2026-2184)",
+      "canonical_url": "https://nodejs.org/en/blog/vulnerability/september-2026-security-releases",
+      "source": "cve_feed",
+      "source_label": "OpenJS Node.js Security Advisory",
+      "published_at": "2026-09-27T18:00:00Z",
+      "discovered_at": "2026-09-27T18:05:00Z",
+      "category": "Security",
+      "subcategory": "Vulnerability Advisory",
+      "summary": "A critical vulnerability in Node.js experimental Permission Model permitted symlink race conditions, allowing unauthorized filesystem reads outside restricted sandboxes.",
+      "detailed_summary": "Identified as CVE-2026-2184 with a CVSS score of 8.2 (High). Applications utilizing --experimental-permission flag with --allow-fs-read could have path validation circumvented via rapid symlink swap during file descriptor resolution. Patches released across Node 22, Node 20, and Node 18 LTS lines.",
+      "importance_score": 88,
+      "confidence_score": 1,
+      "entities": [
+        "OpenJS Foundation",
+        "Node.js Security Team",
+        "CVE Mitre"
+      ],
+      "technologies": [
+        "nodejs",
+        "docker"
+      ],
+      "organizations": [
+        "OpenJS Foundation"
+      ],
+      "tags": [
+        "security",
+        "cve",
+        "vulnerability",
+        "nodejs",
+        "permissions",
+        "patch"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sec-1",
+          "type": "cve",
+          "label": "CVE-2026-2184 Record in National Vulnerability Database",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-2184",
+          "verified": true,
+          "discovered_at": "2026-09-27T18:05:00Z"
+        },
+        {
+          "id": "ev-sec-2",
+          "type": "official_source",
+          "label": "Node.js Security Working Group Advisory",
+          "url": "https://nodejs.org/en/blog/vulnerability/september-2026-security-releases",
+          "verified": true,
+          "discovered_at": "2026-09-27T18:06:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "CVE-2026-2184 affects Node.js versions utilizing the experimental permission model.",
+        "CVSS 3.1 Base Score: 8.2 (High).",
+        "Fixed in versions v22.8.1, v20.17.1, and v18.20.5.",
+        "Standard Node.js deployments not utilizing --experimental-permission are unaffected."
+      ],
+      "ai_analysis": "Runtime security sandboxes in interpreted languages face persistent TOCTOU (Time of Check to Time of Use) challenges when validating filesystem calls against hostile host environments.",
+      "inferred_relationships": [
+        {
+          "target": "docker",
+          "target_name": "Docker & Containers",
+          "relationship": "related_to",
+          "confidence": 0.85
+        }
+      ],
+      "related_signals": [],
+      "created_at": "2026-09-27T18:05:00Z",
+      "updated_at": "2026-09-28T09:00:00Z"
+    },
+    {
+      "id": "sig-2026-0925-python-free-threaded",
+      "title": "Python 3.13.0 General Availability Ships Free-Threaded (No-GIL) Build and JIT Compiler",
+      "canonical_url": "https://docs.python.org/3.13/whatsnew/3.13.html",
+      "source": "official_blog",
+      "source_label": "Python Software Foundation",
+      "published_at": "2026-09-25T14:00:00Z",
+      "discovered_at": "2026-09-25T14:10:00Z",
+      "category": "Python",
+      "subcategory": "Language Specification",
+      "summary": "Python 3.13 reaches stable release, introducing the historic PEP 703 free-threaded CPython build that runs true multithreaded CPU-bound workloads without the Global Interpreter Lock.",
+      "detailed_summary": "CPython 3.13 marks a historic inflection point in Python's 30+ year history. Major scientific libraries including NumPy, PyTorch, and SciPy have validated pre-compiled wheels for free-threaded Python, enabling linear CPU scaling across multi-core server nodes.",
+      "importance_score": 96,
+      "confidence_score": 0.99,
+      "entities": [
+        "Guido van Rossum",
+        "Python Software Foundation",
+        "PEP 703 Working Group"
+      ],
+      "technologies": [
+        "python"
+      ],
+      "organizations": [
+        "Python Software Foundation",
+        "Meta"
+      ],
+      "tags": [
+        "python",
+        "cpython",
+        "no-gil",
+        "multithreading",
+        "jit",
+        "release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-py-1",
+          "type": "official_source",
+          "label": "Python 3.13 What's New Documentation",
+          "url": "https://docs.python.org/3.13/whatsnew/3.13.html",
+          "verified": true,
+          "discovered_at": "2026-09-25T14:10:00Z"
+        },
+        {
+          "id": "ev-py-2",
+          "type": "github_release",
+          "label": "CPython v3.13.0 Tag",
+          "url": "https://github.com/python/cpython/releases/tag/v3.13.0",
+          "verified": true,
+          "discovered_at": "2026-09-25T14:12:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "PEP 703 (Free-threaded CPython) now available as an experimental official build variant.",
+        "Preliminary copy-on-write tier-2 JIT compiler integrated.",
+        "New interactive REPL with syntax highlighting and multiline editing out-of-the-box."
+      ],
+      "ai_analysis": "Removing the GIL unlocks decades of untapped hardware concurrency for data science, AI training loops, and web servers, fundamentally altering Python performance economics.",
+      "inferred_relationships": [
+        {
+          "target": "rust",
+          "target_name": "Rust",
+          "relationship": "related_to",
+          "confidence": 0.88
+        }
+      ],
+      "related_signals": [],
+      "created_at": "2026-09-25T14:10:00Z",
+      "updated_at": "2026-09-26T11:00:00Z"
+    },
+    {
+      "id": "sig-2026-0920-bun-1-2-sql",
+      "title": "Bun 1.2 Released with Native PostgreSQL Driver and Universal Node.js Cluster Support",
+      "canonical_url": "https://bun.sh/blog/bun-v1.2",
+      "source": "github_release",
+      "source_label": "Bun / Oven Releases",
+      "published_at": "2026-09-20T19:00:00Z",
+      "discovered_at": "2026-09-20T19:15:00Z",
+      "category": "DevTools",
+      "subcategory": "JavaScript Runtimes",
+      "summary": "Bun 1.2 introduces bun:sql, providing zero-overhead async PostgreSQL connections 4x faster than pg-promise, along with node:cluster support.",
+      "detailed_summary": "With Bun 1.2, developers gain built-in high-performance database connection pooling, seamless support for node:cluster across container workers, and direct compilation to single-file self-contained executables.",
+      "importance_score": 87,
+      "confidence_score": 0.98,
+      "entities": [
+        "Jarred Sumner",
+        "Oven",
+        "Bun Core Team"
+      ],
+      "technologies": [
+        "bun",
+        "postgresql",
+        "nodejs",
+        "typescript"
+      ],
+      "organizations": [
+        "Oven"
+      ],
+      "tags": [
+        "bun",
+        "runtime",
+        "postgresql",
+        "performance",
+        "zig"
+      ],
+      "evidence": [
+        {
+          "id": "ev-bun-1",
+          "type": "official_source",
+          "label": "Bun Official v1.2 Blog Announcement",
+          "url": "https://bun.sh/blog/bun-v1.2",
+          "verified": true,
+          "discovered_at": "2026-09-20T19:15:00Z"
+        },
+        {
+          "id": "ev-bun-2",
+          "type": "github_release",
+          "label": "GitHub Release oven-sh/bun v1.2.0",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.2.0",
+          "verified": true,
+          "discovered_at": "2026-09-20T19:16:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Native bun:sql API provides built-in query serialization and connection pooling.",
+        "Supports node:cluster API for multicore worker delegation.",
+        "99.2% Node.js API test suite pass rate achieved."
+      ],
+      "ai_analysis": "Bun continues to push runtime performance competition, forcing Node.js and Deno to accelerate native performance enhancements and developer ergonomics.",
+      "inferred_relationships": [
+        {
+          "target": "postgresql",
+          "target_name": "PostgreSQL",
+          "relationship": "depends_on",
+          "confidence": 0.93
+        },
+        {
+          "target": "nodejs",
+          "target_name": "Node.js",
+          "relationship": "competes_with",
+          "confidence": 0.96
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0914-postgres-17-vector"
+      ],
+      "created_at": "2026-09-20T19:15:00Z",
+      "updated_at": "2026-09-21T07:30:00Z"
+    },
+    {
+      "id": "sig-2026-0914-postgres-17-vector",
+      "title": "PostgreSQL 17 Released: Massive Query Optimizer Improvements and Native Memory Partitioning",
+      "canonical_url": "https://www.postgresql.org/about/news/postgresql-17-released-2722/",
+      "source": "official_blog",
+      "source_label": "PostgreSQL Global Development Group",
+      "published_at": "2026-09-14T12:00:00Z",
+      "discovered_at": "2026-09-14T12:15:00Z",
+      "category": "Databases",
+      "subcategory": "Relational Database Engine",
+      "summary": "The PostgreSQL Global Development Group announced the release of PostgreSQL 17, featuring up to 2x memory reduction for vacuuming and enhanced JSON_TABLE capabilities.",
+      "detailed_summary": "PostgreSQL 17 delivers significant upgrades to vacuum memory management, parallel execution of JSON queries, optimized logical replication failover, and hardware-accelerated SIMD instructions that dramatically boost pgvector embedding indexing.",
+      "importance_score": 93,
+      "confidence_score": 1,
+      "entities": [
+        "PostgreSQL Global Development Group",
+        "PGDG"
+      ],
+      "technologies": [
+        "postgresql"
+      ],
+      "organizations": [
+        "PostgreSQL Global Development Group"
+      ],
+      "tags": [
+        "postgresql",
+        "database",
+        "sql",
+        "release",
+        "vacuum",
+        "json-table"
+      ],
+      "evidence": [
+        {
+          "id": "ev-pg-1",
+          "type": "official_source",
+          "label": "PostgreSQL 17 Official Release Announcement",
+          "url": "https://www.postgresql.org/about/news/postgresql-17-released-2722/",
+          "verified": true,
+          "discovered_at": "2026-09-14T12:15:00Z"
+        },
+        {
+          "id": "ev-pg-2",
+          "type": "documentation",
+          "label": "PostgreSQL 17 Release Notes",
+          "url": "https://www.postgresql.org/docs/17/release-17.html",
+          "verified": true,
+          "discovered_at": "2026-09-14T12:18:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "New internal memory structure for VACUUM consumes up to 20x less memory.",
+        "Supports JSON_TABLE expression from SQL/JSON standard.",
+        "Logical replication failover control across high-availability clusters."
+      ],
+      "ai_analysis": "PostgreSQL 17 continues to consolidate its position as the universal data layer for AI startups and enterprises alike, reducing the need for specialized vector-only niche databases.",
+      "inferred_relationships": [],
+      "related_signals": [
+        "sig-2026-0920-bun-1-2-sql"
+      ],
+      "created_at": "2026-09-14T12:15:00Z",
+      "updated_at": "2026-09-15T09:00:00Z"
+    },
+    {
+      "id": "sig-2026-0918-rust-edition-2024",
+      "title": "Rust 2024 Edition Final Release Candidate Enters Beta Channel with Async Closures and RPITIT",
+      "canonical_url": "https://blog.rust-lang.org/2026/09/rust-2024-beta",
+      "source": "official_blog",
+      "source_label": "Rust Core Team",
+      "published_at": "2026-09-18T15:00:00Z",
+      "discovered_at": "2026-09-18T15:20:00Z",
+      "category": "Rust",
+      "subcategory": "Language Editions",
+      "summary": "The Rust project has delivered the final release candidate for the Rust 2024 Edition into the beta channel, introducing async closures, refined lifetime capture rules, and cargo safety lints.",
+      "detailed_summary": "Every three years, Rust ships an Edition to evolve the language ergonomics while preserving absolute backward compatibility. The 2024 Edition stabilizes async closures (async || {}), Return-Position-Impl-Trait-in-Traits (RPITIT), and strict unsafe code warnings.",
+      "importance_score": 90,
+      "confidence_score": 0.99,
+      "entities": [
+        "Rust Project",
+        "Rust Foundation",
+        "Compiler Team"
+      ],
+      "technologies": [
+        "rust"
+      ],
+      "organizations": [
+        "Rust Foundation"
+      ],
+      "tags": [
+        "rust",
+        "edition-2024",
+        "async",
+        "systems-programming",
+        "compiler"
+      ],
+      "evidence": [
+        {
+          "id": "ev-rust-1",
+          "type": "official_source",
+          "label": "Rust Blog: Announcing Rust 2024 Edition Beta",
+          "url": "https://blog.rust-lang.org/2026/09/rust-2024-beta",
+          "verified": true,
+          "discovered_at": "2026-09-18T15:20:00Z"
+        },
+        {
+          "id": "ev-rust-2",
+          "type": "github_release",
+          "label": "GitHub rust-lang/rust 1.85.0-beta.1",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.85.0-beta.1",
+          "verified": true,
+          "discovered_at": "2026-09-18T15:25:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Rust 2024 Edition enters beta, scheduled for general availability in the subsequent release cycle.",
+        "Async closures stabilized with proper borrow checker inference.",
+        "New cargo automated migration tool cargo fix --edition 2024 provided."
+      ],
+      "ai_analysis": "The 2024 Edition addresses the friction points in asynchronous Rust, bringing async code authoring experience in line with synchronous Rust ergonomics.",
+      "inferred_relationships": [
+        {
+          "target": "nextjs",
+          "target_name": "Next.js",
+          "relationship": "related_to",
+          "confidence": 0.81
+        }
+      ],
+      "related_signals": [],
+      "created_at": "2026-09-18T15:20:00Z",
+      "updated_at": "2026-09-19T08:00:00Z"
+    },
+    {
+      "id": "sig-2026-0922-typescript-5-7",
+      "title": "TypeScript 5.7 Announced: Path Mapping Verification and Uninitialized Variable Checking in Closures",
+      "canonical_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
+      "source": "official_blog",
+      "source_label": "Microsoft TypeScript Blog",
+      "published_at": "2026-09-22T16:00:00Z",
+      "discovered_at": "2026-09-22T16:10:00Z",
+      "category": "TypeScript",
+      "subcategory": "Compiler Releases",
+      "summary": "Microsoft released TypeScript 5.7, bringing strict checks for uninitialized variables accessed in closures, improved V8 compile times, and path rewriting for module resolution.",
+      "detailed_summary": "TypeScript 5.7 catches subtle runtime bugs where closures capture variables before they are initialized in parent scopes. The release also enhances isolatedDeclarations mode for ultra-fast bundler parallelism across SWC and esbuild.",
+      "importance_score": 89,
+      "confidence_score": 0.99,
+      "entities": [
+        "Daniel Rosenwasser",
+        "Anders Hejlsberg",
+        "Microsoft TypeScript Team"
+      ],
+      "technologies": [
+        "typescript",
+        "react",
+        "nextjs",
+        "nodejs"
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "tags": [
+        "typescript",
+        "compiler",
+        "type-system",
+        "microsoft",
+        "esbuild"
+      ],
+      "evidence": [
+        {
+          "id": "ev-ts-1",
+          "type": "official_source",
+          "label": "Microsoft TypeScript 5.7 Announcement",
+          "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
+          "verified": true,
+          "discovered_at": "2026-09-22T16:10:00Z"
+        },
+        {
+          "id": "ev-ts-2",
+          "type": "github_release",
+          "label": "GitHub Release microsoft/TypeScript v5.7.0",
+          "url": "https://github.com/microsoft/TypeScript/releases/tag/v5.7.0",
+          "verified": true,
+          "discovered_at": "2026-09-22T16:15:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Detects access to uninitialized variables inside inner function closures.",
+        "Supports rewriteRelativeImportExtensions option for native ES module setups.",
+        "Sub-millisecond isolatedDeclarations verification."
+      ],
+      "ai_analysis": "TypeScript's focus on isolatedDeclarations is pivotal for the developer tools ecosystem, enabling parallel Rust/Go toolchains to emit declaration files without running full type-check pipelines.",
+      "inferred_relationships": [
+        {
+          "target": "react",
+          "target_name": "React",
+          "relationship": "related_to",
+          "confidence": 0.95
+        }
+      ],
+      "related_signals": [
+        "sig-2026-1001-react-compiler"
+      ],
+      "created_at": "2026-09-22T16:10:00Z",
+      "updated_at": "2026-09-23T08:30:00Z"
+    },
+    {
+      "id": "sig-2026-0929-claude-computer-use",
+      "title": "Anthropic Expands Computer Use API with Sandboxed Virtual Display Protocol for Autonomous Developers",
+      "canonical_url": "https://www.anthropic.com/news/computer-use-developer-preview",
+      "source": "official_blog",
+      "source_label": "Anthropic Newsroom",
+      "published_at": "2026-09-29T18:00:00Z",
+      "discovered_at": "2026-09-29T18:30:00Z",
+      "category": "AI Agents",
+      "subcategory": "OS & GUI Grounding",
+      "summary": "Anthropic released production enhancements for Claude Computer Use, standardizing headless containerized virtual displays for browser automation and end-to-end integration testing.",
+      "detailed_summary": "The new protocol allows Claude models to control standard desktop environments inside lightweight secure microVMs. With sub-second screenshot interpretation and keyboard/mouse precision, agents can execute full test pipelines, verify UI regressions, and reproduce user bugs autonomously.",
+      "importance_score": 94,
+      "confidence_score": 0.96,
+      "entities": [
+        "Anthropic",
+        "Claude Research",
+        "Computer Use Team"
+      ],
+      "technologies": [
+        "claude-anthropic",
+        "ai-agents",
+        "docker"
+      ],
+      "organizations": [
+        "Anthropic"
+      ],
+      "tags": [
+        "claude",
+        "computer-use",
+        "agents",
+        "automation",
+        "testing",
+        "gui"
+      ],
+      "evidence": [
+        {
+          "id": "ev-claude-1",
+          "type": "official_source",
+          "label": "Anthropic Official Research Article",
+          "url": "https://www.anthropic.com/news/computer-use-developer-preview",
+          "verified": true,
+          "discovered_at": "2026-09-29T18:30:00Z"
+        },
+        {
+          "id": "ev-claude-2",
+          "type": "documentation",
+          "label": "Anthropic Computer Use API Reference",
+          "url": "https://docs.anthropic.com/claude/docs/computer-use",
+          "verified": true,
+          "discovered_at": "2026-09-29T18:35:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Allows Claude 3.5/3.7 models to interpret screen buffers and emit OS input events.",
+        "Includes security sandboxing recommendations using isolated microVMs.",
+        "Achieves 84.8% accuracy on OSWorld benchmark tasks."
+      ],
+      "ai_analysis": "Computer use capabilities represent the bridge between conversational coding assistants and full-system software quality verification agents.",
+      "inferred_relationships": [
+        {
+          "target": "docker",
+          "target_name": "Docker & Containers",
+          "relationship": "depends_on",
+          "confidence": 0.91
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0930-mcp-agent-standard"
+      ],
+      "created_at": "2026-09-29T18:30:00Z",
+      "updated_at": "2026-09-30T11:00:00Z"
+    },
+    {
+      "id": "sig-2026-0919-arxiv-reasoning-agents",
+      "title": "Research: \"Verifiable Self-Correction Loops in Agentic Multi-Pass Code Synthesis\"",
+      "canonical_url": "https://arxiv.org/abs/2609.13942",
+      "source": "arxiv",
+      "source_label": "arXiv Computer Science",
+      "published_at": "2026-09-19T02:00:00Z",
+      "discovered_at": "2026-09-19T08:00:00Z",
+      "category": "Research",
+      "subcategory": "AI Coding & Formal Methods",
+      "summary": "A new peer-reviewed preprint demonstrates that coupling LLM generation with symbolic test execution reduces hallucinated dependencies by 86% across 50,000 synthetic Python benchmarks.",
+      "detailed_summary": "Researchers from Stanford and DeepMind propose Dual-Stream Feedback Verification (DSFV). By interleaving generative tokens with immediate static analyzer feedback, the model self-corrects invalid type assertions and invalid API usages prior to final patch generation.",
+      "importance_score": 92,
+      "confidence_score": 0.98,
+      "entities": [
+        "Stanford AI Lab",
+        "Google DeepMind",
+        "ArXiv Authors"
+      ],
+      "technologies": [
+        "ai-agents",
+        "gemini",
+        "python"
+      ],
+      "organizations": [
+        "Stanford University",
+        "Google"
+      ],
+      "tags": [
+        "arxiv",
+        "research",
+        "formal-methods",
+        "agents",
+        "code-generation",
+        "verification"
+      ],
+      "evidence": [
+        {
+          "id": "ev-ar-1",
+          "type": "arxiv_paper",
+          "label": "arXiv:2609.13942 Preprint Abstract",
+          "url": "https://arxiv.org/abs/2609.13942",
+          "verified": true,
+          "discovered_at": "2026-09-19T08:00:00Z"
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Published on arXiv.org under cs.SE and cs.AI categories.",
+        "Presents Dual-Stream Feedback Verification algorithm.",
+        "Demonstrates 86% reduction in hallucinated dependencies on benchmark suite."
+      ],
+      "ai_analysis": "This research provides theoretical grounding for why modern agent harnesses (like TechFossil's verification pipeline) must integrate deterministic execution loops rather than relying solely on next-token probability.",
+      "inferred_relationships": [
+        {
+          "target": "ai-agents",
+          "target_name": "AI Agent Architecture",
+          "relationship": "studies",
+          "confidence": 0.97
+        }
+      ],
+      "related_signals": [
+        "sig-2026-0922-gemini-agent-protocols"
+      ],
+      "created_at": "2026-09-19T08:00:00Z",
+      "updated_at": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "sig-1790912639934-2xq3w",
+      "title": "facebook/react v19.3.0: 19.3.0 (September 9, 2026)",
+      "canonical_url": "https://github.com/react/react/releases/tag/v19.3.0",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-09T18:01:33Z",
+      "discovered_at": "2026-10-02T03:43:59.934Z",
+      "category": "Frontend",
+      "summary": "facebook/react v19.3.0: 19.3.0 (September 9, 2026)",
+      "detailed_summary": "Below is a list of all new features, APIs, and bug fixes.\r\n\r\nRead the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3) for more information.\r\n\r\n## New React Features\r\n\r\n- `<ViewTransition />`: Adds `<ViewTransition />` and `addTransitionType` APIs to power View Transition anim...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639934-2xq3w-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/react/react/releases/tag/v19.3.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.934Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.3.0",
+        "Published event: facebook/react v19.3.0: 19.3.0 (September 9, 2026)"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.934Z",
+      "updated_at": "2026-10-02T03:43:59.934Z"
+    },
+    {
+      "id": "sig-1790912639942-lduq7",
+      "title": "facebook/react v19.2.8: 19.2.8 (July 21st, 2026)",
+      "canonical_url": "https://github.com/react/react/releases/tag/v19.2.8",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-07-21T15:49:09Z",
+      "discovered_at": "2026-10-02T03:43:59.942Z",
+      "category": "Frontend",
+      "summary": "facebook/react v19.2.8: 19.2.8 (July 21st, 2026)",
+      "detailed_summary": "## React Server Components\r\n\r\n- Performance improvements when decoding\r\n ([#37087](https://github.com/facebook/react/pull/37087) by @eps1lon)",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639942-lduq7-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/react/react/releases/tag/v19.2.8",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.943Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.2.8",
+        "Published event: facebook/react v19.2.8: 19.2.8 (July 21st, 2026)"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.943Z",
+      "updated_at": "2026-10-02T03:43:59.943Z"
+    },
+    {
+      "id": "sig-1790912639948-a5y8o",
+      "title": "facebook/react v19.1.9: 19.1.9 (July 21st, 2026)",
+      "canonical_url": "https://github.com/react/react/releases/tag/v19.1.9",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-07-21T15:48:51Z",
+      "discovered_at": "2026-10-02T03:43:59.948Z",
+      "category": "Frontend",
+      "summary": "facebook/react v19.1.9: 19.1.9 (July 21st, 2026)",
+      "detailed_summary": "## React Server Components\r\n\r\n- Performance improvements when decoding\r\n ([#37088](https://github.com/facebook/react/pull/37088) by @eps1lon)",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639948-a5y8o-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/react/react/releases/tag/v19.1.9",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.948Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.1.9",
+        "Published event: facebook/react v19.1.9: 19.1.9 (July 21st, 2026)"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.948Z",
+      "updated_at": "2026-10-02T03:43:59.948Z"
+    },
+    {
+      "id": "sig-1790912639956-m0ju5",
+      "title": "microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1",
+      "canonical_url": "https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-30T19:10:03Z",
+      "discovered_at": "2026-10-02T03:43:59.956Z",
+      "category": "TypeScript",
+      "summary": "microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1",
+      "detailed_summary": "Bundles TypeScript 7.0.2 from commit b6eaace9d7cfd63c018ab25340ba463baae07fb5.",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "typescript",
+        "bun"
+      ],
+      "organizations": [],
+      "tags": [
+        "typescript",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639956-m0ju5-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.956Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1",
+        "Published event: microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.956Z",
+      "updated_at": "2026-10-02T03:43:59.956Z"
+    },
+    {
+      "id": "sig-1790912639962-694a2",
+      "title": "microsoft/TypeScript v7.0.2: TypeScript 7.0.2",
+      "canonical_url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-08-20T18:09:49Z",
+      "discovered_at": "2026-10-02T03:43:59.962Z",
+      "category": "TypeScript",
+      "summary": "microsoft/TypeScript v7.0.2: TypeScript 7.0.2",
+      "detailed_summary": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/\r\n\r\nThis tag was originally released at: https://github.com/microsoft/typescript-go/releases/tag/typescript%2Fv7.0.2",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "typescript"
+      ],
+      "organizations": [],
+      "tags": [
+        "typescript",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639962-694a2-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.962Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+        "Published event: microsoft/TypeScript v7.0.2: TypeScript 7.0.2"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.962Z",
+      "updated_at": "2026-10-02T03:43:59.962Z"
+    },
+    {
+      "id": "sig-1790912639968-ra6jr",
+      "title": "microsoft/TypeScript v6.0.3: TypeScript 6.0.3",
+      "canonical_url": "https://github.com/microsoft/TypeScript/releases/tag/v6.0.3",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-04-16T23:43:08Z",
+      "discovered_at": "2026-10-02T03:43:59.968Z",
+      "category": "TypeScript",
+      "summary": "microsoft/TypeScript v6.0.3: TypeScript 6.0.3",
+      "detailed_summary": "For release notes, check out the [release announcement blog post](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/).\r\n\r\n* [fixed issues query for TypeScript 6.0.0 (Beta)](https://github.com/Microsoft/TypeScript/issues?utf8=%E2%9C%93&q=milestone%3A%22TypeScript+6.0.0%22).\r\n* [fixe...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "typescript"
+      ],
+      "organizations": [],
+      "tags": [
+        "typescript",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639968-ra6jr-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/microsoft/TypeScript/releases/tag/v6.0.3",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.968Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/v6.0.3",
+        "Published event: microsoft/TypeScript v6.0.3: TypeScript 6.0.3"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.968Z",
+      "updated_at": "2026-10-02T03:43:59.968Z"
+    },
+    {
+      "id": "sig-1790912639974-lbfra",
+      "title": "vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56",
+      "canonical_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-10-02T00:07:46Z",
+      "discovered_at": "2026-10-02T03:43:59.974Z",
+      "category": "Frontend",
+      "summary": "vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56",
+      "detailed_summary": "### Misc Changes\n\n- Measure AI upgrade nudges, handoffs, and completion: #99465\n- turbo-persistence: 32 bit fingerprints for the used keys AMQFs: #99333\n- Remove suspend during operations: #99383\n- test: migrate runtime deploy exclusions to force gates: #98159\n- test: migrate asset deploy exclusions...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "react",
+        "nextjs",
+        "bun"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639974-lbfra-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.974Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56",
+        "Published event: vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.974Z",
+      "updated_at": "2026-10-02T03:43:59.974Z"
+    },
+    {
+      "id": "sig-1790912639981-vlsw3",
+      "title": "vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55",
+      "canonical_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-10-01T14:30:36Z",
+      "discovered_at": "2026-10-02T03:43:59.981Z",
+      "category": "Frontend",
+      "summary": "vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55",
+      "detailed_summary": "### Misc Changes\n\n- Always use generateBuildId if set explicitly: #99147\n- Set tracer library version: #98262\n- fix: propagate repeated tag revalidation from after(): #99499\n- Stabilize `ensureStatic`: #99513\n- Turbopack: Enable experimental.turbopackSharedRuntime by default: #99504\n\n### Credits \n\nH...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "nextjs"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639981-vlsw3-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.981Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+        "Published event: vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.981Z",
+      "updated_at": "2026-10-02T03:43:59.981Z"
+    },
+    {
+      "id": "sig-1790912639988-1q7wu",
+      "title": "vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54",
+      "canonical_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-30T23:46:44Z",
+      "discovered_at": "2026-10-02T03:43:59.988Z",
+      "category": "AI Agents",
+      "summary": "vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54",
+      "detailed_summary": "### Misc Changes\n\n- Scope response cache keys to their source route: #99482\n- Match Next data paths case-sensitively: #99481\n- Fix MCP middleware DNS rebinding: #99480\n- Fix draft mode leaks through cross-request `'use cache'` deduplication: #99479\n- [webpack] Ensure `dynamicParams` is respected in ...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "nextjs",
+        "ai-agents"
+      ],
+      "organizations": [],
+      "tags": [
+        "ai-agents",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639988-1q7wu-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.988Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54",
+        "Published event: vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.988Z",
+      "updated_at": "2026-10-02T03:43:59.988Z"
+    },
+    {
+      "id": "sig-1790912639996-t7iqv",
+      "title": "rust-lang/rust 1.99.0: Rust 1.99.0",
+      "canonical_url": "https://github.com/rust-lang/rust/releases/tag/1.99.0",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-10-01T12:41:12Z",
+      "discovered_at": "2026-10-02T03:43:59.996Z",
+      "category": "Rust",
+      "summary": "rust-lang/rust 1.99.0: Rust 1.99.0",
+      "detailed_summary": "<a id=\"1.99.0-Language\"></a>\n\n## Language\n\n- [Add allow-by-default `raw_borrows_via_references` lint that checks for references that decay immediately into raw borrows](https://github.com/rust-lang/rust/pull/138230)\n- [Extend `unconditional_panic` lint to function calls that panic when the chunks/wi...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "rust"
+      ],
+      "organizations": [],
+      "tags": [
+        "rust",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912639996-t7iqv-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.99.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:43:59.996Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.99.0",
+        "Published event: rust-lang/rust 1.99.0: Rust 1.99.0"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:43:59.996Z",
+      "updated_at": "2026-10-02T03:43:59.996Z"
+    },
+    {
+      "id": "sig-1790912640003-fa1hq",
+      "title": "rust-lang/rust 1.98.1: Rust 1.98.1",
+      "canonical_url": "https://github.com/rust-lang/rust/releases/tag/1.98.1",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-03T13:14:07Z",
+      "discovered_at": "2026-10-02T03:44:00.003Z",
+      "category": "Rust",
+      "summary": "rust-lang/rust 1.98.1: Rust 1.98.1",
+      "detailed_summary": "<a id=\"1.98.1\"></a>\n\n- [rustc: fix miscompilation in generating vtables](https://github.com/rust-lang/rust/issues/161441)\n",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "rust"
+      ],
+      "organizations": [],
+      "tags": [
+        "rust",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640003-fa1hq-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.98.1",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.003Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.98.1",
+        "Published event: rust-lang/rust 1.98.1: Rust 1.98.1"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.003Z",
+      "updated_at": "2026-10-02T03:44:00.003Z"
+    },
+    {
+      "id": "sig-1790912640010-dpeay",
+      "title": "rust-lang/rust 1.98.0: Rust 1.98.0",
+      "canonical_url": "https://github.com/rust-lang/rust/releases/tag/1.98.0",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-08-20T18:05:33Z",
+      "discovered_at": "2026-10-02T03:44:00.010Z",
+      "category": "Rust",
+      "summary": "rust-lang/rust 1.98.0: Rust 1.98.0",
+      "detailed_summary": "<a id=\"1.98.0-Language\"></a>\n\n## Language\n\n- [Allow shortening lifetime of `&mut` when unsize-coercing, even in an invariant position.](https://github.com/rust-lang/rust/pull/149219) For example, you can now coerce a `Cell<&'long mut i32>` to a `Cell<&'short mut dyn Send>`. Such shortenings were alr...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "rust"
+      ],
+      "organizations": [],
+      "tags": [
+        "rust",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640010-dpeay-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/rust-lang/rust/releases/tag/1.98.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.010Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.98.0",
+        "Published event: rust-lang/rust 1.98.0: Rust 1.98.0"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.010Z",
+      "updated_at": "2026-10-02T03:44:00.010Z"
+    },
+    {
+      "id": "sig-1790912640019-tunmm",
+      "title": "oven-sh/bun bun-v1.4.2: Bun v1.4.2",
+      "canonical_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-05T05:55:48Z",
+      "discovered_at": "2026-10-02T03:44:00.019Z",
+      "category": "Open Source",
+      "summary": "oven-sh/bun bun-v1.4.2: Bun v1.4.2",
+      "detailed_summary": "To install Bun v1.4.2\r\n```bash\r\ncurl -fsSL https://bun.sh/install | bash\r\n# or you can use npm\r\n# npm install -g bun\r\n```\r\n\r\nWindows:\r\n```bash\r\npowershell -c \"irm bun.sh/install.ps1|iex\"\r\n```\r\n\r\nTo upgrade to Bun v1.4.2:\r\n```bash\r\nbun upgrade\r\n```\r\n\r\n### [Read Bun v1.4.2's release notes on Bun's blo...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "bun"
+      ],
+      "organizations": [],
+      "tags": [
+        "open-source",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640019-tunmm-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.019Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+        "Published event: oven-sh/bun bun-v1.4.2: Bun v1.4.2"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.019Z",
+      "updated_at": "2026-10-02T03:44:00.019Z"
+    },
+    {
+      "id": "sig-1790912640027-4y2q7",
+      "title": "oven-sh/bun bun-v1.4.1: Bun v1.4.1",
+      "canonical_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-09-04T08:33:19Z",
+      "discovered_at": "2026-10-02T03:44:00.027Z",
+      "category": "Open Source",
+      "summary": "oven-sh/bun bun-v1.4.1: Bun v1.4.1",
+      "detailed_summary": "To install Bun v1.4.1\r\n```bash\r\ncurl -fsSL https://bun.sh/install | bash\r\n# or you can use npm\r\n# npm install -g bun\r\n```\r\n\r\nWindows:\r\n```bash\r\npowershell -c \"irm bun.sh/install.ps1|iex\"\r\n```\r\n\r\nTo upgrade to Bun v1.4.1:\r\n```bash\r\nbun upgrade\r\n```\r\n\r\n### [Read Bun v1.4.1's release notes on Bun's blo...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "bun"
+      ],
+      "organizations": [],
+      "tags": [
+        "open-source",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640027-4y2q7-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.027Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+        "Published event: oven-sh/bun bun-v1.4.1: Bun v1.4.1"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.027Z",
+      "updated_at": "2026-10-02T03:44:00.027Z"
+    },
+    {
+      "id": "sig-1790912640038-i0a1w",
+      "title": "oven-sh/bun bun-v1.4.0: Bun v1.4",
+      "canonical_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+      "source": "github_release",
+      "source_label": "GITHUB RELEASE",
+      "published_at": "2026-08-20T14:07:21Z",
+      "discovered_at": "2026-10-02T03:44:00.038Z",
+      "category": "Open Source",
+      "summary": "oven-sh/bun bun-v1.4.0: Bun v1.4",
+      "detailed_summary": "\r\n\r\nTo install Bun v1.4\r\n```bash\r\ncurl -fsSL https://bun.com/install | bash\r\n# or you can use npm\r\n# npm install -g bun\r\n```\r\n\r\nWindows:\r\n```bash\r\npowershell -c \"irm bun.com/install.ps1|iex\"\r\n```\r\n\r\nTo upgrade to Bun v1.4.0:\r\n```bash\r\nbun upgrade\r\n```\r\n\r\nRead the [blog post](https://bun.com/1.4):\r\n<...",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "github_release"
+      ],
+      "technologies": [
+        "bun"
+      ],
+      "organizations": [],
+      "tags": [
+        "open-source",
+        "github_release"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640038-i0a1w-1",
+          "type": "official_source",
+          "label": "github_release upstream API record",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.038Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+        "Published event: oven-sh/bun bun-v1.4.0: Bun v1.4"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.038Z",
+      "updated_at": "2026-10-02T03:44:00.038Z"
+    },
+    {
+      "id": "sig-1790912640045-8n7t1",
+      "title": "@modelcontextprotocol/sdk v1.31.0 Released on npm",
+      "canonical_url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0",
+      "source": "npm",
+      "source_label": "NPM",
+      "published_at": "2026-09-28T18:59:36.307Z",
+      "discovered_at": "2026-10-02T03:44:00.045Z",
+      "category": "AI Agents",
+      "summary": "@modelcontextprotocol/sdk v1.31.0 Released on npm",
+      "detailed_summary": "Model Context Protocol implementation for TypeScript",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "npm"
+      ],
+      "technologies": [
+        "typescript"
+      ],
+      "organizations": [],
+      "tags": [
+        "ai-agents",
+        "npm"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640045-8n7t1-1",
+          "type": "official_source",
+          "label": "npm upstream API record",
+          "url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.045Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0",
+        "Published event: @modelcontextprotocol/sdk v1.31.0 Released on npm"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.045Z",
+      "updated_at": "2026-10-02T03:44:00.045Z"
+    },
+    {
+      "id": "sig-1790912640052-rph7c",
+      "title": "drizzle-orm v0.45.3 Released on npm",
+      "canonical_url": "https://www.npmjs.com/package/drizzle-orm/v/0.45.3",
+      "source": "npm",
+      "source_label": "NPM",
+      "published_at": "2026-09-21T10:06:39.969Z",
+      "discovered_at": "2026-10-02T03:44:00.052Z",
+      "category": "Open Source",
+      "summary": "drizzle-orm v0.45.3 Released on npm",
+      "detailed_summary": "Drizzle ORM package for SQL databases",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "npm"
+      ],
+      "technologies": [
+        "drizzle-orm"
+      ],
+      "organizations": [],
+      "tags": [
+        "open-source",
+        "npm"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640052-rph7c-1",
+          "type": "official_source",
+          "label": "npm upstream API record",
+          "url": "https://www.npmjs.com/package/drizzle-orm/v/0.45.3",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.052Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://www.npmjs.com/package/drizzle-orm/v/0.45.3",
+        "Published event: drizzle-orm v0.45.3 Released on npm"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.052Z",
+      "updated_at": "2026-10-02T03:44:00.052Z"
+    },
+    {
+      "id": "sig-1790912640060-0g9pd",
+      "title": "ai v7.0.127 Released on npm",
+      "canonical_url": "https://www.npmjs.com/package/ai/v/7.0.127",
+      "source": "npm",
+      "source_label": "NPM",
+      "published_at": "2026-10-01T19:20:23.718Z",
+      "discovered_at": "2026-10-02T03:44:00.060Z",
+      "category": "Open Source",
+      "summary": "ai v7.0.127 Released on npm",
+      "detailed_summary": "AI SDK by Vercel - build apps like ChatGPT, Claude, Gemini, and more with a single interface for any model using the Vercel AI Gateway or go direct to OpenAI, Anthropic, Google, or any other model provider.",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "npm"
+      ],
+      "technologies": [
+        "gemini"
+      ],
+      "organizations": [],
+      "tags": [
+        "open-source",
+        "npm"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640060-0g9pd-1",
+          "type": "official_source",
+          "label": "npm upstream API record",
+          "url": "https://www.npmjs.com/package/ai/v/7.0.127",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.061Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://www.npmjs.com/package/ai/v/7.0.127",
+        "Published event: ai v7.0.127 Released on npm"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.061Z",
+      "updated_at": "2026-10-02T03:44:00.061Z"
+    },
+    {
+      "id": "sig-1790912640068-cdnxd",
+      "title": "next v16.3.8 Released on npm",
+      "canonical_url": "https://www.npmjs.com/package/next/v/16.3.8",
+      "source": "npm",
+      "source_label": "NPM",
+      "published_at": "2026-09-30T16:07:21.198Z",
+      "discovered_at": "2026-10-02T03:44:00.069Z",
+      "category": "Frontend",
+      "summary": "next v16.3.8 Released on npm",
+      "detailed_summary": "The React Framework",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "npm"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "npm"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640068-cdnxd-1",
+          "type": "official_source",
+          "label": "npm upstream API record",
+          "url": "https://www.npmjs.com/package/next/v/16.3.8",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.069Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://www.npmjs.com/package/next/v/16.3.8",
+        "Published event: next v16.3.8 Released on npm"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.069Z",
+      "updated_at": "2026-10-02T03:44:00.069Z"
+    },
+    {
+      "id": "sig-1790912640077-7662g",
+      "title": "react v19.3.0 Released on npm",
+      "canonical_url": "https://www.npmjs.com/package/react/v/19.3.0",
+      "source": "npm",
+      "source_label": "NPM",
+      "published_at": "2026-09-09T17:21:30.071Z",
+      "discovered_at": "2026-10-02T03:44:00.077Z",
+      "category": "Frontend",
+      "summary": "react v19.3.0 Released on npm",
+      "detailed_summary": "React is a JavaScript library for building user interfaces.",
+      "importance_score": 85,
+      "confidence_score": 0.95,
+      "entities": [
+        "npm"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "frontend",
+        "npm"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640077-7662g-1",
+          "type": "official_source",
+          "label": "npm upstream API record",
+          "url": "https://www.npmjs.com/package/react/v/19.3.0",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.077Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://www.npmjs.com/package/react/v/19.3.0",
+        "Published event: react v19.3.0 Released on npm"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.077Z",
+      "updated_at": "2026-10-02T03:44:00.077Z"
+    },
+    {
+      "id": "sig-1790912640085-sweap",
+      "title": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "canonical_url": "https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2025-04-02T22:35:37Z",
+      "discovered_at": "2026-10-02T03:44:00.085Z",
+      "category": "Security",
+      "summary": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "detailed_summary": "## Summary\nIn the process of remediating [CVE-2025-29927](https://github.com/advisories/GHSA-f82v-jwr5-mffw), we looked at other possible exploits of Middleware. We independently verified this low severity vulnerability in parallel with two reports from independent researchers.\n\nLearn more [here](ht...",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "nextjs"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640085-sweap-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.085Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf",
+        "Published event: GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hos"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.085Z",
+      "updated_at": "2026-10-02T03:44:00.085Z"
+    },
+    {
+      "id": "sig-1790912640095-znnyr",
+      "title": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "canonical_url": "https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2021-12-07T21:12:09Z",
+      "discovered_at": "2026-10-02T03:44:00.095Z",
+      "category": "Security",
+      "summary": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "detailed_summary": "Next.js is a React framework. In versions of Next.js prior to 12.0.5 or 11.1.3, invalid or malformed URLs could lead to a server crash. In order to be affected by this issue, the deployment must use Next.js versions above 11.1.0 and below 12.0.5, Node.js above 15.0.0, and next start or a custom serv...",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "react",
+        "nextjs"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640095-znnyr-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.095Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx",
+        "Published event: GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js."
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.095Z",
+      "updated_at": "2026-10-02T03:44:00.095Z"
+    },
+    {
+      "id": "sig-1790912640105-ao5x8",
+      "title": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "canonical_url": "https://nvd.nist.gov/vuln/detail/CVE-2013-7035",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2020-09-04T16:52:57Z",
+      "discovered_at": "2026-10-02T03:44:00.105Z",
+      "category": "Security",
+      "summary": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "detailed_summary": "Affected versions of `react` are vulnerable to Cross-Site Scripting (XSS). The package fails to properly sanitize input used to create keys. This may allow attackers to execute arbitrary JavaScript if a key is generated from user input.\n\n\n## Recommendation\n\nIf you are using `react` 0.5.x, upgrade to...",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640105-ao5x8-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2013-7035",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.105Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://nvd.nist.gov/vuln/detail/CVE-2013-7035",
+        "Published event: GHSA-g53w-52xc-2j85: Cross-Site Scripting in react"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.105Z",
+      "updated_at": "2026-10-02T03:44:00.105Z"
+    },
+    {
+      "id": "sig-1790912640116-w82hr",
+      "title": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "canonical_url": "https://github.com/facebook/react",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2020-09-04T15:26:04Z",
+      "discovered_at": "2026-10-02T03:44:00.116Z",
+      "category": "Security",
+      "summary": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "detailed_summary": "Versions of `react` prior to 0.14.0 are vulnerable to Cross-Site Scripting (XSS). The package's `createElement` function fails to properly validate its input object, allowing attackers to execute arbitrary JavaScript in a victim's browser.\n\n\n## Recommendation\n\nUpgrade to version 0.14.0 or later.",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "react"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640116-w82hr-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://github.com/facebook/react",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.116Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://github.com/facebook/react",
+        "Published event: GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.116Z",
+      "updated_at": "2026-10-02T03:44:00.116Z"
+    },
+    {
+      "id": "sig-1790912640130-cy6v8",
+      "title": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "canonical_url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10491",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2024-10-29T18:30:37Z",
+      "discovered_at": "2026-10-02T03:44:00.130Z",
+      "category": "Security",
+      "summary": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "detailed_summary": "A vulnerability has been identified in the Express response.links function, allowing for arbitrary resource injection in the Link header when unsanitized data is used.\n\nThe issue arises from improper sanitization in `Link` header values, which can allow a combination of characters like `,`, `;`, and...",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640130-cy6v8-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10491",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.131Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://nvd.nist.gov/vuln/detail/CVE-2024-10491",
+        "Published event: GHSA-cm5g-3pgc-8rg4: Express ressource injection"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.131Z",
+      "updated_at": "2026-10-02T03:44:00.131Z"
+    },
+    {
+      "id": "sig-1790912640144-jurpf",
+      "title": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "canonical_url": "https://nvd.nist.gov/vuln/detail/CVE-2014-6393",
+      "source": "cve_feed",
+      "source_label": "CVE FEED",
+      "published_at": "2018-10-23T17:22:54Z",
+      "discovered_at": "2026-10-02T03:44:00.144Z",
+      "category": "Security",
+      "summary": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "detailed_summary": "Vulnerable versions of express do not specify a charset field in the content-type header while displaying 400 level response messages. The lack of enforcing user's browser to set correct charset, could be leveraged by an attacker to perform a cross-site scripting attack, using non-standard encodings...",
+      "importance_score": 100,
+      "confidence_score": 0.95,
+      "entities": [
+        "cve_feed"
+      ],
+      "technologies": [
+        "open-source"
+      ],
+      "organizations": [],
+      "tags": [
+        "security",
+        "cve_feed"
+      ],
+      "evidence": [
+        {
+          "id": "ev-sig-1790912640144-jurpf-1",
+          "type": "official_source",
+          "label": "cve_feed upstream API record",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2014-6393",
+          "verified": true,
+          "discovered_at": "2026-10-02T03:44:00.144Z",
+          "details": "Discovered during ingestion pipeline execution [Job job-1790912592261]."
+        }
+      ],
+      "verification_status": "verified",
+      "lifecycle_status": "published",
+      "source_derived_facts": [
+        "Source URL: https://nvd.nist.gov/vuln/detail/CVE-2014-6393",
+        "Published event: GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express"
+      ],
+      "ai_analysis": "Structured categorization generated via TechFossil canonical parser.",
+      "inferred_relationships": [],
+      "related_signals": [],
+      "created_at": "2026-10-02T03:44:00.144Z",
+      "updated_at": "2026-10-02T03:44:00.144Z"
+    }
+  ],
+  "releases": [
+    {
+      "id": "rel-react-19-2",
+      "technology_slug": "react",
+      "version": "19.2.0",
+      "tag_name": "v19.2.0",
+      "release_date": "2026-09-28",
+      "is_breaking": false,
+      "highlights": [
+        "React Compiler 1.0 official integration support",
+        "Granular streaming error boundary recovery for Server Actions",
+        "Hydration performance improvements for nested client component trees",
+        "Automatic resource link header preloading"
+      ],
+      "source_url": "https://github.com/facebook/react/releases/tag/v19.2.0",
+      "signal_id": "sig-2026-1001-react-compiler"
+    },
+    {
+      "id": "rel-next-15-3",
+      "technology_slug": "nextjs",
+      "version": "15.3.0",
+      "tag_name": "v15.3.0",
+      "release_date": "2026-09-25",
+      "is_breaking": false,
+      "highlights": [
+        "100% Turbopack feature parity for production builds",
+        "Automated codemod for dynamic route caching",
+        "Reduced memory footprint during multi-page static generation",
+        "Enhanced PPR (Partial Prerendering) streaming stability"
+      ],
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v15.3.0",
+      "signal_id": "sig-2026-0925-nextjs-turbopack"
+    },
+    {
+      "id": "rel-ts-5-7",
+      "technology_slug": "typescript",
+      "version": "5.7.0",
+      "tag_name": "v5.7.0",
+      "release_date": "2026-09-22",
+      "is_breaking": false,
+      "highlights": [
+        "Checks for uninitialized variables accessed within closure scopes",
+        "Path rewriting support via rewriteRelativeImportExtensions",
+        "Fast isolatedDeclarations verification",
+        "Editor performance upgrades for large tsconfig projects"
+      ],
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/v5.7.0",
+      "signal_id": "sig-2026-0922-typescript-5-7"
+    },
+    {
+      "id": "rel-py-3-13",
+      "technology_slug": "python",
+      "version": "3.13.0",
+      "tag_name": "v3.13.0",
+      "release_date": "2026-09-25",
+      "is_breaking": true,
+      "highlights": [
+        "Experimental free-threaded (No-GIL) CPython build (PEP 703)",
+        "Basic tier-2 copy-on-write JIT compiler preview",
+        "Colorized, multiline interactive REPL based on PyRepl",
+        "Deprecation of legacy C-API functions"
+      ],
+      "source_url": "https://github.com/python/cpython/releases/tag/v3.13.0",
+      "signal_id": "sig-2026-0925-python-free-threaded"
+    },
+    {
+      "id": "rel-bun-1-2",
+      "technology_slug": "bun",
+      "version": "1.2.0",
+      "tag_name": "bun-v1.2.0",
+      "release_date": "2026-09-20",
+      "is_breaking": false,
+      "highlights": [
+        "Native bun:sql PostgreSQL driver with zero-overhead binary protocol",
+        "Full support for node:cluster multicore worker scaling",
+        "Optimized file I/O operations using Linux io_uring"
+      ],
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.2.0",
+      "signal_id": "sig-2026-0920-bun-1-2-sql"
+    },
+    {
+      "id": "rel-pg-17",
+      "technology_slug": "postgresql",
+      "version": "17.0",
+      "tag_name": "REL_17_0",
+      "release_date": "2026-09-14",
+      "is_breaking": false,
+      "highlights": [
+        "Up to 20x memory reduction during table vacuuming",
+        "Standardized SQL/JSON JSON_TABLE implementation",
+        "High-availability logical replication failover control",
+        "AVX-512 SIMD vector calculation boosts for embeddings"
+      ],
+      "source_url": "https://www.postgresql.org/about/news/postgresql-17-released-2722/",
+      "signal_id": "sig-2026-0914-postgres-17-vector"
+    },
+    {
+      "id": "rel-sig-1790912639934-2xq3w",
+      "technology_slug": "react",
+      "version": "v19.3.0",
+      "tag_name": "v19.3.0",
+      "release_date": "2026-09-09",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.3.0",
+        "Published event: facebook/react v19.3.0: 19.3.0 (September 9, 2026)"
+      ],
+      "source_url": "https://github.com/react/react/releases/tag/v19.3.0",
+      "signal_id": "sig-1790912639934-2xq3w"
+    },
+    {
+      "id": "rel-sig-1790912639942-lduq7",
+      "technology_slug": "react",
+      "version": "v19.2.8",
+      "tag_name": "v19.2.8",
+      "release_date": "2026-07-21",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.2.8",
+        "Published event: facebook/react v19.2.8: 19.2.8 (July 21st, 2026)"
+      ],
+      "source_url": "https://github.com/react/react/releases/tag/v19.2.8",
+      "signal_id": "sig-1790912639942-lduq7"
+    },
+    {
+      "id": "rel-sig-1790912639948-a5y8o",
+      "technology_slug": "react",
+      "version": "v19.1.9",
+      "tag_name": "v19.1.9",
+      "release_date": "2026-07-21",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/react/react/releases/tag/v19.1.9",
+        "Published event: facebook/react v19.1.9: 19.1.9 (July 21st, 2026)"
+      ],
+      "source_url": "https://github.com/react/react/releases/tag/v19.1.9",
+      "signal_id": "sig-1790912639948-a5y8o"
+    },
+    {
+      "id": "rel-sig-1790912639956-m0ju5",
+      "technology_slug": "typescript",
+      "version": "v1.0.1",
+      "tag_name": "v1.0.1",
+      "release_date": "2026-09-30",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1",
+        "Published event: microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1"
+      ],
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1",
+      "signal_id": "sig-1790912639956-m0ju5"
+    },
+    {
+      "id": "rel-sig-1790912639962-694a2",
+      "technology_slug": "typescript",
+      "version": "v7.0.2",
+      "tag_name": "v7.0.2",
+      "release_date": "2026-08-20",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+        "Published event: microsoft/TypeScript v7.0.2: TypeScript 7.0.2"
+      ],
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+      "signal_id": "sig-1790912639962-694a2"
+    },
+    {
+      "id": "rel-sig-1790912639968-ra6jr",
+      "technology_slug": "typescript",
+      "version": "v6.0.3",
+      "tag_name": "v6.0.3",
+      "release_date": "2026-04-16",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/microsoft/TypeScript/releases/tag/v6.0.3",
+        "Published event: microsoft/TypeScript v6.0.3: TypeScript 6.0.3"
+      ],
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/v6.0.3",
+      "signal_id": "sig-1790912639968-ra6jr"
+    },
+    {
+      "id": "rel-sig-1790912639974-lbfra",
+      "technology_slug": "react",
+      "version": "v16.4.0-canary.56",
+      "tag_name": "v16.4.0-canary.56",
+      "release_date": "2026-10-02",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56",
+        "Published event: vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56"
+      ],
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56",
+      "signal_id": "sig-1790912639974-lbfra"
+    },
+    {
+      "id": "rel-sig-1790912639981-vlsw3",
+      "technology_slug": "nextjs",
+      "version": "v16.4.0-canary.55",
+      "tag_name": "v16.4.0-canary.55",
+      "release_date": "2026-10-01",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+        "Published event: vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55"
+      ],
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55",
+      "signal_id": "sig-1790912639981-vlsw3"
+    },
+    {
+      "id": "rel-sig-1790912639988-1q7wu",
+      "technology_slug": "nextjs",
+      "version": "v16.4.0-canary.54",
+      "tag_name": "v16.4.0-canary.54",
+      "release_date": "2026-09-30",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54",
+        "Published event: vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54"
+      ],
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54",
+      "signal_id": "sig-1790912639988-1q7wu"
+    },
+    {
+      "id": "rel-sig-1790912639996-t7iqv",
+      "technology_slug": "rust",
+      "version": "v1.99.0",
+      "tag_name": "v1.99.0",
+      "release_date": "2026-10-01",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.99.0",
+        "Published event: rust-lang/rust 1.99.0: Rust 1.99.0"
+      ],
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.99.0",
+      "signal_id": "sig-1790912639996-t7iqv"
+    },
+    {
+      "id": "rel-sig-1790912640003-fa1hq",
+      "technology_slug": "rust",
+      "version": "v1.98.1",
+      "tag_name": "v1.98.1",
+      "release_date": "2026-09-03",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.98.1",
+        "Published event: rust-lang/rust 1.98.1: Rust 1.98.1"
+      ],
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.98.1",
+      "signal_id": "sig-1790912640003-fa1hq"
+    },
+    {
+      "id": "rel-sig-1790912640010-dpeay",
+      "technology_slug": "rust",
+      "version": "v1.98.0",
+      "tag_name": "v1.98.0",
+      "release_date": "2026-08-20",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/rust-lang/rust/releases/tag/1.98.0",
+        "Published event: rust-lang/rust 1.98.0: Rust 1.98.0"
+      ],
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.98.0",
+      "signal_id": "sig-1790912640010-dpeay"
+    },
+    {
+      "id": "rel-sig-1790912640019-tunmm",
+      "technology_slug": "bun",
+      "version": "v1.4.2",
+      "tag_name": "v1.4.2",
+      "release_date": "2026-09-05",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+        "Published event: oven-sh/bun bun-v1.4.2: Bun v1.4.2"
+      ],
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+      "signal_id": "sig-1790912640019-tunmm"
+    },
+    {
+      "id": "rel-sig-1790912640027-4y2q7",
+      "technology_slug": "bun",
+      "version": "v1.4.1",
+      "tag_name": "v1.4.1",
+      "release_date": "2026-09-04",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+        "Published event: oven-sh/bun bun-v1.4.1: Bun v1.4.1"
+      ],
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+      "signal_id": "sig-1790912640027-4y2q7"
+    },
+    {
+      "id": "rel-sig-1790912640038-i0a1w",
+      "technology_slug": "bun",
+      "version": "v1.4.0",
+      "tag_name": "v1.4.0",
+      "release_date": "2026-08-20",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+        "Published event: oven-sh/bun bun-v1.4.0: Bun v1.4"
+      ],
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0",
+      "signal_id": "sig-1790912640038-i0a1w"
+    },
+    {
+      "id": "rel-sig-1790912640045-8n7t1",
+      "technology_slug": "typescript",
+      "version": "v1.31.0",
+      "tag_name": "v1.31.0",
+      "release_date": "2026-09-28",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0",
+        "Published event: @modelcontextprotocol/sdk v1.31.0 Released on npm"
+      ],
+      "source_url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0",
+      "signal_id": "sig-1790912640045-8n7t1"
+    },
+    {
+      "id": "rel-sig-1790912640052-rph7c",
+      "technology_slug": "drizzle-orm",
+      "version": "v0.45.3",
+      "tag_name": "v0.45.3",
+      "release_date": "2026-09-21",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://www.npmjs.com/package/drizzle-orm/v/0.45.3",
+        "Published event: drizzle-orm v0.45.3 Released on npm"
+      ],
+      "source_url": "https://www.npmjs.com/package/drizzle-orm/v/0.45.3",
+      "signal_id": "sig-1790912640052-rph7c"
+    },
+    {
+      "id": "rel-sig-1790912640060-0g9pd",
+      "technology_slug": "gemini",
+      "version": "v7.0.127",
+      "tag_name": "v7.0.127",
+      "release_date": "2026-10-01",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://www.npmjs.com/package/ai/v/7.0.127",
+        "Published event: ai v7.0.127 Released on npm"
+      ],
+      "source_url": "https://www.npmjs.com/package/ai/v/7.0.127",
+      "signal_id": "sig-1790912640060-0g9pd"
+    },
+    {
+      "id": "rel-sig-1790912640068-cdnxd",
+      "technology_slug": "react",
+      "version": "v16.3.8",
+      "tag_name": "v16.3.8",
+      "release_date": "2026-09-30",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://www.npmjs.com/package/next/v/16.3.8",
+        "Published event: next v16.3.8 Released on npm"
+      ],
+      "source_url": "https://www.npmjs.com/package/next/v/16.3.8",
+      "signal_id": "sig-1790912640068-cdnxd"
+    },
+    {
+      "id": "rel-sig-1790912640077-7662g",
+      "technology_slug": "react",
+      "version": "v19.3.0",
+      "tag_name": "v19.3.0",
+      "release_date": "2026-09-09",
+      "is_breaking": false,
+      "highlights": [
+        "Source URL: https://www.npmjs.com/package/react/v/19.3.0",
+        "Published event: react v19.3.0 Released on npm"
+      ],
+      "source_url": "https://www.npmjs.com/package/react/v/19.3.0",
+      "signal_id": "sig-1790912640077-7662g"
+    }
+  ],
+  "securityAdvisories": [
+    {
+      "id": "sec-cve-2026-2184",
+      "cve_id": "CVE-2026-2184",
+      "title": "Node.js Experimental Permission Model Symlink Path Traversal Bypass",
+      "severity": "high",
+      "affected_technology_slug": "nodejs",
+      "affected_versions": ">= 20.0.0, < 20.17.1; >= 22.0.0, < 22.8.1",
+      "patched_version": "20.17.1, 22.8.1",
+      "published_at": "2026-09-27T18:00:00Z",
+      "description": "A Time-of-Check to Time-of-Use (TOCTOU) symlink resolution flaw in Node.js permission checking permitted malicious scripts with restricted filesystem read permissions to escape sandboxed boundaries via atomic symlink swap.",
+      "source_url": "https://nodejs.org/en/blog/vulnerability/september-2026-security-releases",
+      "signal_id": "sig-2026-0927-node-permission-security"
+    },
+    {
+      "id": "sec-cve-2026-1192",
+      "cve_id": "CVE-2026-1192",
+      "title": "Next.js Server Actions CSRF and Stale Token Deserialization Vulnerability",
+      "severity": "medium",
+      "affected_technology_slug": "nextjs",
+      "affected_versions": ">= 14.0.0, < 14.2.14",
+      "patched_version": "14.2.14, 15.0.0",
+      "published_at": "2026-05-18T14:00:00Z",
+      "description": "Crafted action IDs combined with mutated host headers could trigger unauthorized action execution on misconfigured reverse proxy setups.",
+      "source_url": "https://github.com/vercel/next.js/security/advisories/GHSA-1192"
+    },
+    {
+      "id": "sec-sig-1790912640085-sweap",
+      "cve_id": "GHSA-223J-4RM8-MRMF",
+      "title": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "severity": "high",
+      "affected_technology_slug": "nextjs",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2025-04-02T22:35:37Z",
+      "description": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "source_url": "https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf",
+      "signal_id": "sig-1790912640085-sweap"
+    },
+    {
+      "id": "sec-sig-1790912640095-znnyr",
+      "cve_id": "GHSA-25MP-G6FV-MQXX",
+      "title": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "severity": "high",
+      "affected_technology_slug": "react",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2021-12-07T21:12:09Z",
+      "description": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "source_url": "https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx",
+      "signal_id": "sig-1790912640095-znnyr"
+    },
+    {
+      "id": "sec-sig-1790912640105-ao5x8",
+      "cve_id": "GHSA-G53W-52XC-2J85",
+      "title": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "severity": "high",
+      "affected_technology_slug": "react",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2020-09-04T16:52:57Z",
+      "description": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2013-7035",
+      "signal_id": "sig-1790912640105-ao5x8"
+    },
+    {
+      "id": "sec-sig-1790912640116-w82hr",
+      "cve_id": "GHSA-HG79-J56M-FXGV",
+      "title": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "severity": "high",
+      "affected_technology_slug": "react",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2020-09-04T15:26:04Z",
+      "description": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "source_url": "https://github.com/facebook/react",
+      "signal_id": "sig-1790912640116-w82hr"
+    },
+    {
+      "id": "sec-sig-1790912640130-cy6v8",
+      "cve_id": "GHSA-CM5G-3PGC-8RG4",
+      "title": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "severity": "high",
+      "affected_technology_slug": "open-source",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2024-10-29T18:30:37Z",
+      "description": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10491",
+      "signal_id": "sig-1790912640130-cy6v8"
+    },
+    {
+      "id": "sec-sig-1790912640144-jurpf",
+      "cve_id": "GHSA-GPVR-G6GH-9MC2",
+      "title": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "severity": "high",
+      "affected_technology_slug": "open-source",
+      "affected_versions": "< latest patch",
+      "patched_version": "latest patch",
+      "published_at": "2018-10-23T17:22:54Z",
+      "description": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2014-6393",
+      "signal_id": "sig-1790912640144-jurpf"
+    }
+  ],
+  "researchPapers": [
+    {
+      "id": "paper-2609-13942",
+      "arxiv_id": "arXiv:2609.13942",
+      "title": "Verifiable Self-Correction Loops in Agentic Multi-Pass Code Synthesis",
+      "authors": [
+        "Elena Rostova",
+        "Marcus Vance",
+        "Demis Hassabis",
+        "Percy Liang"
+      ],
+      "abstract": "We introduce Dual-Stream Feedback Verification (DSFV), coupling autoregressive code token prediction with deterministic formal type systems and sandboxed unit tests. Experimental results across SWE-bench and HumanEval-X demonstrate an 86% reduction in hallucinated imports and a 42% increase in multi-turn repair success.",
+      "published_at": "2026-09-19T02:00:00Z",
+      "primary_category": "cs.SE (Software Engineering)",
+      "related_technologies": [
+        "ai-agents",
+        "gemini",
+        "python"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2609.13942.pdf",
+      "source_url": "https://arxiv.org/abs/2609.13942",
+      "signal_id": "sig-2026-0919-arxiv-reasoning-agents"
+    },
+    {
+      "id": "paper-2608-09112",
+      "arxiv_id": "arXiv:2608.09112",
+      "title": "Scaling Laws for Autonomous Tool-Using Software Agents",
+      "authors": [
+        "Julian Mercer",
+        "Sarah Chen",
+        "Amir Farhadi"
+      ],
+      "abstract": "An empirical investigation into token budget allocation across planning, subagent delegation, and environment feedback. We show that compute-optimal agents allocate 38% of total inference FLOPs to dry-run verification.",
+      "published_at": "2026-08-14T11:00:00Z",
+      "primary_category": "cs.AI (Artificial Intelligence)",
+      "related_technologies": [
+        "ai-agents",
+        "gemini",
+        "claude-anthropic"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2608.09112.pdf",
+      "source_url": "https://arxiv.org/abs/2608.09112"
+    }
+  ],
+  "timelineEvents": [
+    {
+      "id": "tl-react-2026-3",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-28",
+      "event_type": "release",
+      "title": "React Compiler 1.0 GA & React 19.2",
+      "description": "General Availability of automatic build-time memoization compiler and server action streaming recovery.",
+      "importance": 95,
+      "signal_id": "sig-2026-1001-react-compiler",
+      "source_url": "https://react.dev/blog/2026/09/react-compiler-ga"
+    },
+    {
+      "id": "tl-react-2026-1",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q1",
+      "date": "2026-02-14",
+      "event_type": "breaking_change",
+      "title": "Deprecation of Legacy Context API & String Refs",
+      "description": "React core completely purges deprecated v16 legacy context patterns in preparation for React 20.",
+      "importance": 82,
+      "source_url": "https://react.dev"
+    },
+    {
+      "id": "tl-react-2025-4",
+      "technology_slug": "react",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-12-05",
+      "event_type": "release",
+      "title": "React 19.0 General Availability",
+      "description": "Historic release introducing Actions, useOptimistic, useFormStatus, and Server Components standard.",
+      "importance": 98,
+      "source_url": "https://react.dev/blog/2024/12/05/react-19"
+    },
+    {
+      "id": "tl-react-2025-2",
+      "technology_slug": "react",
+      "year": 2025,
+      "quarter": "Q2",
+      "date": "2025-05-15",
+      "event_type": "rfc",
+      "title": "RFC: Asset Loading & Preloading Primitives",
+      "description": "Standardized primitives for stylesheets, font preloads, and script execution order in React trees.",
+      "importance": 79
+    },
+    {
+      "id": "tl-react-2024-3",
+      "technology_slug": "react",
+      "year": 2024,
+      "quarter": "Q3",
+      "date": "2024-08-20",
+      "event_type": "ecosystem",
+      "title": "React Forget Beta Renamed to React Compiler",
+      "description": "Public open-source testing begins for automated memoization compiler across Meta apps.",
+      "importance": 86
+    },
+    {
+      "id": "tl-next-2026-3",
+      "technology_slug": "nextjs",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-25",
+      "event_type": "release",
+      "title": "Next.js 15.3 Turbopack Production Parity",
+      "description": "100% Turbopack parity for production builds, replacing Webpack by default across all new apps.",
+      "importance": 91,
+      "signal_id": "sig-2026-0925-nextjs-turbopack",
+      "source_url": "https://nextjs.org/blog/next-15-3"
+    },
+    {
+      "id": "tl-next-2025-4",
+      "technology_slug": "nextjs",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-10-24",
+      "event_type": "release",
+      "title": "Next.js 15 General Availability",
+      "description": "Async Request APIs, Uncached GET fetch defaults, and React 19 support.",
+      "importance": 94,
+      "source_url": "https://nextjs.org/blog/next-15"
+    },
+    {
+      "id": "tl-next-2024-4",
+      "technology_slug": "nextjs",
+      "year": 2024,
+      "quarter": "Q4",
+      "date": "2024-10-26",
+      "event_type": "announcement",
+      "title": "Turbopack Dev Becomes Stable in Next.js 14.2",
+      "description": "Local development server compilation speed accelerated up to 94% on large production sites.",
+      "importance": 85
+    },
+    {
+      "id": "tl-ts-2026-3",
+      "technology_slug": "typescript",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-22",
+      "event_type": "release",
+      "title": "TypeScript 5.7 GA",
+      "description": "Strict checks for uninitialized variables in closures and module path rewriting.",
+      "importance": 89,
+      "signal_id": "sig-2026-0922-typescript-5-7",
+      "source_url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/"
+    },
+    {
+      "id": "tl-ts-2025-4",
+      "technology_slug": "typescript",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-11-20",
+      "event_type": "release",
+      "title": "TypeScript 5.6: Disallowed Nullish Checks",
+      "description": "Compiler prevents truthiness checks on syntax constructs that never evaluate to falsy.",
+      "importance": 84
+    },
+    {
+      "id": "tl-ts-2025-2",
+      "technology_slug": "typescript",
+      "year": 2025,
+      "quarter": "Q2",
+      "date": "2025-06-20",
+      "event_type": "release",
+      "title": "TypeScript 5.5: Inferred Type Predicates",
+      "description": "Array.filter() automatically narrows types without manual explicit type guards.",
+      "importance": 92
+    },
+    {
+      "id": "tl-agents-2026-3",
+      "technology_slug": "ai-agents",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-29",
+      "event_type": "announcement",
+      "title": "Model Context Protocol 2.0 Standardization",
+      "description": "Universal standard adopted across Google, Microsoft, Anthropic, and open-source agent ecosystems.",
+      "importance": 98,
+      "signal_id": "sig-2026-0930-mcp-agent-standard",
+      "source_url": "https://modelcontextprotocol.io"
+    },
+    {
+      "id": "tl-agents-2026-2",
+      "technology_slug": "ai-agents",
+      "year": 2026,
+      "quarter": "Q2",
+      "date": "2026-06-12",
+      "event_type": "research",
+      "title": "SWE-bench Verified Surpassed 80% Resolve Rate",
+      "description": "Autonomous multi-pass agent architectures resolve over 80% of real-world GitHub issues with zero human edits.",
+      "importance": 96
+    },
+    {
+      "id": "tl-agents-2025-4",
+      "technology_slug": "ai-agents",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-11-15",
+      "event_type": "release",
+      "title": "First Open Source MCP Reference Server Implementations",
+      "description": "Filesystem, PostgreSQL, Git, and Browser automation servers open-sourced for AI agents.",
+      "importance": 90
+    },
+    {
+      "id": "tl-gemini-2026-3",
+      "technology_slug": "gemini",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-22",
+      "event_type": "release",
+      "title": "Google Gemini 3.8 Reasoning & Live API Engine",
+      "description": "Sub-second multimodal reasoning, extended thinking traces for distributed software engineering.",
+      "importance": 97,
+      "signal_id": "sig-2026-0922-gemini-agent-protocols"
+    },
+    {
+      "id": "tl-gemini-2025-4",
+      "technology_slug": "gemini",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-12-11",
+      "event_type": "release",
+      "title": "Gemini 2.0 Flash Release",
+      "description": "Real-time streaming agentic framework with native multimodal tool calling.",
+      "importance": 93
+    },
+    {
+      "id": "tl-py-2026-3",
+      "technology_slug": "python",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-25",
+      "event_type": "release",
+      "title": "Python 3.13 Stable with Free-Threaded (No-GIL) Build",
+      "description": "PEP 703 enables true multicore CPU parallelism without the Global Interpreter Lock.",
+      "importance": 96,
+      "signal_id": "sig-2026-0925-python-free-threaded"
+    },
+    {
+      "id": "tl-py-2025-4",
+      "technology_slug": "python",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-10-02",
+      "event_type": "release",
+      "title": "Python 3.12 General Availability",
+      "description": "Syntactic formal grammar for f-strings and isolated subinterpreters with per-interpreter GIL.",
+      "importance": 88
+    },
+    {
+      "id": "tl-node-2026-3",
+      "technology_slug": "nodejs",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-27",
+      "event_type": "security",
+      "title": "CVE-2026-2184 Permission Model Symlink Bypass Patched",
+      "description": "Critical patch release for Node 22, 20, and 18 preventing unauthorized filesystem reads.",
+      "importance": 88,
+      "signal_id": "sig-2026-0927-node-permission-security"
+    },
+    {
+      "id": "tl-node-2025-4",
+      "technology_slug": "nodejs",
+      "year": 2025,
+      "quarter": "Q4",
+      "date": "2025-10-29",
+      "event_type": "release",
+      "title": "Node.js 22 Promoted to Active LTS",
+      "description": "Built-in WebSocket client, default V8 12.4 with Maglev compiler, and require(esm) support.",
+      "importance": 91
+    },
+    {
+      "id": "tl-rust-2026-3",
+      "technology_slug": "rust",
+      "year": 2026,
+      "quarter": "Q3",
+      "date": "2026-09-18",
+      "event_type": "rfc",
+      "title": "Rust 2024 Edition Final Release Candidate",
+      "description": "Beta stabilization of async closures, lifetime capture rules, and strict lint categories.",
+      "importance": 90,
+      "signal_id": "sig-2026-0918-rust-edition-2024"
+    },
+    {
+      "id": "tl-rust-2025-3",
+      "technology_slug": "rust",
+      "year": 2025,
+      "quarter": "Q3",
+      "date": "2025-07-25",
+      "event_type": "release",
+      "title": "Rust 1.75: Async fn in Traits Stabilized",
+      "description": "Native async methods in traits without third-party #[async_trait] macro overhead.",
+      "importance": 95
+    },
+    {
+      "id": "tl-sig-1790912639934-2xq3w",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-09",
+      "event_type": "release",
+      "title": "facebook/react v19.3.0: 19.3.0 (September 9, 2026)",
+      "description": "facebook/react v19.3.0: 19.3.0 (September 9, 2026)",
+      "importance": 85,
+      "signal_id": "sig-1790912639934-2xq3w",
+      "source_url": "https://github.com/react/react/releases/tag/v19.3.0"
+    },
+    {
+      "id": "tl-sig-1790912639942-lduq7",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-07-21",
+      "event_type": "release",
+      "title": "facebook/react v19.2.8: 19.2.8 (July 21st, 2026)",
+      "description": "facebook/react v19.2.8: 19.2.8 (July 21st, 2026)",
+      "importance": 85,
+      "signal_id": "sig-1790912639942-lduq7",
+      "source_url": "https://github.com/react/react/releases/tag/v19.2.8"
+    },
+    {
+      "id": "tl-sig-1790912639948-a5y8o",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-07-21",
+      "event_type": "release",
+      "title": "facebook/react v19.1.9: 19.1.9 (July 21st, 2026)",
+      "description": "facebook/react v19.1.9: 19.1.9 (July 21st, 2026)",
+      "importance": 85,
+      "signal_id": "sig-1790912639948-a5y8o",
+      "source_url": "https://github.com/react/react/releases/tag/v19.1.9"
+    },
+    {
+      "id": "tl-sig-1790912639956-m0ju5",
+      "technology_slug": "typescript",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-30",
+      "event_type": "release",
+      "title": "microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1",
+      "description": "microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1",
+      "importance": 85,
+      "signal_id": "sig-1790912639956-m0ju5",
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/vscode-typescript/v1.0.1"
+    },
+    {
+      "id": "tl-sig-1790912639962-694a2",
+      "technology_slug": "typescript",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-08-20",
+      "event_type": "release",
+      "title": "microsoft/TypeScript v7.0.2: TypeScript 7.0.2",
+      "description": "microsoft/TypeScript v7.0.2: TypeScript 7.0.2",
+      "importance": 85,
+      "signal_id": "sig-1790912639962-694a2",
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2"
+    },
+    {
+      "id": "tl-sig-1790912639968-ra6jr",
+      "technology_slug": "typescript",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-04-16",
+      "event_type": "release",
+      "title": "microsoft/TypeScript v6.0.3: TypeScript 6.0.3",
+      "description": "microsoft/TypeScript v6.0.3: TypeScript 6.0.3",
+      "importance": 85,
+      "signal_id": "sig-1790912639968-ra6jr",
+      "source_url": "https://github.com/microsoft/TypeScript/releases/tag/v6.0.3"
+    },
+    {
+      "id": "tl-sig-1790912639974-lbfra",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-02",
+      "event_type": "release",
+      "title": "vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56",
+      "description": "vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56",
+      "importance": 85,
+      "signal_id": "sig-1790912639974-lbfra",
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.56"
+    },
+    {
+      "id": "tl-sig-1790912639981-vlsw3",
+      "technology_slug": "nextjs",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55",
+      "description": "vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55",
+      "importance": 85,
+      "signal_id": "sig-1790912639981-vlsw3",
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.55"
+    },
+    {
+      "id": "tl-sig-1790912639988-1q7wu",
+      "technology_slug": "nextjs",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-30",
+      "event_type": "release",
+      "title": "vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54",
+      "description": "vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54",
+      "importance": 85,
+      "signal_id": "sig-1790912639988-1q7wu",
+      "source_url": "https://github.com/vercel/next.js/releases/tag/v16.4.0-canary.54"
+    },
+    {
+      "id": "tl-sig-1790912639996-t7iqv",
+      "technology_slug": "rust",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "rust-lang/rust 1.99.0: Rust 1.99.0",
+      "description": "rust-lang/rust 1.99.0: Rust 1.99.0",
+      "importance": 85,
+      "signal_id": "sig-1790912639996-t7iqv",
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.99.0"
+    },
+    {
+      "id": "tl-sig-1790912640003-fa1hq",
+      "technology_slug": "rust",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-03",
+      "event_type": "release",
+      "title": "rust-lang/rust 1.98.1: Rust 1.98.1",
+      "description": "rust-lang/rust 1.98.1: Rust 1.98.1",
+      "importance": 85,
+      "signal_id": "sig-1790912640003-fa1hq",
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.98.1"
+    },
+    {
+      "id": "tl-sig-1790912640010-dpeay",
+      "technology_slug": "rust",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-08-20",
+      "event_type": "release",
+      "title": "rust-lang/rust 1.98.0: Rust 1.98.0",
+      "description": "rust-lang/rust 1.98.0: Rust 1.98.0",
+      "importance": 85,
+      "signal_id": "sig-1790912640010-dpeay",
+      "source_url": "https://github.com/rust-lang/rust/releases/tag/1.98.0"
+    },
+    {
+      "id": "tl-sig-1790912640019-tunmm",
+      "technology_slug": "bun",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-05",
+      "event_type": "release",
+      "title": "oven-sh/bun bun-v1.4.2: Bun v1.4.2",
+      "description": "oven-sh/bun bun-v1.4.2: Bun v1.4.2",
+      "importance": 85,
+      "signal_id": "sig-1790912640019-tunmm",
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2"
+    },
+    {
+      "id": "tl-sig-1790912640027-4y2q7",
+      "technology_slug": "bun",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-04",
+      "event_type": "release",
+      "title": "oven-sh/bun bun-v1.4.1: Bun v1.4.1",
+      "description": "oven-sh/bun bun-v1.4.1: Bun v1.4.1",
+      "importance": 85,
+      "signal_id": "sig-1790912640027-4y2q7",
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1"
+    },
+    {
+      "id": "tl-sig-1790912640038-i0a1w",
+      "technology_slug": "bun",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-08-20",
+      "event_type": "release",
+      "title": "oven-sh/bun bun-v1.4.0: Bun v1.4",
+      "description": "oven-sh/bun bun-v1.4.0: Bun v1.4",
+      "importance": 85,
+      "signal_id": "sig-1790912640038-i0a1w",
+      "source_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.0"
+    },
+    {
+      "id": "tl-sig-1790912640045-8n7t1",
+      "technology_slug": "typescript",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-28",
+      "event_type": "release",
+      "title": "@modelcontextprotocol/sdk v1.31.0 Released on npm",
+      "description": "@modelcontextprotocol/sdk v1.31.0 Released on npm",
+      "importance": 85,
+      "signal_id": "sig-1790912640045-8n7t1",
+      "source_url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk/v/1.31.0"
+    },
+    {
+      "id": "tl-sig-1790912640052-rph7c",
+      "technology_slug": "drizzle-orm",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-21",
+      "event_type": "release",
+      "title": "drizzle-orm v0.45.3 Released on npm",
+      "description": "drizzle-orm v0.45.3 Released on npm",
+      "importance": 85,
+      "signal_id": "sig-1790912640052-rph7c",
+      "source_url": "https://www.npmjs.com/package/drizzle-orm/v/0.45.3"
+    },
+    {
+      "id": "tl-sig-1790912640060-0g9pd",
+      "technology_slug": "gemini",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-10-01",
+      "event_type": "release",
+      "title": "ai v7.0.127 Released on npm",
+      "description": "ai v7.0.127 Released on npm",
+      "importance": 85,
+      "signal_id": "sig-1790912640060-0g9pd",
+      "source_url": "https://www.npmjs.com/package/ai/v/7.0.127"
+    },
+    {
+      "id": "tl-sig-1790912640068-cdnxd",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-30",
+      "event_type": "release",
+      "title": "next v16.3.8 Released on npm",
+      "description": "next v16.3.8 Released on npm",
+      "importance": 85,
+      "signal_id": "sig-1790912640068-cdnxd",
+      "source_url": "https://www.npmjs.com/package/next/v/16.3.8"
+    },
+    {
+      "id": "tl-sig-1790912640077-7662g",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2026-09-09",
+      "event_type": "release",
+      "title": "react v19.3.0 Released on npm",
+      "description": "react v19.3.0 Released on npm",
+      "importance": 85,
+      "signal_id": "sig-1790912640077-7662g",
+      "source_url": "https://www.npmjs.com/package/react/v/19.3.0"
+    },
+    {
+      "id": "tl-sig-1790912640085-sweap",
+      "technology_slug": "nextjs",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2025-04-02",
+      "event_type": "security",
+      "title": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "description": "GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts",
+      "importance": 100,
+      "signal_id": "sig-1790912640085-sweap",
+      "source_url": "https://github.com/vercel/next.js/security/advisories/GHSA-223j-4rm8-mrmf"
+    },
+    {
+      "id": "tl-sig-1790912640095-znnyr",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2021-12-07",
+      "event_type": "security",
+      "title": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "description": "GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js.",
+      "importance": 100,
+      "signal_id": "sig-1790912640095-znnyr",
+      "source_url": "https://github.com/vercel/next.js/security/advisories/GHSA-25mp-g6fv-mqxx"
+    },
+    {
+      "id": "tl-sig-1790912640105-ao5x8",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2020-09-04",
+      "event_type": "security",
+      "title": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "description": "GHSA-g53w-52xc-2j85: Cross-Site Scripting in react",
+      "importance": 100,
+      "signal_id": "sig-1790912640105-ao5x8",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2013-7035"
+    },
+    {
+      "id": "tl-sig-1790912640116-w82hr",
+      "technology_slug": "react",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2020-09-04",
+      "event_type": "security",
+      "title": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "description": "GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react",
+      "importance": 100,
+      "signal_id": "sig-1790912640116-w82hr",
+      "source_url": "https://github.com/facebook/react"
+    },
+    {
+      "id": "tl-sig-1790912640130-cy6v8",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2024-10-29",
+      "event_type": "security",
+      "title": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "description": "GHSA-cm5g-3pgc-8rg4: Express ressource injection",
+      "importance": 100,
+      "signal_id": "sig-1790912640130-cy6v8",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10491"
+    },
+    {
+      "id": "tl-sig-1790912640144-jurpf",
+      "technology_slug": "open-source",
+      "year": 2026,
+      "quarter": "Q4",
+      "date": "2018-10-23",
+      "event_type": "security",
+      "title": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "description": "GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express",
+      "importance": 100,
+      "signal_id": "sig-1790912640144-jurpf",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2014-6393"
+    }
+  ],
+  "processingJobs": [
+    {
+      "id": "job-1790912592261",
+      "source": "all",
+      "started_at": "2026-10-02T03:43:12.261Z",
+      "status": "completed",
+      "records_found": 26,
+      "records_processed": 26,
+      "records_created": 26,
+      "duplicates": 0,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "3:43:12 AM",
+          "level": "info",
+          "message": "Pipeline started [Job job-1790912592261]."
+        },
+        {
+          "timestamp": "3:43:12 AM",
+          "level": "info",
+          "message": "STAGE 1 & 2: COLLECT - Querying 4 active source adapters..."
+        },
+        {
+          "timestamp": "3:43:13 AM",
+          "level": "info",
+          "message": "[GitHub Releases & Tags] Discovered 15 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "3:43:20 AM",
+          "level": "info",
+          "message": "[npm Package Registry] Discovered 5 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "[arXiv Computer Science Feed] Discovered 0 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "[OSV & Security Feeds] Discovered 6 raw candidates from upstream APIs."
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 3 & 4: NORMALIZE & DEDUPLICATE - Checking canonical URLs & content hashes..."
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"facebook/react v19.3.0: 19.3.0 (Septembe...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639934-2xq3w] facebook/react v19.3.0: 19.3.0 (September 9, 2026)"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"facebook/react v19.2.8: 19.2.8 (July 21s...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639942-lduq7] facebook/react v19.2.8: 19.2.8 (July 21st, 2026)"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"facebook/react v19.1.9: 19.1.9 (July 21s...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639948-a5y8o] facebook/react v19.1.9: 19.1.9 (July 21st, 2026)"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"microsoft/TypeScript vscode-typescript/v...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639956-m0ju5] microsoft/TypeScript vscode-typescript/v1.0.1: vscode-typescript/v1.0.1"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"microsoft/TypeScript v7.0.2: TypeScript ...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639962-694a2] microsoft/TypeScript v7.0.2: TypeScript 7.0.2"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"microsoft/TypeScript v6.0.3: TypeScript ...\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639968-ra6jr] microsoft/TypeScript v6.0.3: TypeScript 6.0.3"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"vercel/next.js v16.4.0-canary.56: v16.4....\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639974-lbfra] vercel/next.js v16.4.0-canary.56: v16.4.0-canary.56"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"vercel/next.js v16.4.0-canary.55: v16.4....\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639981-vlsw3] vercel/next.js v16.4.0-canary.55: v16.4.0-canary.55"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"vercel/next.js v16.4.0-canary.54: v16.4....\""
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639988-1q7wu] vercel/next.js v16.4.0-canary.54: v16.4.0-canary.54"
+        },
+        {
+          "timestamp": "3:43:59 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"rust-lang/rust 1.99.0: Rust 1.99.0...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912639996-t7iqv] rust-lang/rust 1.99.0: Rust 1.99.0"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"rust-lang/rust 1.98.1: Rust 1.98.1...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640003-fa1hq] rust-lang/rust 1.98.1: Rust 1.98.1"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"rust-lang/rust 1.98.0: Rust 1.98.0...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640010-dpeay] rust-lang/rust 1.98.0: Rust 1.98.0"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"oven-sh/bun bun-v1.4.2: Bun v1.4.2...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640019-tunmm] oven-sh/bun bun-v1.4.2: Bun v1.4.2"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"oven-sh/bun bun-v1.4.1: Bun v1.4.1...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640027-4y2q7] oven-sh/bun bun-v1.4.1: Bun v1.4.1"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"oven-sh/bun bun-v1.4.0: Bun v1.4...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640038-i0a1w] oven-sh/bun bun-v1.4.0: Bun v1.4"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"@modelcontextprotocol/sdk v1.31.0 Releas...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640045-8n7t1] @modelcontextprotocol/sdk v1.31.0 Released on npm"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"drizzle-orm v0.45.3 Released on npm...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640052-rph7c] drizzle-orm v0.45.3 Released on npm"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"ai v7.0.127 Released on npm...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640060-0g9pd] ai v7.0.127 Released on npm"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"next v16.3.8 Released on npm...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640068-cdnxd] next v16.3.8 Released on npm"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"react v19.3.0 Released on npm...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640077-7662g] react v19.3.0 Released on npm"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-223j-4rm8-mrmf: Next.js may leak x-...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640085-sweap] GHSA-223j-4rm8-mrmf: Next.js may leak x-middleware-subrequest-id to external hosts"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-25mp-g6fv-mqxx: Unexpected server c...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640095-znnyr] GHSA-25mp-g6fv-mqxx: Unexpected server crash in Next.js."
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-g53w-52xc-2j85: Cross-Site Scriptin...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640105-ao5x8] GHSA-g53w-52xc-2j85: Cross-Site Scripting in react"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-hg79-j56m-fxgv: Cross-Site Scriptin...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640116-w82hr] GHSA-hg79-j56m-fxgv: Cross-Site Scripting in react"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-cm5g-3pgc-8rg4: Express ressource i...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640130-cy6v8] GHSA-cm5g-3pgc-8rg4: Express ressource injection"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STAGE 5 & 6: CLASSIFY & EXTRACT ENTITIES for: \"GHSA-gpvr-g6gh-9mc2: No Charset in Conte...\""
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "STORED & INDEXED: [sig-1790912640144-jurpf] GHSA-gpvr-g6gh-9mc2: No Charset in Content-Type Header in express"
+        },
+        {
+          "timestamp": "3:44:00 AM",
+          "level": "info",
+          "message": "Pipeline cycle completed successfully. Created: 26, Duplicates: 0."
+        }
+      ],
+      "finished_at": "2026-10-02T03:44:00.155Z"
+    },
+    {
+      "id": "job-20261001-0800",
+      "source": "all",
+      "started_at": "2026-10-01T08:00:00Z",
+      "finished_at": "2026-10-01T08:04:12Z",
+      "status": "completed",
+      "records_found": 148,
+      "records_processed": 148,
+      "records_created": 14,
+      "duplicates": 122,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "08:00:01",
+          "level": "info",
+          "message": "Initialized scheduled multi-source ingestion adapter suite."
+        },
+        {
+          "timestamp": "08:01:10",
+          "level": "info",
+          "message": "Fetched 38 release tags from GitHub API and 45 packages from npm registry."
+        },
+        {
+          "timestamp": "08:02:15",
+          "level": "info",
+          "message": "Deduplication engine filtered 122 identical release hashes and canonical URLs."
+        },
+        {
+          "timestamp": "08:03:00",
+          "level": "info",
+          "message": "Gemini entity extractor categorized 14 unique signals with confidence >= 0.95."
+        },
+        {
+          "timestamp": "08:03:45",
+          "level": "info",
+          "message": "Evidence verifier validated 14 official documentation and tag origins."
+        },
+        {
+          "timestamp": "08:04:12",
+          "level": "info",
+          "message": "Batch job completed. Indexes and timeline events updated."
+        }
+      ]
+    },
+    {
+      "id": "job-20261001-0400",
+      "source": "cve_feed",
+      "started_at": "2026-10-01T04:00:00Z",
+      "finished_at": "2026-10-01T04:01:20Z",
+      "status": "completed",
+      "records_found": 22,
+      "records_processed": 22,
+      "records_created": 1,
+      "duplicates": 21,
+      "errors": [],
+      "logs": [
+        {
+          "timestamp": "04:00:00",
+          "level": "info",
+          "message": "Querying NVD CVE 2.0 API for ecosystem keywords."
+        },
+        {
+          "timestamp": "04:01:15",
+          "level": "info",
+          "message": "Parsed security advisories. 1 new critical/high CVE indexed."
+        }
+      ]
+    }
+  ]
+}
