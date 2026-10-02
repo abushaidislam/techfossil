@@ -1,5 +1,6 @@
 import React from 'react';
 import { Technology } from '../../types';
+import { CategoryBadge } from '../badges/CategoryBadge';
 import { ChevronRight } from 'lucide-react';
 
 interface Props {
@@ -11,22 +12,22 @@ export const TechnologyCard: React.FC<Props> = ({ technology, onClick }) => {
   return (
     <div
       onClick={onClick}
-      className="group bg-[#111215] hover:bg-[#15161a] border border-white/[0.07] hover:border-white/[0.14] rounded-lg p-5 transition-colors cursor-pointer flex flex-col justify-between font-sans space-y-4"
+      className="group bg-[#111215] hover:bg-[#15161a] border border-white/[0.08] hover:border-white/[0.20] rounded-lg p-4 transition-all duration-150 cursor-pointer flex flex-col justify-between font-sans space-y-3.5 shadow-sm"
     >
       <div className="space-y-2">
-        <div className="flex items-center justify-between text-xs text-neutral-400">
-          <span className="font-medium text-neutral-400">{technology.category}</span>
-          <span className="font-mono text-[11px] text-neutral-400">
+        <div className="flex items-center justify-between text-xs text-neutral-400 gap-2">
+          <CategoryBadge category={technology.category} size="sm" />
+          <span className="font-mono text-[11px] text-neutral-400 shrink-0">
             Observed {technology.first_observed.slice(0, 4)}
           </span>
         </div>
 
         <div className="flex items-baseline justify-between gap-2">
-          <h3 className="text-base font-semibold text-white group-hover:text-amber-200 transition-colors">
+          <h3 className="text-sm font-semibold text-white group-hover:text-amber-200 transition-colors">
             {technology.name}
           </h3>
           {technology.organization && (
-            <span className="text-xs text-neutral-400">
+            <span className="text-[11px] font-mono text-neutral-400 truncate max-w-[120px]">
               {technology.organization}
             </span>
           )}
@@ -37,9 +38,9 @@ export const TechnologyCard: React.FC<Props> = ({ technology, onClick }) => {
         </p>
       </div>
 
-      <div className="pt-3 border-t border-white/[0.04] flex items-center justify-between text-xs text-neutral-400">
-        <span>Updated {technology.latest_update}</span>
-        <span className="text-neutral-400 group-hover:text-white transition-colors inline-flex items-center gap-1 font-medium">
+      <div className="pt-2.5 border-t border-white/[0.05] flex items-center justify-between text-[11px] text-neutral-400">
+        <span className="font-mono">Updated {technology.latest_update}</span>
+        <span className="text-neutral-400 group-hover:text-white transition-colors inline-flex items-center gap-0.5 font-medium">
           Timeline <ChevronRight className="w-3.5 h-3.5" />
         </span>
       </div>

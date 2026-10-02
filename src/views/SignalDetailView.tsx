@@ -90,23 +90,27 @@ export const SignalDetailView: React.FC<Props> = ({
 
   return (
     <div className="max-w-4xl mx-auto py-8 space-y-8">
-      {/* Top Navigation */}
-      <div className="flex items-center justify-between">
-        <button
-          onClick={onBack}
-          className="inline-flex items-center gap-1.5 text-xs font-mono text-neutral-400 hover:text-white transition-colors"
-        >
-          <ArrowLeft className="w-3.5 h-3.5" />
-          <span>Back to Archive</span>
-        </button>
+      {/* Top Breadcrumb Navigation */}
+      <div className="flex items-center justify-between gap-4 font-sans text-xs">
+        <div className="flex items-center gap-2 text-neutral-400 overflow-x-auto">
+          <button onClick={onBack} className="hover:text-white transition-colors shrink-0">
+            Archive
+          </button>
+          <span>/</span>
+          <span className="text-neutral-400 font-medium shrink-0">{signal.category}</span>
+          <span>/</span>
+          <span className="text-neutral-200 truncate max-w-xs sm:max-w-md font-medium">
+            {signal.title}
+          </span>
+        </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 shrink-0">
           <button
             onClick={handleCopyLink}
-            className="inline-flex items-center gap-1 text-xs font-mono text-neutral-400 hover:text-white px-2 py-1 rounded bg-[#121316] border border-white/[0.08]"
+            className="inline-flex items-center gap-1.5 text-xs font-mono text-neutral-300 hover:text-white px-2.5 py-1.5 rounded-md bg-[#121316] hover:bg-neutral-800 border border-white/[0.08] transition-colors"
           >
-            <Share2 className="w-3 h-3" />
-            <span>{copied ? 'Copied URL!' : 'Share Ledger'}</span>
+            <Share2 className="w-3.5 h-3.5" />
+            <span>{copied ? 'Copied link!' : 'Share'}</span>
           </button>
         </div>
       </div>

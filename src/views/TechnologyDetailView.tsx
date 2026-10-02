@@ -85,15 +85,15 @@ export const TechnologyDetailView: React.FC<Props> = ({
 
   return (
     <div className="max-w-5xl mx-auto py-8 space-y-8">
-      {/* Back Button */}
-      <div>
-        <button
-          onClick={onBack}
-          className="inline-flex items-center gap-1.5 text-xs font-mono text-neutral-400 hover:text-white transition-colors"
-        >
-          <ArrowLeft className="w-3.5 h-3.5" />
-          <span>Back to Technologies Directory</span>
+      {/* Breadcrumb Navigation */}
+      <div className="flex items-center gap-2 font-sans text-xs text-neutral-400">
+        <button onClick={onBack} className="hover:text-white transition-colors">
+          Technologies
         </button>
+        <span>/</span>
+        <span className="text-neutral-400 font-medium">{technology.category}</span>
+        <span>/</span>
+        <span className="text-white font-medium">{technology.name}</span>
       </div>
 
       {/* Main Dossier Header */}
