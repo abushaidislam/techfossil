@@ -9,14 +9,32 @@ on:
 jobs:
   weekly:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm ci
-      - run: echo "Compiling weekly statistics..."
-      - uses: stefanzweifel/git-auto-commit-action@v5
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Compile Weekly Statistics
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run weekly:generate
+
+      - name: Commit Weekly Ecosystem Statistics
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "data(stats): update weekly ecosystem statistics [skip ci]"
           file_pattern: "data/*"

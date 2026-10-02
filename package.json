@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start",
     "ingest": "tsx scripts/run-ingestion.ts",
+    "digest:generate": "tsx scripts/run-digest.ts",
+    "weekly:generate": "tsx scripts/run-weekly.ts",
+    "snapshot:generate": "tsx scripts/run-snapshot.ts",
     "lint": "eslint .",
     "clean": "next clean"
   },
