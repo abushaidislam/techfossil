@@ -334,7 +334,7 @@ export const SEED_SIGNALS: Signal[] = [
     importance_score: 96,
     confidence_score: 0.99,
     entities: ['Guido van Rossum', 'Python Software Foundation', 'PEP 703 Working Group'],
-    technologies: ['python', 'pytorch'],
+    technologies: ['python'],
     organizations: ['Python Software Foundation', 'Meta'],
     tags: ['python', 'cpython', 'no-gil', 'multithreading', 'jit', 'release'],
     evidence: [

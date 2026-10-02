@@ -502,6 +502,7 @@ export class IngestionPipeline {
             signal_id: signalId,
           });
         } else if (item.source === 'arxiv') {
+          const arxivNum = item.externalId.replace('arxiv-', '');
           archiveStore.addResearchPaper({
             id: `paper-${signalId}`,
             arxiv_id: item.externalId.replace('arxiv-', 'arXiv:'),
@@ -509,7 +510,9 @@ export class IngestionPipeline {
             authors: analysis.entities.length > 0 ? analysis.entities : ['Academic Research Consortium'],
             abstract: analysis.detailed_summary,
             published_at: item.publishedAt,
+            primary_category: (item.metadata?.category as string) || 'cs.AI',
             related_technologies: analysis.technologies,
+            pdf_url: `https://arxiv.org/pdf/${arxivNum}.pdf`,
             source_url: item.url,
             signal_id: signalId,
           });
