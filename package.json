@@ -11,6 +11,7 @@
     "weekly:generate": "tsx scripts/run-weekly.ts",
     "snapshot:generate": "tsx scripts/run-snapshot.ts",
     "lint": "eslint .",
+    "ingest": "tsx scripts/ingest.ts",
     "clean": "next clean"
   },
   "dependencies": {

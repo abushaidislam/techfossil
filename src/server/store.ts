@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import {
   Signal,
   Technology,
@@ -24,6 +22,7 @@ import {
 } from '../data/seed-timelines';
 import { SEED_GRAPH_NODES, SEED_GRAPH_EDGES } from '../data/seed-relationships';
 import { SEED_DAILY_DIGEST, SEED_PROCESSING_JOBS } from '../data/seed-digests';
+import { persistenceEngine } from './persistence';
 
 const STOP_WORDS = new Set([
   'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', 'aren\'t', 'as', 'at',
@@ -41,9 +40,6 @@ const STOP_WORDS = new Set([
   'while', 'who', 'who\'s', 'whom', 'why', 'why\'s', 'with', 'won\'t', 'would', 'wouldn\'t', 'you', 'you\'d',
   'you\'ll', 'you\'re', 'you\'ve', 'your', 'yours', 'yourself', 'yourselves', 'year', 'month'
 ]);
-
-const DATA_DIR = path.join(process.cwd(), 'data');
-const PERSISTENCE_FILE = path.join(DATA_DIR, 'archive-store.json');
 
 class ArchiveStore {
   private technologies: Map<string, Technology> = new Map();
@@ -66,15 +62,58 @@ class ArchiveStore {
   }> = [];
 
   constructor() {
-    this.init();
+    this.seed();
+    this.loadFromPersistence();
   }
 
-  private init() {
-    this.seedDefaults();
-    this.loadFromDisk();
+  private loadFromPersistence() {
+    try {
+      const persisted = persistenceEngine.load();
+      if (!persisted) return;
+
+      if (Array.isArray(persisted.technologies)) {
+        for (const t of persisted.technologies) this.technologies.set(t.slug, t);
+      }
+      if (Array.isArray(persisted.signals)) {
+        for (const s of persisted.signals) this.signals.set(s.id, s);
+      }
+      if (Array.isArray(persisted.timelineEvents)) {
+        for (const e of persisted.timelineEvents) this.timelineEvents.set(e.id, e);
+      }
+      if (Array.isArray(persisted.releases)) {
+        for (const r of persisted.releases) this.releases.set(r.id, r);
+      }
+      if (Array.isArray(persisted.securityAdvisories)) {
+        for (const sec of persisted.securityAdvisories) this.securityAdvisories.set(sec.id, sec);
+      }
+      if (Array.isArray(persisted.researchPapers)) {
+        for (const p of persisted.researchPapers) this.researchPapers.set(p.id, p);
+      }
+      if (Array.isArray(persisted.jobs)) {
+        this.processingJobs = persisted.jobs;
+      }
+    } catch (err) {
+      console.warn('[ArchiveStore] Could not load persisted data:', err);
+    }
   }
 
-  private seedDefaults() {
+  public flushToDisk(): void {
+    try {
+      persistenceEngine.save({
+        signals: Array.from(this.signals.values()),
+        technologies: Array.from(this.technologies.values()),
+        timelineEvents: Array.from(this.timelineEvents.values()),
+        releases: Array.from(this.releases.values()),
+        securityAdvisories: Array.from(this.securityAdvisories.values()),
+        researchPapers: Array.from(this.researchPapers.values()),
+        jobs: this.processingJobs,
+      }).catch((err) => console.warn('[ArchiveStore] Async flush error:', err));
+    } catch (err) {
+      console.warn('[ArchiveStore] Flush exception:', err);
+    }
+  }
+
+  private seed() {
     for (const tech of SEED_TECHNOLOGIES) {
       this.technologies.set(tech.slug, { ...tech });
     }
@@ -128,68 +167,6 @@ class ArchiveStore {
         status: 'pending',
       },
     ];
-  }
-
-  private loadFromDisk() {
-    try {
-      if (fs.existsSync(PERSISTENCE_FILE)) {
-        const raw = fs.readFileSync(PERSISTENCE_FILE, 'utf-8');
-        const parsed = JSON.parse(raw);
-
-        if (Array.isArray(parsed.signals)) {
-          for (const sig of parsed.signals) {
-            this.signals.set(sig.id, sig);
-          }
-        }
-        if (Array.isArray(parsed.releases)) {
-          for (const rel of parsed.releases) {
-            this.releases.set(rel.id, rel);
-          }
-        }
-        if (Array.isArray(parsed.securityAdvisories)) {
-          for (const sec of parsed.securityAdvisories) {
-            this.securityAdvisories.set(sec.id, sec);
-          }
-        }
-        if (Array.isArray(parsed.researchPapers)) {
-          for (const paper of parsed.researchPapers) {
-            this.researchPapers.set(paper.id, paper);
-          }
-        }
-        if (Array.isArray(parsed.timelineEvents)) {
-          for (const evt of parsed.timelineEvents) {
-            this.timelineEvents.set(evt.id, evt);
-          }
-        }
-        if (Array.isArray(parsed.processingJobs)) {
-          this.processingJobs = parsed.processingJobs;
-        }
-      }
-    } catch (err) {
-      console.warn('Failed to load store persistence from disk:', err);
-    }
-  }
-
-  public saveToDisk() {
-    try {
-      if (!fs.existsSync(DATA_DIR)) {
-        fs.mkdirSync(DATA_DIR, { recursive: true });
-      }
-
-      const payload = {
-        updated_at: new Date().toISOString(),
-        signals: Array.from(this.signals.values()),
-        releases: Array.from(this.releases.values()),
-        securityAdvisories: Array.from(this.securityAdvisories.values()),
-        researchPapers: Array.from(this.researchPapers.values()),
-        timelineEvents: Array.from(this.timelineEvents.values()),
-        processingJobs: this.processingJobs,
-      };
-
-      fs.writeFileSync(PERSISTENCE_FILE, JSON.stringify(payload, null, 2), 'utf-8');
-    } catch (err) {
-      console.warn('Failed to save store persistence to disk:', err);
-    }
   }
 
   // Technologies
@@ -397,7 +374,7 @@ class ArchiveStore {
         tech.latest_update = signal.published_at.slice(0, 10);
       }
     }
-    this.saveToDisk();
+    this.flushToDisk();
     return signal;
   }
 
@@ -410,7 +387,7 @@ class ArchiveStore {
       updated_at: new Date().toISOString(),
     };
     this.signals.set(id, updated);
-    this.saveToDisk();
+    this.flushToDisk();
     return updated;
   }
 
@@ -425,7 +402,7 @@ class ArchiveStore {
 
   addTimelineEvent(evt: TimelineEvent): TimelineEvent {
     this.timelineEvents.set(evt.id, evt);
-    this.saveToDisk();
+    this.flushToDisk();
     return evt;
   }
 
@@ -445,7 +422,7 @@ class ArchiveStore {
       tech.stats.releases_count += 1;
       tech.latest_update = release.release_date;
     }
-    this.saveToDisk();
+    this.flushToDisk();
     return release;
   }
 
@@ -466,7 +443,7 @@ class ArchiveStore {
         tech.stats.vulnerabilities_count += 1;
       }
     }
-    this.saveToDisk();
+    this.flushToDisk();
     return advisory;
   }
 
@@ -481,7 +458,7 @@ class ArchiveStore {
 
   addResearchPaper(paper: ResearchPaper): ResearchPaper {
     this.researchPapers.set(paper.id, paper);
-    this.saveToDisk();
+    this.flushToDisk();
     return paper;
   }
 
@@ -507,7 +484,6 @@ class ArchiveStore {
 
   saveDailyDigest(digest: DailyDigest): DailyDigest {
     this.dailyDigests.set(digest.date, digest);
-    this.saveToDisk();
     return digest;
   }
 
@@ -520,7 +496,6 @@ class ArchiveStore {
 
   addProcessingJob(job: ProcessingJob): ProcessingJob {
     this.processingJobs.unshift(job);
-    this.saveToDisk();
     return job;
   }
 
@@ -528,7 +503,6 @@ class ArchiveStore {
     const job = this.processingJobs.find((j) => j.id === id);
     if (!job) return undefined;
     Object.assign(job, updates);
-    this.saveToDisk();
     return job;
   }
 
@@ -548,7 +522,6 @@ class ArchiveStore {
         }
       }
     }
-    this.saveToDisk();
     return item;
   }
 

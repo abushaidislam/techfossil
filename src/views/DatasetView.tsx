@@ -42,35 +42,31 @@ export const DatasetView: React.FC = () => {
       </header>
 
       {/* Export Formats Row */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 font-sans">
         {[
           {
             format: 'json',
-            name: 'Full JSON Bundle',
+            name: 'Full JSON bundle',
             desc: 'Complete structured hierarchy with evidence ledgers & relations.',
             icon: FileCode,
-            color: 'text-amber-400',
           },
           {
             format: 'jsonl',
             name: 'NDJSON / JSONL',
-            desc: 'Line-delimited stream format ideal for LLM fine-tuning pipelines.',
+            desc: 'Line-delimited stream format ideal for data analytics pipelines.',
             icon: Terminal,
-            color: 'text-emerald-400',
           },
           {
             format: 'csv',
             name: 'Tabular CSV',
-            desc: 'Flattened tabular rows for Pandas, Excel, and SQL ingestion.',
+            desc: 'Flattened tabular rows for spreadsheet, notebook, or SQL ingestion.',
             icon: Table,
-            color: 'text-sky-400',
           },
           {
             format: 'markdown',
-            name: 'Markdown Digest',
-            desc: 'Human-readable documentation format with citations & facts.',
+            name: 'Markdown archive',
+            desc: 'Human-readable documentation format with citations & primary facts.',
             icon: FileText,
-            color: 'text-purple-400',
           },
         ].map((item) => {
           const Icon = item.icon;
@@ -78,19 +74,19 @@ export const DatasetView: React.FC = () => {
           return (
             <div
               key={item.format}
-              className="bg-[#121316] border border-white/[0.08] rounded-md p-4 flex flex-col justify-between space-y-3"
+              className="bg-[#121316] border border-white/[0.08] hover:border-white/[0.16] rounded-md p-4 flex flex-col justify-between space-y-3 transition-colors"
             >
               <div className="space-y-1.5">
-                <Icon className={`w-5 h-5 ${item.color}`} />
-                <h3 className="font-mono text-sm font-bold text-white">{item.name}</h3>
-                <p className="text-[11px] text-neutral-400 font-sans leading-relaxed">
+                <Icon className="w-5 h-5 text-neutral-300" />
+                <h3 className="text-sm font-semibold text-white">{item.name}</h3>
+                <p className="text-[11px] text-neutral-400 leading-relaxed">
                   {item.desc}
                 </p>
               </div>
 
               <button
                 onClick={() => handleDownload(item.format)}
-                className="w-full py-1.5 px-3 rounded bg-white/[0.08] hover:bg-white/[0.14] text-xs font-mono text-white transition-colors flex items-center justify-center gap-1.5"
+                className="w-full py-1.5 px-3 rounded bg-white/[0.06] hover:bg-white/[0.12] text-xs font-medium text-white transition-colors flex items-center justify-center gap-1.5"
               >
                 <Download className="w-3.5 h-3.5" />
                 <span>{isCurrent ? 'Downloading...' : `Download .${item.format}`}</span>

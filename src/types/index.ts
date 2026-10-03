@@ -219,7 +219,7 @@ export interface DailyDigest {
 
 export interface ProcessingJob {
   id: string;
-  source: SourceType | 'all' | 'synthetic_cycle';
+  source: SourceType | 'all' | 'synthetic_cycle' | string;
   started_at: string;
   finished_at?: string;
   status: 'running' | 'completed' | 'failed';

@@ -127,19 +127,14 @@ export const Header: React.FC<Props> = ({
         <div className="flex items-center gap-6">
           <button
             onClick={() => onNavigate('home')}
-            className="flex items-center gap-2.5 text-left group focus:outline-none"
+            className="flex items-center gap-2 text-left group focus:outline-none"
           >
-            <div className="w-7 h-7 rounded border border-white/15 bg-[#141518] flex items-center justify-center font-sans font-bold text-xs tracking-tight text-white group-hover:border-white/30 transition-colors shadow-sm">
+            <div className="w-6 h-6 rounded border border-white/20 bg-[#141518] flex items-center justify-center font-sans font-bold text-xs tracking-tight text-white group-hover:border-white/40 transition-colors shadow-sm">
               TF
             </div>
-            <div className="flex flex-col">
-              <span className="font-semibold tracking-tight text-white font-sans text-sm leading-tight">
-                TechFossil
-              </span>
-              <span className="text-[11px] text-neutral-400 font-sans tracking-normal -mt-0.5">
-                Technology archive
-              </span>
-            </div>
+            <span className="font-semibold tracking-tight text-white font-sans text-sm leading-none">
+              TechFossil
+            </span>
           </button>
 
           {/* Primary Navigation - restrained, uncluttered, sentence case */}
@@ -279,8 +274,8 @@ export const Header: React.FC<Props> = ({
       {mobileMenuOpen && (
         <div className="md:hidden border-b border-white/[0.08] bg-[#111215] px-4 py-4 space-y-4">
           <div className="space-y-1">
-            <div className="text-[11px] font-sans font-semibold text-neutral-400 uppercase tracking-wider px-2 mb-1">
-              Primary Archive
+            <div className="text-[11px] font-sans font-medium text-neutral-400 px-2 mb-1">
+              Primary archive
             </div>
             {primaryLinks.map((item) => (
               <button
@@ -302,7 +297,7 @@ export const Header: React.FC<Props> = ({
 
           {dropdownCategories.map((group, idx) => (
             <div key={idx} className="space-y-1 pt-2 border-t border-white/[0.06]">
-              <div className="text-[11px] font-sans font-semibold text-neutral-400 uppercase tracking-wider px-2 mb-1">
+              <div className="text-[11px] font-sans font-medium text-neutral-400 px-2 mb-1">
                 {group.title}
               </div>
               {group.items.map((item) => (

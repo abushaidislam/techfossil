@@ -34,18 +34,18 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
   });
 
   const pipelineStages = [
-    'COLLECT',
-    'NORMALIZE',
-    'DEDUPLICATE',
-    'CLASSIFY',
-    'EXTRACT ENTITIES',
-    'VERIFY',
-    'CALCULATE IMPORTANCE',
-    'CREATE RELATIONSHIPS',
-    'STORE',
-    'INDEX',
-    'TIMELINE UPDATE',
-    'DIGEST SYNC',
+    'Collect',
+    'Normalize',
+    'Deduplicate',
+    'Classify',
+    'Extract entities',
+    'Verify',
+    'Calculate importance',
+    'Create relationships',
+    'Store',
+    'Index',
+    'Timeline update',
+    'Digest sync',
   ];
 
   const loadData = async () => {
@@ -144,17 +144,18 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
         </div>
 
         {/* Trigger Controls */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 font-sans">
           <select
             value={selectedSource}
             onChange={(e) => setSelectedSource(e.target.value)}
-            className="bg-[#121316] border border-white/[0.08] rounded px-3 py-1.5 text-xs font-mono text-neutral-200 focus:outline-none"
+            className="bg-[#121316] border border-white/[0.08] rounded px-3 py-1.5 text-xs text-neutral-200 focus:outline-none font-sans"
           >
-            <option value="all">All Sources (Batch)</option>
-            <option value="github_releases">GitHub Releases</option>
-            <option value="npm_registry">npm Registry</option>
+            <option value="all">All sources (batch)</option>
+            <option value="github_releases">GitHub releases</option>
+            <option value="npm_registry">npm registry</option>
             <option value="arxiv_cs">arXiv Computer Science</option>
-            <option value="cve_security">CVE & NVD Feed</option>
+            <option value="cve_security">CVE & NVD feed</option>
+            <option value="pypi_registry">PyPI registry</option>
           </select>
 
           <button
@@ -165,12 +166,12 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
             {isRunning ? (
               <>
                 <div className="w-3 h-3 border-2 border-black border-t-transparent rounded-full animate-spin"></div>
-                <span>Executing Pipeline...</span>
+                <span>Executing pipeline...</span>
               </>
             ) : (
               <>
                 <Play className="w-3.5 h-3.5 fill-black" />
-                <span>Run Ingestion Cycle</span>
+                <span>Run ingestion cycle</span>
               </>
             )}
           </button>
@@ -178,31 +179,31 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
       </div>
 
       {/* 14-Stage Visualizer */}
-      <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4">
+      <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4 font-sans">
         <div className="flex items-center justify-between border-b border-white/[0.06] pb-2">
-          <h3 className="font-mono text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
-            <Activity className="w-4 h-4 text-amber-400" />
-            14-Stage Data Pipeline Architecture
+          <h3 className="text-sm font-semibold text-white flex items-center gap-2">
+            <Activity className="w-4 h-4 text-neutral-400" />
+            <span>14-stage data pipeline architecture</span>
           </h3>
-          <span className="font-mono text-xs text-neutral-400">
-            Lifecycle: Discovered → Verified → Published
+          <span className="text-xs text-neutral-400">
+            Discovered → Verified → Published
           </span>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-2 font-mono text-xs">
+        <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-2 text-xs">
           {pipelineStages.map((stage, idx) => (
             <div
               key={stage}
               className={`p-2.5 rounded border text-center flex flex-col justify-between ${
                 isRunning
-                  ? 'bg-amber-950/20 border-amber-500/40 text-amber-300 animate-pulse'
+                  ? 'bg-white/[0.06] border-white/20 text-white'
                   : 'bg-neutral-900/60 border-white/[0.04] text-neutral-300'
               }`}
             >
-              <span className="text-[10px] text-neutral-400 block font-bold mb-1">
-                STAGE {idx + 1}
+              <span className="text-[10px] text-neutral-400 block font-medium mb-1">
+                Stage {idx + 1}
               </span>
-              <span className="font-semibold text-xs">{stage}</span>
+              <span className="font-medium text-xs">{stage}</span>
             </div>
           ))}
         </div>
@@ -211,15 +212,15 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
       {/* Two Column Layout: Current Job Logs & Duplicate Candidates */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Execution Logs */}
-        <div className="lg:col-span-2 bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-3 flex flex-col">
+        <div className="lg:col-span-2 bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-3 flex flex-col font-sans">
           <div className="flex items-center justify-between border-b border-white/[0.06] pb-2">
-            <h3 className="font-mono text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
-              <Terminal className="w-4 h-4 text-emerald-400" />
-              Pipeline Execution Log Terminal {currentJob ? `[Job ${currentJob.id}]` : ''}
+            <h3 className="text-sm font-semibold text-white flex items-center gap-2">
+              <Terminal className="w-4 h-4 text-neutral-400" />
+              <span>Pipeline execution log terminal {currentJob ? `[Job ${currentJob.id}]` : ''}</span>
             </h3>
             {currentJob && (
-              <span className="font-mono text-xs text-emerald-400 font-bold">
-                {currentJob.status.toUpperCase()}
+              <span className="text-xs text-neutral-300 capitalize">
+                {currentJob.status}
               </span>
             )}
           </div>
@@ -228,15 +229,7 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
             {currentJob?.logs.map((log, idx) => (
               <div key={idx} className="flex items-start gap-2 leading-relaxed">
                 <span className="text-neutral-400 text-[11px] shrink-0">[{log.timestamp}]</span>
-                <span
-                  className={`text-[11px] uppercase font-bold shrink-0 ${
-                    log.level === 'error'
-                      ? 'text-rose-400'
-                      : log.level === 'warn'
-                      ? 'text-amber-400'
-                      : 'text-sky-400'
-                  }`}
-                >
+                <span className="text-[11px] font-medium text-neutral-400 shrink-0">
                   {log.level}:
                 </span>
                 <span className="text-neutral-200">{log.message}</span>
@@ -246,55 +239,51 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
         </div>
 
         {/* Duplicate Entity Resolution Ledger */}
-        <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4">
+        <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4 font-sans">
           <div className="border-b border-white/[0.06] pb-2">
-            <h3 className="font-mono text-xs font-bold uppercase tracking-wider text-neutral-300 flex items-center gap-2">
-              <GitMerge className="w-4 h-4 text-sky-400" />
-              Entity Aliasing & Deduplication
+            <h3 className="text-sm font-semibold text-white flex items-center gap-2">
+              <GitMerge className="w-4 h-4 text-neutral-400" />
+              <span>Entity aliasing & deduplication</span>
             </h3>
           </div>
 
-          <p className="text-xs text-neutral-400 font-sans">
+          <p className="text-xs text-neutral-400 leading-relaxed">
             The entity system detects alias variations (e.g. &quot;ReactJS&quot; → &quot;React&quot;) to maintain a clean canonical knowledge base.
           </p>
 
-          <div className="space-y-3 font-mono text-xs">
+          <div className="space-y-3 text-xs">
             {duplicateCandidates.map((cand) => (
               <div
                 key={cand.id}
-                className="p-3 rounded bg-neutral-900 border border-white/[0.04] space-y-2"
+                className="p-3 rounded bg-neutral-900 border border-white/[0.04] space-y-2 font-sans"
               >
                 <div className="flex items-center justify-between">
-                  <span className="text-amber-400 font-bold">{cand.targetName}</span>
-                  <span className="text-[10px] text-neutral-400">
+                  <span className="text-white font-medium">{cand.targetName}</span>
+                  <span className="text-[11px] font-mono text-neutral-400">
                     {Math.round(cand.confidence * 100)}% match
                   </span>
                 </div>
-                <div className="text-[11px] text-neutral-300">
-                  Maps to canonical: <strong className="text-white font-mono">#{cand.canonicalSlug}</strong>
+                <div className="text-xs text-neutral-300">
+                  Maps to canonical: <span className="text-white font-mono">#{cand.canonicalSlug}</span>
                 </div>
 
                 {cand.status === 'pending' ? (
                   <div className="flex items-center gap-2 pt-1">
                     <button
                       onClick={() => handleResolveDuplicate(cand.id, 'merge')}
-                      className="px-2 py-1 bg-emerald-950/60 hover:bg-emerald-900 border border-emerald-500/40 text-emerald-300 text-[10px] rounded transition-colors"
+                      className="px-2.5 py-1 bg-white/[0.08] hover:bg-white/[0.14] text-white text-xs rounded transition-colors"
                     >
-                      Approve Merge
+                      Approve merge
                     </button>
                     <button
                       onClick={() => handleResolveDuplicate(cand.id, 'reject')}
-                      className="px-2 py-1 bg-neutral-800 hover:bg-neutral-700 text-neutral-400 text-[10px] rounded transition-colors"
+                      className="px-2.5 py-1 bg-neutral-800 hover:bg-neutral-700 text-neutral-400 text-xs rounded transition-colors"
                     >
                       Reject
                     </button>
                   </div>
                 ) : (
-                  <span
-                    className={`inline-block text-[10px] uppercase font-bold ${
-                      cand.status === 'merged' ? 'text-emerald-400' : 'text-rose-400'
-                    }`}
-                  >
+                  <span className="inline-block text-[11px] text-neutral-400 capitalize">
                     Status: {cand.status}
                   </span>
                 )}
@@ -305,23 +294,23 @@ export const IngestionControlView: React.FC<Props> = ({ onSelectSignal }) => {
       </div>
 
       {/* Active Source Adapters Ledger */}
-      <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4">
-        <h3 className="font-mono text-xs font-bold uppercase tracking-wider text-neutral-300">
-          Configured Source Adapters
+      <div className="bg-[#121316] border border-white/[0.08] rounded-md p-5 space-y-4 font-sans">
+        <h3 className="text-sm font-semibold text-white">
+          Configured source adapters
         </h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 font-mono text-xs">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 text-xs">
           {adapters.map((adapter) => (
-            <div key={adapter.id} className="p-3.5 rounded bg-neutral-900/60 border border-white/[0.04] space-y-2">
+            <div key={adapter.id} className="p-3.5 rounded bg-neutral-900/60 border border-white/[0.04] space-y-2 font-sans">
               <div className="flex items-center justify-between">
-                <span className="font-bold text-white truncate">{adapter.name}</span>
-                <span className="text-[10px] text-emerald-400 bg-emerald-950/40 px-1 py-0.5 rounded border border-emerald-500/20">
-                  HEALTHY
+                <span className="font-semibold text-white truncate">{adapter.name}</span>
+                <span className="text-[11px] text-neutral-300 bg-white/[0.04] px-1.5 py-0.5 rounded border border-white/[0.06]">
+                  Active
                 </span>
               </div>
-              <p className="text-[11px] text-neutral-400 font-sans line-clamp-2 leading-relaxed">
+              <p className="text-[11px] text-neutral-400 line-clamp-2 leading-relaxed">
                 {adapter.description}
               </p>
-              <div className="text-[10px] text-neutral-400 pt-1 border-t border-white/[0.04] flex items-center justify-between">
+              <div className="text-[11px] text-neutral-400 pt-1 border-t border-white/[0.04] flex items-center justify-between">
                 <span>Rate: {adapter.rateLimitPerMinute}/min</span>
                 <span>{adapter.frequency}</span>
               </div>

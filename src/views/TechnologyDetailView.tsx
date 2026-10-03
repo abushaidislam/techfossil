@@ -85,53 +85,55 @@ export const TechnologyDetailView: React.FC<Props> = ({
 
   return (
     <div className="max-w-5xl mx-auto py-8 space-y-8">
-      {/* Breadcrumb Navigation */}
-      <div className="flex items-center gap-2 font-sans text-xs text-neutral-400">
-        <button onClick={onBack} className="hover:text-white transition-colors">
-          Technologies
+      {/* Back Button */}
+      <div>
+        <button
+          onClick={onBack}
+          className="inline-flex items-center gap-1.5 text-xs font-sans font-medium text-neutral-400 hover:text-white transition-colors"
+        >
+          <ArrowLeft className="w-3.5 h-3.5" />
+          <span>Back to technologies directory</span>
         </button>
-        <span>/</span>
-        <span className="text-neutral-400 font-medium">{technology.category}</span>
-        <span>/</span>
-        <span className="text-white font-medium">{technology.name}</span>
       </div>
 
       {/* Main Dossier Header */}
-      <header className="bg-[#121316] border border-white/[0.08] rounded-md p-6 space-y-6">
+      <header className="bg-[#121316] border border-white/[0.08] rounded-md p-6 space-y-6 font-sans">
         <div className="flex flex-col md:flex-row md:items-start justify-between gap-6">
           <div className="space-y-3 max-w-2xl">
-            <div className="flex flex-wrap items-center gap-2">
-              <CategoryBadge category={technology.category} size="md" />
+            <div className="flex flex-wrap items-center gap-2 text-xs text-neutral-400">
+              <span className="text-neutral-200 font-medium">{technology.category}</span>
               {technology.organization && (
-                <span className="font-mono text-xs text-neutral-400 bg-neutral-900 px-2 py-0.5 rounded border border-white/[0.04]">
-                  {technology.organization}
-                </span>
+                <>
+                  <span>·</span>
+                  <span>{technology.organization}</span>
+                </>
               )}
               {technology.license && (
-                <span className="font-mono text-xs text-neutral-400 bg-neutral-900 px-2 py-0.5 rounded border border-white/[0.04]">
-                  {technology.license}
-                </span>
+                <>
+                  <span>·</span>
+                  <span>{technology.license}</span>
+                </>
               )}
             </div>
 
-            <h1 className="text-3xl sm:text-4xl font-bold text-white font-sans tracking-tight">
+            <h1 className="text-3xl sm:text-4xl font-bold text-white tracking-tight">
               {technology.name}
             </h1>
 
-            <p className="text-sm text-neutral-300 font-sans leading-relaxed">
+            <p className="text-sm text-neutral-300 leading-relaxed font-normal">
               {technology.description}
             </p>
 
             {/* Aliases & External Links */}
-            <div className="pt-2 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs font-mono text-neutral-400">
+            <div className="pt-2 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-neutral-400">
               {technology.website && (
                 <a
                   href={technology.website}
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex items-center gap-1 text-sky-400 hover:underline"
+                  className="inline-flex items-center gap-1 text-neutral-300 hover:text-white underline underline-offset-2"
                 >
-                  <span>Official Website</span>
+                  <span>Official website</span>
                   <ExternalLink className="w-3 h-3" />
                 </a>
               )}
@@ -140,22 +142,22 @@ export const TechnologyDetailView: React.FC<Props> = ({
                   href={technology.repository}
                   target="_blank"
                   rel="noreferrer"
-                  className="inline-flex items-center gap-1 text-neutral-300 hover:underline"
+                  className="inline-flex items-center gap-1 text-neutral-300 hover:text-white underline underline-offset-2"
                 >
                   <span>Repository</span>
                   <ExternalLink className="w-3 h-3" />
                 </a>
               )}
-              <span>Observed: {technology.first_observed}</span>
-              <span>Updated: {technology.latest_update}</span>
+              <span>Observed: <strong className="font-mono font-normal text-neutral-300">{technology.first_observed}</strong></span>
+              <span>Updated: <strong className="font-mono font-normal text-neutral-300">{technology.latest_update}</strong></span>
             </div>
 
             {/* Detected Entity Aliases */}
             {technology.aliases.length > 0 && (
-              <div className="flex items-center gap-2 text-[11px] font-mono text-neutral-400 pt-1">
-                <span>Canonical Aliases:</span>
+              <div className="flex flex-wrap items-center gap-2 text-[11px] text-neutral-400 pt-1">
+                <span>Canonical aliases:</span>
                 {technology.aliases.map((alias) => (
-                  <span key={alias} className="text-neutral-400 bg-neutral-900/60 px-1.5 py-0.5 rounded border border-white/[0.04]">
+                  <span key={alias} className="font-mono text-neutral-300 bg-neutral-900/60 px-1.5 py-0.5 rounded border border-white/[0.04]">
                     {alias}
                   </span>
                 ))}
@@ -164,34 +166,34 @@ export const TechnologyDetailView: React.FC<Props> = ({
           </div>
 
           {/* Technology Stats Card */}
-          <div className="grid grid-cols-2 gap-2.5 font-mono text-xs w-full md:w-64 bg-neutral-900/80 p-3.5 rounded border border-white/[0.06] shrink-0">
-            <div className="bg-[#121316] p-2 rounded border border-white/[0.04]">
-              <span className="text-[10px] text-neutral-400 block uppercase">SIGNALS</span>
-              <span className="text-lg font-bold text-white">{technology.stats.signals_count}</span>
+          <div className="grid grid-cols-2 gap-2 text-xs w-full md:w-64 bg-neutral-900/60 p-3 rounded border border-white/[0.06] shrink-0 font-sans">
+            <div className="bg-[#121316] p-2.5 rounded border border-white/[0.04]">
+              <span className="text-[11px] text-neutral-400 block">Signals</span>
+              <span className="text-lg font-semibold text-white font-mono tabular-nums">{technology.stats.signals_count}</span>
             </div>
-            <div className="bg-[#121316] p-2 rounded border border-white/[0.04]">
-              <span className="text-[10px] text-neutral-400 block uppercase">RELEASES</span>
-              <span className="text-lg font-bold text-white">{technology.stats.releases_count}</span>
+            <div className="bg-[#121316] p-2.5 rounded border border-white/[0.04]">
+              <span className="text-[11px] text-neutral-400 block">Releases</span>
+              <span className="text-lg font-semibold text-white font-mono tabular-nums">{technology.stats.releases_count}</span>
             </div>
-            <div className="bg-[#121316] p-2 rounded border border-white/[0.04]">
-              <span className="text-[10px] text-neutral-400 block uppercase">CVES</span>
-              <span className={`text-lg font-bold ${technology.stats.vulnerabilities_count > 0 ? 'text-amber-400' : 'text-neutral-400'}`}>
+            <div className="bg-[#121316] p-2.5 rounded border border-white/[0.04]">
+              <span className="text-[11px] text-neutral-400 block">Advisories</span>
+              <span className="text-lg font-semibold text-white font-mono tabular-nums">
                 {technology.stats.vulnerabilities_count}
               </span>
             </div>
-            <div className="bg-[#121316] p-2 rounded border border-white/[0.04]">
-              <span className="text-[10px] text-neutral-400 block uppercase">VELOCITY</span>
-              <span className="text-lg font-bold text-emerald-400">{technology.stats.velocity_score}</span>
+            <div className="bg-[#121316] p-2.5 rounded border border-white/[0.04]">
+              <span className="text-[11px] text-neutral-400 block">Velocity</span>
+              <span className="text-lg font-semibold text-white font-mono tabular-nums">{technology.stats.velocity_score}</span>
             </div>
           </div>
         </div>
       </header>
 
       {/* Tabs Navigation */}
-      <div className="border-b border-white/[0.08] flex items-center gap-2 overflow-x-auto">
+      <div className="border-b border-white/[0.08] flex items-center gap-1 overflow-x-auto text-xs font-sans">
         {[
-          { id: 'timeline', label: `Historical Timeline (${timeline.length})`, icon: Calendar },
-          { id: 'signals', label: `Verified Signals (${signals.length})`, icon: Layers },
+          { id: 'timeline', label: `Historical timeline (${timeline.length})`, icon: Calendar },
+          { id: 'signals', label: `Verified signals (${signals.length})`, icon: Layers },
           { id: 'releases', label: `Releases (${releases.length})`, icon: Tag },
           { id: 'security', label: `Security (${security_advisories.length})`, icon: Shield },
           { id: 'research', label: `Research (${research_papers.length})`, icon: BookOpen },
@@ -202,10 +204,10 @@ export const TechnologyDetailView: React.FC<Props> = ({
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id as any)}
-              className={`flex items-center gap-1.5 px-4 py-2.5 font-mono text-xs font-medium border-b-2 transition-colors whitespace-nowrap ${
+              className={`flex items-center gap-1.5 px-3 py-2 border-b-2 font-medium transition-colors whitespace-nowrap ${
                 isActive
-                  ? 'border-amber-400 text-white font-bold bg-white/[0.02]'
-                  : 'border-transparent text-neutral-400 hover:text-neutral-200'
+                  ? 'border-white text-white'
+                  : 'border-transparent text-neutral-400 hover:text-white'
               }`}
             >
               <Icon className="w-3.5 h-3.5" />
@@ -227,16 +229,16 @@ export const TechnologyDetailView: React.FC<Props> = ({
         )}
 
         {activeTab === 'signals' && (
-          <div className="space-y-4">
+          <div className="space-y-4 font-sans">
             <div className="flex items-center justify-between pb-2 border-b border-white/[0.08]">
-              <h3 className="text-sm font-bold font-mono uppercase tracking-wider text-neutral-300">
-                Verified Ingestion Signals for {technology.name}
+              <h3 className="text-sm font-semibold text-neutral-200">
+                Verified signals for {technology.name}
               </h3>
               <span className="text-xs font-mono text-neutral-400">{signals.length} records</span>
             </div>
 
             {signals.length === 0 ? (
-              <div className="py-12 text-center text-xs font-mono text-neutral-400 border border-dashed border-white/[0.08] rounded">
+              <div className="py-12 text-center text-xs text-neutral-400 border border-dashed border-white/[0.08] rounded">
                 No signals currently recorded for {technology.name}.
               </div>
             ) : (
@@ -250,10 +252,10 @@ export const TechnologyDetailView: React.FC<Props> = ({
         )}
 
         {activeTab === 'releases' && (
-          <div className="space-y-4">
+          <div className="space-y-4 font-sans">
             <div className="flex items-center justify-between pb-2 border-b border-white/[0.08]">
-              <h3 className="text-sm font-bold font-mono uppercase tracking-wider text-neutral-300">
-                Recorded Release Tags & Changelogs
+              <h3 className="text-sm font-semibold text-neutral-200">
+                Release tags & changelogs
               </h3>
               <span className="text-xs font-mono text-neutral-400">{releases.length} releases</span>
             </div>
@@ -266,13 +268,13 @@ export const TechnologyDetailView: React.FC<Props> = ({
                 >
                   <div className="flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                      <span className="font-mono text-sm font-bold text-white">{rel.version}</span>
+                      <span className="font-mono text-sm font-medium text-white">{rel.version}</span>
                       <span className="font-mono text-xs text-neutral-400 bg-neutral-900 px-1.5 py-0.5 rounded border border-white/[0.04]">
                         {rel.tag_name}
                       </span>
                       {rel.is_breaking && (
-                        <span className="px-1.5 py-0.5 rounded bg-rose-950/40 border border-rose-500/30 text-rose-400 font-mono text-[10px] uppercase">
-                          Breaking Changes
+                        <span className="px-1.5 py-0.5 rounded bg-neutral-900 border border-neutral-700 text-neutral-300 text-[11px]">
+                          Breaking changes
                         </span>
                       )}
                     </div>
@@ -280,20 +282,20 @@ export const TechnologyDetailView: React.FC<Props> = ({
                   </div>
 
                   {rel.highlights && rel.highlights.length > 0 && (
-                    <ul className="space-y-1 text-xs font-mono text-neutral-300 list-disc list-inside">
+                    <ul className="space-y-1 text-xs text-neutral-300 list-disc list-inside">
                       {rel.highlights.map((h, i) => (
                         <li key={i}>{h}</li>
                       ))}
                     </ul>
                   )}
 
-                  <div className="pt-2 border-t border-white/[0.04] flex items-center justify-between text-xs font-mono">
+                  <div className="pt-2 border-t border-white/[0.04] flex items-center justify-between text-xs font-sans">
                     {rel.signal_id && (
                       <button
                         onClick={() => onSelectSignal(rel.signal_id!)}
-                        className="text-amber-400 hover:underline"
+                        className="text-neutral-300 hover:text-white transition-colors"
                       >
-                        View Signal Ledger →
+                        View archival record →
                       </button>
                     )}
                     <a
@@ -302,7 +304,7 @@ export const TechnologyDetailView: React.FC<Props> = ({
                       rel="noreferrer"
                       className="text-neutral-400 hover:text-white inline-flex items-center gap-1"
                     >
-                      <span>Upstream Release</span>
+                      <span>Upstream release</span>
                       <ExternalLink className="w-3 h-3" />
                     </a>
                   </div>
@@ -313,17 +315,17 @@ export const TechnologyDetailView: React.FC<Props> = ({
         )}
 
         {activeTab === 'security' && (
-          <div className="space-y-4">
+          <div className="space-y-4 font-sans">
             <div className="flex items-center justify-between pb-2 border-b border-white/[0.08]">
-              <h3 className="text-sm font-bold font-mono uppercase tracking-wider text-neutral-300">
-                Security Advisories Affecting {technology.name}
+              <h3 className="text-sm font-semibold text-neutral-200">
+                Security advisories affecting {technology.name}
               </h3>
               <span className="text-xs font-mono text-neutral-400">{security_advisories.length} CVEs</span>
             </div>
 
             {security_advisories.length === 0 ? (
-              <div className="py-12 text-center text-xs font-mono text-emerald-400 border border-dashed border-white/[0.08] rounded bg-emerald-950/10">
-                ✓ No critical or high security advisories currently recorded for {technology.name}.
+              <div className="py-12 text-center text-xs text-neutral-400 border border-dashed border-white/[0.08] rounded">
+                No critical or high security advisories currently recorded for {technology.name}.
               </div>
             ) : (
               <div className="space-y-3">
@@ -333,18 +335,18 @@ export const TechnologyDetailView: React.FC<Props> = ({
                     className="bg-[#121316] border border-white/[0.08] rounded-md p-4 space-y-2"
                   >
                     <div className="flex items-center justify-between">
-                      <span className="font-mono text-sm font-bold text-rose-400">{cve.cve_id}</span>
-                      <span className="px-1.5 py-0.5 rounded bg-rose-950/40 border border-rose-500/30 text-rose-400 font-mono text-[10px] uppercase">
+                      <span className="font-mono text-sm font-medium text-white">{cve.cve_id}</span>
+                      <span className="text-xs text-neutral-400 capitalize">
                         {cve.severity} severity
                       </span>
                     </div>
-                    <h4 className="text-sm font-semibold text-white">{cve.title}</h4>
+                    <h4 className="text-sm font-medium text-white">{cve.title}</h4>
                     <p className="text-xs text-neutral-400 leading-relaxed">{cve.description}</p>
-                    <div className="pt-2 border-t border-white/[0.04] flex flex-wrap items-center justify-between text-xs font-mono text-neutral-400">
-                      <span>Affected: {cve.affected_versions}</span>
-                      <span className="text-emerald-400">Patched in: {cve.patched_version}</span>
-                      <a href={cve.source_url} target="_blank" rel="noreferrer" className="text-sky-400 hover:underline">
-                        CVE Link
+                    <div className="pt-2 border-t border-white/[0.04] flex flex-wrap items-center justify-between text-xs text-neutral-400">
+                      <span>Affected: <span className="text-neutral-300 font-mono">{cve.affected_versions}</span></span>
+                      <span>Patched: <span className="text-neutral-300 font-mono">{cve.patched_version}</span></span>
+                      <a href={cve.source_url} target="_blank" rel="noreferrer" className="text-neutral-300 hover:text-white underline">
+                        Advisory link
                       </a>
                     </div>
                   </div>
@@ -355,16 +357,16 @@ export const TechnologyDetailView: React.FC<Props> = ({
         )}
 
         {activeTab === 'research' && (
-          <div className="space-y-4">
+          <div className="space-y-4 font-sans">
             <div className="flex items-center justify-between pb-2 border-b border-white/[0.08]">
-              <h3 className="text-sm font-bold font-mono uppercase tracking-wider text-neutral-300">
-                Research Papers Studying {technology.name}
+              <h3 className="text-sm font-semibold text-neutral-200">
+                Research papers studying {technology.name}
               </h3>
               <span className="text-xs font-mono text-neutral-400">{research_papers.length} preprints</span>
             </div>
 
             {research_papers.length === 0 ? (
-              <div className="py-12 text-center text-xs font-mono text-neutral-400 border border-dashed border-white/[0.08] rounded">
+              <div className="py-12 text-center text-xs text-neutral-400 border border-dashed border-white/[0.08] rounded">
                 No arXiv research papers currently linked directly to this technology.
               </div>
             ) : (
@@ -372,14 +374,14 @@ export const TechnologyDetailView: React.FC<Props> = ({
                 {research_papers.map((p) => (
                   <div key={p.id} className="bg-[#121316] border border-white/[0.08] rounded-md p-4 space-y-2">
                     <div className="flex items-center justify-between font-mono text-xs text-neutral-400">
-                      <span className="text-purple-400 font-semibold">{p.arxiv_id}</span>
+                      <span className="text-neutral-200 font-medium">{p.arxiv_id}</span>
                       <span>{p.published_at.slice(0, 10)}</span>
                     </div>
-                    <h4 className="text-sm font-bold text-white">{p.title}</h4>
-                    <p className="text-xs text-neutral-400 leading-relaxed">{p.abstract}</p>
-                    <div className="pt-2 border-t border-white/[0.04] flex items-center justify-between text-xs font-mono">
+                    <h4 className="text-sm font-medium text-white font-sans">{p.title}</h4>
+                    <p className="text-xs text-neutral-400 leading-relaxed font-sans">{p.abstract}</p>
+                    <div className="pt-2 border-t border-white/[0.04] flex items-center justify-between text-xs font-sans">
                       <span className="text-neutral-400 truncate max-w-sm">{p.authors.join(', ')}</span>
-                      <a href={p.source_url} target="_blank" rel="noreferrer" className="text-sky-400 hover:underline">
+                      <a href={p.source_url} target="_blank" rel="noreferrer" className="text-neutral-300 hover:text-white underline">
                         Read on arXiv →
                       </a>
                     </div>

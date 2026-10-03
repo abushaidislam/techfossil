@@ -211,9 +211,9 @@ export const SearchModal: React.FC<Props> = ({
 
           {/* Matched Technologies */}
           {technologies.length > 0 && (
-            <div className="space-y-2">
-              <span className="font-mono text-xs text-neutral-400 uppercase tracking-wider block">
-                Matched Technologies ({technologies.length})
+            <div className="space-y-2 font-sans">
+              <span className="text-xs font-semibold text-neutral-300 block">
+                Matched technologies ({technologies.length})
               </span>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                 {technologies.map((tech) => (
@@ -240,9 +240,9 @@ export const SearchModal: React.FC<Props> = ({
 
           {/* Matched Signals */}
           {signals.length > 0 && (
-            <div className="space-y-2">
-              <span className="font-mono text-xs text-neutral-400 uppercase tracking-wider block">
-                Archived Signals ({signals.length})
+            <div className="space-y-2 font-sans">
+              <span className="text-xs font-semibold text-neutral-300 block">
+                Archived signals ({signals.length})
               </span>
               <div className="space-y-2">
                 {signals.map((sig) => (
@@ -272,19 +272,19 @@ export const SearchModal: React.FC<Props> = ({
           )}
 
           {query && !loading && signals.length === 0 && technologies.length === 0 && !aiSynthesis && (
-            <div className="py-12 text-center text-xs font-mono text-neutral-400 border border-dashed border-white/[0.08] rounded">
+            <div className="py-12 text-center text-xs font-sans text-neutral-400 border border-dashed border-white/[0.08] rounded">
               No verified records or technology entities found matching &quot;{query}&quot;.
             </div>
           )}
         </div>
 
         {/* Modal Footer */}
-        <div className="p-3 bg-[#0e0f11] border-t border-white/[0.06] flex items-center justify-between text-[11px] font-mono text-neutral-400">
+        <div className="p-3 bg-[#0e0f11] border-t border-white/[0.06] flex items-center justify-between text-[11px] font-sans text-neutral-400">
           <div className="flex items-center gap-3">
-            <span><kbd className="bg-neutral-800 px-1.5 py-0.5 rounded border border-neutral-700">Enter</kbd> to search</span>
-            <span><kbd className="bg-neutral-800 px-1.5 py-0.5 rounded border border-neutral-700">Esc</kbd> to close</span>
+            <span><kbd className="bg-neutral-800 px-1.5 py-0.5 rounded border border-neutral-700 font-mono">Enter</kbd> to search</span>
+            <span><kbd className="bg-neutral-800 px-1.5 py-0.5 rounded border border-neutral-700 font-mono">Esc</kbd> to close</span>
           </div>
-          <span>TechFossil Ledger Search</span>
+          <span>TechFossil archive search</span>
         </div>
       </div>
     </div>

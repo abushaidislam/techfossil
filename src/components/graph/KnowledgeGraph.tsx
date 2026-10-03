@@ -187,24 +187,27 @@ export const KnowledgeGraph: React.FC<Props> = ({
   };
 
   const getNodeColor = (type: string, isHighlighted: boolean) => {
-    if (type === 'organization') {
-      return isHighlighted ? '#38bdf8' : '#0284c7';
+    if (isHighlighted) {
+      return '#f59e0b';
     }
-    return isHighlighted ? '#f59e0b' : '#334155';
+    if (type === 'organization') {
+      return '#a1a1aa';
+    }
+    return '#3f3f46';
   };
 
   return (
-    <div className="bg-[#121316] border border-white/[0.08] rounded-md overflow-hidden flex flex-col h-[700px]">
+    <div className="bg-[#111215] border border-white/[0.08] rounded-md overflow-hidden flex flex-col h-[700px] font-sans">
       {/* Top Toolbar */}
-      <div className="p-3 bg-[#0e0f11] border-b border-white/[0.08] flex flex-wrap items-center justify-between gap-3 text-xs font-mono">
+      <div className="p-3 bg-[#0e0f11] border-b border-white/[0.08] flex flex-wrap items-center justify-between gap-3 text-xs font-sans">
         <div className="flex items-center gap-2">
-          <Network className="w-4 h-4 text-amber-400" />
-          <span className="font-semibold text-white font-sans">TechFossil Knowledge Graph</span>
-          <span className="text-neutral-400">({visibleNodes.length} nodes, {filteredEdges.length} edges)</span>
+          <Network className="w-4 h-4 text-neutral-400" />
+          <span className="font-semibold text-white">Ecosystem knowledge graph</span>
+          <span className="text-neutral-400 text-xs">({visibleNodes.length} nodes, {filteredEdges.length} edges)</span>
         </div>
 
         {/* Search & Filter */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 font-sans">
           <div className="relative">
             <Search className="w-3.5 h-3.5 absolute left-2 top-2 text-neutral-400" />
             <input
@@ -212,35 +215,35 @@ export const KnowledgeGraph: React.FC<Props> = ({
               placeholder="Search entity..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="bg-neutral-900 border border-white/[0.08] rounded pl-7 pr-2 py-1 text-xs text-neutral-200 placeholder-neutral-400 w-36 focus:outline-none focus:border-amber-400"
+              className="bg-neutral-900 border border-white/[0.08] rounded pl-7 pr-2 py-1 text-xs text-neutral-200 placeholder-neutral-400 w-36 focus:outline-none focus:border-amber-400 font-sans"
             />
           </div>
 
           <select
             value={filterType}
             onChange={(e) => setFilterType(e.target.value)}
-            className="bg-neutral-900 border border-white/[0.08] rounded px-2 py-1 text-xs text-neutral-200 focus:outline-none"
+            className="bg-neutral-900 border border-white/[0.08] rounded px-2 py-1 text-xs text-neutral-200 focus:outline-none font-sans"
           >
-            <option value="all">All Relationships</option>
-            <option value="depends_on">depends_on</option>
-            <option value="developed_by">developed_by</option>
+            <option value="all">All relationships</option>
+            <option value="depends_on">depends on</option>
+            <option value="developed_by">developed by</option>
             <option value="extends">extends</option>
-            <option value="competes_with">competes_with</option>
-            <option value="related_to">related_to</option>
+            <option value="competes_with">competes with</option>
+            <option value="related_to">related to</option>
           </select>
 
           <div className="flex items-center gap-1 border-l border-white/[0.08] pl-2">
             <button
               onClick={() => setZoom((z) => Math.min(z + 0.15, 2))}
-              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300"
-              title="Zoom In"
+              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300 transition-colors"
+              title="Zoom in"
             >
               <ZoomIn className="w-3.5 h-3.5" />
             </button>
             <button
-              onClick={() => setZoom((z) => Math.max(z - 0.15, 0.5))}
-              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300"
-              title="Zoom Out"
+              onClick={() => setZoom((z) => Math.max(z - 0.15, 0.4))}
+              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300 transition-colors"
+              title="Zoom out"
             >
               <ZoomOut className="w-3.5 h-3.5" />
             </button>
@@ -249,8 +252,8 @@ export const KnowledgeGraph: React.FC<Props> = ({
                 setZoom(1);
                 setPan({ x: 0, y: 0 });
               }}
-              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300"
-              title="Reset View"
+              className="p-1 rounded bg-neutral-900 hover:bg-neutral-800 text-neutral-300 transition-colors"
+              title="Reset view"
             >
               <RefreshCw className="w-3.5 h-3.5" />
             </button>
@@ -410,15 +413,15 @@ export const KnowledgeGraph: React.FC<Props> = ({
 
         {/* Selected Entity Inspector Side Drawer */}
         {effectiveActiveNode && (
-          <div className="absolute top-4 right-4 w-72 bg-[#121316]/95 backdrop-blur-md border border-white/[0.12] rounded-md p-4 shadow-xl z-20 space-y-3">
+          <div className="absolute top-4 right-4 w-72 bg-[#121316]/95 backdrop-blur-md border border-white/[0.12] rounded-md p-4 shadow-xl z-20 space-y-3 font-sans">
             <div className="flex items-start justify-between">
               <div>
-                <span className="font-mono text-[10px] uppercase tracking-wider text-amber-400">
+                <span className="text-xs text-neutral-400 capitalize block">
                   {effectiveActiveNode.type}
                 </span>
-                <h4 className="text-sm font-bold text-white font-sans">{effectiveActiveNode.label}</h4>
+                <h4 className="text-sm font-semibold text-white">{effectiveActiveNode.label}</h4>
                 {effectiveActiveNode.category && (
-                  <span className="text-[11px] text-neutral-400 font-mono">
+                  <span className="text-xs text-neutral-400">
                     Category: {effectiveActiveNode.category}
                   </span>
                 )}
@@ -432,8 +435,8 @@ export const KnowledgeGraph: React.FC<Props> = ({
             </div>
 
             <div className="border-t border-white/[0.06] pt-2">
-              <span className="text-[11px] font-mono text-neutral-400 block mb-1">
-                Connected Relationships ({connectedEdges.length})
+              <span className="text-xs text-neutral-400 block mb-1">
+                Connected relationships ({connectedEdges.length})
               </span>
               <div className="space-y-1 max-h-48 overflow-y-auto pr-1">
                 {connectedEdges.map((e) => {

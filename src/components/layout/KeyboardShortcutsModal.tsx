@@ -29,7 +29,7 @@ export const KeyboardShortcutsModal: React.FC<Props> = ({ isOpen, onClose }) => 
         <div className="flex items-center justify-between px-5 py-4 border-b border-white/[0.08]">
           <div className="flex items-center gap-2">
             <Command className="w-4 h-4 text-neutral-400" />
-            <h3 className="font-semibold text-sm text-white font-sans">Keyboard Shortcuts</h3>
+            <h3 className="font-semibold text-sm text-white font-sans">Keyboard shortcuts</h3>
           </div>
           <button
             onClick={onClose}
