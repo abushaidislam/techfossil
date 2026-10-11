@@ -64,6 +64,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039051",
+      "title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+      "canonical_url": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T08:52:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
