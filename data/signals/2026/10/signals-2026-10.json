@@ -49,6 +49,21 @@
         "aws",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039148",
+      "title": "Jshookmcp – instrument your real signed-in Chrome via CDP",
+      "canonical_url": "https://github.com/vmoranv/jshookmcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T09:13:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
