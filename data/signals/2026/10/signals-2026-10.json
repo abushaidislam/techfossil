@@ -120,6 +120,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4783476",
+      "title": "Views Measure Views",
+      "canonical_url": "https://dev.to/kenwalger/views-measure-views-4co7",
+      "source": "dev_to",
+      "published_at": "2026-10-01T19:32:00Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
