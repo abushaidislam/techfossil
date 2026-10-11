@@ -105,6 +105,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4807580",
+      "title": "Gemma 4 Inference on AWS: Bedrock, SageMaker, GPUs, Inferentia and Trainium Behind One Strands Agent",
+      "canonical_url": "https://dev.to/gde/gemma-4-inference-on-aws-bedrock-sagemaker-gpus-inferentia-and-trainium-behind-one-strands-agent-2lnm",
+      "source": "dev_to",
+      "published_at": "2026-10-06T15:09:17Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "aws",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
