@@ -235,6 +235,21 @@
         "ai",
         "nextjs"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-49986919",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "canonical_url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-07T08:44:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
