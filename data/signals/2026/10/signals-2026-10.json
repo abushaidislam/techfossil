@@ -13,7 +13,11 @@
       "category": "Frontend",
       "importance_score": 95,
       "verification_status": "verified",
-      "technologies": ["react", "nextjs", "typescript"]
+      "technologies": [
+        "react",
+        "nextjs",
+        "typescript"
+      ]
     },
     {
       "id": "sig-2026-0930-mcp-agent-standard",
@@ -24,7 +28,27 @@
       "category": "AI Agents",
       "importance_score": 98,
       "verification_status": "verified",
-      "technologies": ["ai-agents", "gemini", "claude-anthropic", "typescript", "python"]
+      "technologies": [
+        "ai-agents",
+        "gemini",
+        "claude-anthropic",
+        "typescript",
+        "python"
+      ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039700",
+      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm; we don't know how often",
+      "canonical_url": "https://text.npr.org/nx-s1-5996652",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T11:03:57Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "aws",
+        "ui"
+      ]
     }
   ]
 }
