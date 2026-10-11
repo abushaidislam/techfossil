@@ -322,6 +322,19 @@
         "auth",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4818530",
+      "title": "Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?",
+      "canonical_url": "https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01",
+      "source": "dev_to",
+      "published_at": "2026-10-08T15:59:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
