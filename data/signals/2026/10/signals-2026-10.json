@@ -77,6 +77,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4820675",
+      "title": "Gemma 4 From E2B to 31B on an AMD MI300X: fp8 Overtakes bf16 From 12B Up",
+      "canonical_url": "https://dev.to/gde/gemma-4-from-e2b-to-31b-on-an-amd-mi300x-fp8-overtakes-bf16-from-12b-up-h4e",
+      "source": "dev_to",
+      "published_at": "2026-10-09T13:46:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
