@@ -135,6 +135,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039003",
+      "title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
+      "canonical_url": "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T08:43:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
