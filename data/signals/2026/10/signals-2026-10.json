@@ -265,6 +265,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4802093",
+      "title": "Why you still need a Website Portfolio, even though everyone can Vibe Code it.",
+      "canonical_url": "https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63",
+      "source": "dev_to",
+      "published_at": "2026-10-05T15:09:58Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
