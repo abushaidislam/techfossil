@@ -220,6 +220,21 @@
         "typescript",
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4724515",
+      "title": "I Turned DEV.to Into a Walkable 3D Library — Debugging It Has Been a Nightmare",
+      "canonical_url": "https://dev.to/mikachu/i-turned-devto-into-a-walkable-3d-library-debugging-it-has-been-a-nightmare-4lkd",
+      "source": "dev_to",
+      "published_at": "2026-09-23T11:31:31Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai",
+        "nextjs"
+      ]
     }
   ]
 }
