@@ -5,3 +5,11 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Security & Build Artifacts (Added by Autopilot)
+.env
+.env.local
+.env.*.local
+Thumbs.db
+dist/
+build/
