@@ -350,6 +350,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-49988640",
+      "title": "The Alchemical Transformations of the Mutus Liber (1677)",
+      "canonical_url": "https://publicdomainreview.org/collection/mutus-liber/",
+      "source": "hacker_news",
+      "published_at": "2026-10-07T12:30:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
