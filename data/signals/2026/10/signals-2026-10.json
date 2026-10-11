@@ -280,6 +280,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4803571",
+      "title": "Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾",
+      "canonical_url": "https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf",
+      "source": "dev_to",
+      "published_at": "2026-10-06T00:47:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
