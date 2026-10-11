@@ -293,6 +293,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039184",
+      "title": "The Ticket Is Not the Work",
+      "canonical_url": "http://agileotter.blogspot.com/2026/09/the-ticket-is-not-work.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T09:18:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
