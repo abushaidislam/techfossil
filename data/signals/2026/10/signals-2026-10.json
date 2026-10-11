@@ -206,6 +206,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1011-dev-4678373",
+      "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+      "canonical_url": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+      "source": "dev_to",
+      "published_at": "2026-09-23T14:23:57Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript",
+        "javascript"
+      ]
     }
   ]
 }
