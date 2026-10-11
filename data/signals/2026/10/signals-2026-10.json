@@ -148,6 +148,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1011-hn-50039608",
+      "title": "Vectorized CLZ and CTZ",
+      "canonical_url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "source": "hacker_news",
+      "published_at": "2026-10-11T10:36:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
