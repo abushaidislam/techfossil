@@ -634,6 +634,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50082141",
+      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent on Qwen3.5-9B",
+      "canonical_url": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T09:46:04Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
