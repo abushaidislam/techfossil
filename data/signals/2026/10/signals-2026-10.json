@@ -451,6 +451,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50082038",
+      "title": "Things I wish I had known about kickscooters",
+      "canonical_url": "https://maxmautner.com/2026/10/12/kickscooter.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T09:31:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
