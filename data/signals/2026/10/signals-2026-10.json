@@ -421,6 +421,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50083103",
+      "title": "A New 'Super Ice' Is 10 Times Stronger, Close to the Strength of Concrete",
+      "canonical_url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T12:13:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
