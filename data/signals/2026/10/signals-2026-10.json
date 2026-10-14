@@ -1219,6 +1219,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50092296",
+      "title": "How to Host a Blog for Free in 2026 (Astro and Cloudflare Pages)",
+      "canonical_url": "https://codex-blog-6v6.pages.dev/blog/free-blog-hosting-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T00:14:18Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
