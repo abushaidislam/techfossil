@@ -1131,6 +1131,19 @@
         "ai",
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50091145",
+      "title": "HN: RPDio Hyper – 120fps desktop streaming in Rust",
+      "canonical_url": "https://github.com/IOServicesLabs/RDPiO",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:13:14Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
