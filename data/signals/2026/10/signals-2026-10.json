@@ -664,6 +664,19 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4820814",
+      "title": "A/B testing AI products is weird",
+      "canonical_url": "https://dev.to/dailycontext/ab-testing-ai-products-is-weird-576h",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:43:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
