@@ -912,6 +912,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4845735",
+      "title": "Your Financial Agent Passed Every Eval. Can You Defend Its Decision?",
+      "canonical_url": "https://dev.to/dailycontext/your-financial-agent-passed-every-eval-can-you-defend-its-decision-1npg",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
