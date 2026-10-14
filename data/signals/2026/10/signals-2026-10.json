@@ -1318,6 +1318,19 @@
         "gemini",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50090799",
+      "title": "Has AI Tells",
+      "canonical_url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T22:52:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
