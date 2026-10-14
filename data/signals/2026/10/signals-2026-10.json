@@ -567,6 +567,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4839571",
+      "title": "Agents Can’t Decide What’s Okay to Break",
+      "canonical_url": "https://dev.to/dailycontext/agents-cant-decide-whats-okay-to-break-3ncg",
+      "source": "dev_to",
+      "published_at": "2026-10-12T20:58:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
