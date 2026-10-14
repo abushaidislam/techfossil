@@ -763,6 +763,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50088511",
+      "title": "The new (and vibe coded) Epic Games Launcher",
+      "canonical_url": "https://store.epicgames.com/news/epic-games-launcher-preview",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T20:45:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
