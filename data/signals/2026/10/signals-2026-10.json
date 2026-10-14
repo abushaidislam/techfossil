@@ -554,6 +554,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4824002",
+      "title": "One Weekend: 3,000 Open-Source AI Projects",
+      "canonical_url": "https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:43:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
