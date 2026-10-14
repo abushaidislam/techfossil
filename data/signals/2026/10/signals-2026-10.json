@@ -1274,6 +1274,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4846084",
+      "title": "The Model Is the Easy Part",
+      "canonical_url": "https://dev.to/dailycontext/the-model-is-the-easy-part-19gh",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
