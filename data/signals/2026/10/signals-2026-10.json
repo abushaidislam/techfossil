@@ -365,6 +365,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4826026",
+      "title": "Local embeddings with llamadart: how llamas share secrets",
+      "canonical_url": "https://dev.to/gde/local-embeddings-with-llamadart-how-llamas-share-secrets-46o",
+      "source": "dev_to",
+      "published_at": "2026-10-12T18:18:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
