@@ -1288,6 +1288,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4845773",
+      "title": "Memory Isn’t Learning: Why AI Agents Keep Making the Same Mistakes",
+      "canonical_url": "https://dev.to/dailycontext/memory-isnt-learning-why-ai-agents-keep-making-the-same-mistakes-cpc",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:49Z",
+      "category": "Systems & Architecture",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
