@@ -806,6 +806,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50088447",
+      "title": "Strands Decider: Why Not an Encoder?",
+      "canonical_url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T20:40:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
