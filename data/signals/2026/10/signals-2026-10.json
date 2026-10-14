@@ -718,6 +718,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50083925",
+      "title": "Show HN: Sonder, A free, open-source native Markdown editor for Mac",
+      "canonical_url": "https://frizky.dev/products/sonder",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T13:49:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
