@@ -690,6 +690,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4839337",
+      "title": "AI Needs a Test That Fights Back",
+      "canonical_url": "https://dev.to/dailycontext/ai-needs-a-test-that-fights-back-4f17",
+      "source": "dev_to",
+      "published_at": "2026-10-12T21:03:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
