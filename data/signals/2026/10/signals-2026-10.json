@@ -1031,6 +1031,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4845169",
+      "title": "An Agent’s Plan Isn’t Permission",
+      "canonical_url": "https://dev.to/dailycontext/an-agents-plan-isnt-permission-5cf8",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:05:28Z",
+      "category": "Security & Privacy",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
