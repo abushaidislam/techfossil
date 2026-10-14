@@ -1303,6 +1303,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4845827",
+      "title": "Nobody’s winning the AI race yet",
+      "canonical_url": "https://dev.to/dailycontext/nobodys-winning-the-ai-race-yet-24h4",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "gemini",
+        "ai"
+      ]
     }
   ]
 }
