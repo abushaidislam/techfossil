@@ -940,6 +940,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50086165",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "canonical_url": "https://github.com/timescale/pg_vectorsearch",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T17:47:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
