@@ -510,6 +510,20 @@
         "gpt",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4839261",
+      "title": "What 9,050 AI-Written Scripts Taught Me About Slop",
+      "canonical_url": "https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n",
+      "source": "dev_to",
+      "published_at": "2026-10-12T21:03:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
