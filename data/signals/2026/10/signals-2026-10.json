@@ -1189,6 +1189,21 @@
         "ai",
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50091757",
+      "title": "Tool to help generate wget commands",
+      "canonical_url": "https://www.jcchouinard.com/tools/wget-command-generator",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:43:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
