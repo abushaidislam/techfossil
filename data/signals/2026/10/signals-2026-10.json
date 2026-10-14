@@ -1074,6 +1074,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50055593",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "canonical_url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T18:41:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
