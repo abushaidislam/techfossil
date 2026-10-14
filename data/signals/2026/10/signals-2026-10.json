@@ -971,6 +971,21 @@
         "javascript",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4846063",
+      "title": "Are You Smarter Than a Fruit Fly?",
+      "canonical_url": "https://dev.to/dailycontext/are-you-smarter-than-a-fruit-fly-2c04",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:21Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "ui"
+      ]
     }
   ]
 }
