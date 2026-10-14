@@ -1003,6 +1003,21 @@
         "kubernetes",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50089931",
+      "title": "University-Branded Boot Camp Promised Tech Jobs. Nowhere Near What It Delivered",
+      "canonical_url": "https://slate.com/life/2026/10/jobs-university-cybersecurity-training-ironcircle.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T22:09:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
