@@ -986,6 +986,23 @@
         "agent",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4837664",
+      "title": "Safe Autonomy in Kubernetes: Building AI Troubleshooting Agents with Google Cloud and Human-in-the-Loop Controls",
+      "canonical_url": "https://dev.to/gde/safe-autonomy-in-kubernetes-building-ai-troubleshooting-agents-with-google-cloud-and-h8l",
+      "source": "dev_to",
+      "published_at": "2026-10-12T10:30:20Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "cloud",
+        "kubernetes",
+        "ui"
+      ]
     }
   ]
 }
