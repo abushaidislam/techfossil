@@ -1246,6 +1246,21 @@
         "gemini",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4845718",
+      "title": "Building Better Agents through End-to-End Evals",
+      "canonical_url": "https://dev.to/dailycontext/building-better-agents-through-end-to-end-evals-pgh",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:05:13Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
