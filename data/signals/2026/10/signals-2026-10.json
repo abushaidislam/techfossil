@@ -1261,6 +1261,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4820799",
+      "title": "Q&A with Al Chen, Software Engineering Leader at Cisco",
+      "canonical_url": "https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:45:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
