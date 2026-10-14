@@ -1204,6 +1204,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50091061",
+      "title": "What I Self-Host",
+      "canonical_url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:08:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
