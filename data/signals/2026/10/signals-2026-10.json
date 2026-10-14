@@ -677,6 +677,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4819696",
+      "title": "Why Smaller AI Models Can Win in the Enterprise",
+      "canonical_url": "https://dev.to/dailycontext/why-smaller-ai-models-can-win-in-the-enterprise-1m57",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:41:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
