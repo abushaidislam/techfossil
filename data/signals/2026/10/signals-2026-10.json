@@ -378,6 +378,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50077389",
+      "title": "How many shots are in the average movie today?",
+      "canonical_url": "https://stephenfollows.com/p/how-many-shots-are-in-the-average",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T01:36:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
