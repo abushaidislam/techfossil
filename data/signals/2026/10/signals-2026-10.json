@@ -649,6 +649,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4830780",
+      "title": "What LLMs 'Know' That You Don't Know They Know: Stop Inventing Prompt DSLs and Ride 50 Years of Unix Pre-Training Gravity",
+      "canonical_url": "https://dev.to/gde/what-llms-know-that-you-dont-know-they-know-stop-inventing-prompt-dsls-and-ride-50-years-of-2bl6",
+      "source": "dev_to",
+      "published_at": "2026-10-11T00:59:52Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
