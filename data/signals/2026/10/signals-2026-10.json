@@ -851,6 +851,21 @@
         "gemini",
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50058528",
+      "title": "A Modern Web App in C",
+      "canonical_url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T22:13:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
