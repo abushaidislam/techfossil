@@ -778,6 +778,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4845013",
+      "title": "A Data Company in an AI World",
+      "canonical_url": "https://dev.to/dailycontext/a-data-company-in-an-ai-world-5bf4",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:05:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
