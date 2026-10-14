@@ -926,6 +926,20 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4846113",
+      "title": "Beyond the Prompt Box: How Bloomberg is Architecting the Era of “Multiplayer AI”",
+      "canonical_url": "https://dev.to/dailycontext/beyond-the-prompt-box-how-bloomberg-is-architecting-the-era-of-multiplayer-ai-569a",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:03:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
