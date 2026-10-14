@@ -621,6 +621,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4824580",
+      "title": "ROI That Survives the Second Question",
+      "canonical_url": "https://dev.to/dailycontext/roi-that-survives-the-second-question-4na0",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:43:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
