@@ -1102,6 +1102,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4844771",
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "canonical_url": "https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k",
+      "source": "dev_to",
+      "published_at": "2026-10-13T14:57:57Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
