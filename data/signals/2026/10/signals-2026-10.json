@@ -406,6 +406,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50058507",
+      "title": "GLM-Legal",
+      "canonical_url": "https://z.ai/blog/glm-legal",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T22:11:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
