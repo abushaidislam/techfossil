@@ -524,6 +524,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50081861",
+      "title": "Show HN: GenClass, A 10 MB in-browser model that catches bugs that never throw",
+      "canonical_url": "https://www.npmjs.com/package/@genclass/runtime",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T08:59:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
