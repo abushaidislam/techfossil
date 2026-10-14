@@ -466,6 +466,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50082450",
+      "title": "Show HN: Goatedcontext, a CLI for persistent developer context",
+      "canonical_url": "https://github.com/razzyshmazzy/goatedcontext",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T10:39:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
