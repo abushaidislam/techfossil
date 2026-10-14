@@ -897,6 +897,21 @@
         "typescript",
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50057720",
+      "title": "How to Select an Experiment",
+      "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T21:20:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
