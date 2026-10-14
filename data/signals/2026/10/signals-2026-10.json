@@ -733,6 +733,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50081158",
+      "title": "DOJ arrests 2, seizes 187 devices in North Korean laptop farm crackdown in Texas",
+      "canonical_url": "https://www.reuters.com/legal/government/doj-arrests-two-seizes-187-devices-north-korean-laptop-farm-crackdown-texas-2026-10-13/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T07:10:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
