@@ -1018,6 +1018,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4846219",
+      "title": "Design for Churn",
+      "canonical_url": "https://dev.to/dailycontext/design-for-churn-5c6h",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:03:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
