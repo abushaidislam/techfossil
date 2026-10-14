@@ -1173,6 +1173,22 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4847344",
+      "title": "LangChainJS and Gemini 4 Argon: What's here and what's coming?",
+      "canonical_url": "https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod",
+      "source": "dev_to",
+      "published_at": "2026-10-14T02:14:27Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "gemini",
+        "ai",
+        "javascript"
+      ]
     }
   ]
 }
