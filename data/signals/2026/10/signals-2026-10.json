@@ -1158,6 +1158,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50058649",
+      "title": "IDRs as Records of Intent",
+      "canonical_url": "https://wrla.ch/log/2026/10/idrs-as-records-of-intent/",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T22:20:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
