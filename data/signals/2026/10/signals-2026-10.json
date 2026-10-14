@@ -748,6 +748,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50062575",
+      "title": "The Genealogy of Eliza",
+      "canonical_url": "https://elizagen.org/genealogy.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T02:29:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
