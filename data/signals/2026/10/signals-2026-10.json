@@ -834,6 +834,23 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4848368",
+      "title": "Gemini 4 Under the Microscope: Red-Teaming AI Agents and Deterministic Dual-Port Remote Control Gemini 4 Architecture Banner",
+      "canonical_url": "https://dev.to/gde/gemini-4-under-the-microscope-red-teaming-ai-agents-and-deterministic-dual-port-remote-control-4567",
+      "source": "dev_to",
+      "published_at": "2026-10-14T07:07:21Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "security",
+        "gemini",
+        "architecture"
+      ]
     }
   ]
 }
