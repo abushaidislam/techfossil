@@ -436,6 +436,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50059115",
+      "title": "Muse Wonder",
+      "canonical_url": "https://research.meta.ai/blog/muse-wonder",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T22:48:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
