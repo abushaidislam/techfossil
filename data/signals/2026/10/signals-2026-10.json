@@ -1232,6 +1232,20 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4847452",
+      "title": "AlphaEvolve and Gemini: Autonomous Algorithm Discovery for Unified Disaster Prediction",
+      "canonical_url": "https://dev.to/gde/alphaevolve-and-gemini-autonomous-algorithm-discovery-for-unified-disaster-prediction-20f4",
+      "source": "dev_to",
+      "published_at": "2026-10-14T02:48:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai"
+      ]
     }
   ]
 }
