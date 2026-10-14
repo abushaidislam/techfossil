@@ -582,6 +582,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1014-hn-50080836",
+      "title": "Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support",
+      "canonical_url": "https://github.com/Arunjay4213/mosh-rs",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T06:22:19Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
