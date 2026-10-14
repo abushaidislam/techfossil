@@ -1117,6 +1117,20 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4845098",
+      "title": "The AI Data Paradox: The Safer You Make the Data, the Worse the AI Gets",
+      "canonical_url": "https://dev.to/dailycontext/the-ai-data-paradox-the-safer-you-make-the-data-the-worse-the-ai-gets-1ek7",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:05:35Z",
+      "category": "Security & Privacy",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "privacy"
+      ]
     }
   ]
 }
