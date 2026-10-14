@@ -1089,6 +1089,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1014-dev-4845884",
+      "title": "Operational intelligence is sociotechnical",
+      "canonical_url": "https://dev.to/dailycontext/operational-intelligence-is-sociotechnical-1627",
+      "source": "dev_to",
+      "published_at": "2026-10-14T12:04:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
