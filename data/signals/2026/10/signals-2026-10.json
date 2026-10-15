@@ -2217,6 +2217,21 @@
         "cloud",
         "serverless"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50109132",
+      "title": "Versioned E-Graphs [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=92puvPp-zNk",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T01:38:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
