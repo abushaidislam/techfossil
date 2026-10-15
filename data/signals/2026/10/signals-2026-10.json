@@ -2060,6 +2060,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108080",
+      "title": "ICE's Lies About a Man Officer Ran over Undone by Footage from CCTV Camera",
+      "canonical_url": "https://www.techdirt.com/2026/10/14/ices-lies-about-a-man-officer-ran-over-undone-by-footage-captured-by-nearby-cctv-camera/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:29:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
