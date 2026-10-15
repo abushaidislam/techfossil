@@ -2001,6 +2001,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4853291",
+      "title": "Gemma 4 on a Used 8 GB RTX 3050: 116 Tokens/s for One User, 618 for 64",
+      "canonical_url": "https://dev.to/gde/gemma-4-on-a-used-8-gb-rtx-3050-116-tokenss-for-one-user-618-for-64-k6h",
+      "source": "dev_to",
+      "published_at": "2026-10-15T00:46:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
