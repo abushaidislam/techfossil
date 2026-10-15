@@ -2345,6 +2345,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108103",
+      "title": "Will Universities Respond to the AI Moment?",
+      "canonical_url": "https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:30:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
