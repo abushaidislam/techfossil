@@ -2260,6 +2260,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107572",
+      "title": "Rustc silently substitutes file contents when path hashes collide",
+      "canonical_url": "https://github.com/rust-lang/rust/issues/164348",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:00:04Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
