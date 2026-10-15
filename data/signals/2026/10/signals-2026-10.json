@@ -2358,6 +2358,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50063427",
+      "title": "AI is a tool and using it well takes skill",
+      "canonical_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T03:40:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
