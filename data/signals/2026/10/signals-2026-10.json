@@ -1899,6 +1899,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4856204",
+      "title": "Your AI Agent Just Got a Passport: Agent Identity on Google Cloud and the Redeploy Trap Nobody Talks About",
+      "canonical_url": "https://dev.to/gde/your-ai-agent-just-got-a-passport-agent-identity-on-google-cloud-and-the-redeploy-trap-nobody-52ip",
+      "source": "dev_to",
+      "published_at": "2026-10-15T11:45:55Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "cloud"
+      ]
     }
   ]
 }
