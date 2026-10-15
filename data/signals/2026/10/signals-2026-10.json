@@ -1956,6 +1956,23 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4855254",
+      "title": "Six Months After Cloud Next ‘26: A Builder’s Tour of the Gemini Enterprise Agent Platform",
+      "canonical_url": "https://dev.to/gde/six-months-after-cloud-next-26-a-builders-tour-of-the-gemini-enterprise-agent-platform-3hib",
+      "source": "dev_to",
+      "published_at": "2026-10-15T09:12:49Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "cloud",
+        "ui",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
