@@ -1436,6 +1436,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50093568",
+      "title": "Things to know when you get cancer",
+      "canonical_url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T01:26:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
