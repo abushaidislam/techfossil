@@ -2316,6 +2316,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50084416",
+      "title": "What agents mean for Rust (and vice versa)",
+      "canonical_url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T14:49:06Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "rust"
+      ]
     }
   ]
 }
