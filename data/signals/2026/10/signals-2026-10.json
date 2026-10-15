@@ -1871,6 +1871,21 @@
         "gpt",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50093612",
+      "title": "Fancy Curl Sites",
+      "canonical_url": "https://nytpu.com/gemlog/2026-03-18",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T01:29:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
