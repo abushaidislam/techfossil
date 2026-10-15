@@ -2029,6 +2029,22 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4854692",
+      "title": "Cómo construí ora-tui: Un gestor en consola (TUI) en Go sin dependencias para Oracle RAC y Single Instance",
+      "canonical_url": "https://dev.to/gde/como-construi-ora-tui-un-gestor-en-consola-tui-en-go-sin-dependencias-para-oracle-rac-y-single-1gc5",
+      "source": "dev_to",
+      "published_at": "2026-10-15T07:21:10Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "database",
+        "ui"
+      ]
     }
   ]
 }
