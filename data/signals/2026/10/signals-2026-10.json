@@ -1973,6 +1973,19 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107579",
+      "title": "Coding Agents make careful engineering cheap",
+      "canonical_url": "https://darshanmakwana412.github.io/2026/10/coding-agents-make-careful-engineering-cheap/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:00:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
