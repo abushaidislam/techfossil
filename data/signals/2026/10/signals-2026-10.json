@@ -1686,6 +1686,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098673",
+      "title": "Breadwire – Draw a schematic, get a breadboard",
+      "canonical_url": "https://breadwire.vercel.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T09:13:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
