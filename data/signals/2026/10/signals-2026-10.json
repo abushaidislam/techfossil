@@ -1829,6 +1829,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097896",
+      "title": "Expedia Rigs Travel Markets and Raises Your Hotel Price",
+      "canonical_url": "https://www.thebignewsletter.com/p/how-expedia-rigs-travel-markets-and",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T07:11:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
