@@ -1986,6 +1986,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50091875",
+      "title": "America didn't lose its rare earth industry, it sold it",
+      "canonical_url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:50:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
