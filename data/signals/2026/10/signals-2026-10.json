@@ -1785,6 +1785,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098702",
+      "title": "Future of Cancer Care Today (FCCT)",
+      "canonical_url": "https://sijbrandijfoundation.org/fcct",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T09:18:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
