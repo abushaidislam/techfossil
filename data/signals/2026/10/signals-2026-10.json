@@ -2088,6 +2088,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106708",
+      "title": "Whathappened.here – a social check-in app built on top of OpenStreetMap",
+      "canonical_url": "https://github.com/altilunium/whathappened.here",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:04:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
