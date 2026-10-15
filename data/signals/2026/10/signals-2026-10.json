@@ -2116,6 +2116,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50096142",
+      "title": "Tiny Little Office",
+      "canonical_url": "https://tinylittleoffice.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T04:10:08Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
