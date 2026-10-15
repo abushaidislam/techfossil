@@ -1914,6 +1914,21 @@
         "agent",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106853",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "canonical_url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:12:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
