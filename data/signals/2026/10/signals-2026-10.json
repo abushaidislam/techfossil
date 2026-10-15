@@ -2330,6 +2330,21 @@
         "agent",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108886",
+      "title": "Did Ente Locker copy my code without attribution?",
+      "canonical_url": "https://www.fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T01:22:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
