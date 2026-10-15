@@ -2189,6 +2189,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108618",
+      "title": "Build an agent harness from scratch to pass Ian Goodfellow's intelligence test",
+      "canonical_url": "https://notesbylex.com/building-an-agent-harness-from-scratch",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T01:03:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ui"
+      ]
     }
   ]
 }
