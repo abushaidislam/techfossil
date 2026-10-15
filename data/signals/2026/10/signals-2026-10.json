@@ -1617,6 +1617,19 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098628",
+      "title": "Loombench: A way to observe multiagent system behavior",
+      "canonical_url": "https://jonathanwmaddison.github.io/loombench/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T09:03:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
