@@ -1466,6 +1466,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50067414",
+      "title": "Hittite royal archive found in Turkey",
+      "canonical_url": "https://www.thehistoryblog.com/archives/77107",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T12:02:51Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
