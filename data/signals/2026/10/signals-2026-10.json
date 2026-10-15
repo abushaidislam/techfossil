@@ -2146,6 +2146,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50081930",
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "canonical_url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T09:10:25Z",
+      "category": "Software Engineering",
+      "importance_score": 83,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
