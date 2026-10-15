@@ -1576,6 +1576,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50091914",
+      "title": "The Death of Amazon's Writing Culture",
+      "canonical_url": "https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:52:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
