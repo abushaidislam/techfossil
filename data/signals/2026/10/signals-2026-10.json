@@ -2232,6 +2232,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107543",
+      "title": "Mariko Aoki Phenomenon",
+      "canonical_url": "https://en.wikipedia.org/wiki/Mariko_Aoki_phenomenon",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:58:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
