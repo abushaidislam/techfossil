@@ -1604,6 +1604,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50055304",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "canonical_url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T18:16:42Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
