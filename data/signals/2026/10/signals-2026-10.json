@@ -1496,6 +1496,19 @@
         "cloud",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098148",
+      "title": "16-bit fully functional DIY magnetic core memory",
+      "canonical_url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T07:51:02Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
