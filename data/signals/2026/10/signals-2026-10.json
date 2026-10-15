@@ -1645,6 +1645,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098481",
+      "title": "We Know How to Fix Homelessness. Why Don't More Cities Do It?",
+      "canonical_url": "https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:38:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
