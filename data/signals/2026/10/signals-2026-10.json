@@ -1929,6 +1929,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107215",
+      "title": "Tool Policies: one policy engine for every tool your AI agents call",
+      "canonical_url": "https://www.stackone.com/blog/tool-policies-launch/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:38:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
