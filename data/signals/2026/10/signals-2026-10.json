@@ -1509,6 +1509,19 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098383",
+      "title": "Is this the best inference for agents?",
+      "canonical_url": "https://runinfra.ai",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:23:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
