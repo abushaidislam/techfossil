@@ -2174,6 +2174,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107654",
+      "title": "Show HN: Map each letter and number to a Unicode character and convert your text",
+      "canonical_url": "https://fontgen.cool/fancy-text-creator",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:04:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
