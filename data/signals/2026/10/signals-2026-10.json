@@ -1815,6 +1815,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50088166",
+      "title": "Gaming on Linux without cheating",
+      "canonical_url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T20:19:02Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
