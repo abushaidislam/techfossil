@@ -1408,6 +1408,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098274",
+      "title": "The Double Headed Stack Allocator",
+      "canonical_url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:06:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
