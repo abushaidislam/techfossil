@@ -1716,6 +1716,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098815",
+      "title": "Flock CEO: If you want a crime-free society, be ready to give up your privacy",
+      "canonical_url": "https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T09:35:44Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
