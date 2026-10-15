@@ -1630,6 +1630,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097541",
+      "title": "Git-Like MS Word Version Control System",
+      "canonical_url": "https://github.com/SCCS-HQ/legal-contract-version-control",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T06:25:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
