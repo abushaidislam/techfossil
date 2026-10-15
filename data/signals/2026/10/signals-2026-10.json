@@ -1348,6 +1348,21 @@
         "ui",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097483",
+      "title": "Minions: Dynamic, Distributed VGPU Cloud Built on Idle Apple Silicon Devices",
+      "canonical_url": "https://arxiv.org/abs/2610.12970",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T06:17:30Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "distributed",
+        "cloud",
+        "ui"
+      ]
     }
   ]
 }
