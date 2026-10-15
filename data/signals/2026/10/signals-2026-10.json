@@ -1757,6 +1757,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50098439",
+      "title": "Kitty-GPT",
+      "canonical_url": "https://kittygpt.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:31:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
