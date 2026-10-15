@@ -1842,6 +1842,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50088643",
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "canonical_url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T20:55:19Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
