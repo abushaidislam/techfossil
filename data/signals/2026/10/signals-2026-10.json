@@ -1481,6 +1481,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50070593",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "canonical_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T18:26:36Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "distributed",
+        "cloud",
+        "ui"
+      ]
     }
   ]
 }
