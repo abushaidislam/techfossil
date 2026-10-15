@@ -1770,6 +1770,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50088935",
+      "title": "Passkeys are not a trap",
+      "canonical_url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T21:15:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
