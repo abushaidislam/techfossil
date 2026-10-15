@@ -1856,6 +1856,21 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097790",
+      "title": "OpenAI Sued over Children's Data Used to Train ChatGPT",
+      "canonical_url": "https://www.cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T06:55:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gpt",
+        "openai"
+      ]
     }
   ]
 }
