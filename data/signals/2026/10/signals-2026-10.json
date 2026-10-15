@@ -2161,6 +2161,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107233",
+      "title": "PCEI – On-device embodied AI combining BitNet 1.58B, Mamba, and FastKAN",
+      "canonical_url": "https://github.com/MtnMCG/PCEI",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:39:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
