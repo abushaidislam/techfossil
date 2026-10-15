@@ -2101,6 +2101,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50078524",
+      "title": "Turn an old junk phone into a Talking Jack-O-Lantern",
+      "canonical_url": "https://jack-o.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T02:49:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
