@@ -2075,6 +2075,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106934",
+      "title": "Glass – The AI workspace where knowledge compounds",
+      "canonical_url": "https://ramp.com/glass",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:17:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
