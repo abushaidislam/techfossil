@@ -1886,6 +1886,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50102664",
+      "title": "RIAA Flags Anna's Archive and AI Voice Cloner to U.S. Government",
+      "canonical_url": "https://torrentfreak.com/riaa-flags-annas-archive-and-ai-voice-cloner-to-u-s-government/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T18:26:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
