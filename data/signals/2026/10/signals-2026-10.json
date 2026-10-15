@@ -2131,6 +2131,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50080155",
+      "title": "Delta’s Biscoff cookies were supposed to be temporary",
+      "canonical_url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T05:00:46Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
