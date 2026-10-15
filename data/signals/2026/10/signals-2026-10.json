@@ -1423,6 +1423,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50048193",
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "canonical_url": "https://github.com/enes-alatas/spool",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T03:50:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
