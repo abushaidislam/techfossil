@@ -2203,6 +2203,20 @@
         "agent",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4857675",
+      "title": "DuckLess: serverless DuckDB on Google Cloud, in your own project",
+      "canonical_url": "https://dev.to/gde/duckless-serverless-duckdb-on-google-cloud-in-your-own-project-4o5a",
+      "source": "dev_to",
+      "published_at": "2026-10-15T16:38:38Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "serverless"
+      ]
     }
   ]
 }
