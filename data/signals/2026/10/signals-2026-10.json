@@ -1729,6 +1729,19 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097104",
+      "title": "Chaos ensues when AI interviewer meets AI interviewee",
+      "canonical_url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T05:32:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
