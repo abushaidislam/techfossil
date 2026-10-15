@@ -1660,6 +1660,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-dev-4820732",
+      "title": "It's Not the Model, It's You",
+      "canonical_url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
+      "source": "dev_to",
+      "published_at": "2026-10-11T19:45:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
