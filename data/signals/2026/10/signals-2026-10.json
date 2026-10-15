@@ -1943,6 +1943,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1016-dev-4856866",
+      "title": "Local image generation with llamadart for the Llama Village storybook",
+      "canonical_url": "https://dev.to/gde/local-image-generation-with-llamadart-for-the-llama-village-storybook-p28",
+      "source": "dev_to",
+      "published_at": "2026-10-15T13:56:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
