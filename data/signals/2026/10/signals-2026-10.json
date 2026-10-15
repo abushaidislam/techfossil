@@ -2045,6 +2045,21 @@
         "database",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50104741",
+      "title": "OLTP is expensive, you can ClickHouse it",
+      "canonical_url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T21:04:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
