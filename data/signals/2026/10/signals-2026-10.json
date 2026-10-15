@@ -2247,6 +2247,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108759",
+      "title": "How to Use Jev with Claude Code, Codex and Cursor",
+      "canonical_url": "https://flaviocopes.com/jev-coding-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T01:12:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
