@@ -1393,6 +1393,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50057119",
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "canonical_url": "https://blog.plover.com/prog/git/history-proposal.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T20:41:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
