@@ -1378,6 +1378,21 @@
         "architecture",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1015-hn-50097501",
+      "title": "What write skew looks like",
+      "canonical_url": "https://www.cockroachlabs.com/blog/what-write-skew-looks-like/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T06:20:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
