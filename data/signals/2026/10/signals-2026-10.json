@@ -3616,6 +3616,19 @@
         "claude",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50116156",
+      "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+      "canonical_url": "https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T15:28:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
