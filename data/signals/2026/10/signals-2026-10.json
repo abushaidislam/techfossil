@@ -2918,6 +2918,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50099121",
+      "title": "An Apology",
+      "canonical_url": "https://www.elevationlab.com/blogs/news/an-apology",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T10:23:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
