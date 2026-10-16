@@ -2876,6 +2876,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114256",
+      "title": "Self-Evolving Agent Harness",
+      "canonical_url": "https://arxiv.org/abs/2610.18813",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:57:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
