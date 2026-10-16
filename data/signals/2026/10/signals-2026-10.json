@@ -2503,6 +2503,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113145",
+      "title": "Ask HN: Thoughts about the Gemini Web app?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50113145",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T08:24:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
