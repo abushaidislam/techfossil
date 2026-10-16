@@ -2832,6 +2832,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106062",
+      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+      "canonical_url": "https://github.com/rlshaw-ml/BlastLoop",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T22:26:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
