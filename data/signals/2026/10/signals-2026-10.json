@@ -3272,6 +3272,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50064673",
+      "title": "The Origin Story of Kid Pix",
+      "canonical_url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T05:52:29Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
