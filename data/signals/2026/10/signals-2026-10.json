@@ -3214,6 +3214,19 @@
         "llm",
         "distributed"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50090932",
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "canonical_url": "https://clova.email/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:00:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
