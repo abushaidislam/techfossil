@@ -3703,6 +3703,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115339",
+      "title": "OpenFest 2026 (Sofia, Bulgaria)",
+      "canonical_url": "https://www.openfest.org/2026/en/2026/10/14/save-the-date-for-openfest/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:39:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
