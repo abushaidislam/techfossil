@@ -2559,6 +2559,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50065572",
+      "title": "LittleJS is 2D and 3D now",
+      "canonical_url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T07:50:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
