@@ -3113,6 +3113,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50104726",
+      "title": "Celebrating 70 Years of Fortran",
+      "canonical_url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T21:03:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
