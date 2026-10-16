@@ -2904,6 +2904,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113012",
+      "title": "Space (AI agent containment sandbox) software open source",
+      "canonical_url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T08:10:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
