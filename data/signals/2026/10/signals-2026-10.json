@@ -2399,6 +2399,21 @@
       "technologies": [
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113201",
+      "title": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+      "canonical_url": "https://wayseer.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T08:30:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
