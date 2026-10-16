@@ -3068,6 +3068,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114912",
+      "title": "Proofpoint to buy Varonis Systems in $6.3B all-cash deal",
+      "canonical_url": "https://www.reuters.com/legal/transactional/proofpoint-buy-varonis-systems-63-billion-all-cash-deal-2026-10-15/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:37:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
