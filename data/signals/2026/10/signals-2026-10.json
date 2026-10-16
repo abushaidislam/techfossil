@@ -3157,6 +3157,21 @@
         "neural",
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50072119",
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "canonical_url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T20:14:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
