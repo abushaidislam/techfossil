@@ -3673,6 +3673,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50072485",
+      "title": "Two-Stack Sliding-Window Aggregation",
+      "canonical_url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T20:40:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
