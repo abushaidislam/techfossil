@@ -3200,6 +3200,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113743",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "canonical_url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:34:45Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "distributed"
+      ]
     }
   ]
 }
