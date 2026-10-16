@@ -2444,6 +2444,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50100387",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "canonical_url": "https://github.com/awslabs/aidlc-workflows",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T13:20:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
