@@ -2819,6 +2819,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113996",
+      "title": "Modernizing the VS Code UI",
+      "canonical_url": "https://code.visualstudio.com/blogs/2026/10/15/modern-ui",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:13:45Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
