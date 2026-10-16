@@ -3746,6 +3746,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115889",
+      "title": "Streaming a coding agent's UI in Flutter: what broke and how we fixed it",
+      "canonical_url": "https://getpullrequest.com/blogs/streaming-agent-ui-in-flutter",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T14:55:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "agent"
+      ]
     }
   ]
 }
