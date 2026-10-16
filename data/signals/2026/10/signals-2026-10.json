@@ -3718,6 +3718,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50069499",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "canonical_url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T16:27:00Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
