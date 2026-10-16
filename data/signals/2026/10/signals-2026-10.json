@@ -3804,6 +3804,21 @@
         "rust",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50116090",
+      "title": "Unified Harness Protocol",
+      "canonical_url": "https://unifiedharnessprotocol.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T15:21:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
