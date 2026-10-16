@@ -3483,6 +3483,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50060547",
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "canonical_url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T00:20:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
