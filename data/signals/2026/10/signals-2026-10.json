@@ -3083,6 +3083,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50107379",
+      "title": "Muse Spark Open",
+      "canonical_url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:47:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
