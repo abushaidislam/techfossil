@@ -2703,6 +2703,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113666",
+      "title": "South Korea's stock market down, president telling people not to commit suicide",
+      "canonical_url": "https://twitter.com/litcapital/status/2110752546415382699",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:26:08Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
