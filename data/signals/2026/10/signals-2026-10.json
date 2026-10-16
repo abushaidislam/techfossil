@@ -2993,6 +2993,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113844",
+      "title": "Dotnetup",
+      "canonical_url": "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:50:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
