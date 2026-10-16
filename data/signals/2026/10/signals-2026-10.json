@@ -3834,6 +3834,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50116709",
+      "title": "Reap the processes your coding agents leave behind",
+      "canonical_url": "https://github.com/AppulseSoftware/reaper",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T16:38:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
