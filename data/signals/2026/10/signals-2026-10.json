@@ -3428,6 +3428,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50110614",
+      "title": "Show HN: Endo – A Higher-Order Harness",
+      "canonical_url": "https://github.com/longsurf-ai/endo",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T03:32:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
