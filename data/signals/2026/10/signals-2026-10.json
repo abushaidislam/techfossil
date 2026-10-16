@@ -3790,6 +3790,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115537",
+      "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
+      "canonical_url": "https://news.ycombinator.com/item?id=50115537",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T14:06:27Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ux"
+      ]
     }
   ]
 }
