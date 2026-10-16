@@ -2545,6 +2545,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113792",
+      "title": "Researchers discover rogue Chinese AI agent fleet and talk with it",
+      "canonical_url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:42:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
