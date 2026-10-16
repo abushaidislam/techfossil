@@ -3143,6 +3143,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50112421",
+      "title": "Turn your regular JavaScript code into a neural net",
+      "canonical_url": "https://chenglou.me/handwired/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:04:18Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "neural",
+        "javascript"
+      ]
     }
   ]
 }
