@@ -3387,6 +3387,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115068",
+      "title": "Build vs. Buy When Building Just Got Cheap",
+      "canonical_url": "https://kevingoldsmith.substack.com/p/build-vs-buy-when-building-just-got",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:00:31Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
