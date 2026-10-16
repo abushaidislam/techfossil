@@ -3345,6 +3345,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115109",
+      "title": "Show HN: I built an online community and educational platform for trauma healing",
+      "canonical_url": "https://rannu37hearteu.wixsite.com/seen-whole",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:07:47Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
