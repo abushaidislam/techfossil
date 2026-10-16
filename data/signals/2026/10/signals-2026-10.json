@@ -2731,6 +2731,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114973",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "canonical_url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:47:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
