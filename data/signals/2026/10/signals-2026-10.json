@@ -3038,6 +3038,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50102923",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "canonical_url": "https://libreboot.org/news/libreboot2610.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T18:52:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
