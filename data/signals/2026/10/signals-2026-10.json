@@ -3415,6 +3415,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113842",
+      "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+      "canonical_url": "https://arxiv.org/abs/2610.14270",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:49:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
