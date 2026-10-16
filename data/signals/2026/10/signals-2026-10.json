@@ -2429,6 +2429,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50111406",
+      "title": "68k Macintosh Ports",
+      "canonical_url": "https://roytinker.com/68k-ports/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T04:42:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
