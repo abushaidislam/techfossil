@@ -2488,6 +2488,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50097843",
+      "title": "The engineering that allows articulated buses to bend",
+      "canonical_url": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T07:02:05Z",
+      "category": "Software Engineering",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
