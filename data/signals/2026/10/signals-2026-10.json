@@ -3400,6 +3400,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50079701",
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T04:17:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
