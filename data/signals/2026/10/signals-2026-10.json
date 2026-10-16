@@ -2414,6 +2414,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114077",
+      "title": "Tesla makes cars that fly? [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:27:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
