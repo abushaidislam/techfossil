@@ -2630,6 +2630,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50112692",
+      "title": "How do human beings explain taking part in genocide?",
+      "canonical_url": "https://www.theguardian.com/global/commentisfree/2026/oct/09/naza-mass-killing-gaza-israel",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:38:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
