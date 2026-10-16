@@ -3315,6 +3315,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114402",
+      "title": "Tesla Roadster Unveiled – Elon Musk's Wildest Car Yet",
+      "canonical_url": "https://www.youtube.com/watch?v=j8lbY_D7xcY",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:24:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
