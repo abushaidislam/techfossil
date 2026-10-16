@@ -3185,6 +3185,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113890",
+      "title": "The Russian Bots Went Silent. Or Did They?",
+      "canonical_url": "https://www.lawfaremedia.org/article/the-russian-bots-went-silent.-or-did-they",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:57:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
