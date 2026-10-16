@@ -3513,6 +3513,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50081045",
+      "title": "Creating a Garmin \"MCP\"",
+      "canonical_url": "https://jackantico.io/garmin-mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T06:52:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
