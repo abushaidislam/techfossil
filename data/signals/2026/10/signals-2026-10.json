@@ -3443,6 +3443,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114976",
+      "title": "Forgejo v17.0 Is Available",
+      "canonical_url": "https://forgejo.org/2026-10-release-v17-0/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:47:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
