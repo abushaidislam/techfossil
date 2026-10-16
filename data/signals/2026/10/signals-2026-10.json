@@ -2617,6 +2617,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114409",
+      "title": "Anthropic thinks its AI might be conscious",
+      "canonical_url": "https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:24:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
