@@ -2516,6 +2516,20 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114379",
+      "title": "Friends don't let friends feed their data to AI agents",
+      "canonical_url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:18:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
