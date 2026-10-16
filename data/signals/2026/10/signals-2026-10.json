@@ -2791,6 +2791,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113144",
+      "title": "Teaching Math to Young Children",
+      "canonical_url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/18",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T08:24:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
