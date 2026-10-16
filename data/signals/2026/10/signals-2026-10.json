@@ -3372,6 +3372,21 @@
         "sql",
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50086313",
+      "title": "Smart people don't think others are stupid (2012)",
+      "canonical_url": "https://sive.rs/ss",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T18:01:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
