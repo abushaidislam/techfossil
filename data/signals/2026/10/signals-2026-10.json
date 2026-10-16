@@ -3227,6 +3227,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50101813",
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "canonical_url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T16:43:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
