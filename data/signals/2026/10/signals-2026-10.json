@@ -3470,6 +3470,19 @@
         "api",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114999",
+      "title": "How AI proof is my business?",
+      "canonical_url": "https://keithbrown.com/tools/ai-proof",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:50:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
