@@ -3008,6 +3008,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106023",
+      "title": "Jev meets the Trolley Problem",
+      "canonical_url": "https://zachlandes.com/trolley-problem/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T22:24:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
