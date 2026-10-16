@@ -3242,6 +3242,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113569",
+      "title": "OSI Approved the Curl License",
+      "canonical_url": "https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:14:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
