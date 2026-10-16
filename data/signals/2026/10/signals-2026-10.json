@@ -2643,6 +2643,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50070661",
+      "title": "It took me nine years to hack my Xbox 360",
+      "canonical_url": "https://kennedn.com/blog/posts/glitching/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T18:33:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
