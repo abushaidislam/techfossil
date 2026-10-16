@@ -3558,6 +3558,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115354",
+      "title": "Development of Norton Commander",
+      "canonical_url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:41:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
