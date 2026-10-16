@@ -2806,6 +2806,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50096300",
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "canonical_url": "https://uji.sh/ito/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T04:23:53Z",
+      "category": "Frontend & UI",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
