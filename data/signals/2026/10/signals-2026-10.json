@@ -3053,6 +3053,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114342",
+      "title": "The Folders Programming Language",
+      "canonical_url": "https://danieltemkin.com/esolangs/folders",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:11:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
