@@ -2473,6 +2473,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50064470",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "canonical_url": "https://indigene.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T05:25:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
