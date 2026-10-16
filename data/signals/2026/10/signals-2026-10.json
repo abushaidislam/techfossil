@@ -3098,6 +3098,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114938",
+      "title": "Implementing a GPU-accelerated JPEG XL encoder",
+      "canonical_url": "https://martinopilia.com/posts/2026/09/07/gpu-jpegxl-codec.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:41:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
