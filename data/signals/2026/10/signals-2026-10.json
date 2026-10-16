@@ -2948,6 +2948,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113468",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "canonical_url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:01:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
