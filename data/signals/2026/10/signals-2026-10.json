@@ -3257,6 +3257,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50092470",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "canonical_url": "https://petal.live/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T00:23:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
