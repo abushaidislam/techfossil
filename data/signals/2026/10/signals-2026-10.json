@@ -3688,6 +3688,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50058531",
+      "title": "The Haunted Toys R Us",
+      "canonical_url": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "source": "hacker_news",
+      "published_at": "2026-10-12T22:13:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
