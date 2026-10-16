@@ -3629,6 +3629,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50116117",
+      "title": "CVE-2026-99999: Linux IPv4: validate checksum_start before completing checksum",
+      "canonical_url": "https://app.opencve.io/cve/CVE-2026-99999",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T15:24:40Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cve",
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
