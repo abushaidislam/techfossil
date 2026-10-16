@@ -3658,6 +3658,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50075392",
+      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+      "canonical_url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T23:27:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
