@@ -3731,6 +3731,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115714",
+      "title": "aria2-next: Redefining the next generation of aria2",
+      "canonical_url": "https://github.com/AnInsomniacy/aria2-next",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T14:30:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
