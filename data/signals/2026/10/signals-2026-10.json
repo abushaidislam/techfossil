@@ -2776,6 +2776,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114007",
+      "title": "SPJ: A Taste of Verse (Programming Language) [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=I6fL66L3jPs",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:15:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
