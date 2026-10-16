@@ -3601,6 +3601,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115475",
+      "title": "Hopper HQ: An office building where Claude agents gets a desk",
+      "canonical_url": "https://github.com/FairMind-Gen-AI-Studio/hopper-hq",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:59:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "claude",
+        "agent"
+      ]
     }
   ]
 }
