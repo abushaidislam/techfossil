@@ -2861,6 +2861,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113547",
+      "title": "IDBI Bank is finally being sold",
+      "canonical_url": "https://finshots.in/markets/idbi-bank-is-finally-being-sold/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:12:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
