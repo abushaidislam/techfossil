@@ -3644,6 +3644,20 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114743",
+      "title": "The Agentic Scientist – SakanaAI",
+      "canonical_url": "https://github.com/SakanaAI/AI-Scientist-v3",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:14:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
