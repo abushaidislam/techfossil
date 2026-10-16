@@ -2978,6 +2978,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114350",
+      "title": "'Onion cartel' in Philippines fined $28M for price shock",
+      "canonical_url": "https://www.bbc.com/news/articles/cmwyvwyp9dgro",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:13:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
