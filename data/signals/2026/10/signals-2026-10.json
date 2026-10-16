@@ -3301,6 +3301,20 @@
         "ui",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115538",
+      "title": "Show HN: WP Replai – AI chatbot built right into WordPress",
+      "canonical_url": "https://wpreplai.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T14:06:46Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
