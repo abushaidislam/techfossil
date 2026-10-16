@@ -2589,6 +2589,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50069439",
+      "title": "Major ICQ security hole (1998)",
+      "canonical_url": "https://opennet.ru/base/maillist/169.txt.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T16:21:17Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
