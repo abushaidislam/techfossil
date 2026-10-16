@@ -3358,6 +3358,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115392",
+      "title": "How to Open a SQLite Database: Query and Explore Your Data",
+      "canonical_url": "https://visualeaf.com/blog/how-to-open-a-sqlite-database-query-and-explore-your-data/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:47:05Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "sql",
+        "database"
+      ]
     }
   ]
 }
