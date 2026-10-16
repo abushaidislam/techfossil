@@ -2746,6 +2746,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50106054",
+      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+      "canonical_url": "https://sygal.app",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T22:26:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
