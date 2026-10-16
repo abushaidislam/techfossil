@@ -3330,6 +3330,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115087",
+      "title": "Home lab: own cert to reach: Home Assistant, Vaultwarden and Gitea",
+      "canonical_url": "https://blog.jacq.cc/guides/client-certificates-home-assistant-vaultwarden-gitea/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:03:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
