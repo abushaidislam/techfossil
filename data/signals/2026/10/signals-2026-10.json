@@ -2716,6 +2716,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50102247",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "canonical_url": "https://unfenced.land/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T17:38:57Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
