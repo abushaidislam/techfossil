@@ -3128,6 +3128,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113481",
+      "title": "Resolute – American presidency simulator on the browser",
+      "canonical_url": "https://resolutethegame.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:02:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
