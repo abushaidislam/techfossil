@@ -3819,6 +3819,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50084240",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "canonical_url": "https://typeof.net/Iosevka/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T14:27:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
