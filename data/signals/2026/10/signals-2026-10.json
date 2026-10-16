@@ -2458,6 +2458,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114134",
+      "title": "Japan business manager visa holders leaving without reentry permits surge",
+      "canonical_url": "https://japantoday.com/category/national/japan-business-manager-visa-holders-leaving-without-reentry-permits-surge?",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:37:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
