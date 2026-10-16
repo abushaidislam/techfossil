@@ -3172,6 +3172,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114944",
+      "title": "AI Prompt Hub – 150 categories of ready-to-use AI prompts and custom generator",
+      "canonical_url": "https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T12:42:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
