@@ -2761,6 +2761,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113624",
+      "title": "Things I've Googled as a Developer",
+      "canonical_url": "https://soargram.io/content/141871895",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T09:22:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
