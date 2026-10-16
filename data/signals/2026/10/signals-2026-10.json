@@ -2658,6 +2658,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50114359",
+      "title": "Last rites for Gentoo's Chromium package",
+      "canonical_url": "https://lwn.net/Articles/1097760/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T11:14:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
