@@ -3023,6 +3023,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50097858",
+      "title": "Why are chip companies allergic to open source?",
+      "canonical_url": "https://www.zeroasic.com/blog/hardware-github-stars",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T07:03:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
