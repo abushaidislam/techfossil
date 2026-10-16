@@ -2371,6 +2371,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50112227",
+      "title": "Iran’s precision strikes picked apart Gulf infrastructure, blunting US war plans",
+      "canonical_url": "https://www.reuters.com/investigates/special-report/iran-crisis-infrastructure-attacks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T06:37:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
