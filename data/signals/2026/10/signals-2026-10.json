@@ -3877,6 +3877,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50112799",
+      "title": "Lightpanda headless browser written in Zig",
+      "canonical_url": "https://lightpanda.io",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:48:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
