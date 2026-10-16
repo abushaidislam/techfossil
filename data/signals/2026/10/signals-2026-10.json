@@ -2602,6 +2602,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50113349",
+      "title": "I survived two school shootings. This is what I learned",
+      "canonical_url": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T08:47:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
