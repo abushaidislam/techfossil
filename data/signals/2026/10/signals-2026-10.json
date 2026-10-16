@@ -3847,6 +3847,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50087616",
+      "title": "Non-Determinism Doesn't Matter",
+      "canonical_url": "https://sklar.rocks/non-determinism-doesnt-matter/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T19:37:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
