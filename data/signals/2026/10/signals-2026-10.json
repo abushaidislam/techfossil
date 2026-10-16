@@ -3543,6 +3543,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50077096",
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "canonical_url": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T01:17:19Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
