@@ -3498,6 +3498,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50108229",
+      "title": "E Ink Kaleido 4",
+      "canonical_url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:38:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
