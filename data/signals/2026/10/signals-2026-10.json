@@ -2933,6 +2933,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50070510",
+      "title": "Speculative Sauropods",
+      "canonical_url": "https://svpow.com/2026/10/02/speculative-sauropods/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T18:20:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
