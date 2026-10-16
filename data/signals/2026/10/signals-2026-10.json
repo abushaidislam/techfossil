@@ -3456,6 +3456,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1016-hn-50115150",
+      "title": "Show HN: I built 7 B2B APIs and 5 MCP servers for compliance and trade",
+      "canonical_url": "https://jsonexlab.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T13:12:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ui"
+      ]
     }
   ]
 }
