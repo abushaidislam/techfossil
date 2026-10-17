@@ -5524,6 +5524,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133304",
+      "title": "How to Make Auditability a Sales Asset When You Build Agents for Enterprises",
+      "canonical_url": "https://medium.com/@MirArshadTalpur/how-to-make-auditability-a-sales-asset-when-you-build-agents-for-enterprises-eaefaf91d91b",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:52:47Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ui"
+      ]
     }
   ]
 }
