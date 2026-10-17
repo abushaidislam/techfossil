@@ -4897,6 +4897,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50124215",
+      "title": "Gnome OS Preview",
+      "canonical_url": "https://lwn.net/Articles/1101057/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T02:30:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
