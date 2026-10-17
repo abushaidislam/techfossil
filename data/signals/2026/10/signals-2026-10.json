@@ -4867,6 +4867,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50076089",
+      "title": "Monte-Carlo Simulations",
+      "canonical_url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T00:11:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
