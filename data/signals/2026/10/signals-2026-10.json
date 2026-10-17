@@ -4683,6 +4683,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131631",
+      "title": "Proactive AI for Superintelligent Agents",
+      "canonical_url": "https://research.google/pubs/proactive-ai-for-superintelligent-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:44:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
