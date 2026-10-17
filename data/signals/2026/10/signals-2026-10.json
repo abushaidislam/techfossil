@@ -4195,6 +4195,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130491",
+      "title": "Show HN: Animated step-by-step hints for any cryptic crossword clue",
+      "canonical_url": "https://crypticinkling.co.uk",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T18:21:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
