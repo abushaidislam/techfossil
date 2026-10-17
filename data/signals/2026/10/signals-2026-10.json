@@ -4809,6 +4809,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50103164",
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "canonical_url": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T19:11:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
