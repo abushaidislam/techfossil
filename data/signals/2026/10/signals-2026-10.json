@@ -4096,6 +4096,22 @@
         "cloud",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4857516",
+      "title": "[AI in Practice] Upgrading from Gemini 3.5/3.6 to Gemini 4 Argon: Migration Notes and Pitfalls for LINE Bot Developers",
+      "canonical_url": "https://dev.to/gde/ai-in-practice-upgrading-from-gemini-3536-to-gemini-4-argon-migration-notes-and-pitfalls-for-hli",
+      "source": "dev_to",
+      "published_at": "2026-10-16T14:52:20Z",
+      "category": "Backend & APIs",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "python",
+        "api",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
