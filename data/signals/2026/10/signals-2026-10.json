@@ -5228,6 +5228,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50120101",
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "canonical_url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T22:03:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
