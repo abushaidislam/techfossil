@@ -4079,6 +4079,23 @@
         "cloud",
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4863548",
+      "title": "Building Production-Ready Open-Weights AI Agents with Gemma, Google ADK, and Cloud Run GPUs",
+      "canonical_url": "https://dev.to/gde/building-production-ready-open-weights-ai-agents-with-gemma-google-adk-and-cloud-run-gpus-2mfg",
+      "source": "dev_to",
+      "published_at": "2026-10-16T16:43:29Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "python",
+        "agent",
+        "cloud",
+        "ai"
+      ]
     }
   ]
 }
