@@ -4469,6 +4469,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131465",
+      "title": "It's time to make your own RSS reader",
+      "canonical_url": "https://tailscale.com/blog/self-hosted-rss-reader-freshrss",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:24:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
