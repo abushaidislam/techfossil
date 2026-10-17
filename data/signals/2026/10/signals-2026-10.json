@@ -5344,6 +5344,21 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50133231",
+      "title": "Codex is EATING my Mac's disk space",
+      "canonical_url": "https://github.com/openai/codex/issues/25921",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:45:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
