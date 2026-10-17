@@ -5444,6 +5444,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50125545",
+      "title": "Nine-Inch Snails",
+      "canonical_url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T04:21:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
