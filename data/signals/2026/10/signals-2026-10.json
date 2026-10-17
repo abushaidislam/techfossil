@@ -4064,6 +4064,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4863183",
+      "title": "Don't Assume Your Cloud T4 Runs at Spec: Gemma 4 Decode Falls 7% as the Card Warms",
+      "canonical_url": "https://dev.to/gde/dont-assume-your-cloud-t4-runs-at-spec-gemma-4-decode-falls-7-as-the-card-warms-3fd3",
+      "source": "dev_to",
+      "published_at": "2026-10-16T15:14:10Z",
+      "category": "Systems & Architecture",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "cloud",
+        "performance"
+      ]
     }
   ]
 }
