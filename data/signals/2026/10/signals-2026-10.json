@@ -5198,6 +5198,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50068203",
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "canonical_url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T13:52:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
