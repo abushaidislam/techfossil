@@ -4396,6 +4396,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50126241",
+      "title": "Meta confirms smart glasses were recording without being activated",
+      "canonical_url": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T05:36:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
