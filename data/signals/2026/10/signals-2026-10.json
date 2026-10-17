@@ -3935,6 +3935,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130717",
+      "title": "Natural screen reader voices on Linux",
+      "canonical_url": "https://codemacabre.com/notes/natural-screen-reader-voices/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T18:56:53Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
