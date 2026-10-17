@@ -5861,6 +5861,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133401",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "canonical_url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:01:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
