@@ -3992,6 +3992,19 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50129015",
+      "title": "Meta to scrape content from business customers for model training",
+      "canonical_url": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T14:14:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
