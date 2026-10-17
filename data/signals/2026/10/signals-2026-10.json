@@ -5749,6 +5749,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133211",
+      "title": "Building a Chess Cheat Detector",
+      "canonical_url": "https://chesscheatdetector.com/blog/building-a-chess-cheat-detector",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:42:54Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
