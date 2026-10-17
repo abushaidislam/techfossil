@@ -5387,6 +5387,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132339",
+      "title": "Ttype – Minimalist terminal typing test with typewriter soundscapes",
+      "canonical_url": "https://github.com/laguser/ttype",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:11:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
