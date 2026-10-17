@@ -5125,6 +5125,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50127729",
+      "title": "AI is driving a boom in modestly successful software projects",
+      "canonical_url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T09:47:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
