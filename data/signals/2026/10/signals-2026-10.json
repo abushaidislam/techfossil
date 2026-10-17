@@ -4307,6 +4307,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50122217",
+      "title": "Will MOOCs Destroy Academia? (2012)",
+      "canonical_url": "https://cacm.acm.org/opinion/will-moocs-destroy-academia/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:18:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
