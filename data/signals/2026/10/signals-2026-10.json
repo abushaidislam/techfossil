@@ -5846,6 +5846,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133738",
+      "title": "Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA",
+      "canonical_url": "https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:34:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
