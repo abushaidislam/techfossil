@@ -5818,6 +5818,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50117746",
+      "title": "I love software rendering",
+      "canonical_url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T18:52:08Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
