@@ -5009,6 +5009,19 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50118662",
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "canonical_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T20:16:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
