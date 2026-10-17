@@ -4225,6 +4225,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130262",
+      "title": "Bright Blue Snail Poo",
+      "canonical_url": "https://dornob.com/bright-blue-snail-poo-excrement-used-to-make-tiles/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T17:52:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
