@@ -5359,6 +5359,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50112331",
+      "title": "Thank You, Deno",
+      "canonical_url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T06:52:40Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
