@@ -5470,6 +5470,19 @@
       "technologies": [
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132169",
+      "title": "I Tested AI Cloning and It's Worse Than You Think",
+      "canonical_url": "https://www.youtube.com/watch?v=KC31K-CUC5Y",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:52:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
