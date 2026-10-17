@@ -4251,6 +4251,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50127839",
+      "title": "\"In every study that considered the question\"",
+      "canonical_url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T10:08:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
