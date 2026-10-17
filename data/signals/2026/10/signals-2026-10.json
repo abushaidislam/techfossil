@@ -4168,6 +4168,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131072",
+      "title": "Microsoft AI chief says the company beat OpenAI's models, using less compute",
+      "canonical_url": "https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:37:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
