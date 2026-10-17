@@ -4153,6 +4153,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131023",
+      "title": "Ask HN: It's still worth to show own handmaded games to the public internet?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50131023",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:30:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
