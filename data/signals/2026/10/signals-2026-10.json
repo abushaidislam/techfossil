@@ -5374,6 +5374,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132166",
+      "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50132166",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:52:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
