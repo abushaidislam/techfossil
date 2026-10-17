@@ -4927,6 +4927,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132524",
+      "title": "Open autoresearch challenges in cryptography, ZK and math",
+      "canonical_url": "https://www.yukon.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:33:10Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cryptography"
+      ]
     }
   ]
 }
