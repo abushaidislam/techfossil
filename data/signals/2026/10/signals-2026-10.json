@@ -4266,6 +4266,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50074322",
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "canonical_url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T22:26:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
