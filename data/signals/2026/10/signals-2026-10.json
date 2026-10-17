@@ -4112,6 +4112,19 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50088748",
+      "title": "I built the RealWorld app in Lean 4",
+      "canonical_url": "https://leangineer.com/blog/realworld-in-lean/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T21:03:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
