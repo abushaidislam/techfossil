@@ -4556,6 +4556,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50105777",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "canonical_url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T22:11:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
