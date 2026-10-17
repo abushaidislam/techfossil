@@ -4352,6 +4352,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131583",
+      "title": "Show HN: SpeakoFlow – Free, open-source voice typing for Windows, Mac and Linux",
+      "canonical_url": "https://www.speakoflow.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:38:51Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
