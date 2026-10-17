@@ -4653,6 +4653,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131203",
+      "title": "Using the brella to re-create Reddit",
+      "canonical_url": "https://ahptour.com/blog/using-the-brella-to-re-create-reddit/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:54:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
