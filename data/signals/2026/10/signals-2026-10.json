@@ -5300,6 +5300,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131592",
+      "title": "Open Source Without the Open Door",
+      "canonical_url": "https://abbykearns.substack.com/p/open-source-without-the-open-door",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:39:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
