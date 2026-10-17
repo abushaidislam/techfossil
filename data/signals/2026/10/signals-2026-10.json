@@ -4034,6 +4034,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4766369",
+      "title": "What was your win this week?!",
+      "canonical_url": "https://dev.to/devteam/what-was-your-win-this-week-36am",
+      "source": "dev_to",
+      "published_at": "2026-10-16T13:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
