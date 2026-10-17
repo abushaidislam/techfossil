@@ -5417,6 +5417,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50115703",
+      "title": "Coconuts in Medieval Britain (2015)",
+      "canonical_url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T14:28:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
