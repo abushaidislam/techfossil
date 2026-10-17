@@ -4584,6 +4584,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50099136",
+      "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
+      "canonical_url": "https://github.com/andunieee/flipflop",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T10:25:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
