@@ -5936,6 +5936,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50103338",
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "canonical_url": "https://github.com/fyzugx/DEsk",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T19:23:44Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
