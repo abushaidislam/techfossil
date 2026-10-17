@@ -4912,6 +4912,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130570",
+      "title": "Super Intelligence",
+      "canonical_url": "https://www.si.gov/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T18:36:19Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
