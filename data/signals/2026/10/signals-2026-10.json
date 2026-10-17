@@ -5638,6 +5638,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132502",
+      "title": "OpenAI discloses four more rogue incidents",
+      "canonical_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:31:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 76,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
