@@ -5273,6 +5273,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50118977",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "canonical_url": "https://calif.io/research/big-fish",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T20:44:02Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
