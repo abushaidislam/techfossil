@@ -4498,6 +4498,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131293",
+      "title": "Personal Editor",
+      "canonical_url": "https://en.wikipedia.org/wiki/Personal_Editor",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:04:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
