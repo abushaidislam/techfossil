@@ -3920,6 +3920,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4863494",
+      "title": "Do Drafters Work on Small Models? Gemma 4 E2B and E4B on Two Small GPUs",
+      "canonical_url": "https://dev.to/gde/do-drafters-work-on-small-models-gemma-4-e2b-and-e4b-on-two-small-gpus-1b4g",
+      "source": "dev_to",
+      "published_at": "2026-10-16T17:30:10Z",
+      "category": "Software Engineering",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
