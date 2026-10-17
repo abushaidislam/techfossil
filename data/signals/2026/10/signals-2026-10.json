@@ -5693,6 +5693,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132230",
+      "title": "Pg_lake 3.5: Universal Iceberg REST Catalog Support for Postgres",
+      "canonical_url": "https://www.snowflake.com/en/blog/engineering/pg-lake-iceberg-rest-catalog/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:59:07Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres"
+      ]
     }
   ]
 }
