@@ -5330,6 +5330,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131912",
+      "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
+      "canonical_url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:22:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
