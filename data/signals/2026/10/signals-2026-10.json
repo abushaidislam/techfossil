@@ -5568,6 +5568,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132851",
+      "title": "$1.5B data centre for Canada's cyber spy agency to be built in Ottawa area",
+      "canonical_url": "https://www.ctvnews.ca/ottawa/article/data-centre-for-canadas-cyber-spy-agency-to-be-built-in-ottawa-area/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:03:50Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
