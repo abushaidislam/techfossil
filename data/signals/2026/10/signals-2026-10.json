@@ -4366,6 +4366,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131718",
+      "title": "Copy-Paste Language Models",
+      "canonical_url": "https://arxiv.org/abs/2610.19247",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:57:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
