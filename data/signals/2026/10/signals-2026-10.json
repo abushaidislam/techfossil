@@ -3907,6 +3907,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4863823",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+      "canonical_url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-touch-grass-winners-152c",
+      "source": "dev_to",
+      "published_at": "2026-10-16T17:38:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
