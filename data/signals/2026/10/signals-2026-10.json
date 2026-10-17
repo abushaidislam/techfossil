@@ -5950,6 +5950,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50134125",
+      "title": "Show HN: Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins",
+      "canonical_url": "https://halalcryptoindex.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T01:14:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
