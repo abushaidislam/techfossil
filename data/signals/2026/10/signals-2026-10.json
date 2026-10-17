@@ -3977,6 +3977,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4860170",
+      "title": "Building ora-tui with Google Antigravity & Gemini 4 Argon: An MS-DOS Retro TUI & OpenTelemetry Exporter for Oracle RAC, DB & SAN Multipath",
+      "canonical_url": "https://dev.to/gde/building-ora-tui-with-google-antigravity-gemini-4-argon-an-ms-dos-retro-tui-opentelemetry-4d02",
+      "source": "dev_to",
+      "published_at": "2026-10-16T05:36:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
