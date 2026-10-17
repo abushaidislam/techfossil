@@ -5022,6 +5022,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50121506",
+      "title": "The First Candid",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T23:28:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
