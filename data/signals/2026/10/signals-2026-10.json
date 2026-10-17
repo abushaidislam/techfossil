@@ -4612,6 +4612,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130730",
+      "title": "Evidence Before Trust",
+      "canonical_url": "https://www.crunchbase.com/organization/eels-d60e",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T18:58:03Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
