@@ -5095,6 +5095,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50098281",
+      "title": "Symmetries in Boolean Scan",
+      "canonical_url": "https://ap29600.github.io/boolean_scans.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:07:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
