@@ -4049,6 +4049,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50112330",
+      "title": "RPKI now protects 70% of internet routes",
+      "canonical_url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T06:52:35Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
