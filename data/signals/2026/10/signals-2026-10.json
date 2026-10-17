@@ -5891,6 +5891,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133219",
+      "title": "Jeva: System One Models from First Principles",
+      "canonical_url": "https://arxiv.org/abs/2610.18773",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:43:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
