@@ -5610,6 +5610,21 @@
         "ai",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122736",
+      "title": "C++26: The New Debugging Header",
+      "canonical_url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:52:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
