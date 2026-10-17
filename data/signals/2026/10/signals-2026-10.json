@@ -5678,6 +5678,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50118267",
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "canonical_url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T19:38:25Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
