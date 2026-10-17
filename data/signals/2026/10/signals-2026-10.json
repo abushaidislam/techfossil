@@ -4940,6 +4940,19 @@
       "technologies": [
         "cryptography"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131793",
+      "title": "Apps, Agents, and Aggregation",
+      "canonical_url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:07:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
