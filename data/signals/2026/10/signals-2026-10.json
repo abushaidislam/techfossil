@@ -4755,6 +4755,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131680",
+      "title": "Decompilations, AI, and the Chase for Clout",
+      "canonical_url": "https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:53:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
