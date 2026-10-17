@@ -5581,6 +5581,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132211",
+      "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "canonical_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:57:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
