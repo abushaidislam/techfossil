@@ -4852,6 +4852,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131414",
+      "title": "The Engineering Behind the Internet [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:19:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
