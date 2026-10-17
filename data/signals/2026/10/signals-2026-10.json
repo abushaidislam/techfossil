@@ -5243,6 +5243,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50088767",
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "canonical_url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T21:04:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
