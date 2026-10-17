@@ -4238,6 +4238,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50073879",
+      "title": "Gemini 4 Argon",
+      "canonical_url": "https://deepmind.google/models/gemini/",
+      "source": "hacker_news",
+      "published_at": "2026-10-13T22:03:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
