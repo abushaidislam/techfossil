@@ -5833,6 +5833,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132753",
+      "title": "Alexandr Wang, Meta's Gen Z billionaire AI whizz",
+      "canonical_url": "https://www.economist.com/the-world-in-brief",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:55:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
