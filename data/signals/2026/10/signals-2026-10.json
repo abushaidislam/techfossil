@@ -5457,6 +5457,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50123580",
+      "title": "FLUX 3 Image Klein",
+      "canonical_url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T01:47:13Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ux"
+      ]
     }
   ]
 }
