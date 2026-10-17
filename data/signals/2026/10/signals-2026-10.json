@@ -5183,6 +5183,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131746",
+      "title": "fishdraw",
+      "canonical_url": "https://github.com/LingDong-/fishdraw",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:01:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
