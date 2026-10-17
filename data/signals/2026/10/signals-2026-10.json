@@ -4411,6 +4411,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131189",
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "canonical_url": "https://github.com/mikroverk/esp32sim",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:51:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
