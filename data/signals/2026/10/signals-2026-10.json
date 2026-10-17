@@ -5876,6 +5876,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133287",
+      "title": "OpenCode Hacked. Keys Stolen",
+      "canonical_url": "https://twitter.com/mattjay/status/2111480005435719885",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:50:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
