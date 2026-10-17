@@ -4019,6 +4019,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50122387",
+      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+      "canonical_url": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:29:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
