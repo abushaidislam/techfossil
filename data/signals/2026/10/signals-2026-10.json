@@ -4337,6 +4337,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131729",
+      "title": "MonkShift – reduces visual distractions, one application can take the foreground",
+      "canonical_url": "https://github.com/gslava/MonkShift",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:58:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
