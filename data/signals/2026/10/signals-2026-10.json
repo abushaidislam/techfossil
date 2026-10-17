@@ -4796,6 +4796,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50124251",
+      "title": "I never authorized an integration that scans my secrets",
+      "canonical_url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T02:33:41Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "auth"
+      ]
     }
   ]
 }
