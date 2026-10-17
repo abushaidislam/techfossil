@@ -4710,6 +4710,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50082358",
+      "title": "A Tudor Life in the Time of Plague",
+      "canonical_url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T10:23:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
