@@ -4322,6 +4322,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130873",
+      "title": "Brax Wink",
+      "canonical_url": "https://braxtech.net/products/wink",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:12:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
