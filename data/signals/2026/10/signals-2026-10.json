@@ -5315,6 +5315,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132870",
+      "title": "Gold is Now the Top U.S. Export",
+      "canonical_url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T23:06:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
