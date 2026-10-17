@@ -4783,6 +4783,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50111852",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "canonical_url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T05:37:42Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
