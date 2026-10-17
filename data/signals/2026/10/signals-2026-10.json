@@ -5625,6 +5625,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122776",
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "canonical_url": "https://stoke.money",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:54:47Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
