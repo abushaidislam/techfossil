@@ -5153,6 +5153,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50128830",
+      "title": "Show HN: Biblio Times, your RSS feeds, typeset as a morning newspaper (Mac/iOS)",
+      "canonical_url": "https://biblio.ink/times",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T13:34:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
