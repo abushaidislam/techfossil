@@ -5906,6 +5906,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132632",
+      "title": "Show HN: Children's Chore – A chore chart and reward app for families",
+      "canonical_url": "https://childrenschoreapp.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:43:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
