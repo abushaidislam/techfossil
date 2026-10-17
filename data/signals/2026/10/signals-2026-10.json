@@ -4953,6 +4953,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131496",
+      "title": "Hermes Agent: My containerized take",
+      "canonical_url": "https://ricardodevries.com/blog/hermes-agent-my-containerized-take",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:27:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
