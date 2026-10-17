@@ -4882,6 +4882,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131608",
+      "title": "Comparison of Browser Engines",
+      "canonical_url": "https://en.wikipedia.org/wiki/Comparison_of_browser_engines",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:42:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
