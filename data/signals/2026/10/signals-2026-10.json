@@ -4439,6 +4439,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50077709",
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "canonical_url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T01:55:41Z",
+      "category": "Software Engineering",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
