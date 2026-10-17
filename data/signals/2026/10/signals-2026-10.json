@@ -4725,6 +4725,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130952",
+      "title": "Sl – A Scalable, User-Friendly Source Control System",
+      "canonical_url": "https://github.com/facebook/sapling",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:22:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
