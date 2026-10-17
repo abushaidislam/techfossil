@@ -4125,6 +4125,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50126334",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "canonical_url": "https://fakeipedia.org",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T05:52:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
