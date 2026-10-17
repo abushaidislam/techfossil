@@ -4697,6 +4697,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50111742",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "canonical_url": "https://github.com/johnrash/bebox",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T05:22:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
