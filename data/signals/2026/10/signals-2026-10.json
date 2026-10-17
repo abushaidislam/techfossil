@@ -5788,6 +5788,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50119315",
+      "title": "Rendering pretty sky in Around The World game",
+      "canonical_url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T21:06:43Z",
+      "category": "Software Engineering",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
