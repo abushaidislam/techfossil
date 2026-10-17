@@ -5706,6 +5706,19 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50120010",
+      "title": "Inside Polymarket's paid quote-retweet esports program",
+      "canonical_url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T21:56:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
