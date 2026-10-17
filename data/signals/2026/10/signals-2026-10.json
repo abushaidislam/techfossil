@@ -4599,6 +4599,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50080246",
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "canonical_url": "https://wonderhop.io/en/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T05:10:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
