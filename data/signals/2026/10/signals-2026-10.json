@@ -5138,6 +5138,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50095730",
+      "title": "Orbital Angular Momentum of Light",
+      "canonical_url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T03:39:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
