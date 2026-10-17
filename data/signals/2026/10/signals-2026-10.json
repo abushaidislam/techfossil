@@ -5065,6 +5065,21 @@
       "technologies": [
         "react"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50103630",
+      "title": "I know why the mathematicians weep",
+      "canonical_url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T19:44:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
