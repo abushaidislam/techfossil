@@ -5803,6 +5803,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132280",
+      "title": "An invisible jet of radioactive goo is heading for Earth",
+      "canonical_url": "https://metro.co.uk/2026/10/17/invisible-jet-radioactive-goo-heading-earth-worried-29702099/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:04:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
