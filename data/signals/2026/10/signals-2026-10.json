@@ -4513,6 +4513,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50088937",
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "canonical_url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T21:15:58Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
