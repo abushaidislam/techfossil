@@ -5258,6 +5258,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131440",
+      "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
+      "canonical_url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:22:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
