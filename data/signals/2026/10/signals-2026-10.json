@@ -4768,6 +4768,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131767",
+      "title": "Tagging and Parsing English Sentences",
+      "canonical_url": "https://stochastic.blog/tagging-and-parsing-english-sentences/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:04:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
