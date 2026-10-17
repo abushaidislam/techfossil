@@ -5496,6 +5496,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50118048",
+      "title": "My old job feels distant now",
+      "canonical_url": "https://www.pinecoder.dev/blog/2026-10-15/my-old-job-is-distant/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T19:18:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
