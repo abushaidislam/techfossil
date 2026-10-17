@@ -4638,6 +4638,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50130382",
+      "title": "How I compute: an opinionated nerd post for computer nerds",
+      "canonical_url": "https://carette.xyz/posts/how_do_i_compute/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T18:06:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
