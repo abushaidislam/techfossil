@@ -4967,6 +4967,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132625",
+      "title": "Mobs loot and burn as protests turn violent across France",
+      "canonical_url": "https://apnews.com/article/france-school-protests-yellow-vest-44b9d3ba91ffad4029f975dced7e31cb",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:43:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
