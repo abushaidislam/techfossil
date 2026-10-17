@@ -4526,6 +4526,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131920",
+      "title": "Glasspad, an open source iPhone trackpad, keyboard and remote for Mac",
+      "canonical_url": "https://github.com/Soham109/glasspad",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:23:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
