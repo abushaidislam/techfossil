@@ -5080,6 +5080,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50118318",
+      "title": "What was a Token Ring network?",
+      "canonical_url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T19:43:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
