@@ -4279,6 +4279,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50118605",
+      "title": "It Ain't AGI Until H100s Go for $30 an Hour",
+      "canonical_url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T20:09:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
