@@ -4005,6 +4005,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-dev-4863859",
+      "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+      "canonical_url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
+      "source": "dev_to",
+      "published_at": "2026-10-16T17:40:16Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
