@@ -4454,6 +4454,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131617",
+      "title": "Meta Opens Muse Spark's Weights with Strings Attached",
+      "canonical_url": "https://ailately.com/articles/meta-muse-spark-open-weights",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T20:42:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
