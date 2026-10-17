@@ -4824,6 +4824,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131027",
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "canonical_url": "https://arxiv.org/abs/2610.22350",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:31:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
