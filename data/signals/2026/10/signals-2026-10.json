@@ -3892,6 +3892,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50127900",
+      "title": "Commodore 64 Hardware Simulator",
+      "canonical_url": "https://github.com/antirez/c64-hw-simulator",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T10:19:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
