@@ -5762,6 +5762,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133559",
+      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+      "canonical_url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:16:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
