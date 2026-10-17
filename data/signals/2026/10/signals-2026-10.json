@@ -5286,6 +5286,20 @@
       "technologies": [
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50132119",
+      "title": "Websites are closing their doors to AI agents",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:47:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
