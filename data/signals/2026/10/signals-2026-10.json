@@ -5483,6 +5483,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50119751",
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "canonical_url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T21:38:28Z",
+      "category": "Systems & Architecture",
+      "importance_score": 75,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
