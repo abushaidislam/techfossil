@@ -5596,6 +5596,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132202",
+      "title": "Maintaining software with the GPT-6 family",
+      "canonical_url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:56:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gpt"
+      ]
     }
   ]
 }
