@@ -5665,6 +5665,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50131958",
+      "title": "Vibemetric – An open-source app that grades your Claude Code sessions",
+      "canonical_url": "https://www.vibemetric.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T21:28:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
