@@ -4740,6 +4740,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50100640",
+      "title": "What changes when your search index lives on S3?",
+      "canonical_url": "https://infino.ai/blog/search-index-on-s3/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T13:55:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
