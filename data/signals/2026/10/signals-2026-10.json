@@ -4837,6 +4837,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50106747",
+      "title": "Ultramarine 1 Flash",
+      "canonical_url": "https://www.paperinstruments.com/ultramarine",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:06:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
