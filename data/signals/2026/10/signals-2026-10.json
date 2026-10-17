@@ -4182,6 +4182,19 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "canonical_url": "https://llmspeed.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T10:36:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
