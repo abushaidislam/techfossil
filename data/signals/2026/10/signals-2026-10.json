@@ -5052,6 +5052,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1017-hn-50131173",
+      "title": "New Tesla Roadster: My Honest Reaction",
+      "canonical_url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T19:48:55Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "react"
+      ]
     }
   ]
 }
