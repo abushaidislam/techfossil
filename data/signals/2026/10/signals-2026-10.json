@@ -5921,6 +5921,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133432",
+      "title": "KDE Plasma 6.8 – 30th Anniversary Edition",
+      "canonical_url": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:04:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
