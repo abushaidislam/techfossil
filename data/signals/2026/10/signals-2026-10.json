@@ -7374,6 +7374,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137975",
+      "title": "Standout film art, selected since 2011",
+      "canonical_url": "https://www.reelizer.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:40:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
