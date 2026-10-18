@@ -6624,6 +6624,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135960",
+      "title": "We're Missing a Kind of Asteroid",
+      "canonical_url": "https://signoregalilei.com/2026/10/11/were-missing-an-entire-kind-of-asteroid/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:00:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
