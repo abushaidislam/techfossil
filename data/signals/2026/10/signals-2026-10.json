@@ -6371,6 +6371,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50126253",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "canonical_url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T05:38:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
