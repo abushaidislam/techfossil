@@ -7071,6 +7071,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136288",
+      "title": "Rogue 'jumping genes': Big dogs age faster than little ones",
+      "canonical_url": "https://www.nature.com/articles/d41586-026-03199-5",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:44:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
