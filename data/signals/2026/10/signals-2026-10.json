@@ -7464,6 +7464,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143274",
+      "title": "Decision Models-as-a-Judge",
+      "canonical_url": "https://adlrocha.substack.com/p/adlrocha-decision-models-as-a-judge",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:32:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
