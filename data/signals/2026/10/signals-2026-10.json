@@ -6654,6 +6654,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135617",
+      "title": "AI coding interfaces make approval easy and understanding hard",
+      "canonical_url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T04:07:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
