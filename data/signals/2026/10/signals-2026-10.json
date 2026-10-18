@@ -6426,6 +6426,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137581",
+      "title": "Starting a New Journal",
+      "canonical_url": "https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:12:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
