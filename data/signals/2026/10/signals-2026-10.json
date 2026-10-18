@@ -6723,6 +6723,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50077225",
+      "title": "Yet another way to invoke functions in JavaScript without parentheses",
+      "canonical_url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T01:25:18Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript"
+      ]
     }
   ]
 }
