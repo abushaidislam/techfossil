@@ -6130,6 +6130,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50103670",
+      "title": "Show HN: MirrorMD – An AI second opinion from a facial cosmetic surgeon",
+      "canonical_url": "https://mymirrormd.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T19:47:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
