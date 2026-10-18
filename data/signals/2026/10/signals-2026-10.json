@@ -7232,6 +7232,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136678",
+      "title": "Writing is no longer proof of work",
+      "canonical_url": "https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T06:38:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
