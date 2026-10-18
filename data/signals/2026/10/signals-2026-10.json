@@ -6021,6 +6021,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137246",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+      "canonical_url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T08:20:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
