@@ -6540,6 +6540,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138039",
+      "title": "Du said Chrome was using 67 GB on my Mac. APFS said 2",
+      "canonical_url": "https://dev.to/md_ayanbag_03a42545b17ac/du-said-chrome-was-using-67-gb-on-my-mac-apfs-said-2-heres-a-script-to-tell-the-difference-597e",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:58:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
