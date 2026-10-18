@@ -6284,6 +6284,19 @@
       "technologies": [
         "kubernetes"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136366",
+      "title": "AI Infrastructure Index",
+      "canonical_url": "https://www.stockatomics.com/ai-infrastructure-index",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:55:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
