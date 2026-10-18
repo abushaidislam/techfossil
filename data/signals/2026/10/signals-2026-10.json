@@ -7247,6 +7247,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138075",
+      "title": "Does moving a GPU server's request loop into the kernel save CPU?",
+      "canonical_url": "https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T11:07:06Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
