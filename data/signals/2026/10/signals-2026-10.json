@@ -7189,6 +7189,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136979",
+      "title": "Dogs Seem to Agree with Humans That 'Bouba' Is Round and 'Kiki' Is Spiky",
+      "canonical_url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:38:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
