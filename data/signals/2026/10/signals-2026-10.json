@@ -6342,6 +6342,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50118098",
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "canonical_url": "https://github.com/Kapendev/parin",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T19:22:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
