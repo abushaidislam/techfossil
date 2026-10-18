@@ -6089,6 +6089,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135828",
+      "title": "What's New in React 19.3 and How It Changes UI Development",
+      "canonical_url": "https://jsdev.space/react-19-3/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T04:38:53Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "react",
+        "ui"
+      ]
     }
   ]
 }
