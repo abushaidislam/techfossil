@@ -6048,6 +6048,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136378",
+      "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "canonical_url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:56:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
