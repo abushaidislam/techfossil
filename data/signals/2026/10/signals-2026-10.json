@@ -6006,6 +6006,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133790",
+      "title": "University of Leicester to make redundant all pure math professors (2021)",
+      "canonical_url": "https://www.reddit.com/r/math/comments/l7yyir/not_joking_university_of_leicester_to_make/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:40:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
