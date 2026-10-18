@@ -6527,6 +6527,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137768",
+      "title": "Phishing emails are baiting your AI assistant",
+      "canonical_url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:52:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
