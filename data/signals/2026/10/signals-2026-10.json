@@ -7116,6 +7116,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136669",
+      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+      "canonical_url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T06:36:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
