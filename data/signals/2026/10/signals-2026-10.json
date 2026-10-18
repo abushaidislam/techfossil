@@ -6456,6 +6456,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50133512",
+      "title": "800k involved in nationwide protests in France over rising cost of living",
+      "canonical_url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T00:11:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
