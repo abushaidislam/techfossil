@@ -6566,6 +6566,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50118981",
+      "title": "Waymo in Toronto",
+      "canonical_url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T20:44:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
