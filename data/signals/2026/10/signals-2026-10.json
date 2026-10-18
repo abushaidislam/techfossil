@@ -6257,6 +6257,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137001",
+      "title": "Feel Like You're Overpaying for Hotels? Blame Expedia, a New Lawsuit Says",
+      "canonical_url": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:43:29Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "aws",
+        "ui"
+      ]
     }
   ]
 }
