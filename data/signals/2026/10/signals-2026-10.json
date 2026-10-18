@@ -7521,6 +7521,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50142644",
+      "title": "Modernizing ArXiv Technology: Updates on the ArXiv-CE Project",
+      "canonical_url": "https://blog.arxiv.org/2026/10/17/modernizing-arxiv-technology-updates-on-the-arxiv-ce-project/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T22:39:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
