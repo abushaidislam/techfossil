@@ -7508,6 +7508,19 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141886",
+      "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+      "canonical_url": "https://github.com/luochen1990/secret-guard",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T21:24:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
