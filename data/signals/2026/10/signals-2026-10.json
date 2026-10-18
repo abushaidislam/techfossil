@@ -6751,6 +6751,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136848",
+      "title": "Russian Bot Activity Collapses by 84% After Strikes on Yandex Data Centers",
+      "canonical_url": "https://cpd.gov.ua/en/report/analytical-report-when-bots-go-silent-what-the-strikes-on-yandex-data-centers-affected/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:11:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
