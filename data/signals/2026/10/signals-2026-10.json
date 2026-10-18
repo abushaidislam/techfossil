@@ -6242,6 +6242,21 @@
       "technologies": [
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50112739",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "canonical_url": "https://github.com/Saffsanity/sill",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:43:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
