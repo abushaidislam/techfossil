@@ -6386,6 +6386,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122034",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "canonical_url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:06:17Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
