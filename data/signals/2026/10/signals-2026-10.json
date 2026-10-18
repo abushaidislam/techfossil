@@ -6116,6 +6116,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135988",
+      "title": "Gartner says only about 130 'AI agent' companies are real",
+      "canonical_url": "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:04:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
