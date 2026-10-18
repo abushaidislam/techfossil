@@ -7260,6 +7260,21 @@
       "technologies": [
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137060",
+      "title": "Perhaps the most underappreciated engineer of the Industrial Revolution",
+      "canonical_url": "https://twitter.com/andrewmccalip/status/2110977221347475675",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:51:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
