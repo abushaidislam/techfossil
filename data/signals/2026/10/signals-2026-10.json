@@ -6441,6 +6441,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135290",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "canonical_url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T03:25:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
