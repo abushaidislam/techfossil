@@ -7304,6 +7304,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138327",
+      "title": "Want to Release Projects Easily?",
+      "canonical_url": "https://cx-shipd.netlify.app",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T12:05:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
