@@ -6667,6 +6667,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50094994",
+      "title": "OpenCode 2.0",
+      "canonical_url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T02:48:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
