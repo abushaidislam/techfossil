@@ -6736,6 +6736,21 @@
       "technologies": [
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50112887",
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "canonical_url": "https://lwn.net/Articles/1094721/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:56:37Z",
+      "category": "Software Engineering",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
