@@ -7419,6 +7419,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50138511",
+      "title": "America's $10T AI infrastructure boom is starting to fray",
+      "canonical_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T12:46:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
