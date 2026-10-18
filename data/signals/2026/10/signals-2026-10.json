@@ -6609,6 +6609,21 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50101649",
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+      "canonical_url": "https://courk.cc/rp2350-challenge-laser",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T16:24:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
