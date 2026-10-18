@@ -6710,6 +6710,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "canonical_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:55:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
