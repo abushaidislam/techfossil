@@ -6484,6 +6484,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137369",
+      "title": "Making an 88x31 book-button using ImageMagick",
+      "canonical_url": "https://k.sosnierz.me/08-11-24/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T08:42:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
