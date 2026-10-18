@@ -6794,6 +6794,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137248",
+      "title": "Woodworking Tools and Knowledge Tools",
+      "canonical_url": "https://peterkaminski.ai/writing/woodworking/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T08:20:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
