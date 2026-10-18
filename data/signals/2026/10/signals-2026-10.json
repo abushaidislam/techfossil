@@ -6766,6 +6766,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138086",
+      "title": "Mobile Application GPU Optimization Guide",
+      "canonical_url": "https://arm-software.github.io/magog/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T11:08:43Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
