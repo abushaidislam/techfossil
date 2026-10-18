@@ -7333,6 +7333,19 @@
         "ui",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122951",
+      "title": "How the Claude Code team does code review",
+      "canonical_url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T01:04:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
