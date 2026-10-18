@@ -7160,6 +7160,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50122682",
+      "title": "Espresso machine can run Doom",
+      "canonical_url": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:49:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
