@@ -7577,6 +7577,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50142648",
+      "title": "Show HN: Correct Hooks – Easy webhook auth with asymmetric signatures",
+      "canonical_url": "https://github.com/handlewithcarecollective/correct-hooks",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T22:39:39Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "auth"
+      ]
     }
   ]
 }
