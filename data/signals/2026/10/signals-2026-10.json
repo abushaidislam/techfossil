@@ -7635,6 +7635,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50139692",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "canonical_url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T16:21:51Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
