@@ -7449,6 +7449,21 @@
         "backend",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50100440",
+      "title": "We still use paper",
+      "canonical_url": "https://humanpro.co/articles/we-still-use-paper/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T13:27:55Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
