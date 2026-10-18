@@ -7000,6 +7000,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135825",
+      "title": "Show HN: Nexo – S3-compatible object storage in Go, single binary, AGPL",
+      "canonical_url": "https://github.com/R3n3r0/Nexo",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T04:37:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
