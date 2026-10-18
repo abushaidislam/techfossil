@@ -6581,6 +6581,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137496",
+      "title": "Did Nintendo Kill Switch Emulation? The State of Yuzu, Ryujinx, and Their Forks",
+      "canonical_url": "https://boilingsteam.com/did-nintendo-kill-switch-emulation-the-state-of-yuzu-ryujinx-and-their-forks-in-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:00:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
