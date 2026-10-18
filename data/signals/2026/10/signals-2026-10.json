@@ -6824,6 +6824,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138044",
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+      "canonical_url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:59:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
