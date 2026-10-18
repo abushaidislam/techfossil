@@ -7145,6 +7145,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50130228",
+      "title": "Microsoft Teams is a red flag",
+      "canonical_url": "https://blog.raed.dev/posts/microsoft-teams-red-flag/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T17:47:01Z",
+      "category": "Software Engineering",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
