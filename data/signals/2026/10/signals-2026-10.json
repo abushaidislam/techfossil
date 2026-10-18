@@ -6229,6 +6229,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136930",
+      "title": "Just Dashboard – Self Hosted. Deploy Apps / Databases. A Dashboardfor Everything",
+      "canonical_url": "https://github.com/JustDashboard/Just-Dashboard",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:29:16Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "database"
+      ]
     }
   ]
 }
