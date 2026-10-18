@@ -7275,6 +7275,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50134211",
+      "title": "The math that OpenAI keeps for itself",
+      "canonical_url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T01:22:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
