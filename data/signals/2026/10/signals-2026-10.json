@@ -7086,6 +7086,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50093006",
+      "title": "Each step of decoding a PNG (2022)",
+      "canonical_url": "https://iter.ca/post/png/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T00:53:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
