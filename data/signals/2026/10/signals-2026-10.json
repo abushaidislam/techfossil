@@ -7101,6 +7101,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50083673",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "canonical_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T13:21:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
