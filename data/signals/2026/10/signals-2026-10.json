@@ -7404,6 +7404,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50127274",
+      "title": "Butlerian Jihad",
+      "canonical_url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T08:21:08Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
