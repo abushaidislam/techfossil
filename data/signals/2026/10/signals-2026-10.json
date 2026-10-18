@@ -7549,6 +7549,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141024",
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "canonical_url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T19:41:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
