@@ -6779,6 +6779,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137450",
+      "title": "Who Wants to Live Forever",
+      "canonical_url": "https://ksetiya.substack.com/p/who-wants-to-live-forever",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T08:54:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
