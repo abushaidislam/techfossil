@@ -6596,6 +6596,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138087",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+      "canonical_url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T11:09:14Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
