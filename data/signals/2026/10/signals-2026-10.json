@@ -7605,6 +7605,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143046",
+      "title": "Artifacts Driven Development",
+      "canonical_url": "https://kosuke.ai/blog/manifesto",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:11:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
