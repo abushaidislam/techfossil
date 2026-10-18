@@ -6061,6 +6061,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137661",
+      "title": "What type of mathematician are you?",
+      "canonical_url": "https://lionellevine.github.io/quiz-what-type-of-mathematician-are-you/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:27:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
