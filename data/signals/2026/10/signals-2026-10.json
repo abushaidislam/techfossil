@@ -7564,6 +7564,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143120",
+      "title": "AI Is the Uber Moment for Mathematics",
+      "canonical_url": "https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:18:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
