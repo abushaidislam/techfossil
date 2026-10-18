@@ -6173,6 +6173,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50134856",
+      "title": "California Student Data Leaked",
+      "canonical_url": "https://www.reuters.com/world/us/hacker-gets-data-millions-california-students-state-education-department-says-2026-10-17/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T02:32:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
