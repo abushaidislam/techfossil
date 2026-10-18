@@ -6143,6 +6143,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50112657",
+      "title": "Tesla Roadster",
+      "canonical_url": "https://www.tesla.com/roadster",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T07:32:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
