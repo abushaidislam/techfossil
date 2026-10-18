@@ -7432,6 +7432,23 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-dev-4839887",
+      "title": "We moved a production backend from a phone",
+      "canonical_url": "https://dev.to/digitalocean/we-moved-a-production-backend-from-a-phone-1k36",
+      "source": "dev_to",
+      "published_at": "2026-10-13T13:19:33Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "database",
+        "backend",
+        "agent"
+      ]
     }
   ]
 }
