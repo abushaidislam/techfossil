@@ -6297,6 +6297,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50134617",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "canonical_url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T02:07:33Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
