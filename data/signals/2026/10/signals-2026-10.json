@@ -7015,6 +7015,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138046",
+      "title": "AI Slop? Nay, AI Gourmet",
+      "canonical_url": "https://octomon.dev/blog/ai-slop-and-ai-gourmet/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T11:00:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
