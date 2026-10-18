@@ -6103,6 +6103,19 @@
         "react",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136051",
+      "title": "Astrax – Open-source MCP server for Windows desktop AI control",
+      "canonical_url": "https://github.com/AstraxOf/astrax-mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:13:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
