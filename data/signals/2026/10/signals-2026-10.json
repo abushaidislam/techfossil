@@ -6639,6 +6639,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137784",
+      "title": "OpenPrinter",
+      "canonical_url": "https://www.crowdsupply.com/open-tools/openprinter",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:56:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
