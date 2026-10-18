@@ -7175,6 +7175,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136737",
+      "title": "Dudu, back up and restore your dev setup on macOS and Linux with one command",
+      "canonical_url": "https://github.com/fontnelle/dudu",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T06:50:09Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
