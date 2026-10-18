@@ -6035,6 +6035,19 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136126",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:24:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
