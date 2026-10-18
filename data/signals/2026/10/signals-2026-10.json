@@ -7494,6 +7494,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141513",
+      "title": "Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI",
+      "canonical_url": "https://taskpocket.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T20:39:55Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
