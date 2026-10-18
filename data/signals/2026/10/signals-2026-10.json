@@ -6682,6 +6682,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137006",
+      "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+      "canonical_url": "https://github.com/ahmtsahin/claude-env-tabs",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T07:44:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
