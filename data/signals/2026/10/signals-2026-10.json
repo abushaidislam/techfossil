@@ -6399,6 +6399,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50135547",
+      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+      "canonical_url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T03:59:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
