@@ -6327,6 +6327,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50124646",
+      "title": "Self-hosted infrastructure with Incus OS",
+      "canonical_url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T03:01:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
