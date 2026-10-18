@@ -6957,6 +6957,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137653",
+      "title": "Turn your coding-agent sessions into private evals",
+      "canonical_url": "https://github.com/ibragim-bad/evals-from-sessions",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T09:26:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
