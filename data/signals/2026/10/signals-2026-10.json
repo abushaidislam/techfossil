@@ -7479,6 +7479,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141796",
+      "title": "Omarchy Gets the Web Browser Launching Faster by Avoiding XDG Overhead",
+      "canonical_url": "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T21:13:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
