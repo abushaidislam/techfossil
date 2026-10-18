@@ -6357,6 +6357,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50118876",
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "canonical_url": "https://rstation.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T20:35:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
