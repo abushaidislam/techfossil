@@ -7289,6 +7289,21 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50132328",
+      "title": "GLP-1 may slow biological aging",
+      "canonical_url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T22:10:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
