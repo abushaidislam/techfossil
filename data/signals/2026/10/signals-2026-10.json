@@ -6188,6 +6188,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50136796",
+      "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+      "canonical_url": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T06:59:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
