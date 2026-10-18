@@ -6869,6 +6869,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50117504",
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "canonical_url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T18:22:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
