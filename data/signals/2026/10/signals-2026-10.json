@@ -6884,6 +6884,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138034",
+      "title": "NextMove Berkeley",
+      "canonical_url": "https://www.eventbrite.com/e/2003559456268/preview/?aff=oddtdtcreator",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:55:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
