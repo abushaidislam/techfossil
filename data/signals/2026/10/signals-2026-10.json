@@ -7130,6 +7130,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50106792",
+      "title": "Fun Extending the C Preprocessor",
+      "canonical_url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T23:08:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
