@@ -7219,6 +7219,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50138095",
+      "title": "Dot factory – a spec to describe complex (agentic) workflows",
+      "canonical_url": "https://redbeardlab.github.io/dotFactory/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T11:11:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
