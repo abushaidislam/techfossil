@@ -6201,6 +6201,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1018-hn-50137125",
+      "title": "Show HN: Moonrain – a free, offline sleep-sound mixer for iOS with no tracking",
+      "canonical_url": "https://apps.apple.com/us/app/moonrain-sleep-sounds/id6789770084",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T08:02:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
