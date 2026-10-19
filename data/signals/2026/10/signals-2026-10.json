@@ -9582,6 +9582,21 @@
         "ai",
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50097257",
+      "title": "Custom server to revive neato bots",
+      "canonical_url": "https://github.com/vacuula/vacuula",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T05:48:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
