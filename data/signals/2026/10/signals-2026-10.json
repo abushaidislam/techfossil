@@ -7841,6 +7841,15 @@
       "published_at": "2026-10-19T06:29:51.805192Z",
       "category": "Software & AI",
       "importance_score": 28
+    },
+    {
+      "id": "sig-2026-1019-hn-50111537",
+      "title": "Laptop Based on 6502 CPU",
+      "canonical_url": "https://www.maddox.pro/?p=448",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:33:45.113086Z",
+      "category": "Software & AI",
+      "importance_score": 62
     }
   ]
 }
