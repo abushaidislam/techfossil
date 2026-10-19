@@ -8988,6 +8988,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149106",
+      "title": "Andy Burnham launches campaign against 'headphone dodgers' on public transport",
+      "canonical_url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T12:40:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
