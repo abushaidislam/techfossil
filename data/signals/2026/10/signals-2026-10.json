@@ -8192,6 +8192,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50098485",
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "canonical_url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T08:39:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
