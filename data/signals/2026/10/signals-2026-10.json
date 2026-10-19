@@ -7676,6 +7676,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147597",
+      "title": "US Global Entry revoked for importing $12 of ESP32 boards",
+      "canonical_url": "https://www.reddit.com/r/esp32/comments/1x3bmjh/ordering_esp32_from_overseas_watch_out_global/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:16:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
