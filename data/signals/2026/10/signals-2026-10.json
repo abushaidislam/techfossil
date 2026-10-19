@@ -8732,6 +8732,19 @@
         "ai",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148298",
+      "title": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
+      "canonical_url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:13:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
