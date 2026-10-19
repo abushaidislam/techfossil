@@ -9625,6 +9625,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150809",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "canonical_url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T16:53:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
