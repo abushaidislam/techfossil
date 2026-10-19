@@ -8129,6 +8129,15 @@
       "published_at": "2026-10-19T08:32:57.957632Z",
       "category": "Software & AI",
       "importance_score": 66
+    },
+    {
+      "id": "sig-2026-1019-hn-50132193",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "canonical_url": "https://pele.run/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:36:22.523297Z",
+      "category": "Software & AI",
+      "importance_score": 574
     }
   ]
 }
