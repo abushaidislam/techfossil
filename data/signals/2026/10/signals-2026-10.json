@@ -9413,6 +9413,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-dev-4839756",
+      "title": "EmbeddingGemma 2 on Cloud Run: an int8 CPU Service Against an NVIDIA L4",
+      "canonical_url": "https://dev.to/gde/embeddinggemma-2-on-cloud-run-an-int8-cpu-service-against-an-nvidia-l4-15ac",
+      "source": "dev_to",
+      "published_at": "2026-10-13T01:20:25Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "cloud"
+      ]
     }
   ]
 }
