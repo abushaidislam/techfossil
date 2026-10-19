@@ -8675,6 +8675,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50142573",
+      "title": "Someone behind the software",
+      "canonical_url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T22:32:00Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
