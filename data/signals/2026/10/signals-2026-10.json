@@ -9668,6 +9668,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152329",
+      "title": "San Francisco's shuttered downtown mall is being eyed for an AI data center",
+      "canonical_url": "https://www.sfchronicle.com/sf/article/downtown-mall-data-center-ai-22480545.php",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:37:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
