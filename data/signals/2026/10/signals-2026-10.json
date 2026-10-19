@@ -8973,6 +8973,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50136017",
+      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T05:08:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
