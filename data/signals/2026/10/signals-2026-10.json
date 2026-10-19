@@ -8389,6 +8389,21 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147722",
+      "title": "The Nick Cammarata Model of Happiness (Reconstructed from His Tweets)",
+      "canonical_url": "https://federicorcassarino.substack.com/p/the-nick-cammarata-model-of-happiness",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:34:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
