@@ -8021,6 +8021,15 @@
       "published_at": "2026-10-19T07:49:07.690300Z",
       "category": "Software & AI",
       "importance_score": 125
+    },
+    {
+      "id": "sig-2026-1019-hn-50141076",
+      "title": "RepRapMicron",
+      "canonical_url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:51:11.079152Z",
+      "category": "Software & AI",
+      "importance_score": 360
     }
   ]
 }
