@@ -7880,6 +7880,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147011",
+      "title": "ES3D – An SVG like file format for 3D scenes – Extensible Scalable 3D",
+      "canonical_url": "https://es3d.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:40:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
