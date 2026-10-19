@@ -9072,6 +9072,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143154",
+      "title": "What the heck is /pkg?",
+      "canonical_url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:21:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
