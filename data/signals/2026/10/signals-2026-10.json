@@ -9553,6 +9553,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152379",
+      "title": "Pre-Orders Open for Flipper One",
+      "canonical_url": "https://flipper.net/pages/flipper-one",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:41:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
