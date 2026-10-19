@@ -8758,6 +8758,19 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148074",
+      "title": "Why Humanity Might Have to Declare War on AI (By: William Spaniel) [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=OAU3lAadXLM",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T09:32:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
