@@ -8815,6 +8815,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50142449",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "canonical_url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T22:20:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
