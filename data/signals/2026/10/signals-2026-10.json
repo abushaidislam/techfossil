@@ -8430,6 +8430,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149396",
+      "title": "A new feature for my blog, built using my voice",
+      "canonical_url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T13:24:28Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
