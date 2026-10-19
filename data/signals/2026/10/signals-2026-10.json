@@ -7821,6 +7821,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50144175",
+      "title": "Personal software factories are a waste of time",
+      "canonical_url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T01:02:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
