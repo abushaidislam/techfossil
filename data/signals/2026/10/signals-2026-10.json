@@ -8443,6 +8443,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148819",
+      "title": "Anthropic and the Changing Nature of Work",
+      "canonical_url": "https://surfingcomplexity.blog/2026/10/18/anthropic-and-the-changing-nature-of-work/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:49:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
