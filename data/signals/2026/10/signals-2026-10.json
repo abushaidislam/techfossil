@@ -7648,6 +7648,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1019-dev-4868657",
+      "title": "Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)",
+      "canonical_url": "https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa",
+      "source": "dev_to",
+      "published_at": "2026-10-18T10:55:38Z",
+      "category": "Security & Privacy",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "auth"
+      ]
     }
   ]
 }
