@@ -8287,6 +8287,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148865",
+      "title": "Perplexity offers free reverse engineering credits",
+      "canonical_url": "https://twitter.com/AskPerplexity/status/2111120664543596957",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:56:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
