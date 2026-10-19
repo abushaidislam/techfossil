@@ -9385,6 +9385,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150652",
+      "title": "A detailed look at the Sally Rooney and the Faber book withdrawal",
+      "canonical_url": "https://emptycity.substack.com/p/a-detailed-look-at-the-sally-rooney",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T16:30:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
