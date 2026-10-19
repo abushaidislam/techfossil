@@ -8345,6 +8345,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50140001",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "canonical_url": "https://github.com/0x23/MicroManipulatorStepper",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T17:16:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
