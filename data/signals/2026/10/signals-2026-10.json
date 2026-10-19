@@ -8843,6 +8843,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50102480",
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "canonical_url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T18:06:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
