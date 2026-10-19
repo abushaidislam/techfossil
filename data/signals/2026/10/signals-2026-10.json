@@ -7886,6 +7886,15 @@
       "published_at": "2026-10-19T06:49:19.123577Z",
       "category": "Software & AI",
       "importance_score": 11
+    },
+    {
+      "id": "sig-2026-1019-hn-50147576",
+      "title": "MapQuest lets you track Flock cameras",
+      "canonical_url": "https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:53:59.600913Z",
+      "category": "Software & AI",
+      "importance_score": 8
     }
   ]
 }
