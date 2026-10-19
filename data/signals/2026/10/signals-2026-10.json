@@ -9510,6 +9510,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152876",
+      "title": "Show HN: Balls of Furry – Table tennis in the browser",
+      "canonical_url": "https://www.ballsoffurry.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T20:23:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
