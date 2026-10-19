@@ -8147,6 +8147,15 @@
       "published_at": "2026-10-19T08:40:50.607461Z",
       "category": "Software & AI",
       "importance_score": 114
+    },
+    {
+      "id": "sig-2026-1019-hn-50121506",
+      "title": "The First Candid",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:43:19.113285Z",
+      "category": "Software & AI",
+      "importance_score": 50
     }
   ]
 }
