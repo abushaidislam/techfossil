@@ -8030,6 +8030,15 @@
       "published_at": "2026-10-19T07:51:11.079152Z",
       "category": "Software & AI",
       "importance_score": 360
+    },
+    {
+      "id": "sig-2026-1019-hn-50145715",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "canonical_url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:56:10.616109Z",
+      "category": "Software & AI",
+      "importance_score": 78
     }
   ]
 }
