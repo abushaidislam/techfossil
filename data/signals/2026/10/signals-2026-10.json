@@ -9495,6 +9495,21 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152686",
+      "title": "Snowflake data metric functions can now skip transient tables [video]",
+      "canonical_url": "https://www.youtube.com/shorts/Ar-RWgNReII",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T20:05:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
