@@ -9001,6 +9001,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50138002",
+      "title": "Notes on the Complex Roots of Unity",
+      "canonical_url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:49:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
