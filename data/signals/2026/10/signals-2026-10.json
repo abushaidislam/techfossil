@@ -8205,6 +8205,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147724",
+      "title": "The Third Risk",
+      "canonical_url": "https://thirdrisk.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:34:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
