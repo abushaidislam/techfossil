@@ -7778,6 +7778,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50122671",
+      "title": "Regex visualized as 3D marble run",
+      "canonical_url": "https://www.regexmarblerun.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T00:48:48Z",
+      "category": "Software Engineering",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
