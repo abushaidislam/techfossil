@@ -7823,6 +7823,15 @@
       "published_at": "2026-10-19T06:24:57.849851Z",
       "category": "Software & AI",
       "importance_score": 373
+    },
+    {
+      "id": "sig-2026-1019-hn-50122671",
+      "title": "Regex visualized as 3D marble run",
+      "canonical_url": "https://www.regexmarblerun.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:27:07.346632Z",
+      "category": "Software & AI",
+      "importance_score": 89
     }
   ]
 }
