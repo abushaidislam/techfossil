@@ -7967,6 +7967,15 @@
       "published_at": "2026-10-19T07:24:56.525945Z",
       "category": "Software & AI",
       "importance_score": 53
+    },
+    {
+      "id": "sig-2026-1019-hn-50124730",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "canonical_url": "https://teal-language.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:27:46.165789Z",
+      "category": "Software & AI",
+      "importance_score": 170
     }
   ]
 }
