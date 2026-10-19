@@ -8417,6 +8417,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147458",
+      "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs",
+      "canonical_url": "https://arxiv.org/abs/2610.22230",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:55:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
