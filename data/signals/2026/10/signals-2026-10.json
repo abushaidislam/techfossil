@@ -8630,6 +8630,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148816",
+      "title": "Answering ASL questions: Argon leads a 21-question pilot",
+      "canonical_url": "https://huggingface.co/datasets/salqadri/argon-asl-question-understanding-eval",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:49:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
