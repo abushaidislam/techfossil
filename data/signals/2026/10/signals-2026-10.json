@@ -8718,6 +8718,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148333",
+      "title": "Show HN: Open Artifacts – host AI artifacts on your own Cloudflare account",
+      "canonical_url": "https://open-artifacts.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:20:38Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "cloud"
+      ]
     }
   ]
 }
