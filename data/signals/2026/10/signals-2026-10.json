@@ -8179,6 +8179,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148086",
+      "title": "\"The AI bubble is about to burst and a big market correction's coming\" – NY Post",
+      "canonical_url": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T09:35:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
