@@ -8645,6 +8645,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147906",
+      "title": "Show HN: Simulate an engineering blog, or an idea or an incident",
+      "canonical_url": "https://github.com/smarchone/sim-xp",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T09:05:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
