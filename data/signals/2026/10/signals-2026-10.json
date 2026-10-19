@@ -9540,6 +9540,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152976",
+      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+      "canonical_url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T20:31:27Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
