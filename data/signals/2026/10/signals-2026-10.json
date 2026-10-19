@@ -8138,6 +8138,15 @@
       "published_at": "2026-10-19T08:36:22.523297Z",
       "category": "Software & AI",
       "importance_score": 574
+    },
+    {
+      "id": "sig-2026-1019-hn-50143536",
+      "title": "PalmOS Lemmings",
+      "canonical_url": "https://github.com/ardiri/palmos-lemmings",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:40:50.607461Z",
+      "category": "Software & AI",
+      "importance_score": 114
     }
   ]
 }
