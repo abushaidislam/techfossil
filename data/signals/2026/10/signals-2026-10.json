@@ -8404,6 +8404,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50121179",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "canonical_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T23:08:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
