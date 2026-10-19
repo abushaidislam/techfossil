@@ -8958,6 +8958,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149803",
+      "title": "Schipkau Gicon Wind Turbine",
+      "canonical_url": "https://en.wikipedia.org/wiki/Schipkau_GICON_Wind_Turbine",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T14:28:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
