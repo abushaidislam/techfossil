@@ -7760,6 +7760,15 @@
       "published_at": "2026-10-19T06:02:12.513406Z",
       "category": "Software & AI",
       "importance_score": 110
+    },
+    {
+      "id": "sig-2026-1019-hn-50135379",
+      "title": "JDK 28",
+      "canonical_url": "https://openjdk.org/projects/jdk/28/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:06:10.012298Z",
+      "category": "Software & AI",
+      "importance_score": 123
     }
   ]
 }
