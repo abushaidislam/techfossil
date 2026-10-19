@@ -8557,6 +8557,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148479",
+      "title": "Startup Abby Care raises $82M to turn family members into paid caregivers",
+      "canonical_url": "https://fortune.com/2026/10/15/startup-abby-care-raises-82-million-to-turn-family-members-into-paid-caregivers/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:48:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
