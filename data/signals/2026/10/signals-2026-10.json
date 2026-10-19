@@ -8120,6 +8120,15 @@
       "published_at": "2026-10-19T08:30:08.472392Z",
       "category": "Software & AI",
       "importance_score": 143
+    },
+    {
+      "id": "sig-2026-1019-hn-50137820",
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "canonical_url": "https://tkgally.github.io/500-clocks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:32:57.957632Z",
+      "category": "Software & AI",
+      "importance_score": 66
     }
   ]
 }
