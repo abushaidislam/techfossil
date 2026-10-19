@@ -7994,6 +7994,15 @@
       "published_at": "2026-10-19T07:36:28.165146Z",
       "category": "Software & AI",
       "importance_score": 169
+    },
+    {
+      "id": "sig-2026-1019-hn-50145295",
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+      "canonical_url": "https://github.com/Netflix/vmaf",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:41:19.584408Z",
+      "category": "Software & AI",
+      "importance_score": 22
     }
   ]
 }
