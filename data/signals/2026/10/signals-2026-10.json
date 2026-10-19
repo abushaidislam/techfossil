@@ -7966,6 +7966,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148376",
+      "title": "Show HN: Chitra Studio – Your AI Media Workstation for Macs",
+      "canonical_url": "https://chitra.studio/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:27:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
