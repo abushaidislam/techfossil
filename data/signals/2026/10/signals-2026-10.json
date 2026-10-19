@@ -7994,6 +7994,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146810",
+      "title": "A Primer on Information Theory and Privacy",
+      "canonical_url": "https://www.eff.org/deeplinks/2010/01/primer-information-theory-and-privacy",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:04:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
