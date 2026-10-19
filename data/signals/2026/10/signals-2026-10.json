@@ -9216,6 +9216,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149763",
+      "title": "Codes and you LLM will speak just insert files from zenodo an watch",
+      "canonical_url": "https://zenodo.org/records/23441596",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T14:23:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
