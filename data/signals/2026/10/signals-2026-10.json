@@ -8585,6 +8585,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50109546",
+      "title": "Lant – The Forgotten Resource",
+      "canonical_url": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T02:09:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
