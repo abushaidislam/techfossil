@@ -8503,6 +8503,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147607",
+      "title": "RepRap (Replicating Rapid prototyper) [self-printing 3D Printer]",
+      "canonical_url": "https://en.wikipedia.org/wiki/RepRap",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:17:57Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
