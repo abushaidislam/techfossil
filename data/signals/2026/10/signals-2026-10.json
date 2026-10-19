@@ -9016,6 +9016,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148771",
+      "title": "Amelia Earharts Plane search expedition's Taraia Object hypothesis fails",
+      "canonical_url": "https://www.purdue.edu/newsroom/2026/Q4/search-for-amelia-earharts-plane-continues-after-taraia-object-expedition-on-nikumaroro-rules-out-latest-hypothesis/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:40:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
