@@ -8302,6 +8302,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50137820",
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "canonical_url": "https://tkgally.github.io/500-clocks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T10:04:58Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html"
+      ]
     }
   ]
 }
