@@ -9057,6 +9057,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50114061",
+      "title": "Chirp Pong – uses microphones and audio for networked game play",
+      "canonical_url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T10:25:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
