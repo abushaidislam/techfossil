@@ -8233,6 +8233,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147867",
+      "title": "What is the ultimate truth? We asked leading AI models",
+      "canonical_url": "https://ultimatetruth.one",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:59:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
