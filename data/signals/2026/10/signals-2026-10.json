@@ -7661,6 +7661,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1019-dev-4863310",
+      "title": "🌑 Blue October",
+      "canonical_url": "https://dev.to/annavi11arrea1/blue-october-1jia",
+      "source": "dev_to",
+      "published_at": "2026-10-16T15:44:45Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
