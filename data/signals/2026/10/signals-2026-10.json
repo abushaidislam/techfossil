@@ -8615,6 +8615,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50144144",
+      "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+      "canonical_url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T00:59:09Z",
+      "category": "Software Engineering",
+      "importance_score": 82,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
