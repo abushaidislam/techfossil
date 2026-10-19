@@ -8690,6 +8690,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50126384",
+      "title": "Show HN: Things to Do API",
+      "canonical_url": "https://thingstodoapi.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T05:58:34Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
