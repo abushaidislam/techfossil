@@ -7985,6 +7985,15 @@
       "published_at": "2026-10-19T07:32:47.694069Z",
       "category": "Software & AI",
       "importance_score": 66
+    },
+    {
+      "id": "sig-2026-1019-hn-50133231",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "canonical_url": "https://github.com/openai/codex/issues/25921",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:36:28.165146Z",
+      "category": "Software & AI",
+      "importance_score": 169
     }
   ]
 }
