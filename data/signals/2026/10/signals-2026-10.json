@@ -9029,6 +9029,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50093081",
+      "title": "Hatching (Heraldry)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T00:57:57Z",
+      "category": "Software Engineering",
+      "importance_score": 78,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
