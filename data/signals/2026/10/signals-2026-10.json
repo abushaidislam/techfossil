@@ -9143,6 +9143,21 @@
       "technologies": [
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148845",
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "canonical_url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:54:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
