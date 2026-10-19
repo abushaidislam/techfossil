@@ -7904,6 +7904,15 @@
       "published_at": "2026-10-19T06:58:48.910949Z",
       "category": "Software & AI",
       "importance_score": 109
+    },
+    {
+      "id": "sig-2026-1019-hn-50141579",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "canonical_url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:02:38.301158Z",
+      "category": "Software & AI",
+      "importance_score": 153
     }
   ]
 }
