@@ -9100,6 +9100,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150191",
+      "title": "Greece launches Daedalus supercomputer reduce reliance on foreign infrastructure",
+      "canonical_url": "https://www.naftemporiki.gr/english/2176757/greece-launches-daedalus-supercomputer-to-boost-ai-capabilities-and-reduce-reliance-on-foreign-infrastructure/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:16:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
