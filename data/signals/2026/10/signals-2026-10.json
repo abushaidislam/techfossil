@@ -8516,6 +8516,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148989",
+      "title": "CanI.RootMy.TV?",
+      "canonical_url": "https://cani.rootmy.tv/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T12:20:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
