@@ -7925,6 +7925,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146966",
+      "title": "Sanity's Edge – A voice BBS from 1994",
+      "canonical_url": "https://sanitys-edge.shouden.us",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:30:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
