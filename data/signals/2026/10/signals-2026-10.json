@@ -8830,6 +8830,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150162",
+      "title": "Show HN: Built an ADK graph to auto-ship new levels and promos to live games",
+      "canonical_url": "https://stagenator-mission.web.app",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:12:55Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
