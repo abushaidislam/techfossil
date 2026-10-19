@@ -9186,6 +9186,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50130079",
+      "title": "The future of programming (1982)",
+      "canonical_url": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T17:20:52Z",
+      "category": "Software Engineering",
+      "importance_score": 79,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
