@@ -7793,6 +7793,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147882",
+      "title": "The Paradox at the Heart of AI and Science – Terence Tao [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T09:01:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
