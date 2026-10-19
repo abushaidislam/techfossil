@@ -8771,6 +8771,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149311",
+      "title": "In Europe's tech capital, Irish labor unions are booming amid AI-driven layoffs",
+      "canonical_url": "https://www.politico.eu/article/in-europe-tech-capital-ireland-irish-labor-unions-are-booming-amid-ai-layoffs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T13:12:57Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ai"
+      ]
     }
   ]
 }
