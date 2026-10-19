@@ -8078,6 +8078,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147032",
+      "title": "Share passwords securely with your team",
+      "canonical_url": "https://expirenote.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:42:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
