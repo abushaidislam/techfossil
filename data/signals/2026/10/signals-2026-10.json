@@ -9468,6 +9468,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152574",
+      "title": "ChatGPT Bulk Delete",
+      "canonical_url": "https://chatgptbulkdelete.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:57:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
