@@ -8164,6 +8164,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146989",
+      "title": "FBI Busts North Korean \"Laptop Farms\" (CBS)",
+      "canonical_url": "https://www.youtube.com/watch?v=D7oTB-7Y8dM",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:33:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
