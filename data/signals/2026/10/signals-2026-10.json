@@ -9653,6 +9653,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50093020",
+      "title": "I electrified my push scooter with a power drill",
+      "canonical_url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T00:53:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
