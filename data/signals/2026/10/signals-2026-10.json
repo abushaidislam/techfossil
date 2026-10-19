@@ -8136,6 +8136,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148601",
+      "title": "Flatpak – An Insecurity Nightmare",
+      "canonical_url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:11:24Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
