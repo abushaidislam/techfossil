@@ -8220,6 +8220,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147159",
+      "title": "Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode",
+      "canonical_url": "https://runtimewire.com/article/anthropic-s-own-staff-can-t-use-claude-code-s-bypass-permissions-mode-client-cod",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:03:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
