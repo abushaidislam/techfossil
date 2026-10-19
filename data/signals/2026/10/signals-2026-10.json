@@ -8315,6 +8315,21 @@
       "technologies": [
         "html"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141909",
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "canonical_url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T21:26:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
