@@ -8570,6 +8570,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50100994",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "canonical_url": "https://furifont.antfu.me/",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T14:48:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
