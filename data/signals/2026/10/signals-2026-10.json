@@ -8785,6 +8785,21 @@
         "api",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50139873",
+      "title": "How employment is changing at Anthropic",
+      "canonical_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T16:49:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
