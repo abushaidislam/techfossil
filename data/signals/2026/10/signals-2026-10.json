@@ -7851,6 +7851,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50142277",
+      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "canonical_url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T22:04:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "claude"
+      ]
     }
   ]
 }
