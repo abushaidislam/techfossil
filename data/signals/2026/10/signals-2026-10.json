@@ -8703,6 +8703,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50139067",
+      "title": "Parser Combinators",
+      "canonical_url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T14:19:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
