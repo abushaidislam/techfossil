@@ -8488,6 +8488,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149447",
+      "title": "Shopify CLI Renders Theme Code That Isn't Uploaded Yet",
+      "canonical_url": "https://www.vincentschmalbach.com/shopify-theme-dev-replace-templates/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T13:32:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
