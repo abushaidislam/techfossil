@@ -7979,6 +7979,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146828",
+      "title": "Golomb Ruler",
+      "canonical_url": "https://en.wikipedia.org/wiki/Golomb_ruler",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:08:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
