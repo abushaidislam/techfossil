@@ -9300,6 +9300,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50108165",
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "canonical_url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T00:34:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
