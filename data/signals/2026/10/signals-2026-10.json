@@ -7922,6 +7922,15 @@
       "published_at": "2026-10-19T07:05:35.897704Z",
       "category": "Software & AI",
       "importance_score": 75
+    },
+    {
+      "id": "sig-2026-1019-hn-50147861",
+      "title": "Using AI as a tutor to do math with pen and paper",
+      "canonical_url": "https://twitter.com/nichochar/status/2111822781214294329",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:07:57.405093Z",
+      "category": "Software & AI",
+      "importance_score": 5
     }
   ]
 }
