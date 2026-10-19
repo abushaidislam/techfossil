@@ -9229,6 +9229,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50104874",
+      "title": "How to Train Your Robot",
+      "canonical_url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T21:13:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
