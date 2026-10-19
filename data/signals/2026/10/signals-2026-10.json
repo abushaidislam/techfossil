@@ -9398,6 +9398,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50118165",
+      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "canonical_url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-16T19:30:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
