@@ -7748,6 +7748,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50102932",
+      "title": "Faster command recall with substring search",
+      "canonical_url": "https://www.dantleech.com/blog/2026/10/15/faster-command-recall-with-substring-search./",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T18:52:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
