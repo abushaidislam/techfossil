@@ -9171,6 +9171,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150393",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "canonical_url": "https://www.bbc.com/news/articles/cmq5n8x106jdo",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:52:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
