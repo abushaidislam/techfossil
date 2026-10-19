@@ -8544,6 +8544,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148396",
+      "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+      "canonical_url": "https://github.com/strot-ai/Project-STROT",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:32:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
