@@ -9285,6 +9285,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149353",
+      "title": "Show HN: Droplis – A new kind of 1 click Logic Game",
+      "canonical_url": "https://droplis.lalo.li/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T13:19:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
