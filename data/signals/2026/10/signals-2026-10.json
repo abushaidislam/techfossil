@@ -9568,6 +9568,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152912",
+      "title": "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
+      "canonical_url": "https://kairos-experiment.com/distinguish.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T20:25:57Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "memory"
+      ]
     }
   ]
 }
