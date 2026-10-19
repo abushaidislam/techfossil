@@ -7865,6 +7865,21 @@
         "agent",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146560",
+      "title": "Newly identified green star leaves astronomers amazed",
+      "canonical_url": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:29:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
