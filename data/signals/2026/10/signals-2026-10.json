@@ -8149,6 +8149,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147760",
+      "title": "The Annotated VT100 Firmware",
+      "canonical_url": "https://vt100.net/dec/vt100/rom/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:40:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
