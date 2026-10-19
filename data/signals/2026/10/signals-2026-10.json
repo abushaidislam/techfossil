@@ -8870,6 +8870,19 @@
         "ux",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149068",
+      "title": "Fritz Schumacher: The Man Who Built Modern Hamburg",
+      "canonical_url": "https://alsterrunde.com/fritz-schumacher-the-man-who-built-modern-hamburg/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T12:32:57Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
