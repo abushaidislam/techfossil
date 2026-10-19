@@ -8048,6 +8048,15 @@
       "published_at": "2026-10-19T08:00:23.010966Z",
       "category": "Software & AI",
       "importance_score": 381
+    },
+    {
+      "id": "sig-2026-1019-hn-50139998",
+      "title": "The Brain Sandwich",
+      "canonical_url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:02:50.849960Z",
+      "category": "Software & AI",
+      "importance_score": 86
     }
   ]
 }
