@@ -8123,6 +8123,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148882",
+      "title": "Agent-Skills.market",
+      "canonical_url": "https://agent-skills.market/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:58:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
