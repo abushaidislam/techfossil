@@ -8898,6 +8898,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149120",
+      "title": "Headless table or ready-made data grid?",
+      "canonical_url": "https://comparegrids.com/articles/article-headless-table-or-ready-made-grid",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T12:43:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
