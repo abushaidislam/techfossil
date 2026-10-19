@@ -7910,6 +7910,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147076",
+      "title": "Ask HN: What are the best open models for computer use?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50147076",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:49:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
