@@ -7733,6 +7733,15 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143132",
+      "title": "Mitos editor is a fork of Helix",
+      "canonical_url": "https://mitos.computer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:54:31.352025Z",
+      "category": "Software & AI",
+      "importance_score": 67
     }
   ]
 }
