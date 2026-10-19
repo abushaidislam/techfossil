@@ -8003,6 +8003,15 @@
       "published_at": "2026-10-19T07:41:19.584408Z",
       "category": "Software & AI",
       "importance_score": 22
+    },
+    {
+      "id": "sig-2026-1019-hn-50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "canonical_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:45:39.016698Z",
+      "category": "Software & AI",
+      "importance_score": 96
     }
   ]
 }
