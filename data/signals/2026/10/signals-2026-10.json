@@ -7733,6 +7733,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50139636",
+      "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
+      "canonical_url": "https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T16:10:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
