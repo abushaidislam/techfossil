@@ -7859,6 +7859,15 @@
       "published_at": "2026-10-19T06:38:23.454137Z",
       "category": "Software & AI",
       "importance_score": 128
+    },
+    {
+      "id": "sig-2026-1019-hn-50130379",
+      "title": "Interactive Linear Programming in the Browser",
+      "canonical_url": "https://lpviz.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:41:03.890085Z",
+      "category": "Software & AI",
+      "importance_score": 73
     }
   ]
 }
