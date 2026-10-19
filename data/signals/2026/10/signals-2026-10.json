@@ -7742,6 +7742,15 @@
       "published_at": "2026-10-19T05:54:31.352025Z",
       "category": "Software & AI",
       "importance_score": 67
+    },
+    {
+      "id": "sig-2026-1019-hn-50100994",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "canonical_url": "https://furifont.antfu.me/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:57:29.677876Z",
+      "category": "Software & AI",
+      "importance_score": 395
     }
   ]
 }
