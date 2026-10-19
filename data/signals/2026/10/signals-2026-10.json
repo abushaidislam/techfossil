@@ -9115,6 +9115,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148925",
+      "title": "Ask HN: What are you working on? (October 2026)",
+      "canonical_url": "https://news.ycombinator.com/item?id=50148925",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T12:08:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
