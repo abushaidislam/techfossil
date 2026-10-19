@@ -9696,6 +9696,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152459",
+      "title": "The Cost of Looking Competent",
+      "canonical_url": "https://yusufaytas.com/the-cost-of-looking-competent",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:47:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
