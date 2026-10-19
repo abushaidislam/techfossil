@@ -8360,6 +8360,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50090927",
+      "title": "Types of types: Haskell's Kind system",
+      "canonical_url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "source": "hacker_news",
+      "published_at": "2026-10-14T23:00:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
