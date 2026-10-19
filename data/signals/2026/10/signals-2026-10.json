@@ -9612,6 +9612,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50140784",
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "canonical_url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T19:08:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
