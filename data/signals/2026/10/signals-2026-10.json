@@ -8800,6 +8800,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149902",
+      "title": "JEP 546: Adaptive Heap Sizing for ZGC",
+      "canonical_url": "https://openjdk.org/jeps/546",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T14:40:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
