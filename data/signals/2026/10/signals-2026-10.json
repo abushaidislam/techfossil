@@ -7895,6 +7895,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147827",
+      "title": "Good Interfaces Make Good Neighbors",
+      "canonical_url": "https://boz.com/articles/good-interfaces-make-good-neighbors",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:52:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
