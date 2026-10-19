@@ -8943,6 +8943,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50141076",
+      "title": "RepRapMicron",
+      "canonical_url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T19:48:48Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
