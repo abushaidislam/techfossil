@@ -9440,6 +9440,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50139083",
+      "title": "OpenCode has a security breach last that impacted 1.4% of console users",
+      "canonical_url": "https://twitter.com/opencode/status/2111519637049319818",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T14:22:11Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
