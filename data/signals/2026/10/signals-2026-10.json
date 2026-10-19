@@ -9087,6 +9087,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148441",
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "canonical_url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T10:40:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
