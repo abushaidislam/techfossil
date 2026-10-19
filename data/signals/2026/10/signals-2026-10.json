@@ -9158,6 +9158,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150144",
+      "title": "AI made the lean startup more important",
+      "canonical_url": "https://jgothelf.substack.com/p/ai-made-the-lean-startup-even-more",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:11:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
