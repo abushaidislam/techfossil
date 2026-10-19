@@ -8600,6 +8600,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147945",
+      "title": "Show HN: See diffs of Wikipedia over time",
+      "canonical_url": "https://memoryhole.app/wiki-timeline",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T09:11:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
