@@ -9597,6 +9597,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50125551",
+      "title": "The DNS Museum",
+      "canonical_url": "https://dns.museum",
+      "source": "hacker_news",
+      "published_at": "2026-10-17T04:21:34Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
