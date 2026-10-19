@@ -7778,6 +7778,15 @@
       "published_at": "2026-10-19T06:08:16.508433Z",
       "category": "Software & AI",
       "importance_score": 30
+    },
+    {
+      "id": "sig-2026-1019-hn-50146286",
+      "title": "How RC2's π table was made",
+      "canonical_url": "https://khalidhamadeh.com/writing/rc2-pi-table",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:12:56.855777Z",
+      "category": "Software & AI",
+      "importance_score": 6
     }
   ]
 }
