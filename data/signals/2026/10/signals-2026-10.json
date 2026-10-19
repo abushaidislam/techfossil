@@ -9427,6 +9427,19 @@
         "ai",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50152369",
+      "title": "Mstamp: Sign API records so a third party can verify them offline",
+      "canonical_url": "https://github.com/samschotvanger-rgb/mstamp",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:40:08Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
