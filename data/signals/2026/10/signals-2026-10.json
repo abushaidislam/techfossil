@@ -8745,6 +8745,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50144066",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "canonical_url": "https://www.getlazarus.org/dynamic/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T00:48:04Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
