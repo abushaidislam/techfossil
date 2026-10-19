@@ -8007,6 +8007,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50096110",
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "canonical_url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "source": "hacker_news",
+      "published_at": "2026-10-15T04:07:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
