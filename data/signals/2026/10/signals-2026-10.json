@@ -8259,6 +8259,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147099",
+      "title": "Show HN: Local-first macOS video recorder and editor with MCP support",
+      "canonical_url": "https://github.com/TriHerm/cutmark",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:52:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
