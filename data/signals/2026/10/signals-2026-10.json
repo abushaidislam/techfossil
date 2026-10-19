@@ -7940,6 +7940,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50140462",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "canonical_url": "https://www.vals.ai/blogs/impossible-refund",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T18:22:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 82,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
