@@ -7706,6 +7706,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50147462",
+      "title": "Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",
+      "canonical_url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:56:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
