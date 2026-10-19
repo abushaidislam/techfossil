@@ -7769,6 +7769,15 @@
       "published_at": "2026-10-19T06:06:10.012298Z",
       "category": "Software & AI",
       "importance_score": 123
+    },
+    {
+      "id": "sig-2026-1019-hn-50108165",
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "canonical_url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:08:16.508433Z",
+      "category": "Software & AI",
+      "importance_score": 30
     }
   ]
 }
