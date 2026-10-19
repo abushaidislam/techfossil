@@ -8856,6 +8856,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50148855",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "canonical_url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T11:55:31Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "claude"
+      ]
     }
   ]
 }
