@@ -7691,6 +7691,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146625",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "canonical_url": "https://colo.to/cyberspace.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:37:57Z",
+      "category": "Software Engineering",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
