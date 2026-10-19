@@ -7953,6 +7953,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50146910",
+      "title": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
+      "canonical_url": "https://apistack.online/mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:20:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
