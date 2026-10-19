@@ -9270,6 +9270,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143536",
+      "title": "PalmOS Lemmings",
+      "canonical_url": "https://github.com/ardiri/palmos-lemmings",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:56:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
