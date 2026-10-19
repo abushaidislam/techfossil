@@ -9481,6 +9481,20 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1019-dev-4839043",
+      "title": "Frontier AI models outperform human experts on earnings prediction for the first time",
+      "canonical_url": "https://dev.to/dailycontext/frontier-ai-models-outperform-human-experts-on-earnings-prediction-for-the-first-time-3fhb",
+      "source": "dev_to",
+      "published_at": "2026-10-12T21:02:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
