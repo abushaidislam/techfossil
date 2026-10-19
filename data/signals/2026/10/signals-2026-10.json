@@ -9638,6 +9638,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50150927",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "canonical_url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T17:10:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
