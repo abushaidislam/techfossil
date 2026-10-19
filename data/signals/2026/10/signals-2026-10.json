@@ -8883,6 +8883,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50149746",
+      "title": "Postmortem: Sweden's citizenship law shipped with no migration path",
+      "canonical_url": "https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T14:19:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
