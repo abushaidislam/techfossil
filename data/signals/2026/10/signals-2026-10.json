@@ -7805,6 +7805,15 @@
       "published_at": "2026-10-19T06:17:15.970448Z",
       "category": "Software & AI",
       "importance_score": 8
+    },
+    {
+      "id": "sig-2026-1019-hn-50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "canonical_url": "https://arxiv.org/abs/2610.18861",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:20:45.460982Z",
+      "category": "Software & AI",
+      "importance_score": 277
     }
   ]
 }
