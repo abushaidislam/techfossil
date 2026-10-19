@@ -8063,6 +8063,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50140383",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "canonical_url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T18:11:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
