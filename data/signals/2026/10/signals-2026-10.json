@@ -10088,6 +10088,21 @@
         "ai",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161458",
+      "title": "Show HN: TMPlayer, a TV player for the videos in your own Telegram chats",
+      "canonical_url": "https://github.com/dracu-lah/TMPlayer",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T10:43:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
