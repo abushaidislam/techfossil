@@ -10705,6 +10705,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50163390",
+      "title": "A Tiny 24 FPS E-Ink Game Boy Emulator",
+      "canonical_url": "https://kottke.org/26/10/a-tiny-24-fps-e-ink-game-boy-emulator",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T15:22:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
