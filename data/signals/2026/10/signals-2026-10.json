@@ -10191,6 +10191,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161762",
+      "title": "Why elevators keep anesthesia professionals up at night [4 min] [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=N4VGVEdN458",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T11:38:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
