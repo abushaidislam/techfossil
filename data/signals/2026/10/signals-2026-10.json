@@ -10133,6 +10133,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50160494",
+      "title": "OpenBSD 8.0",
+      "canonical_url": "https://www.openbsd.org/80.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T08:06:40Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
