@@ -10610,6 +10610,21 @@
         "cloud",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50160116",
+      "title": "Ask HN: Dark mode for HN please? (2026)",
+      "canonical_url": "https://news.ycombinator.com/item?id=50160116",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T07:09:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
