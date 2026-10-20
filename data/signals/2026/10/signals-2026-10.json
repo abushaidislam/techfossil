@@ -11099,6 +11099,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50163142",
+      "title": "There is no official XScreenSaver GitHub repository",
+      "canonical_url": "https://github.com/xscreensaver-official/xscreensaver",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T14:51:31Z",
+      "category": "Software Engineering",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
