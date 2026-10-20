@@ -9872,6 +9872,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50159278",
+      "title": "Modernizing the console with kmscon",
+      "canonical_url": "https://fedoramagazine.org/modernizing-the-console-with-kmscon/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T05:13:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
