@@ -10957,6 +10957,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50147233",
+      "title": "Starcraft: Ashfall",
+      "canonical_url": "https://starcraft-shooter-2026.pages.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:18:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
