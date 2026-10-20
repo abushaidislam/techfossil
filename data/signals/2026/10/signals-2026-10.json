@@ -10927,6 +10927,21 @@
       "technologies": [
         "node"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50167416",
+      "title": "Show HN: Twig – An Android file manager for NAS, S3, restic and Git under 10 MB",
+      "canonical_url": "https://github.com/dev2ex/twig",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T20:58:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
