@@ -10972,6 +10972,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50135177",
+      "title": "Porting video games to VHS",
+      "canonical_url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T03:12:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
