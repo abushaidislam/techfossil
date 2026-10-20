@@ -10361,6 +10361,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50162154",
+      "title": "Show HN: Kubectl-skyline – View your Kubernetes cluster as a 3D city",
+      "canonical_url": "https://github.com/zdk/kubectl-skyline",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T12:33:57Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kubernetes"
+      ]
     }
   ]
 }
