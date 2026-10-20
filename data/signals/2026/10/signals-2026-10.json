@@ -11170,6 +11170,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50171793",
+      "title": "Subaru is killing off gas cars and will only sell EVs in Europe",
+      "canonical_url": "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T01:56:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
