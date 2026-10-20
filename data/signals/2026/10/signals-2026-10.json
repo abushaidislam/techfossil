@@ -10886,6 +10886,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50167683",
+      "title": "The Subprocessor List Is the Real Privacy Policy",
+      "canonical_url": "https://xavier.xfaang.com/blog/2026-10-20.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:16:08Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
