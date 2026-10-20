@@ -9801,6 +9801,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4865040",
+      "title": "Can a QAT 12B Fit an 8 GB GPU? Gemma 4 12B on an RTX 3050",
+      "canonical_url": "https://dev.to/gde/can-a-qat-12b-fit-an-8-gb-gpu-gemma-4-12b-on-an-rtx-3050-1267",
+      "source": "dev_to",
+      "published_at": "2026-10-18T14:10:29Z",
+      "category": "Software Engineering",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
