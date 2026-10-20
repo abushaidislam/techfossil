@@ -10720,6 +10720,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50163961",
+      "title": "Google cloud outage takes down banks",
+      "canonical_url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T16:26:02Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
