@@ -10873,6 +10873,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50166864",
+      "title": "Google Cloud's Europe-west2 (London) outage",
+      "canonical_url": "https://twitter.com/CloudflareRadar/status/2112486747032457726",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T20:19:59Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
