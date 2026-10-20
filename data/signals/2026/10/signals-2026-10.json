@@ -9857,6 +9857,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4865167",
+      "title": "Stress-Testing Gemini 4 Argon: Building a 3D Flutter Kart Game in 15 Prompts with Zero Assets",
+      "canonical_url": "https://dev.to/gde/stress-testing-gemini-4-argon-building-a-3d-flutter-kart-game-in-15-prompts-with-zero-assets-55ha",
+      "source": "dev_to",
+      "published_at": "2026-10-19T13:00:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
