@@ -11043,6 +11043,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50170092",
+      "title": "Using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
+      "canonical_url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T23:53:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
