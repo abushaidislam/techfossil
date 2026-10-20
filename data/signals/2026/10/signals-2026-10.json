@@ -10538,6 +10538,20 @@
         "security",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161663",
+      "title": "GitHub: Some Git over HTTPS may temporarily require authentication",
+      "canonical_url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T11:22:19Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "auth",
+        "ui"
+      ]
     }
   ]
 }
