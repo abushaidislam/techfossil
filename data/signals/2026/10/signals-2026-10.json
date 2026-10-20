@@ -10987,6 +10987,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50169795",
+      "title": "Michael Rabin's fingerprints across the theory of computation",
+      "canonical_url": "https://eccc.weizmann.ac.il/report/2026/259/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T23:31:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
