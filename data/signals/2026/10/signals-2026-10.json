@@ -11017,6 +11017,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "canonical_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T19:06:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
