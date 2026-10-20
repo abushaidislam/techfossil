@@ -10276,6 +10276,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50154624",
+      "title": "Android apps running native on macOS",
+      "canonical_url": "https://github.com/kksimp/Mac.apk",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T22:45:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
