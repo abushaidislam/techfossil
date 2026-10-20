@@ -10763,6 +10763,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4880310",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "canonical_url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-13ii",
+      "source": "dev_to",
+      "published_at": "2026-10-20T13:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
