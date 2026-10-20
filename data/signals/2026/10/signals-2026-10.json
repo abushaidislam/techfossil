@@ -11084,6 +11084,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50170769",
+      "title": "Wizards of the Coast declines to voluntarily recognize D&D union drive",
+      "canonical_url": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T00:41:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
