@@ -11030,6 +11030,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50151980",
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "canonical_url": "https://3anddoneapp.com/try",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:07:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
