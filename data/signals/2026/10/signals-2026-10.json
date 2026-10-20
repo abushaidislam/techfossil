@@ -9726,6 +9726,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50138531",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "canonical_url": "https://api-docs.deepseek.com/guides/search/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T12:50:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
