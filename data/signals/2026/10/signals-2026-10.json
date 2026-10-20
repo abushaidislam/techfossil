@@ -11127,6 +11127,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50161144",
+      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+      "canonical_url": "https://rouler.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T09:51:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
