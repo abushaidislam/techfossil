@@ -9887,6 +9887,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50160198",
+      "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+      "canonical_url": "https://github.com/gojko/lights-on-software-factory",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T07:22:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
