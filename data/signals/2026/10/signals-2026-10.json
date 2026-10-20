@@ -10580,6 +10580,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161283",
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "canonical_url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T10:16:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
