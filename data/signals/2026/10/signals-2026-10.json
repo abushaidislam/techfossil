@@ -10679,6 +10679,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50164534",
+      "title": "Trump Appointees Asked a Federal Cybersecurity Agency to Hack a Voting Machine",
+      "canonical_url": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T17:16:26Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
