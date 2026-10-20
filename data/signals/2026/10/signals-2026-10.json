@@ -9914,6 +9914,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4879157",
+      "title": "Can a 26B MoE Run on an 8 GB GPU? Gemma 4 26B A4B on an RTX 3050",
+      "canonical_url": "https://dev.to/gde/can-a-26b-moe-run-on-an-8-gb-gpu-gemma-4-26b-a4b-on-an-rtx-3050-2efn",
+      "source": "dev_to",
+      "published_at": "2026-10-19T18:12:40Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
