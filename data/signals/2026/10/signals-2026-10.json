@@ -9929,6 +9929,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4879459",
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Slow and Steady! $2,850 in Prizes Across 21 Winners.",
+      "canonical_url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-slow-and-steady-2850-in-prizes-across-21-3iee",
+      "source": "dev_to",
+      "published_at": "2026-10-19T20:07:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
