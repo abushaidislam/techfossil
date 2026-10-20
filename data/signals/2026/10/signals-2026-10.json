@@ -11002,6 +11002,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50169856",
+      "title": "Hooked on YouTube",
+      "canonical_url": "https://www.nbcnews.com/specials/hooked-youtube-videos-schools-junk-infiltrating-classrooms-google/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T23:36:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
