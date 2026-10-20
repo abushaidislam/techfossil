@@ -9773,6 +9773,21 @@
         "kubernetes",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4858196",
+      "title": "Natural Languages Have Design Trade-offs Too: Georgian Is Dynamically Typed, English Is Statically Typed",
+      "canonical_url": "https://dev.to/georgekobaidze/natural-languages-have-design-trade-offs-too-georgian-is-dynamically-typed-english-is-statically-emi",
+      "source": "dev_to",
+      "published_at": "2026-10-15T19:22:46Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
