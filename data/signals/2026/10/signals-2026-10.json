@@ -10374,6 +10374,21 @@
       "technologies": [
         "kubernetes"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161369",
+      "title": "Rising Stars Need a Witness",
+      "canonical_url": "https://www.indiethinkers.com/essays/the-cosigns-you-dont-ask-for",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T10:30:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
