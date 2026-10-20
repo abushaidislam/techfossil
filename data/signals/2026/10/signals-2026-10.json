@@ -11058,6 +11058,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50153229",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "canonical_url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T20:52:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
