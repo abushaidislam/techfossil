@@ -9831,6 +9831,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50159776",
+      "title": "Tenstorrent raises $1.5B [$6.2B valuation] to expand its open compute ecosystem",
+      "canonical_url": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T06:21:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
