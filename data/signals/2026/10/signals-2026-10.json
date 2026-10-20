@@ -10074,6 +10074,20 @@
         "llm",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50160877",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "canonical_url": "https://github.com/golang/go/issues/82345",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T09:05:07Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "rust"
+      ]
     }
   ]
 }
