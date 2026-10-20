@@ -10914,6 +10914,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50166257",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "canonical_url": "https://kaba.cx/posts/20261020_Tor/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T19:39:24Z",
+      "category": "Backend & APIs",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "node"
+      ]
     }
   ]
 }
