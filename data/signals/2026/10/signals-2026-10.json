@@ -11185,6 +11185,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50165484",
+      "title": "NixOS is making me less afraid",
+      "canonical_url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T18:43:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
