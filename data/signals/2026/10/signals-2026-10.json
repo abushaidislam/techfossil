@@ -10320,6 +10320,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161649",
+      "title": "I turned a song into a Machine [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=6nULQQQZcvE",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T11:20:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
