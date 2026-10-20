@@ -9741,6 +9741,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50159789",
+      "title": "Did Ente Locker copy my code without attribution?",
+      "canonical_url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T06:23:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
