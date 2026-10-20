@@ -10161,6 +10161,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50153630",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "canonical_url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T21:28:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
