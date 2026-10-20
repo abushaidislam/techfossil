@@ -10791,6 +10791,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50154429",
+      "title": "Spending 10 months building the most human-like chess bot",
+      "canonical_url": "https://mbuffett.com/posts/most-human-chess-bot",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T22:30:41Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
