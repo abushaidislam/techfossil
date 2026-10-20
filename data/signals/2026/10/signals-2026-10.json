@@ -10521,6 +10521,23 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161984",
+      "title": "AegisKernel – Zero-Trust deterministic security runtime for AI agents",
+      "canonical_url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T12:12:48Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "kernel",
+        "ai",
+        "security",
+        "rust"
+      ]
     }
   ]
 }
