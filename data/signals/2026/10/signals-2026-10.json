@@ -10860,6 +10860,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50154982",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "canonical_url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T23:09:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
