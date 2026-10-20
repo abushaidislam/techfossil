@@ -9816,6 +9816,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4873703",
+      "title": "Comparing Qwen and Gemma on the Low End: Qwen Is Faster Without Drafting, Gemma Has Better Quality",
+      "canonical_url": "https://dev.to/gde/comparing-qwen-and-gemma-on-the-low-end-qwen-is-faster-without-drafting-gemma-has-better-quality-30bo",
+      "source": "dev_to",
+      "published_at": "2026-10-18T20:20:20Z",
+      "category": "Software Engineering",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
