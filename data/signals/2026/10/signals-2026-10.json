@@ -10830,6 +10830,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50146417",
+      "title": "Integer to String Conversion (2014)",
+      "canonical_url": "https://tia.mat.br/posts/2014/06/23/integer_to_string_conversion.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:08:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
