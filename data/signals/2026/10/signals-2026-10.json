@@ -10305,6 +10305,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50160184",
+      "title": "Found archive.today debug dump glitch",
+      "canonical_url": "https://nonograph.com/interesting-archivetoday-bug-10-20-2026",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T07:19:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
