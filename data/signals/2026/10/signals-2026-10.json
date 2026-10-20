@@ -10899,6 +10899,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50167897",
+      "title": "ClickHouse Will Let You Be Wrong at Scale",
+      "canonical_url": "https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:29:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
