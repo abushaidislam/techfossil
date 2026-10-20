@@ -10804,6 +10804,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50139998",
+      "title": "The Brain Sandwich",
+      "canonical_url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T17:15:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
