@@ -10263,6 +10263,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161405",
+      "title": "How to Rebuild Yourself, Inch by Inch",
+      "canonical_url": "https://mrjakyl.substack.com/p/how-to-rebuild-yourself-inch-by-inch",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T10:37:16Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
