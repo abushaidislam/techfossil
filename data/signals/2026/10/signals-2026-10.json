@@ -10817,6 +10817,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50165382",
+      "title": "Glassy UI: Glass Components for Web and Mobile",
+      "canonical_url": "https://glassyui.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T18:32:48Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
