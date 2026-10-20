@@ -10638,6 +10638,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50163502",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "canonical_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T15:35:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
