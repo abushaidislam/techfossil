@@ -9756,6 +9756,23 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1020-dev-4880002",
+      "title": "Autonomous agent loops with Gemini 4 Argon and GKE Agent Sandbox: Running untrusted code safely at scale",
+      "canonical_url": "https://dev.to/googlecloud/autonomous-agent-loops-with-gemini-4-argon-and-gke-agent-sandbox-running-untrusted-code-safely-at-2k60",
+      "source": "dev_to",
+      "published_at": "2026-10-19T22:20:01Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "rust",
+        "agent",
+        "kubernetes",
+        "gemini"
+      ]
     }
   ]
 }
