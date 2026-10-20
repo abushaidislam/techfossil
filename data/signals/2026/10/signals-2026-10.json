@@ -11142,6 +11142,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50171498",
+      "title": "Building a Robot Owl with No Robotics Experience",
+      "canonical_url": "https://mattcool.tech/posts/hoot-a-small-robot-companion-for-learning/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T01:32:06Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
