@@ -10235,6 +10235,21 @@
         "compiler",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50162073",
+      "title": "The New Age of Reading",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T12:24:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
