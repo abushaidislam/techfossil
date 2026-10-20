@@ -10651,6 +10651,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50164461",
+      "title": "EverQR, dynamic QR codes with a written never-expire guarantee",
+      "canonical_url": "https://everqr.darsena.app",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T17:08:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
