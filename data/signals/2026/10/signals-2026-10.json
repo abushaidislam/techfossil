@@ -10595,6 +10595,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50162777",
+      "title": "CloudSecure – Open-source, local-first CNAPP suite in pure Rust",
+      "canonical_url": "https://github.com/kennyanju/plantainchips",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T14:06:05Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "cloud",
+        "ui"
+      ]
     }
   ]
 }
