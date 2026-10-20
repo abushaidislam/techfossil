@@ -10748,6 +10748,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50164567",
+      "title": "Show HN: Photo Ferret – open-source photo album with creative filters",
+      "canonical_url": "https://github.com/JonesSteven/photo-ferret",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T17:19:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
