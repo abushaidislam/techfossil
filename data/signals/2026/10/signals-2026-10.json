@@ -10567,6 +10567,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1020-hn-50161098",
+      "title": "Refuseless: Open and Abliterated LLMs",
+      "canonical_url": "https://refuseless.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T09:45:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
