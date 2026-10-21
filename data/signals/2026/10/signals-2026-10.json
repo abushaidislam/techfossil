@@ -11765,6 +11765,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50155751",
+      "title": "C++ futures part 1: The mental model",
+      "canonical_url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T00:05:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
