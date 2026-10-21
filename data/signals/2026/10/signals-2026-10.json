@@ -11932,6 +11932,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50185061",
+      "title": "Can AI Reliably Estimate Macros from Photos?",
+      "canonical_url": "https://blog.gopfert.eu/ai-macros-from-photos",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T00:02:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
