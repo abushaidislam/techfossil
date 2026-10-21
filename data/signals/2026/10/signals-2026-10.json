@@ -11678,6 +11678,21 @@
         "gemini",
         "kubernetes"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4881046",
+      "title": "Event-Driven Multi-Agent Pipelines on Google Cloud with ADK, Gemma 3 and Eventarc",
+      "canonical_url": "https://dev.to/gde/beyond-chatbots-and-cron-jobs-event-driven-multi-agent-pipelines-on-google-cloud-with-adk-gemma-3-3cbk",
+      "source": "dev_to",
+      "published_at": "2026-10-20T03:50:56Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
