@@ -11417,6 +11417,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50169439",
+      "title": "Gradium open-sourced its on-device TTS",
+      "canonical_url": "https://gradium.ai/phonon",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T23:06:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
