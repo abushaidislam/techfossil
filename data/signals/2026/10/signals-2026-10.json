@@ -11286,6 +11286,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50170593",
+      "title": "Show HN: SimCity, but with Permits",
+      "canonical_url": "https://permit.petercai.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T00:29:09Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
