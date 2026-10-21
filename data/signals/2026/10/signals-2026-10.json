@@ -11752,6 +11752,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4884266",
+      "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
+      "canonical_url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
+      "source": "dev_to",
+      "published_at": "2026-10-21T15:28:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
