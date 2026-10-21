@@ -11739,6 +11739,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50182685",
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "canonical_url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T21:29:57Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
