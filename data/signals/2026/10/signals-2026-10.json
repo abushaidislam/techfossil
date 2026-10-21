@@ -11780,6 +11780,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50181114",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "canonical_url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T20:00:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
