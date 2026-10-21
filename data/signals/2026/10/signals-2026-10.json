@@ -11724,6 +11724,21 @@
         "agent",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4881169",
+      "title": "Generative UI Without the Async Tax: Introducing bloc_signals_genui 1.0",
+      "canonical_url": "https://dev.to/gde/generative-ui-without-the-async-tax-introducing-blocsignalsgenui-10-3gge",
+      "source": "dev_to",
+      "published_at": "2026-10-20T04:34:20Z",
+      "category": "Systems & Architecture",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
