@@ -11531,6 +11531,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4766456",
+      "title": "Welcome Thread - v 398",
+      "canonical_url": "https://dev.to/sloan/welcome-thread-v-398-10a6",
+      "source": "dev_to",
+      "published_at": "2026-10-21T13:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
