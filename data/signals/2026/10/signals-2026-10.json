@@ -11374,6 +11374,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50175934",
+      "title": "Is Cellebrite sitting on an iPhone radio 0day?",
+      "canonical_url": "https://justin.sh/blog/2026/10/cellebrite-advanced-unlocks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T09:59:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
