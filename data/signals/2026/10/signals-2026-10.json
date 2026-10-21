@@ -11635,6 +11635,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4865146",
+      "title": "Building a cross-platform Flutter festival assistant with llamadart",
+      "canonical_url": "https://dev.to/gde/building-a-cross-platform-flutter-festival-assistant-with-llamadart-2dml",
+      "source": "dev_to",
+      "published_at": "2026-10-20T13:00:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
