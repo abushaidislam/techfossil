@@ -11213,6 +11213,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50175147",
+      "title": "Is Complexity an Illusion? (2024)",
+      "canonical_url": "https://arxiv.org/abs/2404.07227",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T08:00:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
