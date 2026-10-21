@@ -11904,6 +11904,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1022-dev-4890855",
+      "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
+      "canonical_url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+      "source": "dev_to",
+      "published_at": "2026-10-21T16:59:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
