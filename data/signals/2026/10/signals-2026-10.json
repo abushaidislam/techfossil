@@ -11806,6 +11806,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50183064",
+      "title": "GPUThor: Amplifying Rowhammer Attacks to Exploit ECC-Protected GPUs",
+      "canonical_url": "https://gputhor.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T21:53:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
