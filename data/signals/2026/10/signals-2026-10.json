@@ -11404,6 +11404,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50134359",
+      "title": "The fire retardant in the seafood chain",
+      "canonical_url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T01:37:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
