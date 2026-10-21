@@ -11847,6 +11847,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50166062",
+      "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T19:25:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
