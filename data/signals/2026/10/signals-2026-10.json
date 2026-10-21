@@ -11503,6 +11503,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50176384",
+      "title": "Larry Ellison Went on Borrowing Spree to Bankroll His Son's Warner Bros. Bid",
+      "canonical_url": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T11:22:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
