@@ -11862,6 +11862,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50183544",
+      "title": "Sripe Treasury for Agents",
+      "canonical_url": "https://stripe.com/newsroom/news/treasury-for-agents",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T22:22:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
