@@ -11662,6 +11662,22 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4880094",
+      "title": "Automated incident triage on GKE with Gemini 4 Argon and Model Context Protocol: Correlating cluster events and VPA logs",
+      "canonical_url": "https://dev.to/googlecloud/automated-incident-triage-on-gke-with-gemini-4-argon-and-model-context-protocol-correlating-24eb",
+      "source": "dev_to",
+      "published_at": "2026-10-20T19:14:39Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "gemini",
+        "kubernetes"
+      ]
     }
   ]
 }
