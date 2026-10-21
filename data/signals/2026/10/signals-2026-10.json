@@ -11445,6 +11445,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50177291",
+      "title": "Anthropic Talk: The End of the Anthropocene",
+      "canonical_url": "https://twitter.com/rdominguezibar/status/2111873903970881738",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T13:38:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
