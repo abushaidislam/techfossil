@@ -11316,6 +11316,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50175611",
+      "title": "Decompwlj: A 3D atlas of 5k integer sequences",
+      "canonical_url": "https://decompwlj.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T09:10:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
