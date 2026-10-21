@@ -11821,6 +11821,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50182480",
+      "title": "Show HN: Tapirscan – Scan barcodes at any angle in the browser",
+      "canonical_url": "https://tapirscan.f-kleinicke.de/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T21:17:22Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
