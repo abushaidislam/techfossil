@@ -11546,6 +11546,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50150434",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "canonical_url": "https://mistral.ai/news/timestral/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:59:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
