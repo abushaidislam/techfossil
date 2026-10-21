@@ -11917,6 +11917,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50165904",
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "canonical_url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T19:14:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
