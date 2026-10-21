@@ -11359,6 +11359,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50169707",
+      "title": "What shall I teach my son?",
+      "canonical_url": "https://stevekrouse.com/ends",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T23:25:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
