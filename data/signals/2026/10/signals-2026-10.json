@@ -11258,6 +11258,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50174093",
+      "title": "Push-based KV transfer to improve TTFT, TPOT for disaggregated inference in vLLM",
+      "canonical_url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T05:27:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
