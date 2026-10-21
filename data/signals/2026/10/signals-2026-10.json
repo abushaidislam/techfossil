@@ -11432,6 +11432,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50175763",
+      "title": "SpacebarBench: Benchmarking Agents on Whiteboards",
+      "canonical_url": "https://www.spacebar.ai/benchmark",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T09:34:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
