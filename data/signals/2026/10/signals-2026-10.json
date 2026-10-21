@@ -11834,6 +11834,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50180934",
+      "title": "Websites taken down across Europe ahead of critical cyber-security update",
+      "canonical_url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:49:23Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
