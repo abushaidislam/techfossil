@@ -11228,6 +11228,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50162177",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "canonical_url": "https://github.com/microg/GmsCore/wiki",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T12:37:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
