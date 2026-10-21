@@ -11576,6 +11576,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50152466",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "canonical_url": "https://heymaxwell.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T19:47:56Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
