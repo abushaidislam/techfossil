@@ -11488,6 +11488,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50167732",
+      "title": "Why do we have so many meetings?",
+      "canonical_url": "https://www.nber.org/papers/w35706",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:19:19Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
