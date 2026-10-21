@@ -11198,6 +11198,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50166987",
+      "title": "Show HN: Another Blog Search Engine",
+      "canonical_url": "https://outerweb.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T20:27:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
