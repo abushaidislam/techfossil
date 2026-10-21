@@ -11889,6 +11889,21 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50184201",
+      "title": "The Download: introducing the Impossible issue",
+      "canonical_url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T23:02:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
