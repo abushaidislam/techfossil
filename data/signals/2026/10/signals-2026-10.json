@@ -11945,6 +11945,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50184712",
+      "title": "Texas data center boom could erase decades of progress on air quality",
+      "canonical_url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T23:38:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
