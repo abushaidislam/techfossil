@@ -11620,6 +11620,21 @@
         "llm",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4883864",
+      "title": "A Dense 31B on an 8 GB GPU: Gemma 4 31B on an RTX 3050",
+      "canonical_url": "https://dev.to/gde/a-dense-31b-on-an-8-gb-gpu-gemma-4-31b-on-an-rtx-3050-26p9",
+      "source": "dev_to",
+      "published_at": "2026-10-20T15:18:06Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
