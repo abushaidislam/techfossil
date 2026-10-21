@@ -11346,6 +11346,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50176578",
+      "title": "Android 17 for RISC-V Available for the RVA23 Profile Through Rise",
+      "canonical_url": "https://riseproject.dev/2026/10/20/android-17-available-on-rva23-with-rise/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T11:51:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
