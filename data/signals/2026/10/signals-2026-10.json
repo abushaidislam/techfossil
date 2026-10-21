@@ -11473,6 +11473,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50150935",
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "canonical_url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T17:12:02Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
