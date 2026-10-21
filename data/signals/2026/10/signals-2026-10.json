@@ -11693,6 +11693,22 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4872359",
+      "title": "[Agent Platform in Practice (2)] From Monolithic Cloud Run to Google Cloud Agent Runtime: Refactoring LINE AI Business Card King",
+      "canonical_url": "https://dev.to/gde/agent-platform-in-practice-2-from-monolithic-cloud-run-to-google-cloud-agent-runtime-bo1",
+      "source": "dev_to",
+      "published_at": "2026-10-20T12:12:59Z",
+      "category": "Systems & Architecture",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "architecture",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
