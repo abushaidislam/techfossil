@@ -11793,6 +11793,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50168096",
+      "title": "IKEA – 3D Guide",
+      "canonical_url": "https://sael.net/flatpack/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:42:45Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
