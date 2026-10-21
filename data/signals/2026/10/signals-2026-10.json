@@ -11460,6 +11460,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50175401",
+      "title": "Trump DHS admits it invented child abuse claims against activist to unlock phone",
+      "canonical_url": "https://www.rawstory.com/samuel-tunick-trump-border-patrol/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T08:38:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
