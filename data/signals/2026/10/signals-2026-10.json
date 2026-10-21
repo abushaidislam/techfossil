@@ -11709,6 +11709,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-dev-4884785",
+      "title": "Multi-Model Agentic Workflows: Claude Opus 5.5 & Sonnet 5.5 Land in Google Antigravity 🚀",
+      "canonical_url": "https://dev.to/googleai/multi-model-agentic-workflows-claude-opus-55-sonnet-55-land-in-google-antigravity-2kmb",
+      "source": "dev_to",
+      "published_at": "2026-10-20T17:56:15Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "agent",
+        "cloud"
+      ]
     }
   ]
 }
