@@ -11649,6 +11649,19 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50181155",
+      "title": "AI edges closer to solving the Riemann hypothesis",
+      "canonical_url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T20:02:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
