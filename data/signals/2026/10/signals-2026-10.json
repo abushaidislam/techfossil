@@ -11301,6 +11301,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1021-hn-50171077",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T01:03:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
