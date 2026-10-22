@@ -12188,6 +12188,20 @@
         "aws",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50168142",
+      "title": "Show HN: AI-built browser games, collected in one place",
+      "canonical_url": "https://playgroundarcade.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:45:56Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
