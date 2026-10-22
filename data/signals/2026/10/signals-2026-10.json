@@ -12473,6 +12473,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50197549",
+      "title": "Computer use on the phone itself: a 2B model that operates Android apps",
+      "canonical_url": "https://getopposable.com/blog/computer-use-on-the-phone",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:23:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
