@@ -12544,6 +12544,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50185630",
+      "title": "Canary Tokens",
+      "canonical_url": "https://canarytokens.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T00:45:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
