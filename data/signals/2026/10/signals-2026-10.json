@@ -12503,6 +12503,21 @@
         "ai",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50196933",
+      "title": "\"Yeah I was tired that night.\"",
+      "canonical_url": "https://unsung.aresluna.org/yeah-i-was-very-tired-that-night/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T21:40:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
