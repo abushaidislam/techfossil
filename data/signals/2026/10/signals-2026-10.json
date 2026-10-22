@@ -12215,6 +12215,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50194681",
+      "title": "Show HN: Toli – Let Claude Code on one computer work with Codex on another",
+      "canonical_url": "https://github.com/arjunvlama/toli",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:54:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
