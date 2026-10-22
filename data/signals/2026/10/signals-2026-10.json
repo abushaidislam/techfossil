@@ -12060,6 +12060,19 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50190257",
+      "title": "Can AI generate reliable product demos directly from source code?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50190257",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T08:03:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
