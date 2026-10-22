@@ -12273,6 +12273,19 @@
         "gemini",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50195022",
+      "title": "Claude Code mod for commenting diff",
+      "canonical_url": "https://github.com/formstep/claude-mod-comment-diff",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T19:27:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
