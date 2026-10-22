@@ -12387,6 +12387,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-dev-4893750",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "canonical_url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "source": "dev_to",
+      "published_at": "2026-10-22T04:31:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
