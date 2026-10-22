@@ -12017,6 +12017,21 @@
       "technologies": [
         "vulnerability"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50182526",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "canonical_url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T21:20:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
