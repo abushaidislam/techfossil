@@ -12531,6 +12531,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50198323",
+      "title": "Vim for OpenAPI/MCP Inspection",
+      "canonical_url": "https://hookfish.dev",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T23:20:43Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
