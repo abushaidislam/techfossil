@@ -11958,6 +11958,22 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-dev-4880104",
+      "title": "Multi-tier model routing on GKE: balancing Gemini 4 Argon reasoning depth with latency and cost",
+      "canonical_url": "https://dev.to/googlecloud/multi-tier-model-routing-on-gke-balancing-gemini-4-argon-reasoning-depth-with-latency-and-cost-21fo",
+      "source": "dev_to",
+      "published_at": "2026-10-21T18:56:20Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "kubernetes",
+        "ai",
+        "cloud"
+      ]
     }
   ]
 }
