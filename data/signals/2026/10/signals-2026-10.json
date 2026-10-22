@@ -12243,6 +12243,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50165208",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "canonical_url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T18:17:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
