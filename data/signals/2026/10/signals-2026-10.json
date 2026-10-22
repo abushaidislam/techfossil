@@ -12129,6 +12129,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50162044",
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "canonical_url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T12:20:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
