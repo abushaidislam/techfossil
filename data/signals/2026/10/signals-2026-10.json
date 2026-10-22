@@ -12361,6 +12361,19 @@
         "encryption",
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50195752",
+      "title": "Tell your network to explain itself and then some",
+      "canonical_url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:20:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
