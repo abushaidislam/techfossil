@@ -12202,6 +12202,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50176082",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "canonical_url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T10:27:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
