@@ -12518,6 +12518,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50197964",
+      "title": "Ask before you PR: questions for your coding agent before contributing to OSS",
+      "canonical_url": "https://github.com/NickyHeC/ask-before-you-pr",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:52:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
