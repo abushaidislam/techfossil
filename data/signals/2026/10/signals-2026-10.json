@@ -12616,6 +12616,21 @@
         "agent",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50190168",
+      "title": "Epic Games Inc v Apple Inc",
+      "canonical_url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T07:52:03Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
