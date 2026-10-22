@@ -12004,6 +12004,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50188948",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "canonical_url": "https://eliastaylor.com/noexploit/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T05:13:27Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability"
+      ]
     }
   ]
 }
