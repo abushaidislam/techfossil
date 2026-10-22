@@ -12631,6 +12631,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50186037",
+      "title": "Claude Duet",
+      "canonical_url": "https://claude.com/product/claude-duet",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T01:14:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
