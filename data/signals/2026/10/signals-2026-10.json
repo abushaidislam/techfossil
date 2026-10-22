@@ -12589,6 +12589,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50197719",
+      "title": "The second most photographed fruit in the world",
+      "canonical_url": "https://sftw.substack.com/p/the-second-most-photographed-fruit",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:36:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
