@@ -12073,6 +12073,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50190792",
+      "title": "AI agent on your notch, equipped with his own computer",
+      "canonical_url": "https://notcho.si",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T09:22:27Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
