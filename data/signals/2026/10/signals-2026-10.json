@@ -12574,6 +12574,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50198467",
+      "title": "Magic state cultivation on a superconducting quantum processor",
+      "canonical_url": "https://arxiv.org/abs/2512.13908",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T23:30:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
