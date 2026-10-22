@@ -12173,6 +12173,21 @@
         "auth",
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50194459",
+      "title": "Judge rejects Trump's wild claim EPA can dismiss data center pollution lawsuits",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:34:19Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "aws",
+        "ui"
+      ]
     }
   ]
 }
