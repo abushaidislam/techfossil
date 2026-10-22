@@ -12101,6 +12101,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50191825",
+      "title": "A Radio That Turns Signals into Pictures",
+      "canonical_url": "https://www.hackster.io/CiferTech/i-built-a-radio-that-turns-signals-into-pictures-d7a402",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T12:18:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
