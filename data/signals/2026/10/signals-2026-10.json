@@ -12488,6 +12488,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50181326",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "canonical_url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T20:11:14Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability",
+        "ai",
+        "cloud"
+      ]
     }
   ]
 }
