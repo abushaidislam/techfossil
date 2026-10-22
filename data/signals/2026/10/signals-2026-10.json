@@ -11989,6 +11989,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50184635",
+      "title": "Hertzon: Open-Source 3D Full-Wave FEM Solver",
+      "canonical_url": "https://github.com/c8501024/Hertzon",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T23:32:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
