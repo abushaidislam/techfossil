@@ -12413,6 +12413,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50143360",
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "canonical_url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-18T23:40:56Z",
+      "category": "Software Engineering",
+      "importance_score": 73,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
