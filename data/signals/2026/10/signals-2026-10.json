@@ -12159,6 +12159,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50192900",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "canonical_url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T14:51:31Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "auth",
+        "cve"
+      ]
     }
   ]
 }
