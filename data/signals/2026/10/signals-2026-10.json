@@ -12428,6 +12428,23 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-dev-4880107",
+      "title": "Scaling stateful Gemini 4 Argon agent sessions on GKE: Connection draining, startup boost, and session persistence",
+      "canonical_url": "https://dev.to/googlecloud/scaling-stateful-gemini-4-argon-agent-sessions-on-gke-connection-draining-startup-boost-and-13ln",
+      "source": "dev_to",
+      "published_at": "2026-10-22T16:05:20Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 84,
+      "verification_status": "verified",
+      "technologies": [
+        "kubernetes",
+        "ai",
+        "cloud",
+        "agent",
+        "gemini"
+      ]
     }
   ]
 }
