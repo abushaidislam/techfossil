@@ -12602,6 +12602,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50183892",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "canonical_url": "https://github.com/omnara-ai/omnara",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T22:44:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "claude"
+      ]
     }
   ]
 }
