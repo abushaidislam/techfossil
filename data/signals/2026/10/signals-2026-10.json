@@ -12346,6 +12346,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50155099",
+      "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
+      "canonical_url": "https://demo.ulda.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T23:16:31Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "encryption",
+        "javascript"
+      ]
     }
   ]
 }
