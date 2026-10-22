@@ -12258,6 +12258,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-dev-4896936",
+      "title": "Building a Cross-Model Collaborative Workflow with Google Antigravity",
+      "canonical_url": "https://dev.to/gde/building-a-cross-model-collaborative-workflow-with-google-antigravity-2jj5",
+      "source": "dev_to",
+      "published_at": "2026-10-22T13:05:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "gemini",
+        "ui"
+      ]
     }
   ]
 }
