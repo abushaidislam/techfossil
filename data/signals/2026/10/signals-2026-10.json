@@ -12088,6 +12088,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50154100",
+      "title": "Chain of Thought for Humans",
+      "canonical_url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T22:06:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
