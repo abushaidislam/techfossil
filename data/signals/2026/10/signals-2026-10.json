@@ -12644,6 +12644,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50199224",
+      "title": "Let's Fly",
+      "canonical_url": "https://craigmod.com/essays/lets_fly/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T00:27:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
