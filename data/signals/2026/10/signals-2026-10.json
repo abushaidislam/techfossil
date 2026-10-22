@@ -12228,6 +12228,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50194297",
+      "title": "Razer Ava",
+      "canonical_url": "https://www.razer.com/razer-ava",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:18:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
