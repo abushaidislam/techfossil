@@ -12674,6 +12674,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50198718",
+      "title": "AI Can Parallelize the Work. It Cannot Parallelize My Attention",
+      "canonical_url": "https://palmesi.com/blog/knowledge-work-needs-awareness/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T23:46:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
