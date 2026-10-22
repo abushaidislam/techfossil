@@ -12445,6 +12445,19 @@
         "agent",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50175059",
+      "title": "Good type against all odds",
+      "canonical_url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T07:45:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
