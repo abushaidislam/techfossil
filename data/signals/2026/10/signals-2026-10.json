@@ -12032,6 +12032,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50183280",
+      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+      "canonical_url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T22:05:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
