@@ -12286,6 +12286,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50195032",
+      "title": "Php2shell global patch uptake tracker",
+      "canonical_url": "https://php2shell-tracker.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T19:27:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
