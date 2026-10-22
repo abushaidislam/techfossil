@@ -12316,6 +12316,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50180873",
+      "title": "PHP 8.2.35",
+      "canonical_url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:45:33Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
