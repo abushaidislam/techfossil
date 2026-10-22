@@ -12144,6 +12144,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50184820",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "canonical_url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T23:45:13Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
