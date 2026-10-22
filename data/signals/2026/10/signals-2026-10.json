@@ -12301,6 +12301,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50196103",
+      "title": "The Return of Wake-Sleep",
+      "canonical_url": "https://twitter.com/nikogrupen/status/2108226990792900876",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:43:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
