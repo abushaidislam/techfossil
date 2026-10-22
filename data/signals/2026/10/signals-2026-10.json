@@ -12559,6 +12559,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50149861",
+      "title": "The Decoherence Trap",
+      "canonical_url": "https://maevyn.codes/decoherence",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T14:35:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
