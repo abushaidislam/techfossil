@@ -12458,6 +12458,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1022-hn-50180257",
+      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+      "canonical_url": "https://uberblok.storagebits.workers.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:04:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
