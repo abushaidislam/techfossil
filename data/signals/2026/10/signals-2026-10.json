@@ -13101,6 +13101,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50191507",
+      "title": "OpenAI CLI",
+      "canonical_url": "https://github.com/openai/openai-cli",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T11:23:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
