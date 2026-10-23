@@ -12873,6 +12873,19 @@
         "ai",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50204580",
+      "title": "Agent Tools for Unreal Engine",
+      "canonical_url": "https://app.simplystream.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T10:38:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
