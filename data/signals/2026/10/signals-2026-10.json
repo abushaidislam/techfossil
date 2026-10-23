@@ -12785,6 +12785,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50156779",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "canonical_url": "https://dovepass.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T01:21:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
