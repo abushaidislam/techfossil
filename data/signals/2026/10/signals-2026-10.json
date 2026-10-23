@@ -12931,6 +12931,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50180079",
+      "title": "OpenAI models are coming to Google Cloud",
+      "canonical_url": "https://openai.com/index/openai-models-google-cloud/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T18:53:11Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "cloud",
+        "ai"
+      ]
     }
   ]
 }
