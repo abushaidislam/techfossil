@@ -12916,6 +12916,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50144727",
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "canonical_url": "https://github.com/rhargreaves/vmmouse-nt3",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T01:50:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
