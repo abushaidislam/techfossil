@@ -12728,6 +12728,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50185045",
+      "title": "The compiler was supposed to end programming too",
+      "canonical_url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T00:00:51Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
