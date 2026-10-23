@@ -12986,6 +12986,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50190455",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "canonical_url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T08:30:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
