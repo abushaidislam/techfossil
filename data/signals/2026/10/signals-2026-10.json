@@ -12973,6 +12973,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50181175",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "canonical_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T20:03:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
