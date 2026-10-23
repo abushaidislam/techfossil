@@ -13143,6 +13143,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-dev-4766382",
+      "title": "What was your win this week!?",
+      "canonical_url": "https://dev.to/devteam/what-was-your-win-this-week-4ipe",
+      "source": "dev_to",
+      "published_at": "2026-10-23T13:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
