@@ -13115,6 +13115,21 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50150214",
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "canonical_url": "https://www.pagetable.com/303",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T15:21:34Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
