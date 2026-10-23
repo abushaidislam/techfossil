@@ -12800,6 +12800,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50195543",
+      "title": "What’s getting pwned right now",
+      "canonical_url": "https://pwn.watch/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:08:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
