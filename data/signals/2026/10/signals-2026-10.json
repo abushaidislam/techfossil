@@ -12715,6 +12715,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50175779",
+      "title": "Using Claude to reduce the attack surface of code",
+      "canonical_url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T09:36:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
