@@ -13130,6 +13130,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50195002",
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "canonical_url": "https://arxiv.org/abs/2603.01092",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T19:25:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
