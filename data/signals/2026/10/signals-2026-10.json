@@ -12959,6 +12959,20 @@
       "technologies": [
         "distributed"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50201860",
+      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+      "canonical_url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T04:18:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
