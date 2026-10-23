@@ -12815,6 +12815,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50204300",
+      "title": "AI Agents Kinda Broke the Internet",
+      "canonical_url": "https://jacobg.co/ai-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T09:48:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
