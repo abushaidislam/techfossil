@@ -12687,6 +12687,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50150681",
+      "title": "Speeding up code review with `small-change`",
+      "canonical_url": "https://lethain.com/small-changes/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T16:35:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
