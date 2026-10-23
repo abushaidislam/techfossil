@@ -13088,6 +13088,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50205229",
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "canonical_url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T12:41:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
