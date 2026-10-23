@@ -12829,6 +12829,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50202267",
+      "title": "Fraud losses among older Americans hit $3B in 2025 as big losses surge: FTC",
+      "canonical_url": "https://www.cnbc.com/2026/10/22/older-americans-fraud-losses-2025.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:00:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
