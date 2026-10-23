@@ -12741,6 +12741,20 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50203597",
+      "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "canonical_url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T07:50:06Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "api"
+      ]
     }
   ]
 }
