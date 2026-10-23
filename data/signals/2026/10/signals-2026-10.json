@@ -12770,6 +12770,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50203368",
+      "title": "Assure – formal verification for every PR",
+      "canonical_url": "https://symbolia.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T07:21:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
