@@ -12901,6 +12901,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50184586",
+      "title": "EA is shutting down BioWare",
+      "canonical_url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T23:29:33Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
