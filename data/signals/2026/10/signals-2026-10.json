@@ -13073,6 +13073,21 @@
         "security",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50201842",
+      "title": "Rule 30: one black cell",
+      "canonical_url": "https://www.wolframcollatzmahler.com/rule30/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T04:16:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
