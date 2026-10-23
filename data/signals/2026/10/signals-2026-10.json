@@ -12859,6 +12859,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50204889",
+      "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
+      "canonical_url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T11:43:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "claude"
+      ]
     }
   ]
 }
