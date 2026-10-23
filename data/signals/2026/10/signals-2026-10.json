@@ -12844,6 +12844,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50203357",
+      "title": "Tech's Enshittification, Public Markets, and Business Schools",
+      "canonical_url": "https://tomorrowasusual.substack.com/p/techs-enshittification-public-markets",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T07:20:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
