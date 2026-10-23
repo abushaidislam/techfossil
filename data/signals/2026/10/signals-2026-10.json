@@ -13044,6 +13044,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50205260",
+      "title": "Whistle speech-to-text running offline on a 16mb ESP32",
+      "canonical_url": "https://github.com/andrisgauracs/whistle-esp32",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T12:45:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
