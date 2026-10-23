@@ -12946,6 +12946,19 @@
         "cloud",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50203978",
+      "title": "HyperCache – Distributed KV-cache quantization and relative RoPE reuse",
+      "canonical_url": "https://github.com/SamGanYX/HyperCache",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T08:56:38Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "distributed"
+      ]
     }
   ]
 }
