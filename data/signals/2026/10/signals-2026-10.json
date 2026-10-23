@@ -12886,6 +12886,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50203437",
+      "title": "A tale of two PHP remote vulnerabilities",
+      "canonical_url": "https://calif.io/php2shell.x/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T07:29:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
