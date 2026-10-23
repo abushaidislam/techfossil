@@ -13029,6 +13029,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50153531",
+      "title": "Code is clay now",
+      "canonical_url": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T21:19:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
