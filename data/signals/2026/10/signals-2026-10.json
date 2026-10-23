@@ -13016,6 +13016,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1023-hn-50202482",
+      "title": "We have traits at home",
+      "canonical_url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:24:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
