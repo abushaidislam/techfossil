@@ -15172,6 +15172,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223354",
+      "title": "A Political History of SF",
+      "canonical_url": "http://www.catb.org/~esr/writings/sf-history.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:34:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
