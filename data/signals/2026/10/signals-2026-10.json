@@ -15999,6 +15999,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223580",
+      "title": "The first broken iPhone Duos are here",
+      "canonical_url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:57:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
