@@ -14747,6 +14747,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222321",
+      "title": "Show HN: A set of test-cases for CP/M emulators",
+      "canonical_url": "https://github.com/skx/cpm-test",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:38:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
