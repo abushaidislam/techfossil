@@ -14100,6 +14100,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222576",
+      "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
+      "canonical_url": "https://rentry.co/themis-docket-e61b189e37",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:01:49Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
