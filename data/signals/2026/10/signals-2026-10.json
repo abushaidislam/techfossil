@@ -15551,6 +15551,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223245",
+      "title": "Firefox – Site Isolation (Fission) Goes Live on Android",
+      "canonical_url": "https://connect.mozilla.org/t5/discussions/fission-goes-live-on-android-please-share-your-feedback/td-p/133911#M53833",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:21:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
