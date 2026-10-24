@@ -14572,6 +14572,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50211719",
+      "title": "How is music possible",
+      "canonical_url": "https://www.henrikkarlsson.xyz/p/music",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T22:38:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
