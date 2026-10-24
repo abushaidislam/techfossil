@@ -13158,6 +13158,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1024-dev-4897244",
+      "title": "Building a Multi-Agent Token Usage Widget in Under 500 KB",
+      "canonical_url": "https://dev.to/gde/building-a-multi-agent-token-usage-widget-in-under-500-kb-1fih",
+      "source": "dev_to",
+      "published_at": "2026-10-23T00:51:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "gemini",
+        "agent"
+      ]
     }
   ]
 }
