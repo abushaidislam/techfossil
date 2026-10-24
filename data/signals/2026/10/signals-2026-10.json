@@ -15566,6 +15566,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50214325",
+      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+      "canonical_url": "https://rune.build/blog/rune-1-3-release",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:42:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript"
+      ]
     }
   ]
 }
