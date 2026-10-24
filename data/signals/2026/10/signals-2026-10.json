@@ -15362,6 +15362,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223116",
+      "title": "Carl Sagan gave us the poetry of our cosmic origins",
+      "canonical_url": "https://blue-continuum.com/the-stars-within-us",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:03:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
