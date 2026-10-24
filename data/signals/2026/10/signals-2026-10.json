@@ -13405,6 +13405,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50218706",
+      "title": "Abstract Code Art Animation – Evolution from Ones and Zeros to Neural Networks [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=-dTvmVUWY0o",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T12:06:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "neural"
+      ]
     }
   ]
 }
