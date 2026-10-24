@@ -15478,6 +15478,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222794",
+      "title": "An incremental approach to JIT construction",
+      "canonical_url": "https://dl.acm.org/doi/10.1145/3830440.3832304",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:27:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
