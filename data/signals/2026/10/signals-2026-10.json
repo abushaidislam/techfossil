@@ -14026,6 +14026,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50193416",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry",
+      "canonical_url": "https://news.ycombinator.com/item?id=50193416",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T16:11:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
