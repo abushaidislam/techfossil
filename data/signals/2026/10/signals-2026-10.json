@@ -13883,6 +13883,19 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220852",
+      "title": "Investigating alignment failures in AISI's incident",
+      "canonical_url": "https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:00:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
