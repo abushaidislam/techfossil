@@ -15855,6 +15855,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223559",
+      "title": "Linux's Early Boot-Time Physical Memory Allocator Big Speed-Up: ~268s to ~50ms",
+      "canonical_url": "https://www.phoronix.com/news/Linux-7.4-memblock",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:54:38Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
