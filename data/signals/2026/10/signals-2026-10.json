@@ -14155,6 +14155,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221257",
+      "title": "The office worker who became the first person ever to appear on TV",
+      "canonical_url": "https://www.bbc.com/culture/article/20250925-the-office-worker-who-became-the-first-person-ever-to-appear-on-tv",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:56:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
