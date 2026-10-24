@@ -15009,6 +15009,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223331",
+      "title": "The Art of Unix Programming",
+      "canonical_url": "http://www.catb.org/esr/writings/taoup/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:31:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
