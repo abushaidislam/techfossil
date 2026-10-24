@@ -14129,6 +14129,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50195488",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "canonical_url": "https://github.com/dsmurrell/onkey",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:04:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
