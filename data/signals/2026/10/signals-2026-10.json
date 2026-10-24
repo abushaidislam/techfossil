@@ -15202,6 +15202,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222764",
+      "title": "An ancient virus in chimpanzee DNA switches off a gene that is active in humans",
+      "canonical_url": "https://phys.org/news/2026-10-ancient-virus-chimpanzee-dna-gene.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:24:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
