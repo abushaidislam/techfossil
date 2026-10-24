@@ -15260,6 +15260,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50166579",
+      "title": "eMudhra intermediate CA compromise",
+      "canonical_url": "https://emudhra.we-have-a-problem.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T19:58:33Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
