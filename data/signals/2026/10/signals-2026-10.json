@@ -15420,6 +15420,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222496",
+      "title": "An index of named experiences, one at a time",
+      "canonical_url": "https://whyyourbrain.thecompound.tech",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:54:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
