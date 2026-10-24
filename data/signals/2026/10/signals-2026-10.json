@@ -15840,6 +15840,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224222",
+      "title": "Best engineers should get unlimited tokens",
+      "canonical_url": "https://keithbrown.com/unlimited-tokens",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T01:20:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
