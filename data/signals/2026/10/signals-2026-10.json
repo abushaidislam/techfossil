@@ -14874,6 +14874,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50197404",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "canonical_url": "https://www.taler.net/en/news/2026-13.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:14:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
