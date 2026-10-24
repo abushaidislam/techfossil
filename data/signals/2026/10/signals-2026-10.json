@@ -13486,6 +13486,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219663",
+      "title": "Book Review: The Ghost in My Brain",
+      "canonical_url": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T15:52:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
