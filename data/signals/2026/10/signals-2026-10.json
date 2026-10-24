@@ -15448,6 +15448,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50218430",
+      "title": "OBS Studio 33",
+      "canonical_url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T10:49:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
