@@ -14356,6 +14356,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50157316",
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "canonical_url": "https://eigenmoon.vercel.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T02:02:03Z",
+      "category": "Software Engineering",
+      "importance_score": 71,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
