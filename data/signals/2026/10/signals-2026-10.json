@@ -13259,6 +13259,20 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-dev-4888591",
+      "title": "Comic Studio AI: Turning Voice & Text Prompts into 4-Panel Comics with Google AI Studio, Gemini & Imagen",
+      "canonical_url": "https://dev.to/gde/comic-studio-ai-turning-voice-text-prompts-into-4-panel-comics-with-google-ai-studio-gemini--2npc",
+      "source": "dev_to",
+      "published_at": "2026-10-23T15:22:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai"
+      ]
     }
   ]
 }
