@@ -14616,6 +14616,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221687",
+      "title": "All Abstractions Are the Same",
+      "canonical_url": "https://t3.at/blog/everything-is-everything/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:39:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
