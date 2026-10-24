@@ -15825,6 +15825,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224301",
+      "title": "iPhone Duo: Crackgate",
+      "canonical_url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T01:28:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
