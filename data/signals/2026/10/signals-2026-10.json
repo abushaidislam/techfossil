@@ -15129,6 +15129,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223275",
+      "title": "Efficiency of Estimators",
+      "canonical_url": "https://jechevarria.com/blog/2026/10/24/estimator-efficiency/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:24:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
