@@ -15765,6 +15765,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50160241",
+      "title": "What Is the Karakoram Anomaly?",
+      "canonical_url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T07:26:53Z",
+      "category": "Software Engineering",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
