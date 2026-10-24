@@ -14282,6 +14282,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222778",
+      "title": "An Incremental Approach to JIT Construction [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=8qwXgappTWQ",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:26:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
