@@ -15708,6 +15708,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50218975",
+      "title": "Show HN: Encarta 95 Web",
+      "canonical_url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T13:18:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
