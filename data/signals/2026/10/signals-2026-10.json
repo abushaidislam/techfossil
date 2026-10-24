@@ -13969,6 +13969,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50201414",
+      "title": "Railpass",
+      "canonical_url": "https://train.samismith.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T03:38:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
