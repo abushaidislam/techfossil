@@ -15288,6 +15288,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223136",
+      "title": "Dotfiles – No dependency autopull, autosymlink",
+      "canonical_url": "https://bweller.me/ultimate-dotfiles/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:05:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
