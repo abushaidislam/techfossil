@@ -14267,6 +14267,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221178",
+      "title": "Arm comments on jury decision in Qualcomm trial",
+      "canonical_url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:47:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
