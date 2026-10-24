@@ -14240,6 +14240,20 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50218141",
+      "title": "CowAgent – Open-Source Super AI Assistant",
+      "canonical_url": "https://cowagent.ai/en/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T09:32:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
