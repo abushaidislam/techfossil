@@ -15592,6 +15592,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50171936",
+      "title": "Symbolic Learning in Python and Julia",
+      "canonical_url": "https://github.com/astroautomata/PySR",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T02:07:35Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
