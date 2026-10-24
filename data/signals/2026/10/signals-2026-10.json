@@ -15579,6 +15579,19 @@
       "technologies": [
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223343",
+      "title": "Batchplan: Plan batches of robot motions, use for execution or training data",
+      "canonical_url": "https://github.com/natsuku-lab/batchplan",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:33:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
