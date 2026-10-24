@@ -15187,6 +15187,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50202762",
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "canonical_url": "https://jank-lang.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:56:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
