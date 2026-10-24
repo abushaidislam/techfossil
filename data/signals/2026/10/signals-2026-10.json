@@ -13693,6 +13693,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50213502",
+      "title": "Native Prometheus Integration with Nginx",
+      "canonical_url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T00:38:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
