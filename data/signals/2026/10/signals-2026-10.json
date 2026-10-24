@@ -13795,6 +13795,21 @@
         "agent",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221032",
+      "title": "Should parents be wary of Silicon Valley's influence in schools?",
+      "canonical_url": "https://news.harvard.edu/gazette/story/2026/10/should-parents-be-wary-of-silicon-valleys-influence-in-schools/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:25:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
