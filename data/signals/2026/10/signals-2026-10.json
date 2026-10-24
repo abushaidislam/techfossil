@@ -14401,6 +14401,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221857",
+      "title": "October Counterfeit Block: What Happened and Where Every Coin Went",
+      "canonical_url": "https://getbtcz.com/news/2026-10-22-counterfeit-block-1860181-every-coin-traced/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:53:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
