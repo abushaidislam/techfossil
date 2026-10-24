@@ -13377,6 +13377,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219499",
+      "title": "A Brief History of Containers: From the 1970s Till Now",
+      "canonical_url": "https://www.aquasec.com/blog/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T15:17:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
