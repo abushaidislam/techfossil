@@ -14185,6 +14185,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222088",
+      "title": "From Software Engineering to AI Research or a Tale of 413 \"No\"",
+      "canonical_url": "https://faillearnrepeat.net/blog/from-swe-to-ai-research/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:15:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
