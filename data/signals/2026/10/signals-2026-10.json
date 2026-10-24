@@ -13364,6 +13364,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219085",
+      "title": "Show HN: Inspect AI recommendation evidence and turn findings into website tasks",
+      "canonical_url": "https://aicitewho.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T13:47:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
