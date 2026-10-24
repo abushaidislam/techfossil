@@ -14487,6 +14487,21 @@
       "technologies": [
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50202865",
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "canonical_url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T06:10:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
