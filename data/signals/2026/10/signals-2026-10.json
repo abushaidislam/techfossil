@@ -13723,6 +13723,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220827",
+      "title": "Show HN: Word Chain – a word-ladder puzzle where the target word is hidden",
+      "canonical_url": "https://popawordgame.com/chains/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T18:57:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
