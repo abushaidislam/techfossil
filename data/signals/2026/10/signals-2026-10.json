@@ -15157,6 +15157,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50197601",
+      "title": "A farewell to Arc browser",
+      "canonical_url": "https://arc.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:27:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
