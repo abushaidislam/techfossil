@@ -15217,6 +15217,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222721",
+      "title": "Giving an agent a tool does not make it use the tool",
+      "canonical_url": "https://yamanahlawat.in/articles/agent-ignores-your-mcp-tool",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:18:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
