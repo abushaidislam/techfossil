@@ -14446,6 +14446,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222453",
+      "title": "Quiet Tizen",
+      "canonical_url": "https://github.com/jss8649/quiet-tizen",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:50:22Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
