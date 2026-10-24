@@ -13512,6 +13512,105 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1019-hn-50143132",
+      "title": "Mitos editor is a fork of Helix",
+      "canonical_url": "https://mitos.computer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T05:54:31.352025Z",
+      "category": "Software & AI",
+      "importance_score": 67
+    },
+    {
+      "id": "sig-2026-1019-hn-50135379",
+      "title": "JDK 28",
+      "canonical_url": "https://openjdk.org/projects/jdk/28/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:06:10.012298Z",
+      "category": "Software & AI",
+      "importance_score": 123
+    },
+    {
+      "id": "sig-2026-1019-hn-50147041",
+      "title": "Richard Feynman: Can Machines Think? (1985) [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=ipRvjS7q1DI",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:17:15.970448Z",
+      "category": "Software & AI",
+      "importance_score": 8
+    },
+    {
+      "id": "sig-2026-1019-hn-50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "canonical_url": "https://arxiv.org/abs/2610.18861",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:20:45.460982Z",
+      "category": "Software & AI",
+      "importance_score": 277
+    },
+    {
+      "id": "sig-2026-1019-hn-50130379",
+      "title": "Interactive Linear Programming in the Browser",
+      "canonical_url": "https://lpviz.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T06:41:03.890085Z",
+      "category": "Software & AI",
+      "importance_score": 73
+    },
+    {
+      "id": "sig-2026-1019-hn-50124730",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "canonical_url": "https://teal-language.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:27:46.165789Z",
+      "category": "Software & AI",
+      "importance_score": 170
+    },
+    {
+      "id": "sig-2026-1019-hn-50145295",
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+      "canonical_url": "https://github.com/Netflix/vmaf",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:41:19.584408Z",
+      "category": "Software & AI",
+      "importance_score": 22
+    },
+    {
+      "id": "sig-2026-1019-hn-50145715",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "canonical_url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T07:56:10.616109Z",
+      "category": "Software & AI",
+      "importance_score": 78
+    },
+    {
+      "id": "sig-2026-1019-hn-50146493",
+      "title": "OpenFlow – Ultimate Agent Orchestration",
+      "canonical_url": "https://github.com/SeeRay11/OpenFlow",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:13:52.429168Z",
+      "category": "Software & AI",
+      "importance_score": 8
+    },
+    {
+      "id": "sig-2026-1019-hn-50131053",
+      "title": "Developing for Debugging (2025)",
+      "canonical_url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:25:59.047499Z",
+      "category": "Software & AI",
+      "importance_score": 34
+    },
+    {
+      "id": "sig-2026-1019-hn-50132193",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "canonical_url": "https://pele.run/",
+      "source": "hacker_news",
+      "published_at": "2026-10-19T08:36:22.523297Z",
+      "category": "Software & AI",
+      "importance_score": 574
     }
   ]
 }
