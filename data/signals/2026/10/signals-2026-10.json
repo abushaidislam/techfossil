@@ -14502,6 +14502,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222658",
+      "title": "We spent $15k and benchmarked 5 DOCX-editing approaches on Harvey LAB",
+      "canonical_url": "https://www.vespper.com/blog/docx-mcps-harvey-lab",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:10:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
