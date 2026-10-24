@@ -13665,6 +13665,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50214061",
+      "title": "The future might just be software freedom (and less e-waste)",
+      "canonical_url": "https://thederf.com/the-future-might-just-be-software-freedom/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:22:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
