@@ -14848,6 +14848,19 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222713",
+      "title": "Google Meet's mobile tile pairing for language interpreters",
+      "canonical_url": "https://workspaceupdates.googleblog.com/2026/10/video-tile-pairing-is-now-available-on-Google-Meet-mobile-to-improve-accessibility-for-users-and-language-interpreters.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:16:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
