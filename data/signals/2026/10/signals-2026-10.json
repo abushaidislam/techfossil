@@ -14835,6 +14835,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50188614",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "canonical_url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T04:33:08Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres"
+      ]
     }
   ]
 }
