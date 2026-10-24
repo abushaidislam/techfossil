@@ -13766,6 +13766,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50176544",
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "canonical_url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T11:48:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
