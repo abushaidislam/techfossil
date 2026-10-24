@@ -13650,6 +13650,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221788",
+      "title": "The most important thing today is that Starlink and Starshield operations",
+      "canonical_url": "https://twitter.com/zelenskyyua/status/2113990281322221932",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:47:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
