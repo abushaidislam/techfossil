@@ -14254,6 +14254,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50191250",
+      "title": "The Chalk and the Airplane",
+      "canonical_url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T10:41:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
