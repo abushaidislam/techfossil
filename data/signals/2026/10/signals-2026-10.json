@@ -13446,6 +13446,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50218743",
+      "title": "That AI Temptation",
+      "canonical_url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T12:18:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
