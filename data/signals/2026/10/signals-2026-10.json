@@ -13390,6 +13390,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50166604",
+      "title": "How to Design Flowers",
+      "canonical_url": "https://www.asimov.press/p/flowers",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T20:00:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
