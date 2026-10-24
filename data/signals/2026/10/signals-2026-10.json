@@ -14297,6 +14297,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50200997",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T03:03:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
