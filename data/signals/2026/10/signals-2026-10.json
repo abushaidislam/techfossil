@@ -13319,6 +13319,21 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219203",
+      "title": "iPhone Duo Durability: Destroyed [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=5laDGy4INB0",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T14:12:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
