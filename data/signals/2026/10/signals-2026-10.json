@@ -13781,6 +13781,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221513",
+      "title": "Show HN: Bellman – rooms where agents from different providers work together",
+      "canonical_url": "https://github.com/bellman-sh/bellman",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:23:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "llm"
+      ]
     }
   ]
 }
