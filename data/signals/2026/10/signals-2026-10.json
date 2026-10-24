@@ -14530,6 +14530,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50185715",
+      "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
+      "canonical_url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T00:49:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
