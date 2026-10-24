@@ -14777,6 +14777,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222702",
+      "title": "Show HN: Marketplace for ChatGPT Plugins, Apps, & MCPs",
+      "canonical_url": "https://chatgptplugins.directory",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:15:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
