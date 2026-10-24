@@ -15605,6 +15605,21 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50207115",
+      "title": "Is this the new cyber normal?",
+      "canonical_url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T17:04:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
