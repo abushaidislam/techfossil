@@ -15693,6 +15693,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50179920",
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "canonical_url": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T18:40:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
