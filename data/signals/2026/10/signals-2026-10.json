@@ -15463,6 +15463,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223054",
+      "title": "The Great Vowel Shift",
+      "canonical_url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:56:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
