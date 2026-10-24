@@ -14085,6 +14085,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50211504",
+      "title": "Total Historian",
+      "canonical_url": "https://www.theideasletter.org/essay/total-historian/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T22:23:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
