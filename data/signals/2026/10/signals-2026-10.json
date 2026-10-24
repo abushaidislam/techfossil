@@ -15780,6 +15780,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50205320",
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "canonical_url": "https://swurf.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T12:54:52Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
