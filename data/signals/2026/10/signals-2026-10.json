@@ -15318,6 +15318,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50196718",
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "canonical_url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T21:26:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
