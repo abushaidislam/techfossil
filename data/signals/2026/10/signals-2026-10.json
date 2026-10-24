@@ -13231,6 +13231,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-dev-4907389",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle Winners!",
+      "canonical_url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-2-side-hustle-winners-2i33",
+      "source": "dev_to",
+      "published_at": "2026-10-23T20:18:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
