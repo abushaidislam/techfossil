@@ -14721,6 +14721,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50223027",
+      "title": "Language Workbenches: The Killer-App for Domain Specific Languages? (2005)",
+      "canonical_url": "https://martinfowler.com/articles/languageWorkbench.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:53:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
