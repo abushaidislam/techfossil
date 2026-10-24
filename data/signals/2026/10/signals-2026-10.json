@@ -15275,6 +15275,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223635",
+      "title": "Show HN: AI Trend Video – Put your photo into viral AI video templates",
+      "canonical_url": "https://aitrendvideo.net",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:03:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
