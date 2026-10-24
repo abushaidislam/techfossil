@@ -14949,6 +14949,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50192975",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "canonical_url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T15:01:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
