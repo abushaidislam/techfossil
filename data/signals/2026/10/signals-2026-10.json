@@ -14170,6 +14170,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220956",
+      "title": "Bunkering Down",
+      "canonical_url": "https://interconnected.org/home/2026/10/24/bunker",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:14:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
