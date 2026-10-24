@@ -15620,6 +15620,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50199684",
+      "title": "LISP Comes of Age (1980)",
+      "canonical_url": "https://microship.com/lisp-comes-of-age/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T01:08:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
