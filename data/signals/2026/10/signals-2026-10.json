@@ -13751,6 +13751,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220914",
+      "title": "Show HN: TranscriptClip – Paste TikTok/IG/YouTube, Get Transcript (TXT/SRT/VTT)",
+      "canonical_url": "https://transcriptclip.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:09:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
