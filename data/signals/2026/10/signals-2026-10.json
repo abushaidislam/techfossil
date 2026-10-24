@@ -14213,6 +14213,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50202681",
+      "title": "Docker is weird",
+      "canonical_url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:45:56Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "docker"
+      ]
     }
   ]
 }
