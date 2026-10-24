@@ -14889,6 +14889,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223651",
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "canonical_url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:05:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
