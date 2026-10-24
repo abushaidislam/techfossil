@@ -14979,6 +14979,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50217603",
+      "title": "A visual introduction to information theory",
+      "canonical_url": "https://arxiv.org/abs/2206.07867",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T07:38:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
