@@ -14601,6 +14601,21 @@
         "ai",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "canonical_url": "https://blog.roku.com/developer/gitlab-move",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:06:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
