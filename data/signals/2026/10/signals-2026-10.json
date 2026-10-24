@@ -14431,6 +14431,21 @@
         "cve",
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222230",
+      "title": "The Secret Playbook That Made the Elizabeth Holmes Movie a Smash Hit",
+      "canonical_url": "https://www.wsj.com/arts-culture/film/a24-you-can-see-everything-0c2f5b4a",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:29:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
