@@ -14544,6 +14544,19 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221226",
+      "title": "US Air Force wants AI to assist aerial refueling",
+      "canonical_url": "https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:52:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
