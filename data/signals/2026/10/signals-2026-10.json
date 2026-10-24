@@ -13825,6 +13825,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50180752",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "canonical_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:37:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
