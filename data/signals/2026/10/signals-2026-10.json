@@ -15039,6 +15039,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "canonical_url": "https://danielball.com/notes/ai_image_generation.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T01:22:39Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
