@@ -13680,6 +13680,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50214983",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "canonical_url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T02:37:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
