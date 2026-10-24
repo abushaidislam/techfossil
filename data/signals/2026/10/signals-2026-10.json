@@ -13473,6 +13473,19 @@
         "concurrency",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50168075",
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "canonical_url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T21:41:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
