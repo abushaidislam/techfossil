@@ -13188,6 +13188,19 @@
         "ui",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50215718",
+      "title": "Show HN: Token Beggar, route coding agent subtasks to cheaper models",
+      "canonical_url": "https://github.com/Arthur031221/Token-Beggar",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T03:37:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
