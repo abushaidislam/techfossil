@@ -14056,6 +14056,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220145",
+      "title": "Node.js Vulnerability Blog",
+      "canonical_url": "https://nodejs.org/en/blog/vulnerability",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T17:08:47Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "node",
+        "vulnerability"
+      ]
     }
   ]
 }
