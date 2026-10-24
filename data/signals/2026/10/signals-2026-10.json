@@ -15114,6 +15114,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50203759",
+      "title": "This I Believe (1952)",
+      "canonical_url": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T08:19:38Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
