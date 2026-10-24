@@ -15054,6 +15054,21 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50221218",
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
+      "canonical_url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:52:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
