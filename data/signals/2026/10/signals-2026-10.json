@@ -13173,6 +13173,21 @@
         "gemini",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1024-dev-4900725",
+      "title": "Two ways to build with Claude models on Google Cloud!",
+      "canonical_url": "https://dev.to/googleai/two-ways-to-build-with-claude-models-on-google-cloud-1mfe",
+      "source": "dev_to",
+      "published_at": "2026-10-22T22:03:52Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ui",
+        "cloud"
+      ]
     }
   ]
 }
