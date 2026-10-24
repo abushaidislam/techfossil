@@ -14994,6 +14994,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223730",
+      "title": "Ask HN: Windows Signing for FOSS Projects",
+      "canonical_url": "https://news.ycombinator.com/item?id=50223730",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:17:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
