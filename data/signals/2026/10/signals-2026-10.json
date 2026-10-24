@@ -13349,6 +13349,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50206840",
+      "title": "Job loss and cortisone mania",
+      "canonical_url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T16:31:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
