@@ -13216,6 +13216,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50217250",
+      "title": "An insulting cheat code showed up in the wrong Sega Genesis game",
+      "canonical_url": "https://32bits.substack.com/p/under-the-microscope-dynamite-headdy",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T06:38:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
