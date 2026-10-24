@@ -14734,6 +14734,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221442",
+      "title": "Did you know you can link to a timestamp in a plain video file?",
+      "canonical_url": "https://www.autodidacts.io/how-to-deeplink-to-specific-part-of-text-audio-video-pdf-image/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:15:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
