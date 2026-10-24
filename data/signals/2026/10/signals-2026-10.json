@@ -13869,6 +13869,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220934",
+      "title": "Is AI just another get rich quick scheme?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50220934",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:11:37Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
