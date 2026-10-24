@@ -14311,6 +14311,21 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50199389",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "canonical_url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T00:44:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
