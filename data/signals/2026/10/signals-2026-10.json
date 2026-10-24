@@ -14198,6 +14198,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222207",
+      "title": "Compiling an SOP into a 3B Model",
+      "canonical_url": "https://arpitbhayani.me/blogs/compiling-an-sop-into-a-3b-model/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:26:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
