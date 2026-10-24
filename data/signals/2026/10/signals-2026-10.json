@@ -14341,6 +14341,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222044",
+      "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+      "canonical_url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:11:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
