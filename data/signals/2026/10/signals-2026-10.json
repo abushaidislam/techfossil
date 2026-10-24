@@ -13290,6 +13290,21 @@
         "gpt",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50218961",
+      "title": "We used RCE on 3M PCs to prevent a botnet",
+      "canonical_url": "https://labs.eye.security/operation-ixim-preventing-a-botnet-of-millions-of-popcorn-time-users/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T13:15:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
