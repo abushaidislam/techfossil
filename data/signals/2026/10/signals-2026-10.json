@@ -15752,6 +15752,19 @@
         "ai",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223856",
+      "title": "AI: EU Member States approve \"digital expropriation\" for AI companies",
+      "canonical_url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:33:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
