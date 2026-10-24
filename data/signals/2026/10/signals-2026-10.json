@@ -14706,6 +14706,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50223560",
+      "title": "Prompt injection scanners should be positional, not phrasal",
+      "canonical_url": "https://attest.rta.lat/article",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:54:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
