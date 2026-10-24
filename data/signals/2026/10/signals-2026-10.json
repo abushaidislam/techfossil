@@ -15024,6 +15024,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223715",
+      "title": "Show HN: The missing clipboard history for macOS that idles at 16 MB",
+      "canonical_url": "https://roush.io/paste-buff",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:15:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
