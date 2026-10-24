@@ -14459,6 +14459,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50212281",
+      "title": "Time Nuts (2005)",
+      "canonical_url": "http://leapsecond.com/time-nuts.htm",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T23:12:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
