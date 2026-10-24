@@ -15493,6 +15493,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50217903",
+      "title": "Apple Security Research Device",
+      "canonical_url": "https://security.apple.com/research-device/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T08:36:38Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
