@@ -15810,6 +15810,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223082",
+      "title": "Programming Bottom-Up (1993)",
+      "canonical_url": "https://paulgraham.com/progbot.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:00:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
