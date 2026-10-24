@@ -15954,6 +15954,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50213791",
+      "title": "DNS: A Replacement for Finger",
+      "canonical_url": "https://altchan.org/sh/42",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:00:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
