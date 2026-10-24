@@ -14790,6 +14790,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222574",
+      "title": "Proton hosts Flock map revealing over 300k cameras, defying cease-and-desist",
+      "canonical_url": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:01:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
