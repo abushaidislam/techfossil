@@ -14861,6 +14861,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50217683",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T07:53:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
