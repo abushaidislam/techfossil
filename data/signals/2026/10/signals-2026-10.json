@@ -13431,6 +13431,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50203161",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "canonical_url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T06:52:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
