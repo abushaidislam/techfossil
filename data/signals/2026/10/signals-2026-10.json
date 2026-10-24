@@ -14416,6 +14416,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221110",
+      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+      "canonical_url": "https://broccoli2shell.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:36:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "node",
+        "cve",
+        "python"
+      ]
     }
   ]
 }
