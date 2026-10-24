@@ -15738,6 +15738,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223151",
+      "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
+      "canonical_url": "https://www.shuffle-on.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T23:06:44Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "cloud"
+      ]
     }
   ]
 }
