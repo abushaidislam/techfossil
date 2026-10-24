@@ -13637,6 +13637,19 @@
       "technologies": [
         "node"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220640",
+      "title": "What's Wrong with AI?",
+      "canonical_url": "https://homepage.farm/ai.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T18:30:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
