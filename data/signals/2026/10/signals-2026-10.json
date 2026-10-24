@@ -14142,6 +14142,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220773",
+      "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+      "canonical_url": "https://mantid.dev",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T18:49:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
