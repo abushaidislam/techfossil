@@ -15665,6 +15665,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224074",
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "canonical_url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T01:03:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
