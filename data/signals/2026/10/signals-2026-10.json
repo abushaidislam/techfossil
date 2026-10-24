@@ -13839,6 +13839,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50217495",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "canonical_url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T07:15:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
