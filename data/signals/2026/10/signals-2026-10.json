@@ -14517,6 +14517,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50214416",
+      "title": "Securing our frontier model training environment",
+      "canonical_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:50:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
