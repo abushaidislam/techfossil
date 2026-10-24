@@ -13305,6 +13305,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50217927",
+      "title": "OpenAI disables internet access during model training",
+      "canonical_url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T08:40:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
