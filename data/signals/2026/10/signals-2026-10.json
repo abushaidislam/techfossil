@@ -14691,6 +14691,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219666",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "canonical_url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T15:53:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
