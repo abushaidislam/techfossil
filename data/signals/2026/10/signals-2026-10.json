@@ -15333,6 +15333,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223705",
+      "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
+      "canonical_url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:13:39Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "security"
+      ]
     }
   ]
 }
