@@ -13810,6 +13810,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221238",
+      "title": "The Plan to Put Genetically Modified \"Super Dogs\" on Battlefield of the Future",
+      "canonical_url": "https://www.wsj.com/business/entrepreneurship/the-plan-to-put-super-dogs-on-the-battlefield-of-the-future-02fbca9a",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T19:54:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
