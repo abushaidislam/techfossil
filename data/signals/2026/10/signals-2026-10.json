@@ -14631,6 +14631,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50194522",
+      "title": "Semantic search across major museums",
+      "canonical_url": "https://lastmuseum.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:40:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
