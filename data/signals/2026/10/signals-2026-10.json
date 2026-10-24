@@ -15939,6 +15939,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224332",
+      "title": "A democracy unable to learn cannot endure",
+      "canonical_url": "https://shows.acast.com/cognitive-republic-building-societies-that-experiment-learn/episodes/6adcc14202b9e3b259631b34",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T01:32:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
