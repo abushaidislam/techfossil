@@ -15795,6 +15795,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50202114",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "canonical_url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T04:43:19Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
