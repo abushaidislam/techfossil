@@ -15650,6 +15650,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50211729",
+      "title": "The Missed Opportunities of Sonic 06 (2025)",
+      "canonical_url": "https://isaacmarovitz.com/posts/sonic-06/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T22:38:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
