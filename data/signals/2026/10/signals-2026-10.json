@@ -13611,6 +13611,19 @@
       "published_at": "2026-10-19T08:36:22.523297Z",
       "category": "Software & AI",
       "importance_score": 574
+    },
+    {
+      "id": "sig-2026-1024-hn-50202217",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "canonical_url": "https://www.anthropic.com/research/formal-verification",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T04:54:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
