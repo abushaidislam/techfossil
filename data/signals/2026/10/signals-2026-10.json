@@ -14904,6 +14904,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222750",
+      "title": "Spin up a GitHub clone locally with one command",
+      "canonical_url": "https://jeremy.magland.org/posts/2026-09-26-spin-up-your-own-git-forge-with-mochi/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:22:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
