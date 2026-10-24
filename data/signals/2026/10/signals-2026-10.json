@@ -13418,6 +13418,19 @@
       "technologies": [
         "neural"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50218950",
+      "title": "Samsung TV on-device AI listening, using soundbar's mic if the TV has none",
+      "canonical_url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T13:13:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
