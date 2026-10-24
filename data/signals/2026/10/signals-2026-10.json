@@ -14226,6 +14226,20 @@
       "technologies": [
         "docker"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222718",
+      "title": "GPU Screen Recorder: A ShadowPlay Alternative for Linux",
+      "canonical_url": "https://git.dec05eba.com/gpu-screen-recorder/about/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:17:40Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
