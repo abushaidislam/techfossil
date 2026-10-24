@@ -13854,6 +13854,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50221707",
+      "title": "Not Invented Here",
+      "canonical_url": "https://en.wikipedia.org/wiki/Not_invented_here",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T20:40:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
