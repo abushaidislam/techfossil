@@ -13940,6 +13940,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50222283",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "canonical_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:35:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
