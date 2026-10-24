@@ -13201,6 +13201,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50217573",
+      "title": "Show HN: 27B open model to grade robot data 48x cheaper/27x faster vs. 6 Astra",
+      "canonical_url": "https://twitter.com/josefchen/status/2113687649131336039",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T07:32:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
