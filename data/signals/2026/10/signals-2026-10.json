@@ -13910,6 +13910,21 @@
         "node",
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50168850",
+      "title": "Color Names",
+      "canonical_url": "https://names.color.pizza",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T22:27:56Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
