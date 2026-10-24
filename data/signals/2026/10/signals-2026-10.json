@@ -15969,6 +15969,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50215925",
+      "title": "HumanLayer is now Open Source",
+      "canonical_url": "https://www.hlyr.dev/blog/open-sourcing-humanlayer",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T03:57:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
