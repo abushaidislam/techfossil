@@ -13459,6 +13459,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219851",
+      "title": "Infinity: A runtime for extreme agent concurrency",
+      "canonical_url": "https://aws.amazon.com/blogs/opensource/introducing-infinity-a-runtime-for-extreme-agent-concurrency/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T16:22:33Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "concurrency",
+        "agent"
+      ]
     }
   ]
 }
