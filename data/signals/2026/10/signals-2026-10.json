@@ -14676,6 +14676,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50202285",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "canonical_url": "https://edjefferson.com/localwiki/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:01:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
