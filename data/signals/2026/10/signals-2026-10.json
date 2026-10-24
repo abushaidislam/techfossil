@@ -14805,6 +14805,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50195873",
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "canonical_url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:26:40Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
