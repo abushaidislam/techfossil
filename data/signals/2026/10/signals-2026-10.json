@@ -13954,6 +13954,21 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50202746",
+      "title": "Show HN: Impossible Machines: declaratively program the physical world",
+      "canonical_url": "https://www.impossiblemachines.xyz",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T05:54:28Z",
+      "category": "Software Engineering",
+      "importance_score": 78,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
