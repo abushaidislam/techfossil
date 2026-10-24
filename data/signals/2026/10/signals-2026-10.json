@@ -13982,6 +13982,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50219875",
+      "title": "Claude Code slyly adding users' emails to outbound HTTP",
+      "canonical_url": "https://twitter.com/chrislakin/status/2113358733548081528",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T16:26:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
