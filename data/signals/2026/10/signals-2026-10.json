@@ -14474,6 +14474,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50215530",
+      "title": "CVE Tracker",
+      "canonical_url": "https://cve.0xosprey.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T03:21:47Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "cve"
+      ]
     }
   ]
 }
