@@ -15099,6 +15099,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50216142",
+      "title": "German court calls Google aerial imagery 'spying'",
+      "canonical_url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T04:18:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
