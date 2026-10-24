@@ -13996,6 +13996,21 @@
         "claude",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50220605",
+      "title": "ReplaySSM: Cache SSM Inputs, Not State (Tri Dao)",
+      "canonical_url": "https://tridao.me/blog/2026/replayssm/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T18:24:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
