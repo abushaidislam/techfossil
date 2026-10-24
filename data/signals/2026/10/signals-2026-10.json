@@ -15984,6 +15984,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222982",
+      "title": "Myst Walkthrough",
+      "canonical_url": "https://mystjourney.com/myst/walkthrough/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:48:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
