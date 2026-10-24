@@ -15407,6 +15407,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50223726",
+      "title": "What if you could have AI applied to your brain?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50223726",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:16:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
