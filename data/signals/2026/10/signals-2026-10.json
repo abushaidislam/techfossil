@@ -14646,6 +14646,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1024-hn-50157456",
+      "title": "Startup taps underwater volcano as energy source in “proof point” test",
+      "canonical_url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T02:12:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
