@@ -16315,6 +16315,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50228372",
+      "title": "DHH's keynote at Rails World: \"The most confusing funeral I've ever experienced\"",
+      "canonical_url": "https://www.globalnerdy.com/2026/09/27/dhhs-keynote-at-rails-world-2026-the-most-confusing-funeral-ive-ever-experienced/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T10:37:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
