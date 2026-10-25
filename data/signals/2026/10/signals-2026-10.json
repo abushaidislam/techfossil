@@ -16656,6 +16656,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50228167",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "canonical_url": "https://github.com/slee-persis/GVS5H",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:56:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
