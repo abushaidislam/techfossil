@@ -16542,6 +16542,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50225655",
+      "title": "The Experiment review – easily the most disturbing thing on British TV",
+      "canonical_url": "https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:42:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
