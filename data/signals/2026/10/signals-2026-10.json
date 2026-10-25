@@ -16772,6 +16772,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50232483",
+      "title": "Firecrawl's Government Index",
+      "canonical_url": "https://lexifina.com/blog/firecrawl-government-index",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T21:17:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
