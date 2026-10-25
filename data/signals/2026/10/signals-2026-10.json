@@ -16300,6 +16300,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226266",
+      "title": "What's in a Name?",
+      "canonical_url": "https://medium.com/@orlorodriguez/whats-in-a-name-nomen-est-omen-from-ancient-belief-to-literary-subversion-1cc1224c13bd",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T04:56:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
