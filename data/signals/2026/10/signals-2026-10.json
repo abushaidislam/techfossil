@@ -16787,6 +16787,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50232882",
+      "title": "Speech to Bird Song Converter",
+      "canonical_url": "https://birdspeech.mitpit.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T21:51:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
