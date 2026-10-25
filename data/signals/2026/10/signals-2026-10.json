@@ -16112,6 +16112,21 @@
         "rust",
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226646",
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "canonical_url": "https://codeberg.org/Misom/FindMyWeb",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T05:42:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
