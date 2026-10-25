@@ -16384,6 +16384,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50211746",
+      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+      "canonical_url": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T22:39:45Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
