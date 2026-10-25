@@ -16438,6 +16438,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50211474",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "canonical_url": "https://blog.calif.io/p/iphone",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T22:21:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
