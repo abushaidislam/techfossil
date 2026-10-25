@@ -16371,6 +16371,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227138",
+      "title": "Tailworm – Tailscale Vulnerabilities",
+      "canonical_url": "https://tailworm.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T06:59:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
