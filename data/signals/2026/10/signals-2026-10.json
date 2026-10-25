@@ -16257,6 +16257,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50168376",
+      "title": "Making a VGA Driver in SystemVerilog",
+      "canonical_url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "source": "hacker_news",
+      "published_at": "2026-10-20T22:00:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
