@@ -16343,6 +16343,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50177916",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "canonical_url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T15:08:08Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
