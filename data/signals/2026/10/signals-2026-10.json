@@ -16157,6 +16157,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50225513",
+      "title": "Who Wrote This Byte: git blame for your build’s bytes",
+      "canonical_url": "https://fzakaria.com/2026/10/23/who-wrote-this-byte",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:27:24Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
