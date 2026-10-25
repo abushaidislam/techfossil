@@ -16098,6 +16098,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50205816",
+      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "canonical_url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T14:05:33Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "kernel"
+      ]
     }
   ]
 }
