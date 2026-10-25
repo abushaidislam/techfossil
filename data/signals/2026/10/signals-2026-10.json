@@ -16671,6 +16671,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227542",
+      "title": "Musk admits SpaceX restricted Ukraine's Starlink: \"That loophole was closed\"",
+      "canonical_url": "https://www.mediaite.com/media/news/elon-musk-admits-spacex-purposely-restricted-ukraines-starlink-access-in-war-with-russia-that-loophole-was-closed/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T08:03:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
