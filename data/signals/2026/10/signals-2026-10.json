@@ -16757,6 +16757,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50232855",
+      "title": "EScan and M-Kavach have issues",
+      "canonical_url": "https://news.ycombinator.com/item?id=50232855",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T21:49:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
