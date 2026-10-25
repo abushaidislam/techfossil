@@ -16453,6 +16453,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227864",
+      "title": "Fly Now Pay Later with Paylo Travel",
+      "canonical_url": "https://paylotravel.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:00:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
