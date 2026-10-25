@@ -16513,6 +16513,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222525",
+      "title": "Neural chip decodes interactions between brain regions",
+      "canonical_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T21:57:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "neural",
+        "ai"
+      ]
     }
   ]
 }
