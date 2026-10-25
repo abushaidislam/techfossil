@@ -16083,6 +16083,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50180251",
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "canonical_url": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:04:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
