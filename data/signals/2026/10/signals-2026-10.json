@@ -16014,6 +16014,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "canonical_url": "https://github.com/NVIDIA/OpenShell",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T23:44:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
