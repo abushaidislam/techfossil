@@ -16127,6 +16127,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226346",
+      "title": "Be a Tech Bro",
+      "canonical_url": "https://world.hey.com/dhh/be-a-tech-bro-30db1962",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T05:03:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
