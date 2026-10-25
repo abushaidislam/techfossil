@@ -16468,6 +16468,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227892",
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "canonical_url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:05:53Z",
+      "category": "Software Engineering",
+      "importance_score": 76,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
