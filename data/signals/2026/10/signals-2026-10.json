@@ -16425,6 +16425,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50222826",
+      "title": "Progressive disclosure in agents to make them 2.3x faster",
+      "canonical_url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T22:30:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
