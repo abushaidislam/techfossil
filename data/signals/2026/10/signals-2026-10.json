@@ -16214,6 +16214,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50225674",
+      "title": "Small Programs and Languages",
+      "canonical_url": "https://ratfactor.com/cards/pl-small",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:44:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
