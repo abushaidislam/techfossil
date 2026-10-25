@@ -16070,6 +16070,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50188228",
+      "title": "Security Disclosure",
+      "canonical_url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T03:58:03Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
