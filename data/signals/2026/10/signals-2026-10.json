@@ -16356,6 +16356,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50182510",
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T21:19:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
