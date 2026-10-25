@@ -16229,6 +16229,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50194602",
+      "title": "Full Disk Encryption on Fedora with TPM2",
+      "canonical_url": "https://www.apalrd.net/posts/2026/ent_luks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:46:40Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "encryption"
+      ]
     }
   ]
 }
