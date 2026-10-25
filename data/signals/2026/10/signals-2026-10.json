@@ -16628,6 +16628,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50229028",
+      "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
+      "canonical_url": "https://github.com/Tomotsugu-dev/Hindsight",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T13:04:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
