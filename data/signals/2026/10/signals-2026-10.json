@@ -16397,6 +16397,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50193677",
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "canonical_url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T16:55:22Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
