@@ -16527,6 +16527,21 @@
         "neural",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50228018",
+      "title": "Calmstats • See which traffic pays",
+      "canonical_url": "https://calmstats.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:31:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
