@@ -16170,6 +16170,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226577",
+      "title": "Why Gopher in 2026?",
+      "canonical_url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T05:33:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
