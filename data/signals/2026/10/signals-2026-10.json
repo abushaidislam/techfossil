@@ -16285,6 +16285,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224210",
+      "title": "SpeedCrunch 1.1",
+      "canonical_url": "https://www.speedcrunch.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T01:19:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
