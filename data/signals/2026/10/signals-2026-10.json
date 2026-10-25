@@ -16572,6 +16572,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50217500",
+      "title": "Twelve years of distributed SQLite",
+      "canonical_url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T07:16:58Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "sql",
+        "distributed"
+      ]
     }
   ]
 }
