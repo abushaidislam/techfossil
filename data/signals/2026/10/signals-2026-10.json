@@ -16410,6 +16410,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50176674",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "canonical_url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T12:09:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
