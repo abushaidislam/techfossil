@@ -16586,6 +16586,21 @@
         "sql",
         "distributed"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50228079",
+      "title": "Inline Viewer: Quest Diagnostics Incorporated 8-K 2026-10-21",
+      "canonical_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001022079/000094787126000941/ss6979200_8k.htm",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:40:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
