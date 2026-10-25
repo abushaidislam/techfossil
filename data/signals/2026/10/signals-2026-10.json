@@ -16742,6 +16742,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50211084",
+      "title": "Reforming English Spelling",
+      "canonical_url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T21:56:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
