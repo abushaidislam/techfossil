@@ -16042,6 +16042,21 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50224916",
+      "title": "Show HN: Steal My Bitcoin",
+      "canonical_url": "https://stealmybitcoin.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T02:30:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
