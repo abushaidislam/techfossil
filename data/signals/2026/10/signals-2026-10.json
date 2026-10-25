@@ -16643,6 +16643,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50228616",
+      "title": "Why popular airplanes are getting scrapped years early",
+      "canonical_url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T11:31:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
