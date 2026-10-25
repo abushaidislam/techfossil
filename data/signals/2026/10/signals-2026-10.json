@@ -16028,6 +16028,20 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227174",
+      "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+      "canonical_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T07:07:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
