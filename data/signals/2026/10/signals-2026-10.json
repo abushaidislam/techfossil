@@ -16199,6 +16199,21 @@
         "ui",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50225659",
+      "title": "Forecasting Financial Markets with Timestral",
+      "canonical_url": "https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:42:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
