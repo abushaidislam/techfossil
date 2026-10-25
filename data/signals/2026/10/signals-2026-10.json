@@ -16615,6 +16615,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226793",
+      "title": "Sound of a guitar string cooling down on a piezo contact mic [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=6OH0-4RxmIs",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T06:04:34Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
