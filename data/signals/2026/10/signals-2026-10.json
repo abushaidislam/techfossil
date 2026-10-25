@@ -16557,6 +16557,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50227987",
+      "title": "Show HN: Four-Leaf job matches that find you automatically",
+      "canonical_url": "https://four-leaf.ai/jobs",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:25:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
