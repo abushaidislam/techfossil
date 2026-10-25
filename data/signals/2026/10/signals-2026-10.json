@@ -16699,6 +16699,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50233304",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "canonical_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T22:28:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
