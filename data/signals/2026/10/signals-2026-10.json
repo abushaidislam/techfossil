@@ -16185,6 +16185,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1025-hn-50226186",
+      "title": "Show HN: DeepSearch – Search engine built on DeepSeek API",
+      "canonical_url": "https://deepsearch.ing/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T04:44:35Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "api"
+      ]
     }
   ]
 }
