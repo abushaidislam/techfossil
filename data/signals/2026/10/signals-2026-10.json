@@ -18600,6 +18600,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50245524",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "canonical_url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T21:35:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
