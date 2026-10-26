@@ -17695,6 +17695,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50235217",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "canonical_url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T01:29:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
