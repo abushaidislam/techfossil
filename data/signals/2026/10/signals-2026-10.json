@@ -17841,6 +17841,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50241170",
+      "title": "Sequential Diagnosis with Language Models",
+      "canonical_url": "https://www.science.org/doi/10.1126/science.aeh7930",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T15:20:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
