@@ -17037,6 +17037,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50236074",
+      "title": "A hidden bias in human language challenges 70 years of science",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T03:07:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
