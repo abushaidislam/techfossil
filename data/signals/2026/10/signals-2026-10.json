@@ -17052,6 +17052,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50232703",
+      "title": "JPEG XL with WebGPU makes smaller files than libjxl in 150 KB JavaScript",
+      "canonical_url": "https://github.com/jackskip22/rapier-jxl",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T21:36:34Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript"
+      ]
     }
   ]
 }
