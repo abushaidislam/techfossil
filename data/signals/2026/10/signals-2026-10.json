@@ -17524,6 +17524,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50230917",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "canonical_url": "https://loeffelholz-codex.org/en/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T18:37:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
