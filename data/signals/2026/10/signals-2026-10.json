@@ -16932,6 +16932,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237271",
+      "title": "Less Is More: From 1M Lines of Firmware to 300 of Assembly",
+      "canonical_url": "https://tinfoil.sh/blog/2026-10-25-less-is-more",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T05:59:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
