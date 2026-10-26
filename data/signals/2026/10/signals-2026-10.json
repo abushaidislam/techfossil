@@ -17265,6 +17265,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239748",
+      "title": "The result of the C++26 DIS ballot",
+      "canonical_url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T12:11:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
