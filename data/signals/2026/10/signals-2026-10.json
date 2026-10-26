@@ -17554,6 +17554,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50172432",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "canonical_url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T02:45:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "hacker"
+      ]
     }
   ]
 }
