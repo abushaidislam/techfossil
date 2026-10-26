@@ -18486,6 +18486,21 @@
         "ai",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248614",
+      "title": "Dispatch 006: Cheers at Angola",
+      "canonical_url": "https://www.metanoia-research.com/dispatch-006-cheers-at-angola/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:28:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
