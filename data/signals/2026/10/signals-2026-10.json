@@ -18001,6 +18001,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4917886",
+      "title": "Why bloc.add(...) Isn't What You Think: Synchronous Event Fast-Paths and 0ms Form Bindings",
+      "canonical_url": "https://dev.to/gde/why-blocadd-isnt-what-you-think-synchronous-event-fast-paths-and-0ms-form-bindings-6o",
+      "source": "dev_to",
+      "published_at": "2026-10-25T23:44:27Z",
+      "category": "Systems & Architecture",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
