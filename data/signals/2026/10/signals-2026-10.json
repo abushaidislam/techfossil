@@ -18115,6 +18115,19 @@
         "cloud",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50215997",
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "canonical_url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T04:04:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
