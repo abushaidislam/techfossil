@@ -17395,6 +17395,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50233438",
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "canonical_url": "https://unicode.org/reports/tr39/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T22:40:37Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
