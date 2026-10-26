@@ -18429,6 +18429,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50234879",
+      "title": "Where the Romans Fought (interactive map)",
+      "canonical_url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T00:58:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
