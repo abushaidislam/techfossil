@@ -17382,6 +17382,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50213925",
+      "title": "Dessa: Conversation Model trained only on speech",
+      "canonical_url": "https://block.xyz/dessa",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:09:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
