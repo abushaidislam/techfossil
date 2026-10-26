@@ -17138,6 +17138,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237291",
+      "title": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+      "canonical_url": "https://sketchagent.dev/s/yfYU6LhT",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T06:02:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
