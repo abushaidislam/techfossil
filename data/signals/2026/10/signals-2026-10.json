@@ -17108,6 +17108,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50236520",
+      "title": "Show HN: Visualization of Top News Stories",
+      "canonical_url": "https://www.topaztee.com/digglabs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T04:10:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
