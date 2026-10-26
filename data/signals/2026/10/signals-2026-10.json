@@ -18399,6 +18399,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247805",
+      "title": "Tiny Computers for iPhone Duo",
+      "canonical_url": "https://www.fountaininteractive.com/TinyComputers/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:42:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
