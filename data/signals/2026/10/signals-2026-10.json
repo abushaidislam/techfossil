@@ -18027,6 +18027,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50246945",
+      "title": "I Hate Cookie Consent",
+      "canonical_url": "https://ciphercue.com/blog/cookie-banners-ad-trackers-fire-first,",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T22:53:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
