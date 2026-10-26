@@ -17768,6 +17768,20 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50241078",
+      "title": "Show HN: Load-lock, a machine-wide semaphore for parallel AI coding agents",
+      "canonical_url": "https://github.com/aron98/load-lock",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T15:08:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
