@@ -18099,6 +18099,22 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4911352",
+      "title": "GPT-6 Is Coming to Google Cloud. Is Your AI Bill Ready?",
+      "canonical_url": "https://dev.to/gde/gpt-6-is-coming-to-google-cloud-is-your-ai-bill-ready-j7l",
+      "source": "dev_to",
+      "published_at": "2026-10-24T16:27:19Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt",
+        "ai",
+        "cloud",
+        "openai"
+      ]
     }
   ]
 }
