@@ -18717,6 +18717,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50238884",
+      "title": "US Wages Share of GDI at 75 Year Low",
+      "canonical_url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:51:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
