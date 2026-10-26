@@ -17451,6 +17451,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239509",
+      "title": "What are vector embeddings? An interactive guide",
+      "canonical_url": "https://isaacus.com/blog/what-are-vector-embeddings",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T11:29:27Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
