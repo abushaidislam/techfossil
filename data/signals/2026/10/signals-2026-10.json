@@ -16962,6 +16962,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238809",
+      "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
+      "canonical_url": "https://www.bloomberg.com/news/articles/2026-10-25/netflix-users-are-watching-less-not-opening-the-app-as-often",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:38:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
