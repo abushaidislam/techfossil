@@ -17436,6 +17436,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50197434",
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "canonical_url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T22:16:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
