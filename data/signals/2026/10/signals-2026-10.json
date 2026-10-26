@@ -18643,6 +18643,22 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50235909",
+      "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents",
+      "canonical_url": "https://github.com/SRN0129/Agenttrust",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T02:46:50Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "security",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
