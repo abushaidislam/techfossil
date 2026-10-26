@@ -17568,6 +17568,21 @@
         "ui",
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50209278",
+      "title": "Growing Trees",
+      "canonical_url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T20:07:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
