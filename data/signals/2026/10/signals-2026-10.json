@@ -17250,6 +17250,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237589",
+      "title": "Has PAUSE account registration slowed down recently?",
+      "canonical_url": "https://www.nntp.perl.org/group/perl.modules/2026/10.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T06:48:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
