@@ -18472,6 +18472,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247235",
+      "title": "Show HN: Quorus – Claude Code writes it, nothing hits main until Codex says GO",
+      "canonical_url": "https://github.com/Quorus-dev/Quorus",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:09:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "claude"
+      ]
     }
   ]
 }
