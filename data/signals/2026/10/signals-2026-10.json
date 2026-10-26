@@ -17408,6 +17408,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240879",
+      "title": "Open source MuseBot, Dots, GrokBot replacement",
+      "canonical_url": "https://openbot.run/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T14:41:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
