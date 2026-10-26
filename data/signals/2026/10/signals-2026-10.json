@@ -18356,6 +18356,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50243281",
+      "title": "LearnHarness – An Agent Harness for Learning",
+      "canonical_url": "https://github.com/amosblomqvist/learnharness",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T19:26:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
