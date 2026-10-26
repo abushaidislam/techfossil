@@ -17280,6 +17280,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240115",
+      "title": "Ask HN: Did crates.io stop processing new crate publishes?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50240115",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:03:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
