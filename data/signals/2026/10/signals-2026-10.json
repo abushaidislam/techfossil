@@ -18732,6 +18732,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248652",
+      "title": "Michigan prof creates Python-like Jac language for AI agents",
+      "canonical_url": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:31:10Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
