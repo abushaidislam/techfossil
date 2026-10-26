@@ -17959,6 +17959,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4917438",
+      "title": "Inference on Google Cloud: Precision, Memory and Capacity on TPU, from v5e to Ironwood",
+      "canonical_url": "https://dev.to/gde/inference-on-google-cloud-precision-memory-and-capacity-on-tpu-from-v5e-to-ironwood-5dlf",
+      "source": "dev_to",
+      "published_at": "2026-10-25T23:02:38Z",
+      "category": "Systems & Architecture",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "cloud"
+      ]
     }
   ]
 }
