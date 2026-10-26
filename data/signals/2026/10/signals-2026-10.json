@@ -16888,6 +16888,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50235738",
+      "title": "What goes into making an animated film?",
+      "canonical_url": "https://www.disneyanimation.com/process/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T02:27:09Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
