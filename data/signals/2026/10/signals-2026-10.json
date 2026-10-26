@@ -17222,6 +17222,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239870",
+      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+      "canonical_url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T12:31:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
