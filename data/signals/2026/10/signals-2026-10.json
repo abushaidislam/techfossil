@@ -18702,6 +18702,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248371",
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "canonical_url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:14:49Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
