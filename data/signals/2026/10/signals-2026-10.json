@@ -17929,6 +17929,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50196623",
+      "title": "The U.S. Power Grid",
+      "canonical_url": "https://nomagicpill.site/knowledge/powergrid.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T21:20:04Z",
+      "category": "Software Engineering",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
