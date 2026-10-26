@@ -18572,6 +18572,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50233347",
+      "title": "A mathematician reads the AI future",
+      "canonical_url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T22:31:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
