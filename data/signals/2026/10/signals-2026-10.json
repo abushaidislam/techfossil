@@ -17367,6 +17367,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240506",
+      "title": "Exploration of a more library-oriented approach to contracts",
+      "canonical_url": "https://isocpp.org/files/papers/P4324R0.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:55:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
