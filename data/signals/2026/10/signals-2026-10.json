@@ -17464,6 +17464,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237224",
+      "title": "Attention Is Not What You Need (2025)",
+      "canonical_url": "https://arxiv.org/abs/2512.19428",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T05:52:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
