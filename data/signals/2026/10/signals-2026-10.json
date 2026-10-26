@@ -18615,6 +18615,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4923705",
+      "title": "Join the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine! $2,850 in Prizes Across 21 Winners.",
+      "canonical_url": "https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-2850-in-prizes-across-21-3cho",
+      "source": "dev_to",
+      "published_at": "2026-10-26T19:00:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
