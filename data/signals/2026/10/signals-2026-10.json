@@ -17179,6 +17179,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50180612",
+      "title": "Chip Builder is a puzzle and strategy game that teaches you chip design",
+      "canonical_url": "https://chipbuilder.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-21T19:28:54Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
