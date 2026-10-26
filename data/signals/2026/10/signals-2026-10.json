@@ -17856,6 +17856,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50197108",
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "canonical_url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T21:52:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
