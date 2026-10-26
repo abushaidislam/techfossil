@@ -17755,6 +17755,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240402",
+      "title": "PIZD, a Rust compressor exploring structural deduplication",
+      "canonical_url": "https://pizd.spedo.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:42:03Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
