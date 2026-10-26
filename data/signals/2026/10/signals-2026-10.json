@@ -17656,6 +17656,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50241143",
+      "title": "Two AI Chipmakers Make Up 34% of America's Earnings Boom",
+      "canonical_url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T15:17:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
