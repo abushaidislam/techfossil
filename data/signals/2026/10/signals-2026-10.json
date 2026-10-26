@@ -17065,6 +17065,21 @@
       "technologies": [
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50233948",
+      "title": "How we made our MMDB files a 33% smaller",
+      "canonical_url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T23:33:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
