@@ -17725,6 +17725,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50236748",
+      "title": "Proton Flock Camera Map",
+      "canonical_url": "https://proton.me/flock-camera-map",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T04:39:42Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
