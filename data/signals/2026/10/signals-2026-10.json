@@ -17323,6 +17323,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238751",
+      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+      "canonical_url": "https://github.com/nodecode-ai/nodecode",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:30:18Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "node",
+        "agent"
+      ]
     }
   ]
 }
