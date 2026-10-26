@@ -17494,6 +17494,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50225663",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "canonical_url": "https://ratfactor.com/cards/limitations",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:42:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
