@@ -17782,6 +17782,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240142",
+      "title": "Show HN: Hazzel – A terminal coding harness that stays small on purpose",
+      "canonical_url": "https://github.com/mukundzha/hazzel",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:07:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
