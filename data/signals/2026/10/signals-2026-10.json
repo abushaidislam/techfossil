@@ -17123,6 +17123,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50218693",
+      "title": "The Fall of Scientific American",
+      "canonical_url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T12:03:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
