@@ -18328,6 +18328,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247928",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "canonical_url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:49:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
