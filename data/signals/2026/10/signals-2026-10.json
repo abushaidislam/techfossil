@@ -16830,6 +16830,21 @@
         "rust",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238986",
+      "title": "The \"canal\" in the Amazon that breaks the rules",
+      "canonical_url": "https://signoregalilei.com/2026/10/25/the-canal-in-the-amazon-that-breaks-the-rules/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T10:06:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
