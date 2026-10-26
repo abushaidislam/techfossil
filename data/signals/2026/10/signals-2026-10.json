@@ -16918,6 +16918,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-dev-4913730",
+      "title": "Let It Die: The Lazy Email Agent on TabPFN, Gemma and Temporal",
+      "canonical_url": "https://dev.to/khushighosh/let-it-die-the-lazy-email-agent-on-tabpfn-gemma-and-temporal-10o0",
+      "source": "dev_to",
+      "published_at": "2026-10-25T06:45:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
