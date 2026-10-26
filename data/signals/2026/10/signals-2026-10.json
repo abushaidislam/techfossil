@@ -17871,6 +17871,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50235513",
+      "title": "Crosscut – Drawing Dynamic Models",
+      "canonical_url": "https://www.inkandswitch.com/crosscut/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T02:01:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
