@@ -18559,6 +18559,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248055",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "canonical_url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:56:55Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
