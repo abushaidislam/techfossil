@@ -17797,6 +17797,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240089",
+      "title": "Data-Oriented Design in Yuku's Parser",
+      "canonical_url": "https://www.arshad.fyi/writings/data-oriented-design-in-yukus-parser",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:00:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
