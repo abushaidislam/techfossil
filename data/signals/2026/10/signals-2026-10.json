@@ -17740,6 +17740,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50218195",
+      "title": "How close can pure functional programming get to C?",
+      "canonical_url": "https://rtfeldman.com/fp-vs-c",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T09:43:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
