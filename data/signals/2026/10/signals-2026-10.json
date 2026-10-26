@@ -18585,6 +18585,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248876",
+      "title": "Microsoft offers 60k employees a voluntary exit",
+      "canonical_url": "https://twitter.com/Amanda_Goodall/status/2114748370954985906",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:43:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
