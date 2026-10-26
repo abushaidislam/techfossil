@@ -17598,6 +17598,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50194645",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "canonical_url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T18:50:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
