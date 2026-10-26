@@ -18171,6 +18171,23 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4910125",
+      "title": "[Agent Platform in Action (6)] Towards Production-Grade AI Agent Ops: Building Full-Stack Observable LINE Agents with agents-cli",
+      "canonical_url": "https://dev.to/gde/agent-platform-in-action-6-towards-production-grade-ai-agent-ops-building-full-stack-38aa",
+      "source": "dev_to",
+      "published_at": "2026-10-25T10:05:18Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "ui",
+        "devops",
+        "cloud"
+      ]
     }
   ]
 }
