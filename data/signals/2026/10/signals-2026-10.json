@@ -18315,6 +18315,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248075",
+      "title": "GPT 6.1 Terra",
+      "canonical_url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:58:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
