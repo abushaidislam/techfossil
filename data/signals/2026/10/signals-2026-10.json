@@ -17423,6 +17423,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238827",
+      "title": "Open-source crypto trading terminal in Rust and WebAssembly",
+      "canonical_url": "https://news.ycombinator.com/item?id=50238827",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:42:24Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
