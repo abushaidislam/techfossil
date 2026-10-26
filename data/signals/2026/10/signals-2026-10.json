@@ -17479,6 +17479,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237365",
+      "title": "The Great Schlep: Israelis Are Flying Back to Vote",
+      "canonical_url": "https://www.newyorker.com/news/the-lede/the-great-schlep",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T06:12:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
