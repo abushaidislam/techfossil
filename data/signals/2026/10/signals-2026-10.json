@@ -18459,6 +18459,19 @@
         "cve",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248584",
+      "title": "Four Direct, Reasonable, and Important AI Questions",
+      "canonical_url": "https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:26:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
