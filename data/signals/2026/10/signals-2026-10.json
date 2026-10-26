@@ -16860,6 +16860,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50233775",
+      "title": "Sabre Wulf Remastered",
+      "canonical_url": "https://gp-64.com/swr/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T23:15:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
