@@ -17192,6 +17192,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238603",
+      "title": "Show HN: Drint – packaging dielines and 3D box mockups as an MCP server",
+      "canonical_url": "https://drint.io/help/mcp",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:09:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
