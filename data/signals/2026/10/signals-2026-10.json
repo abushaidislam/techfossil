@@ -17988,6 +17988,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4915028",
+      "title": "Postmortem: The Tuesday Our AI Bill Had No Owner",
+      "canonical_url": "https://dev.to/gde/postmortem-the-tuesday-our-ai-bill-had-no-owner-34pd",
+      "source": "dev_to",
+      "published_at": "2026-10-25T11:15:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
