@@ -18444,6 +18444,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50237852",
+      "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
+      "canonical_url": "https://www.sazabi.com/blog/introducing-cve-now",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T07:18:43Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "cve",
+        "agent"
+      ]
     }
   ]
 }
