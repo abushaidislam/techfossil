@@ -17826,6 +17826,21 @@
         "api",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238088",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "canonical_url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T07:47:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
