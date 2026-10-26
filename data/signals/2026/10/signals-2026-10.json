@@ -17611,6 +17611,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50240559",
+      "title": "Anemoia: Nostalgia for a time one did not personally experience",
+      "canonical_url": "https://en.wikipedia.org/wiki/Anemoia",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T14:01:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
