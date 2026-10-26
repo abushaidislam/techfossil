@@ -18246,6 +18246,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50200152",
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "canonical_url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T01:52:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
