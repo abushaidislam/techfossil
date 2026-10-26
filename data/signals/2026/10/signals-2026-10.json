@@ -17710,6 +17710,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50233929",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "canonical_url": "https://talkweb.eu/openweb/4558/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T23:30:55Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
