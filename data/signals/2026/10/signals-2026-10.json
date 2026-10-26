@@ -16903,6 +16903,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238918",
+      "title": "Waving Hands (1977), vibe-coded",
+      "canonical_url": "https://hands.kestrelsnest.social/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:56:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
