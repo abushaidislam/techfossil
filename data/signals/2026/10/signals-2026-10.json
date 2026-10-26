@@ -17901,6 +17901,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4922227",
+      "title": "Meme Monday",
+      "canonical_url": "https://dev.to/ben/meme-monday-18k",
+      "source": "dev_to",
+      "published_at": "2026-10-26T14:05:12Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
