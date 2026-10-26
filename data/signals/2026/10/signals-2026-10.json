@@ -18156,6 +18156,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247577",
+      "title": "Show HN: RPI Pico (RP2040) PIO Emulator Package for Go",
+      "canonical_url": "https://git.edwardh.dev/pio",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:29:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
