@@ -18188,6 +18188,19 @@
         "devops",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247183",
+      "title": "Show HN: Resin, fast native scheduler for LLM inference engines",
+      "canonical_url": "https://github.com/ekzhang/resin",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:06:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
