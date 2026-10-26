@@ -17151,6 +17151,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50195769",
+      "title": "Recreate the Apollo Guidance Computer",
+      "canonical_url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T20:21:17Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
