@@ -18531,6 +18531,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50228115",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "canonical_url": "https://github.com/notaroomba/keybytes",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T09:47:56Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
