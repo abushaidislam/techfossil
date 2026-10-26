@@ -18384,6 +18384,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248560",
+      "title": "Regional Variations and Productivity Puzzles in Health Care",
+      "canonical_url": "https://www.nber.org/papers/w35937",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:25:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
