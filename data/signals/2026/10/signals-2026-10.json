@@ -18142,6 +18142,20 @@
         "ai",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247633",
+      "title": "Show HN: Portable, signed agreements for AI agents",
+      "canonical_url": "https://covenant-common.github.io/covenant-docs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:32:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
