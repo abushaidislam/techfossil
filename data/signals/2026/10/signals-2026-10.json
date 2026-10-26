@@ -17812,6 +17812,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239027",
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "canonical_url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T10:11:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ai"
+      ]
     }
   ]
 }
