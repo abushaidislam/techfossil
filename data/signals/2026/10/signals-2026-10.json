@@ -18259,6 +18259,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50223647",
+      "title": "Why is AI generated language so hard to understand?",
+      "canonical_url": "https://arxiv.org/abs/2610.29162",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T00:04:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
