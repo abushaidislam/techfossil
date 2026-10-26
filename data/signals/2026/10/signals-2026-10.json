@@ -18216,6 +18216,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248422",
+      "title": "Retrieval's bottleneck is moving from finding to selecting",
+      "canonical_url": "https://www.kapa.ai/blog/retrieval-bottleneck",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:18:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
