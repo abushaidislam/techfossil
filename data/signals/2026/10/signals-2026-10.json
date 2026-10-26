@@ -17682,6 +17682,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50225695",
+      "title": "We should be more ambitious with the software we build",
+      "canonical_url": "https://danluu.com/ambitious/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T03:47:31Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
