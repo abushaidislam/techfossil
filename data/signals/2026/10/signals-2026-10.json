@@ -18501,6 +18501,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50235780",
+      "title": "The State of Context Engineering",
+      "canonical_url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T02:32:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
