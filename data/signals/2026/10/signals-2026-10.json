@@ -18272,6 +18272,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50246956",
+      "title": "Private Tests, Public Code: Protecting Stalwart from AI Clones",
+      "canonical_url": "https://stalw.art/blog/protecting-stalwart/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T22:53:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
