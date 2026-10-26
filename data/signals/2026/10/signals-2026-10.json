@@ -17973,6 +17973,21 @@
         "memory",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247677",
+      "title": "Nvidia discusses $2k-per-GPU annual fee for software",
+      "canonical_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:34:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
