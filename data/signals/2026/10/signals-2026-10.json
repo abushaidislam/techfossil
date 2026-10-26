@@ -18042,6 +18042,23 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-dev-4917411",
+      "title": "The Best Prompt Rule Is the One You Delete: Moving AI Guardrails Out of Markdown and Into Git Locks, Linux insmod, and 15ms Compiler Auto-Fixes",
+      "canonical_url": "https://dev.to/gde/the-best-prompt-rule-is-the-one-you-delete-moving-ai-guardrails-out-of-markdown-and-into-git-5a5h",
+      "source": "dev_to",
+      "published_at": "2026-10-25T20:19:06Z",
+      "category": "Systems & Architecture",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler",
+        "ai",
+        "linux",
+        "architecture",
+        "ux"
+      ]
     }
   ]
 }
