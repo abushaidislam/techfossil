@@ -17164,6 +17164,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239838",
+      "title": "Human body model: 206 joints and 700 muscles for MuJoCo (MS-Human-700)",
+      "canonical_url": "https://lnsgroup.cc/research/MS-Human/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T12:24:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
