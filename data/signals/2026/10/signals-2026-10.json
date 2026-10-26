@@ -16815,6 +16815,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50238739",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "canonical_url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:29:05Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "wasm",
+        "rust",
+        "cloud"
+      ]
     }
   ]
 }
