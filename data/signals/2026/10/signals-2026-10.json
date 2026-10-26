@@ -16977,6 +16977,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237379",
+      "title": "Steal My Bitcoin CTF PoC",
+      "canonical_url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T06:15:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
