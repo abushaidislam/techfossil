@@ -17310,6 +17310,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50237998",
+      "title": "Show HN: Little Fun Games – daily trivia with uncommon-answer scoring",
+      "canonical_url": "https://littlefungames.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T07:36:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
