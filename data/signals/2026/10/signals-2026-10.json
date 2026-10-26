@@ -17337,6 +17337,21 @@
         "node",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50239298",
+      "title": "There's never any reason for a committee to set rates",
+      "canonical_url": "https://gist.github.com/mxfactorial/d9451142ad2037d82d926e5c59d9a06d",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T10:54:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
