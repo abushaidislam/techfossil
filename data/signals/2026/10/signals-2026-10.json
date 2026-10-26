@@ -18285,6 +18285,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50185534",
+      "title": "Amazon’s “digital pacifier” for toddlers",
+      "canonical_url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "source": "hacker_news",
+      "published_at": "2026-10-22T00:37:48Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
