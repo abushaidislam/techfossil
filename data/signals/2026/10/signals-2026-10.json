@@ -17886,6 +17886,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50200957",
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "canonical_url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T03:00:14Z",
+      "category": "Software Engineering",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
