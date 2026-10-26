@@ -17669,6 +17669,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1026-hn-50214373",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "canonical_url": "https://corgi.computer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T01:46:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
