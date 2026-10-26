@@ -18300,6 +18300,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50247715",
+      "title": "How Voting Is Like a Klein Bottle",
+      "canonical_url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:37:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
