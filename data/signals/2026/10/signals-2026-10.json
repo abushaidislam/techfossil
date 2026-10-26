@@ -18014,6 +18014,19 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50244583",
+      "title": "Partyline: A group voice application for Reticulum, built on LXST",
+      "canonical_url": "https://github.com/RFnexus/partyline",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T20:42:24Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
