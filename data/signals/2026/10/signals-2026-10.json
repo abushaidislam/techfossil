@@ -18687,6 +18687,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248197",
+      "title": "Microsoft is offering buyouts to 60k workers",
+      "canonical_url": "https://twitter.com/kobeissiletter/status/2114745896315359305",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:05:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
