@@ -18672,6 +18672,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50248538",
+      "title": "Billion-query-per-second lookup tables in C++",
+      "canonical_url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T00:24:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
