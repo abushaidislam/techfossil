@@ -18086,6 +18086,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50246239",
+      "title": "Memory is a job, not a layer",
+      "canonical_url": "https://medium.com/@majid.fekri/memory-is-a-job-not-a-layer-334e3831d09f",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T22:12:36Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
