@@ -18775,6 +18775,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50252361",
+      "title": "US political candidates tailor messages for AI models used by voters",
+      "canonical_url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T04:58:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
