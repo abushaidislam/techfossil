@@ -18747,6 +18747,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50252159",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "canonical_url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T04:41:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
