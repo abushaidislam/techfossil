@@ -18904,6 +18904,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50253428",
+      "title": "The \"let-it-rip\" camp is wrong on AI",
+      "canonical_url": "https://economist.com/by-invitation/2026/10/26/the-let-it-rip-camp-is-wrong-on-ai",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T07:00:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
