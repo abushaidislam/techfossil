@@ -18859,6 +18859,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50253180",
+      "title": "James Pond 2: Codename RoboCod – Recompiled",
+      "canonical_url": "https://github.com/griches/JamesPond2RobocodRecomp",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T06:28:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
