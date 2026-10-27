@@ -19004,6 +19004,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50209573",
+      "title": "Colorfigures",
+      "canonical_url": "https://april-zhu.com/colorfigures",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T20:22:23Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
