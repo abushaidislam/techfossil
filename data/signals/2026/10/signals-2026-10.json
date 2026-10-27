@@ -18803,6 +18803,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50240465",
+      "title": "How to grow a cacao tree at home",
+      "canonical_url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T13:50:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
