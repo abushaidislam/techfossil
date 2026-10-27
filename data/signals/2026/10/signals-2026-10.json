@@ -18989,6 +18989,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50226808",
+      "title": "Virtual and Real World Combine at LAN Party (1998)",
+      "canonical_url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T06:07:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
