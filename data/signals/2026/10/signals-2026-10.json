@@ -18976,6 +18976,19 @@
         "agent",
         "html"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50253225",
+      "title": "(VCF Midwest 2026) Building a Living 90s Internet for Vintage Computers [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=mZfJ-sulqQs",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T06:33:32Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
