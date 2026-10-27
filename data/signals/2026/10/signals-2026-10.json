@@ -18846,6 +18846,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50253524",
+      "title": "Do you want to keep your job? Stop feeding AI models",
+      "canonical_url": "https://news.ycombinator.com/item?id=50253524",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T07:14:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
