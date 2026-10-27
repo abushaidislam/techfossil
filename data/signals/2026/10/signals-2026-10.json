@@ -18788,6 +18788,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1027-hn-50252848",
+      "title": "Pharo – A pure object-oriented programming language and a powerful environment",
+      "canonical_url": "https://pharo.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T05:52:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
