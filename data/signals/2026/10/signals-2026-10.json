@@ -19598,6 +19598,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50220331",
+      "title": "PhysicsForums and the Dead Internet Theory (2025)",
+      "canonical_url": "https://hallofdreams.org/posts/physicsforums/",
+      "source": "hacker_news",
+      "published_at": "2026-10-24T17:40:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
