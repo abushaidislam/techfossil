@@ -19817,6 +19817,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272351",
+      "title": "Doctor in UK directs robot to remove a prostate in Gibraltar",
+      "canonical_url": "https://www.theguardian.com/uk-news/2026/mar/06/sci-fi-surgery-as-doctor-in-uk-directs-robot-to-remove-a-prostate-in-gibraltar",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:12:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
