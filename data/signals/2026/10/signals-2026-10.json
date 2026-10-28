@@ -19626,6 +19626,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50240922",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "canonical_url": "https://blocks.manifold3d.ch/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T14:46:09Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
