@@ -19641,6 +19641,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50259643",
+      "title": "Play Cyberpunk 2077 in the Browser",
+      "canonical_url": "https://cyberpunk2077.lol/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T20:09:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
