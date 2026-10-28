@@ -19961,6 +19961,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50273242",
+      "title": "Leymosun 0.4.45 Update: Leymosun Science: Quantum Research Toolkit",
+      "canonical_url": "https://pypi.org/project/leymosun/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:30:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
