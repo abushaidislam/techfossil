@@ -19414,6 +19414,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50270568",
+      "title": "Show HN: KI Song erstellen – German AI music from prompts and lyrics",
+      "canonical_url": "https://kisongerstellen.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T14:18:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
