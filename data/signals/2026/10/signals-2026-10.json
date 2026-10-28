@@ -19094,6 +19094,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50267820",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
+      "canonical_url": "https://www6.slac.stanford.edu/news/2026-10-27-nsf-doe-vera-c-rubin-observatory-reveals-its-first-dwarf-planet-candidate-our-solar",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T06:26:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
