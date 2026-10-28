@@ -19976,6 +19976,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272639",
+      "title": "Show HN: Shufler: 3D gaming harness around your coding harness and dev pipeline",
+      "canonical_url": "https://github.com/jgrichardson/shufler",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:39:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
