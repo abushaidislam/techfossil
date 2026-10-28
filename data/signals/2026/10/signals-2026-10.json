@@ -19441,6 +19441,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271685",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "canonical_url": "https://support.apple.com/en-us/149555",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T17:08:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
