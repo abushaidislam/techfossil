@@ -19165,6 +19165,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50240041",
+      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
+      "canonical_url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T12:54:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
