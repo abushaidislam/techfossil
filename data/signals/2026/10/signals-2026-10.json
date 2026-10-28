@@ -19284,6 +19284,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50268814",
+      "title": "Compressing LLMs Without Compromise",
+      "canonical_url": "https://www.sigarch.org/compressing-llms-without-compromise/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T08:53:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
