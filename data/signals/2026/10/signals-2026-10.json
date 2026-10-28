@@ -19356,6 +19356,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50266764",
+      "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+      "canonical_url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T04:29:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
