@@ -20006,6 +20006,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272715",
+      "title": "Are our personal AI agents holding us hostage?",
+      "canonical_url": "https://trevinsays.com/p/are-our-personal-ai-agents-holding",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:46:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
