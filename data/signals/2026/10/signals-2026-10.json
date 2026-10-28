@@ -19860,6 +19860,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50238708",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "canonical_url": "https://titleart.dvy.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T09:23:57Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
