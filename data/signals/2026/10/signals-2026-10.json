@@ -19512,6 +19512,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50242688",
+      "title": "Jokes for the ZX81",
+      "canonical_url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T18:45:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
