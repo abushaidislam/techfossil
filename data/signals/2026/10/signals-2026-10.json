@@ -19269,6 +19269,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50268193",
+      "title": "America Needs Explosives for Its Drones. Odin Energetics Is Making Them",
+      "canonical_url": "https://www.wsj.com/politics/national-security/america-needs-explosives-for-its-drones-this-startup-is-making-them-7f9d77f8",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T07:17:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
