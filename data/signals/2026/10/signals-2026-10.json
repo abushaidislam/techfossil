@@ -19297,6 +19297,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50230896",
+      "title": "Assembly Nights (2021)",
+      "canonical_url": "https://ratfactor.com/assembly-nights",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T18:35:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
