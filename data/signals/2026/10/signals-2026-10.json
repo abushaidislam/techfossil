@@ -19916,6 +19916,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50235661",
+      "title": "A Stackless Floodfill Automaton",
+      "canonical_url": "https://t3x.org/files/floodfill.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T02:18:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
