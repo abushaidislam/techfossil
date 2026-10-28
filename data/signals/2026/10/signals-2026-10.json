@@ -19341,6 +19341,21 @@
         "memory",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50262982",
+      "title": "Radio-tagged Monarch butterflies",
+      "canonical_url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T23:48:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
