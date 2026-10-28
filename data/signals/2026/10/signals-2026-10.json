@@ -19787,6 +19787,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50237896",
+      "title": "iPhone Duo Teardown",
+      "canonical_url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T07:23:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
