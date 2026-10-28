@@ -19557,6 +19557,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50260714",
+      "title": "JetBrains IDEs are now powered by libghostty",
+      "canonical_url": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T21:22:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
