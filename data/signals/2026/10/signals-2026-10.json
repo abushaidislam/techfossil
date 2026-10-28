@@ -19583,6 +19583,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50266780",
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "canonical_url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T04:31:15Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
