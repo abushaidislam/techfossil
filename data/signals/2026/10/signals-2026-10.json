@@ -19656,6 +19656,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271481",
+      "title": "IMSIsting – GTK4 cellular security toolkit for Linux",
+      "canonical_url": "https://github.com/yslxotwod/IMSIsting",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T16:45:05Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "security"
+      ]
     }
   ]
 }
