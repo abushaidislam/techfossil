@@ -19254,6 +19254,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50267947",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
+      "canonical_url": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T06:43:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
