@@ -19484,6 +19484,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50263967",
+      "title": "Popcorn 1.0 Released: Moving from AtomVM to Full Erlang VM",
+      "canonical_url": "https://swmansion.com/blog/popcorn-1-0-moving-from-atom-vm-to-otp-beam/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T00:52:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
