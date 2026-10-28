@@ -19327,6 +19327,20 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-dev-4908158",
+      "title": "Gemma 4 on a 4 GB GPU in Plain PyTorch: From Out of Memory to Faster Than llama.cpp",
+      "canonical_url": "https://dev.to/gde/gemma-4-on-a-4-gb-gpu-in-plain-pytorch-from-out-of-memory-to-faster-than-llamacpp-31jb",
+      "source": "dev_to",
+      "published_at": "2026-10-24T13:44:48Z",
+      "category": "Systems & Architecture",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "ai"
+      ]
     }
   ]
 }
