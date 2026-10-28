@@ -19456,6 +19456,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50261583",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "canonical_url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T22:25:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
