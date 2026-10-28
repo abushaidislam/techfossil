@@ -19499,6 +19499,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271077",
+      "title": "A bit provenance abstract domain for the Toy optimizer",
+      "canonical_url": "https://pypy.org/posts/2026/10/toy-bit-provenance.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T15:42:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
