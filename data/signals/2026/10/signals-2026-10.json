@@ -19686,6 +19686,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50204430",
+      "title": "State of ARM Support for Puget Bench",
+      "canonical_url": "https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T10:11:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
