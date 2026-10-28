@@ -19152,6 +19152,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50268009",
+      "title": "AI Phone",
+      "canonical_url": "https://github.com/oxnw/ai-phone",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T06:51:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
