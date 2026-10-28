@@ -19427,6 +19427,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271917",
+      "title": "Analysts followed AI agent's randomly assigned preferences in 86% of decisions",
+      "canonical_url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T17:33:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
