@@ -19109,6 +19109,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50257419",
+      "title": "Python's experimental JIT to be removed",
+      "canonical_url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T17:17:57Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
