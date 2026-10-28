@@ -19832,6 +19832,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272289",
+      "title": "Paper straws worse for the environment than plastic ones: study",
+      "canonical_url": "https://nypost.com/2026/10/26/lifestyle/paper-straws-worse-for-the-environment-than-plastic-ones-says-study/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:06:32Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "aws"
+      ]
     }
   ]
 }
