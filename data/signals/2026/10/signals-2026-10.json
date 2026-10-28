@@ -19845,6 +19845,21 @@
       "technologies": [
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50212625",
+      "title": "Txoko: Basques' traditional feast a gastronomic peek into a culture (2024)",
+      "canonical_url": "https://johnhendersontravel.com/txoko/",
+      "source": "hacker_news",
+      "published_at": "2026-10-23T23:37:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
