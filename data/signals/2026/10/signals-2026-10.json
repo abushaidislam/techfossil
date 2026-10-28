@@ -19570,6 +19570,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50270845",
+      "title": "Show HN: Resigns: Win the game a GM resigned (Daily Chess Game)",
+      "canonical_url": "https://georgemike.com/chess/resigns",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T15:02:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
