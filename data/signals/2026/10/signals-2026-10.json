@@ -19802,6 +19802,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-dev-4766472",
+      "title": "Welcome Thread - v399",
+      "canonical_url": "https://dev.to/sloan/welcome-thread-v400-fho",
+      "source": "dev_to",
+      "published_at": "2026-10-28T13:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
