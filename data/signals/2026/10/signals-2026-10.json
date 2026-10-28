@@ -19991,6 +19991,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50273540",
+      "title": "Drugged driving is a national crisis. Officials do little to stop it",
+      "canonical_url": "https://www.sfchronicle.com/projects/2026/drugged-driving-epidemic/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:50:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
