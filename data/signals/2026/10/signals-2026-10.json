@@ -19064,6 +19064,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1028-dev-4929664",
+      "title": "Your DEV posts have a beautiful new share card ✨",
+      "canonical_url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+      "source": "dev_to",
+      "published_at": "2026-10-27T16:44:29Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
