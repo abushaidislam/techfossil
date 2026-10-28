@@ -19772,6 +19772,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50241925",
+      "title": "Pharo 14",
+      "canonical_url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T17:15:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
