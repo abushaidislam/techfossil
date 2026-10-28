@@ -19542,6 +19542,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272318",
+      "title": "Tessera – Open-source, self-hosted file and text sharing",
+      "canonical_url": "https://github.com/Limatura/tessera",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:09:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
