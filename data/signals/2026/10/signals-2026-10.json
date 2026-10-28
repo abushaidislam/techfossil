@@ -19384,6 +19384,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50263854",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "canonical_url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T00:44:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
