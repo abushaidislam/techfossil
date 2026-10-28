@@ -19195,6 +19195,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50234474",
+      "title": "Dolly Parton's Imagination Library",
+      "canonical_url": "https://imaginationlibrary.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T00:23:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
