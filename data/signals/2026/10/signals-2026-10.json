@@ -19757,6 +19757,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50258538",
+      "title": "New iMac with M6",
+      "canonical_url": "https://www.apple.com/imac/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T19:02:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
