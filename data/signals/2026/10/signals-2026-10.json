@@ -19122,6 +19122,21 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50268216",
+      "title": "Show HN: A calculator for gas costs and road trip expenses",
+      "canonical_url": "https://gettripcost.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T07:20:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
