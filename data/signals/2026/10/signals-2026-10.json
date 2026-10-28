@@ -19469,6 +19469,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271900",
+      "title": "Steve's Old Computer Museum",
+      "canonical_url": "https://oldcomputers.net/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T17:31:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
