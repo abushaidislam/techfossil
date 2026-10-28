@@ -19875,6 +19875,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272832",
+      "title": "AI crawlers in robots.txt: a study of the top 10k sites (2026)",
+      "canonical_url": "https://hitmind.ai/research/ai-crawler-access-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:57:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
