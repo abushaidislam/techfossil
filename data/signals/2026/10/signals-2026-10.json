@@ -19180,6 +19180,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50265594",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "canonical_url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T02:48:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
