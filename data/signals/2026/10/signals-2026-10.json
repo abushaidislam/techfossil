@@ -19312,6 +19312,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50265697",
+      "title": "I used to be homeless. That experience shapes my science",
+      "canonical_url": "https://www.science.org/content/article/i-used-be-homeless-experience-shapes-my-science",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T02:57:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
