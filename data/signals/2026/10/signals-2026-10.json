@@ -19399,6 +19399,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271320",
+      "title": "American federal data has a zombie problem",
+      "canonical_url": "https://www.not-ship.com/american-federal-zombie-data/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T16:19:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
