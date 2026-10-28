@@ -19613,6 +19613,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271134",
+      "title": "Formaster.app – Turn PDF forms into reusable, fillable forms with AI",
+      "canonical_url": "https://www.formaster.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T15:50:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
