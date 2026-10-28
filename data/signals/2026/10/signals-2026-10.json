@@ -19888,6 +19888,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50272615",
+      "title": "Where They Stand – Nonpartisan Guide to Every House and Senate Race",
+      "canonical_url": "https://wheretheystand.vote",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:37:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
