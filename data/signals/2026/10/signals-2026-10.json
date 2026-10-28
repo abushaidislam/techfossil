@@ -19224,6 +19224,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50268304",
+      "title": "Workshop on Modular forms around string theory (2013)",
+      "canonical_url": "https://www.fields.utoronto.ca/programs/scientific/13-14/calabi-yau/modular/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T07:36:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
