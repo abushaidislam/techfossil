@@ -19729,6 +19729,19 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1028-hn-50271516",
+      "title": "JetKVM Mini is now available",
+      "canonical_url": "https://shop.jetkvm.com/products/jetkvm-mini",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T16:48:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
