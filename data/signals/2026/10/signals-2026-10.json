@@ -20464,6 +20464,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284813",
+      "title": "Single Mutable Ownership",
+      "canonical_url": "https://cirw.in/blog/single-mutable-ownership",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T11:13:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
