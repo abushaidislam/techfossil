@@ -20302,6 +20302,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50281015",
+      "title": "Alien 3 Is Getting a Second Chance on the Amiga CD32, More Than 30 Years Later",
+      "canonical_url": "https://handheldhideout.neocities.org/articles/alien-3-cd32-second-chance-amiga",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T03:17:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
