@@ -20218,6 +20218,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-dev-4905950",
+      "title": "Your Laptop Might Replace Most of Your AI Bill",
+      "canonical_url": "https://dev.to/auth0/your-laptop-might-replace-most-of-your-ai-bill-4o1f",
+      "source": "dev_to",
+      "published_at": "2026-10-28T11:58:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
