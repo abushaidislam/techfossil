@@ -20317,6 +20317,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50282736",
+      "title": "The Sane Asylum",
+      "canonical_url": "https://colossus.com/article/sane-asylum-turbopuffer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T06:10:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
