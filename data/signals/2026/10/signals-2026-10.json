@@ -20752,6 +20752,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50256409",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "canonical_url": "https://www.benjoffe.com/fast-floordiv",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T15:13:12Z",
+      "category": "Software Engineering",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
