@@ -20522,6 +20522,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285714",
+      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+      "canonical_url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T13:52:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
