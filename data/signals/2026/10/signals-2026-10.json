@@ -20636,6 +20636,21 @@
         "linux",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50251344",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "canonical_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T03:35:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
