@@ -20261,6 +20261,21 @@
         "database",
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50274409",
+      "title": "CNC Stone Carving",
+      "canonical_url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T20:38:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
