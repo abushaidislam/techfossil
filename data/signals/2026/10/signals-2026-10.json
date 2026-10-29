@@ -20651,6 +20651,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50237014",
+      "title": "Counting Sand Dunes in the Simpson Desert",
+      "canonical_url": "https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T05:18:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
