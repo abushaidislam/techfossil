@@ -20145,6 +20145,21 @@
         "gemini",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-dev-4935418",
+      "title": "Accuracy vs Speed: Gemma 4 E2B Quantization Tradeoffs, BF16 to Q2_K",
+      "canonical_url": "https://dev.to/gde/accuracy-vs-speed-gemma-4-e2b-quantization-tradeoffs-bf16-to-q2k-aea",
+      "source": "dev_to",
+      "published_at": "2026-10-28T16:02:20Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
