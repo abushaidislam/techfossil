@@ -20940,6 +20940,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50287017",
+      "title": "Traffic Light Protocol (TLP) Definitions and Usage",
+      "canonical_url": "https://www.cisa.gov/news-events/news/traffic-light-protocol-tlp-definitions-and-usage",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T16:48:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
