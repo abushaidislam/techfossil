@@ -20289,6 +20289,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50265413",
+      "title": "Hex Raises $100M",
+      "canonical_url": "https://hex.tech/blog/hex-new-era/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T02:36:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 79,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
