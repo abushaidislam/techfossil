@@ -20390,6 +20390,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284255",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "canonical_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T09:33:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "agent"
+      ]
     }
   ]
 }
