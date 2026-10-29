@@ -20247,6 +20247,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284853",
+      "title": "ArXiv is moving its database to cloud storage",
+      "canonical_url": "https://blog.arxiv.org/2026/10/21/scheduled-database-maintenance/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T11:21:03Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "database",
+        "cloud"
+      ]
     }
   ]
 }
