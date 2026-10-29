@@ -20881,6 +20881,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285832",
+      "title": "UK's small power plants face higher cyber risk into 2030s – Iran-linked hack",
+      "canonical_url": "https://www.theguardian.com/business/2026/aug/27/uk-small-power-plants-risk-cyber-attacks-iran-hack",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T14:07:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
