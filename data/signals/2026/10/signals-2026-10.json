@@ -20681,6 +20681,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50282766",
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "canonical_url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T06:16:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
