@@ -20232,6 +20232,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50279722",
+      "title": "GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",
+      "canonical_url": "https://thenewstack.io/github-7-4b-commits-september/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T01:41:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
