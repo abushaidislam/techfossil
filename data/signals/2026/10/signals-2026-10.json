@@ -20479,6 +20479,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50273396",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "canonical_url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:41:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
