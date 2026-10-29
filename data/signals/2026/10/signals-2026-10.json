@@ -20998,6 +20998,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50273416",
+      "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+      "canonical_url": "https://bou.ke/blog/zoetermeer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:43:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
