@@ -20360,6 +20360,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50274251",
+      "title": "AlpineBSD",
+      "canonical_url": "https://wiki.alpinebsd.org",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T20:30:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
