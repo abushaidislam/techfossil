@@ -20449,6 +20449,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50277755",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "canonical_url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:45:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
