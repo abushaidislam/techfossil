@@ -20492,6 +20492,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284969",
+      "title": "DockFrame is now live on CrowdSupply",
+      "canonical_url": "https://www.crowdsupply.com/hw-media-lab/dockframe",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T11:45:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
