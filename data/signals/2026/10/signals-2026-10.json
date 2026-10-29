@@ -20203,6 +20203,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50283743",
+      "title": "Show HN: Turn the prompts you keep retyping into slash commands",
+      "canonical_url": "https://github.com/kishormorol/cli-faq-shortcuts",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T08:11:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
