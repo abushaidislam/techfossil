@@ -20780,6 +20780,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285452",
+      "title": "Zero click, silent, remote Android DoS",
+      "canonical_url": "https://smsofdeath.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T13:08:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
