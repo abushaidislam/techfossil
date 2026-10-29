@@ -20621,6 +20621,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50286879",
+      "title": "Lindroids, run Linux apps on Android from any container application",
+      "canonical_url": "https://github.com/dixonSolutions/lindroids",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T16:27:35Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "ai"
+      ]
     }
   ]
 }
