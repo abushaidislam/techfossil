@@ -20810,6 +20810,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50268380",
+      "title": "Git for the US Code",
+      "canonical_url": "https://lexifina.com/blog/git-for-the-us-code",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T07:47:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
