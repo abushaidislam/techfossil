@@ -20419,6 +20419,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50282504",
+      "title": "Low cholesterol targets cut cardiovascular events by 33%",
+      "canonical_url": "https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T05:42:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
