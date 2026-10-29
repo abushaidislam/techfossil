@@ -20608,6 +20608,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285435",
+      "title": "The Future Trait Has a Missing State",
+      "canonical_url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T13:07:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
