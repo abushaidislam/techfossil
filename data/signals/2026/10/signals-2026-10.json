@@ -20078,6 +20078,19 @@
       "technologies": [
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50283543",
+      "title": "More Math, Less Ego – Erik Demaine [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=Gdc1yll04qI",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T07:46:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
