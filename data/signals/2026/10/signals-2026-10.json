@@ -20694,6 +20694,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50258868",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "canonical_url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T19:23:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
