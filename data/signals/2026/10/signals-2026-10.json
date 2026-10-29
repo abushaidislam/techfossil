@@ -20896,6 +20896,20 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50272479",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "canonical_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:24:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
