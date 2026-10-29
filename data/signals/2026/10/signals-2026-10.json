@@ -20347,6 +20347,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284426",
+      "title": "Show HN: AgentGPA, a report card for how you work with coding agents",
+      "canonical_url": "https://agentgpa.dev/leak-index",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T10:04:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
