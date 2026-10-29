@@ -20020,6 +20020,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284661",
+      "title": "How to tell the birds from the flowers (1907)",
+      "canonical_url": "https://archive.org/details/howtotellbirds00wood",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T10:43:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
