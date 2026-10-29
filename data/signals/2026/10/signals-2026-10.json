@@ -20666,6 +20666,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50266880",
+      "title": "I've used WordPress for 20 years, and I've stopped recommending it",
+      "canonical_url": "https://hatamoto.dev/post/wordpress-20-years-why-we-built-hatamoto",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T04:40:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
