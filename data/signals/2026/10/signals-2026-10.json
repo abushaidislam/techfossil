@@ -20160,6 +20160,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50263012",
+      "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
+      "canonical_url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T23:49:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
