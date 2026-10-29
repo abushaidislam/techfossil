@@ -20825,6 +20825,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285871",
+      "title": "Aiseesoft Anock for Mac",
+      "canonical_url": "https://www.aiseesoft.com/pads/anock-for-mac.xml",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T14:11:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
