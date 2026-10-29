@@ -20910,6 +20910,21 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50286946",
+      "title": "Show HN: MiniToolDesk – 100% client-side developer toolbox (35 tools, no ads)",
+      "canonical_url": "https://minitooldesk.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T16:36:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
