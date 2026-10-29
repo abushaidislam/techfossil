@@ -20404,6 +20404,21 @@
         "claude",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50276883",
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "canonical_url": "https://slidebyside.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:07:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
