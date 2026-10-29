@@ -20955,6 +20955,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284628",
+      "title": "Point system Claude uses to ban accounts",
+      "canonical_url": "https://twitter.com/make_claude/status/2115501814090969583",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T10:38:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
