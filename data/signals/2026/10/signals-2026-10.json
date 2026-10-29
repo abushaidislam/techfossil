@@ -21055,6 +21055,19 @@
         "api",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50261589",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "canonical_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T22:25:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
