@@ -20118,6 +20118,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-dev-4926659",
+      "title": "Shipping Flutter Web to Firebase When Your GitHub Actions Budget Hits Zero",
+      "canonical_url": "https://dev.to/gde/shipping-flutter-web-to-firebase-when-your-github-actions-budget-hits-zero-2mi5",
+      "source": "dev_to",
+      "published_at": "2026-10-27T08:06:59Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "devops"
+      ]
     }
   ]
 }
