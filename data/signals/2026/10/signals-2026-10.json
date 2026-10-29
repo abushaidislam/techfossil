@@ -20838,6 +20838,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50285822",
+      "title": "Show HN: A free 16-point check for how AI assistants see your website",
+      "canonical_url": "https://checker.visiblebyagents.com/self-check.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T14:05:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
