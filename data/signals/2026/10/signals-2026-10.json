@@ -20173,6 +20173,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1029-dev-4927297",
+      "title": "Human-in-the-Loop Agents in Pure Dart: Genkit, MCP and an Approval Gate on Cloud Run",
+      "canonical_url": "https://dev.to/gde/human-in-the-loop-agents-in-pure-dart-genkit-mcp-and-an-approval-gate-on-cloud-run-4gmc",
+      "source": "dev_to",
+      "published_at": "2026-10-27T09:53:26Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "cloud",
+        "ai"
+      ]
     }
   ]
 }
