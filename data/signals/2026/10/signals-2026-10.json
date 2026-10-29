@@ -20983,6 +20983,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50287262",
+      "title": "Across the Channel",
+      "canonical_url": "https://channel-swims.info/crossed",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T17:16:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
