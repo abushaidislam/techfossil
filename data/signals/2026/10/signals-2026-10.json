@@ -20065,6 +20065,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50272515",
+      "title": "Show HN: Popkern – open-source CAD kernel with G2 corner blends, browser IDE",
+      "canonical_url": "https://popkern.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T18:26:27Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
