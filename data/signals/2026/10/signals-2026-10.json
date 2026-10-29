@@ -20550,6 +20550,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50286949",
+      "title": "Show HN: I got tired of travel spreadsheets so I made a travel planner app",
+      "canonical_url": "https://www.wherewhen.cc",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T16:37:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
