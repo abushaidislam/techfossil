@@ -20050,6 +20050,21 @@
         "django",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50278253",
+      "title": "Scaling Hierarchical Networks",
+      "canonical_url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T00:07:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
