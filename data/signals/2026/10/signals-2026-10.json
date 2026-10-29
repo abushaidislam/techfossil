@@ -20276,6 +20276,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50260526",
+      "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
+      "canonical_url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T21:09:27Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
