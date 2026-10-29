@@ -20375,6 +20375,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50283597",
+      "title": "Show HN: A Prolog-powered reverse WAF logic perimeter with SIMD acceleration",
+      "canonical_url": "https://prologwaf.site/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T07:52:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
