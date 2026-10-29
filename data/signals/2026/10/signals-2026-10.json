@@ -20565,6 +20565,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50267569",
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "canonical_url": "https://github.com/maharmstone/moxnox",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T05:53:41Z",
+      "category": "Software Engineering",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
