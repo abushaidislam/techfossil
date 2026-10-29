@@ -20737,6 +20737,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50256952",
+      "title": "Gforth 1.0",
+      "canonical_url": "https://gforth.org/manual/1.0/NEWS.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T16:23:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
