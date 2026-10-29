@@ -20722,6 +20722,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50286858",
+      "title": "Sprout – A Modern Motherboard for Old iPods",
+      "canonical_url": "https://certainthings.studio/sprout/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T16:23:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
