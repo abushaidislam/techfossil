@@ -20507,6 +20507,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50284980",
+      "title": "GeForce vs. Workstation GPUs: Nvidia's Half Rate, Priced",
+      "canonical_url": "https://www.airealist.ai/p/nvidia-geforce-half-rate",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T11:47:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
