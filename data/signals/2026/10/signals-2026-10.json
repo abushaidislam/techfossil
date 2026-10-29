@@ -20851,6 +20851,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50265128",
+      "title": "Four Months of Zig",
+      "canonical_url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T02:13:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
