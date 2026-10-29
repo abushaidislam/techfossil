@@ -20795,6 +20795,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1029-hn-50232101",
+      "title": "OpenLDK: Bringing the Java World into Common Lisp",
+      "canonical_url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+      "source": "hacker_news",
+      "published_at": "2026-10-25T20:45:13Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
