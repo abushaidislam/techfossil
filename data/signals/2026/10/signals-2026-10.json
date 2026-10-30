@@ -21666,6 +21666,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50243060",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "canonical_url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T19:13:31Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
