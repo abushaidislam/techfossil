@@ -21969,6 +21969,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298463",
+      "title": "How to Ace Interviews and Meetings with AI Assistance",
+      "canonical_url": "https://sanityos.com/blog/ai-meeting-interview-assistant",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:45:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
