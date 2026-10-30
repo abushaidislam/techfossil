@@ -21068,6 +21068,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50278645",
+      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+      "canonical_url": "https://github.com/theconsensuslabs/noalloc",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T00:29:25Z",
+      "category": "Backend & APIs",
+      "importance_score": 75,
+      "verification_status": "verified",
+      "technologies": [
+        "golang"
+      ]
     }
   ]
 }
