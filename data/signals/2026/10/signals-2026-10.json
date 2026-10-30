@@ -21840,6 +21840,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298692",
+      "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T07:15:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gpt"
+      ]
     }
   ]
 }
