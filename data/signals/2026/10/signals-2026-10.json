@@ -21707,6 +21707,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50287599",
+      "title": "NetBSD adds a new text editor called atto",
+      "canonical_url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T17:59:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
