@@ -21565,6 +21565,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50292475",
+      "title": "Show HN: Radix - A WebGPU-powered 3D Gaussian Splat renderer built on Three.js",
+      "canonical_url": "https://sparkjs.dev/radix/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T23:10:49Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
