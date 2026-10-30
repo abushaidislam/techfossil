@@ -21256,6 +21256,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50297955",
+      "title": "LLM Programming and Theory Building",
+      "canonical_url": "https://kevinlynagh.com/newsletter/2026_10_29_llm_programming_and_theory_building/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T05:56:15Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "llm"
+      ]
     }
   ]
 }
