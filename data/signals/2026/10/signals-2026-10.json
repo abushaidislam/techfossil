@@ -21226,6 +21226,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-dev-4942213",
+      "title": "AI Dev Weekly #32: GPT-6.1 Terra, Gemini Carbon, Kimi K3.1 and Copilot Fusion",
+      "canonical_url": "https://dev.to/ai_made_tools/ai-dev-weekly-32-gpt-61-terra-gemini-carbon-kimi-k31-and-copilot-fusion-3mpi",
+      "source": "dev_to",
+      "published_at": "2026-10-29T15:57:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai",
+        "gpt"
+      ]
     }
   ]
 }
