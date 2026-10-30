@@ -21679,6 +21679,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298364",
+      "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
+      "canonical_url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:35:43Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript"
+      ]
     }
   ]
 }
