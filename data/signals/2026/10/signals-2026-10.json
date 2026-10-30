@@ -21692,6 +21692,21 @@
       "technologies": [
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50295868",
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "canonical_url": "https://projects.freehackers.org/sylphide-os/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T02:59:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
