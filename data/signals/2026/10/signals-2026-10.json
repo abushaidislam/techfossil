@@ -21752,6 +21752,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50264087",
+      "title": "Creating interactive data visualization with Flint-interactive",
+      "canonical_url": "https://microsoft.github.io/flint-chart/#/interactions",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T01:00:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
