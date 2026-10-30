@@ -21111,6 +21111,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-dev-4941529",
+      "title": "Performance vs Quality: Gemma 4 E2B Quantization on an NVIDIA L4 and a Tesla T4",
+      "canonical_url": "https://dev.to/gde/performance-vs-quality-gemma-4-e2b-quantization-on-an-nvidia-l4-and-a-tesla-t4-4b90",
+      "source": "dev_to",
+      "published_at": "2026-10-29T14:39:09Z",
+      "category": "Systems & Architecture",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "performance",
+        "aws"
+      ]
     }
   ]
 }
