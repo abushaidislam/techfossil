@@ -21523,6 +21523,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298350",
+      "title": "You can still get a IPv4 /24 from ARIN for $275⅌year, with strings attached",
+      "canonical_url": "https://dreamstation.systems/personal/arin410.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:34:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
