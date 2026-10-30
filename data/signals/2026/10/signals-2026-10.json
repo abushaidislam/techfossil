@@ -21894,6 +21894,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50285154",
+      "title": "We won't \"just hang out\"",
+      "canonical_url": "https://borretti.me/article/we-wont-just-hang-out",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T12:20:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
