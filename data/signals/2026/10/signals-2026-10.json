@@ -21326,6 +21326,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50289162",
+      "title": "Why are good developers so wary of agentic development?",
+      "canonical_url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T19:58:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
