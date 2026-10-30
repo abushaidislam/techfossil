@@ -21397,6 +21397,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298367",
+      "title": "Wenzhou Train Collision",
+      "canonical_url": "https://en.wikipedia.org/wiki/Wenzhou_train_collision",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:35:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
