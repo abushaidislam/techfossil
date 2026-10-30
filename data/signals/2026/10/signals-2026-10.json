@@ -21909,6 +21909,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50274547",
+      "title": "Keep the changelog, avoid the conflicts",
+      "canonical_url": "https://devenv.sh/blog/2026/10/28/keep-the-changelog-avoid-the-conflicts/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T20:45:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
