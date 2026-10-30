@@ -21497,6 +21497,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298900",
+      "title": "New federal rule will require prescription drug middlemen to share payment data",
+      "canonical_url": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T07:48:02Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
