@@ -21924,6 +21924,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50300028",
+      "title": "What is work for? Human wellbeing and the value of work in the AGI era",
+      "canonical_url": "https://institute.deepmind.com/essays/what-is-work-for-human-wellbeing-and-the-value-of-work-in-the-agi-era/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T11:02:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
