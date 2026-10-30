@@ -21270,6 +21270,19 @@
         "ui",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50293025",
+      "title": "AI Contributions to GHC",
+      "canonical_url": "https://serokell.io/blog/ai-contributions-to-ghc",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T23:42:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
