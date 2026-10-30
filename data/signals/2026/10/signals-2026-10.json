@@ -21081,6 +21081,21 @@
       "technologies": [
         "golang"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50297358",
+      "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+      "canonical_url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T04:51:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
