@@ -21939,6 +21939,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50291054",
+      "title": "H.264 Is Magic (2016)",
+      "canonical_url": "https://sidbala.com/h-264-is-magic/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:53:03Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
