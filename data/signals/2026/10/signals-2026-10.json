@@ -21096,6 +21096,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50260033",
+      "title": "One reviewer per layer: splitting code review by the way code is read",
+      "canonical_url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T20:33:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
