@@ -21722,6 +21722,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50273104",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:20:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
