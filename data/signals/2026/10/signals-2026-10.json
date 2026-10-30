@@ -21470,6 +21470,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50255573",
+      "title": "Python on My Wrist",
+      "canonical_url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T13:10:45Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
