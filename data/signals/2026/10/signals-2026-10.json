@@ -21211,6 +21211,21 @@
         "security",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50299835",
+      "title": "Torturing Jev",
+      "canonical_url": "https://www.jonathanchiang.ca/blog/jev.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T10:21:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
