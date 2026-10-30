@@ -21354,6 +21354,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50293546",
+      "title": "Archive Of Our Own down for maintenance for 2 to 4 weeks",
+      "canonical_url": "https://www.otwstatus.org/incidents/g12jnxck9g6h",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T00:17:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
