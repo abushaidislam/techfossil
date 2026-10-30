@@ -21440,6 +21440,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50249598",
+      "title": "Iterating Backwards in C",
+      "canonical_url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T01:28:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
