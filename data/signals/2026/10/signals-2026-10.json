@@ -21825,6 +21825,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50300094",
+      "title": "Is the new Siri perceptibly slowing down iOS?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50300094",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T11:16:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
