@@ -21410,6 +21410,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50291927",
+      "title": "Toxic experts (2017)",
+      "canonical_url": "https://nedbatchelder.com/blog/201711/toxic_experts",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T22:41:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
