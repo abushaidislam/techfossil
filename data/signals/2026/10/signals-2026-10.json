@@ -21621,6 +21621,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50293879",
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "canonical_url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T00:40:09Z",
+      "category": "Software Engineering",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
