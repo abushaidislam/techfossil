@@ -21241,6 +21241,21 @@
         "ai",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50290668",
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "canonical_url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:30:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
