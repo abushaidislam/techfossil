@@ -21854,6 +21854,19 @@
         "ai",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50299568",
+      "title": "Building oversight tools into a model's weights",
+      "canonical_url": "https://divagr.com/blog/building-oversight-tools-into-a-models-weights",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T09:30:20Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
