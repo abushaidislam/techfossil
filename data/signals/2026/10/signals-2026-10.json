@@ -21578,6 +21578,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50299212",
+      "title": "AGI Economics: Coordination vs. Competence",
+      "canonical_url": "https://institute.deepmind.com/essays/the-economics-of-intelligence/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T08:36:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
