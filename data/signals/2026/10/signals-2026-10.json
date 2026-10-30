@@ -21552,6 +21552,19 @@
         "security",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50297720",
+      "title": "AI, Mathematics, Education, and a public goods problem",
+      "canonical_url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T05:28:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
