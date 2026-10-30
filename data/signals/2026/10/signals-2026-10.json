@@ -21797,6 +21797,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298677",
+      "title": "34% of U.S. women under age 50 have iron deficiency under new guidelines",
+      "canonical_url": "https://www.empirical.health/blog/ferritin-thresholds-iron-deficiency/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T07:13:46Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
