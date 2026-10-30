@@ -21455,6 +21455,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50299506",
+      "title": "By Popular Demand – community's film picks to rent on Letterboxd Video Store",
+      "canonical_url": "https://letterboxd.com/journal/by-popular-demand-fall-2026-letterboxd-video-store/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T09:20:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
