@@ -21881,6 +21881,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298328",
+      "title": "Animations for System Builders: Metastability and Lost Writes",
+      "canonical_url": "https://www.brooker.co.za/blog/2026/10/23/animations.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:32:34Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
