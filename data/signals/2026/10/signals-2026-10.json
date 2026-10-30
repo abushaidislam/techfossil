@@ -21737,6 +21737,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50294161",
+      "title": "Avoid Public Functions Calling Other Public Functions",
+      "canonical_url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T01:00:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
