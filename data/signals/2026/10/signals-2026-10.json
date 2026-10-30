@@ -21483,6 +21483,20 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50275626",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "canonical_url": "https://surgehq.ai/blog/dayjob-tax",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T21:46:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
