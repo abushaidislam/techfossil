@@ -21651,6 +21651,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50274893",
+      "title": "Newly discovered Kerberos delegation abuse path",
+      "canonical_url": "https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T21:04:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
