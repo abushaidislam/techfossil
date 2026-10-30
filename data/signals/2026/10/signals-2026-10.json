@@ -21311,6 +21311,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50289590",
+      "title": "Keplearn: Extract Equations from Data in Seconds",
+      "canonical_url": "https://github.com/owls-on-wires/keplearn",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T20:22:53Z",
+      "category": "Software Engineering",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
