@@ -21194,6 +21194,23 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-dev-4941314",
+      "title": "Gemini 4 Carbon Is #1 on AA Index — Still Fairwind-Only: Cyber Benches, $2/$10 $4/$20, and What to Do Before the API",
+      "canonical_url": "https://dev.to/yong_yu_f98e15562e9b120a0/gemini-4-carbon-is-1-on-aa-index-still-fairwind-only-cyber-benches-210-420-and-what-to-b66",
+      "source": "dev_to",
+      "published_at": "2026-10-29T13:14:48Z",
+      "category": "Security & Privacy",
+      "importance_score": 84,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "gemini",
+        "ai",
+        "security",
+        "api"
+      ]
     }
   ]
 }
