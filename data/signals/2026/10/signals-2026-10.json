@@ -21367,6 +21367,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298037",
+      "title": "Please Let the Internet Die",
+      "canonical_url": "https://www.wired.com/story/let-the-internet-die/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:04:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
