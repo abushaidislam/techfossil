@@ -21867,6 +21867,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50298563",
+      "title": "The User Is Always the Boss – An Opinion on Linux and Anticheat",
+      "canonical_url": "https://bonkmay.kr/index/articles/fortnite_linux.php",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:56:22Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
