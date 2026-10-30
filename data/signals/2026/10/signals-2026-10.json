@@ -21382,6 +21382,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50295332",
+      "title": "Tesla caught altering specs following rear suspension collapse reports",
+      "canonical_url": "https://carnewschina.com/2026/09/17/tesla-caught-quietly-altering-model-y-l-manual-specs-following-rear-suspension-collapse-reports/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T02:24:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
