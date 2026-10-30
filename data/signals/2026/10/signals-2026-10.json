@@ -21810,6 +21810,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "canonical_url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:13:29Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
