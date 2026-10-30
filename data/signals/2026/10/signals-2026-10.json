@@ -21125,6 +21125,19 @@
         "performance",
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1030-dev-4935495",
+      "title": "Welcome to the Prompt Pad: AI Tips & Tricks with Rosendo Pili",
+      "canonical_url": "https://blog.mlh.com/welcome-to-the-prompt-pad-ai-tips-tricks-with-rosendo-pili-2hkl",
+      "source": "dev_to",
+      "published_at": "2026-10-29T19:07:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
