@@ -21593,6 +21593,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1030-hn-50299421",
+      "title": "Solnix – distribution of Illumos built with Nix packages and NixOS modules",
+      "canonical_url": "https://solnix.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T09:05:05Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
