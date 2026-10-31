@@ -22690,6 +22690,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50290177",
+      "title": "LLM Voice",
+      "canonical_url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T20:57:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
