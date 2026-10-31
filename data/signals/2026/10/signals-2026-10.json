@@ -24083,6 +24083,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50315132",
+      "title": "Cookie Status: browser tracking protections compared",
+      "canonical_url": "https://www.cookiestatus.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T17:41:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
