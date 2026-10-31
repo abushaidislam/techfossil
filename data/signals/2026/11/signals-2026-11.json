@@ -102,6 +102,21 @@
         "ai",
         "css"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317586",
+      "title": "In 'You Can See Everything,' Elizabeth Holmes Is Still Lying",
+      "canonical_url": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:29:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
