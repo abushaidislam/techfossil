@@ -1547,6 +1547,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50315409",
+      "title": "NASA's Voyager 1 mysteriously lost touch with Earth",
+      "canonical_url": "https://mashable.com/science/nasa-voyager-1-communication-outage",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T18:12:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
