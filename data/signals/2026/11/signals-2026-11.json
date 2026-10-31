@@ -370,6 +370,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50296700",
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "canonical_url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T03:56:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
