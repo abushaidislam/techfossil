@@ -22497,6 +22497,19 @@
         "security",
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313645",
+      "title": "Ask HN: Is anyone else struggling with AI wealth FOMO?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50313645",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:14:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
