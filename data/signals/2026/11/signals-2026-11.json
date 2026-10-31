@@ -1891,6 +1891,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318147",
+      "title": "Dollars, for 80 Cents",
+      "canonical_url": "https://dollarsforless.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:31:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
