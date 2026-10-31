@@ -23529,6 +23529,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314976",
+      "title": "Hottown.music",
+      "canonical_url": "https://hottown.music",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T17:19:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
