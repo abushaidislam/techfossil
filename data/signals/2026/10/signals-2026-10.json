@@ -23141,6 +23141,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50271640",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "canonical_url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T17:03:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
