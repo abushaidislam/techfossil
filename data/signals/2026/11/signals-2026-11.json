@@ -1705,6 +1705,19 @@
         "ai",
         "neural"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318620",
+      "title": "Software is Eating AI (2017)",
+      "canonical_url": "https://hyperparameter.space/blog/software-is-eating-ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:27:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
