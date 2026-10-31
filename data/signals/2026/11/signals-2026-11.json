@@ -1401,6 +1401,21 @@
       "technologies": [
         "azure"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319508",
+      "title": "Toit. Language for ESP32",
+      "canonical_url": "https://toit.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:56:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
