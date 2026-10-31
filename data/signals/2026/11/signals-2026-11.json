@@ -511,6 +511,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317727",
+      "title": "AI-Run Companies Are Coming. Delaware Wants to Get Ahead of Them",
+      "canonical_url": "https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:44:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
