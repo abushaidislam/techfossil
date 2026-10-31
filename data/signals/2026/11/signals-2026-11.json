@@ -355,6 +355,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50270651",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "canonical_url": "https://github.com/da-luce/astroterm",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T14:29:55Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
