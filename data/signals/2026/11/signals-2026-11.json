@@ -845,6 +845,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317896",
+      "title": "Jonathan Swift vs. AI",
+      "canonical_url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:02:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
