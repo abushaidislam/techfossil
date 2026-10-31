@@ -1459,6 +1459,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319510",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "canonical_url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:56:53Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "hacker"
+      ]
     }
   ]
 }
