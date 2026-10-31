@@ -23361,6 +23361,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50305225",
+      "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+      "canonical_url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:23:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
