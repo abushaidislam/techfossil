@@ -817,6 +817,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318189",
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "canonical_url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:37:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
