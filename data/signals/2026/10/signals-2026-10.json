@@ -23557,6 +23557,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314531",
+      "title": "The supercomputer powering Greece's AI ambitions",
+      "canonical_url": "https://www.ekathimerini.com/economy/1319798/inside-the-supercomputer-powering-greeces-ai-ambitions/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:56:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
