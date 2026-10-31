@@ -23702,6 +23702,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314522",
+      "title": "Show HN: JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
+      "canonical_url": "https://suna.jjcoders.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:55:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
