@@ -1232,6 +1232,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319061",
+      "title": "The Duty of a Scholar",
+      "canonical_url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:07:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
