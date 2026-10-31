@@ -23290,6 +23290,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50306442",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "canonical_url": "https://github.com/dbreunig/nesformer",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T22:40:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
