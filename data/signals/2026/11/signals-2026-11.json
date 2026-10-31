@@ -638,6 +638,21 @@
         "claude",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318127",
+      "title": "Current Practices in Software Development (1984)",
+      "canonical_url": "https://archive.org/details/currentpractices0000king",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:29:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
