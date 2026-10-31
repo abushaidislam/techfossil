@@ -22483,6 +22483,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50282544",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "canonical_url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T05:45:46Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "cve"
+      ]
     }
   ]
 }
