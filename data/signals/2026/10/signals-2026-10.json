@@ -22748,6 +22748,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313257",
+      "title": "Britain Narrowly Escaped a Grid Blackout in June 2026",
+      "canonical_url": "https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:38:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
