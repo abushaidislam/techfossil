@@ -23085,6 +23085,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50261998",
+      "title": "Ghostty 1.4",
+      "canonical_url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T22:51:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
