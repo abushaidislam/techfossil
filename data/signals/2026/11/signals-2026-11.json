@@ -947,6 +947,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318129",
+      "title": "The She-Wolves of Jülich",
+      "canonical_url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:29:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
