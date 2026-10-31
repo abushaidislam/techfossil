@@ -117,6 +117,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50297089",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "canonical_url": "https://journal.animationstudies.org/article/id/66/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T04:26:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
