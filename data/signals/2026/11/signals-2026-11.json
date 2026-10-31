@@ -1301,6 +1301,21 @@
       "technologies": [
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318556",
+      "title": "SAT Lowered Expectations",
+      "canonical_url": "https://www.nationalreview.com/2026/10/how-the-sat-lowered-expectations/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:20:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
