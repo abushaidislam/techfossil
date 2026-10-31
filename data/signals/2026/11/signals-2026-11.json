@@ -886,6 +886,22 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317562",
+      "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+      "canonical_url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:25:38Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres",
+        "sql",
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
