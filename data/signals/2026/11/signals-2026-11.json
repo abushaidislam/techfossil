@@ -1635,6 +1635,21 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318200",
+      "title": "Homebrew 68000 computer with a PCI bus",
+      "canonical_url": "https://maniek86.xyz/projects/homebrew_m68k_pci.php",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:38:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
