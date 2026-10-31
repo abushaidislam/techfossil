@@ -832,6 +832,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317763",
+      "title": "Show HN: KeepTalking – People's agentic workspace that's P2P and local-first",
+      "canonical_url": "https://keeptalking.dev/beta",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:47:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
