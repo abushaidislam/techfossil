@@ -23613,6 +23613,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313701",
+      "title": "Push Ifs Up and Fors Down",
+      "canonical_url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:22:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
