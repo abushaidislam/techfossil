@@ -22636,6 +22636,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313548",
+      "title": "Spanish minister refuses to resign over second major train crash on his watch",
+      "canonical_url": "https://www.channelnewsasia.com/world/spain-transport-minister-resign-train-crash-6507826",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T11:54:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
