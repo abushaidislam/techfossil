@@ -24098,6 +24098,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50315898",
+      "title": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50315898",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T19:12:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
