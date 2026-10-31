@@ -22718,6 +22718,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314100",
+      "title": "Android version distribution in October 2026: Android 16 leads",
+      "canonical_url": "https://www.heise.de/en/news/Android-version-distribution-in-October-2026-Android-16-leads-11504842.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:04:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
