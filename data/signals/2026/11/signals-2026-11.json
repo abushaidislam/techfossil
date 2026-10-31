@@ -624,6 +624,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317700",
+      "title": "Show HN: VestLens, a MCP App for Wealthsimple Portfolios in Claude/ChatGPT",
+      "canonical_url": "https://vestlens.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:41:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "gpt"
+      ]
     }
   ]
 }
