@@ -439,6 +439,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317534",
+      "title": "Enlightenment 0.28 Released with Many Improvements",
+      "canonical_url": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:22:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
