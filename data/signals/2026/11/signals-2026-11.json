@@ -1331,6 +1331,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319389",
+      "title": "Automate the setup and configuration of your Windows development environment",
+      "canonical_url": "https://github.com/microsoft/WindowsDeveloperConfig/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:43:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
