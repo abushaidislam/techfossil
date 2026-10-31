@@ -23238,6 +23238,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50310258",
+      "title": "AO3 Down for Maintenance",
+      "canonical_url": "https://www.otwstatus.org",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T03:17:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
