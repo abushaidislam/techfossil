@@ -524,6 +524,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318255",
+      "title": "Cloudflare: Tracking exploitation and patching of eMudhra's weak keys",
+      "canonical_url": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:43:37Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
