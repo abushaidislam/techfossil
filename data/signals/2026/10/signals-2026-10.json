@@ -22102,6 +22102,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-dev-4943309",
+      "title": "Giving AI Pain: The Architecture of Synthetic Scars & The Rapid-Regret Miner",
+      "canonical_url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
+      "source": "dev_to",
+      "published_at": "2026-10-29T20:32:53Z",
+      "category": "Systems & Architecture",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
