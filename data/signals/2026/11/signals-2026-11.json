@@ -1733,6 +1733,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50300644",
+      "title": "North Korea Steals USD 6.36B from Binance in the Largest Hack in History",
+      "canonical_url": "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T13:01:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
