@@ -22010,6 +22010,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-dev-4947208",
+      "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
+      "canonical_url": "https://dev.to/gde/four-gpus-one-quantization-ladder-gemma-4-e2b-from-a-4-gb-laptop-to-an-nvidia-l4-4olp",
+      "source": "dev_to",
+      "published_at": "2026-10-30T13:05:27Z",
+      "category": "Software Engineering",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
