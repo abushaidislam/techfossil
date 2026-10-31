@@ -188,6 +188,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316775",
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "canonical_url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T20:59:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
