@@ -314,6 +314,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50273340",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "canonical_url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T19:38:04Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
