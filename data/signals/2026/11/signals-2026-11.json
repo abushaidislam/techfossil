@@ -1262,6 +1262,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318373",
+      "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+      "canonical_url": "https://zenodo.org/records/21909447",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:59:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
