@@ -579,6 +579,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50293806",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "canonical_url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T00:33:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
