@@ -1532,6 +1532,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50296947",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "canonical_url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T04:14:23Z",
+      "category": "Software Engineering",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
