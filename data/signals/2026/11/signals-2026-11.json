@@ -1217,6 +1217,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318162",
+      "title": "French youth protests spread to Germany",
+      "canonical_url": "https://www.upi.com/Top_News/World-News/2026/10/31/germany-france-youth-protests/2071793465114/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:33:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
