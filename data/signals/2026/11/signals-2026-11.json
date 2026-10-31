@@ -537,6 +537,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50310398",
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "canonical_url": "https://www.firezone.dev/blog/introducing-sanstun",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T03:30:00Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
