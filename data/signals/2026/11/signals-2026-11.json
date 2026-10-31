@@ -496,6 +496,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317908",
+      "title": "Which Philosopher Are You?",
+      "canonical_url": "https://knowsoda.com/philosophy",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:04:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
