@@ -385,6 +385,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317997",
+      "title": "NASA-Funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "canonical_url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:13:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
