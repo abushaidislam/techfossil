@@ -746,6 +746,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318080",
+      "title": "The Parents Who Are Letting Their Kids Drink",
+      "canonical_url": "https://www.wsj.com/lifestyle/relationships/the-parents-taking-a-more-lenient-approach-to-teen-drinking-1b77dd93",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:24:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
