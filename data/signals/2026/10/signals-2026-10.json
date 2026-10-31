@@ -22233,6 +22233,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312896",
+      "title": "Education at a Glance 2026 [pdf]",
+      "canonical_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/09/education-at-a-glance-2026_3bce4131/b4968bbc-en.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T09:16:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
