@@ -1592,6 +1592,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318405",
+      "title": "The Mystery of Ben-Gay (2006)",
+      "canonical_url": "https://www.technologyreview.com/2006/08/22/273714/the-mystery-of-bengay/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:02:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
