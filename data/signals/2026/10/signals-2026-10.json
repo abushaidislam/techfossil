@@ -23445,6 +23445,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50271120",
+      "title": "Hey linker, can you spare a meg?",
+      "canonical_url": "https://tailscale.com/blog/go-linker",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T15:49:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
