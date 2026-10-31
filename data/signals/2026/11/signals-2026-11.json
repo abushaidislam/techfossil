@@ -1650,6 +1650,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50291421",
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "canonical_url": "https://16colo.rs/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T22:14:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
