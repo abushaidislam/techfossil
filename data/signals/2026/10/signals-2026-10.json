@@ -23570,6 +23570,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50294486",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "canonical_url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T01:25:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
