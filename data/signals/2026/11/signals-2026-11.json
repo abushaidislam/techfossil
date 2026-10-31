@@ -1678,6 +1678,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318849",
+      "title": "Google's AI satellite sends a expensive haiku to Earth",
+      "canonical_url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:48:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
