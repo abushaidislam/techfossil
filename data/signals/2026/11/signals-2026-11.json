@@ -932,6 +932,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317363",
+      "title": "Casio Watches of the 1980s",
+      "canonical_url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:00:48Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
