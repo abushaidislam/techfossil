@@ -871,6 +871,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50314666",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "canonical_url": "https://piefed.world/post/1503394",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:23:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
