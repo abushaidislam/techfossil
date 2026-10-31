@@ -962,6 +962,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319047",
+      "title": "Free Invoice Generator Online",
+      "canonical_url": "https://gccinvoice.com/free-invoice-generator",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:06:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
