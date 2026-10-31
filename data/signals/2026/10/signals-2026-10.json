@@ -23305,6 +23305,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50289081",
+      "title": "Brief History of PDP Computers",
+      "canonical_url": "https://entropicthoughts.com/history-of-pdp-computers",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T19:53:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
