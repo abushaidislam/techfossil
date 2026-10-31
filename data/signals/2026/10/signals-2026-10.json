@@ -22162,6 +22162,21 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313088",
+      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "canonical_url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:01:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
