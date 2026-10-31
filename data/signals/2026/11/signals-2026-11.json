@@ -1388,6 +1388,19 @@
         "claude",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50301854",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "canonical_url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T16:06:15Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "azure"
+      ]
     }
   ]
 }
