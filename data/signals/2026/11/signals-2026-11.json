@@ -977,6 +977,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317269",
+      "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
+      "canonical_url": "https://text.npr.org/nx-s1-6021471",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:49:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
