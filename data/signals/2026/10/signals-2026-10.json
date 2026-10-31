@@ -23758,6 +23758,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50295450",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "canonical_url": "https://github.com/SheepSeb/tinyworldformer",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T02:32:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
