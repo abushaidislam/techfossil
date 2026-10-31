@@ -1316,6 +1316,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50305637",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "canonical_url": "https://github.com/kevinraymond/florilegium",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:48:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
