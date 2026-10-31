@@ -23628,6 +23628,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50267380",
+      "title": "Historical Scientific Instruments",
+      "canonical_url": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T05:32:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
