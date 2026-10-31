@@ -22538,6 +22538,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313894",
+      "title": "Faststrap: Component-based FastHTML extension that provides reusable UI elements",
+      "canonical_url": "https://github.com/Faststrap-org/Faststrap",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:07:35Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html",
+        "ui"
+      ]
     }
   ]
 }
