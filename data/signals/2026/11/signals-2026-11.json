@@ -1005,6 +1005,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50307723",
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "canonical_url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T23:57:35Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
