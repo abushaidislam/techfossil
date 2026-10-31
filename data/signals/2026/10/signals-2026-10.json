@@ -22623,6 +22623,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313998",
+      "title": "Live benchmark of web scraping APIs and residential proxies (2026)",
+      "canonical_url": "https://github.com/tianjun588/llm-web-scraping-benchmark",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:39:18Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
