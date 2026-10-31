@@ -23404,6 +23404,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314801",
+      "title": "How to tell whether your lithium batteries are a fire risk – and what to do",
+      "canonical_url": "https://www.cbc.ca/lite/story/9.7401515",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:50:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
