@@ -227,6 +227,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318332",
+      "title": "Ask HN: How feasible is the transition from webdev to embedded/firmware?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50318332",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:54:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
