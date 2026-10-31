@@ -22453,6 +22453,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50304419",
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "canonical_url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T20:27:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
