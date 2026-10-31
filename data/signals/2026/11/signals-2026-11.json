@@ -1049,6 +1049,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318940",
+      "title": "The Limits of AI as an Economic Weapon",
+      "canonical_url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:56:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
