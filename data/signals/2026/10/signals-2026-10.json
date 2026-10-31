@@ -22263,6 +22263,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50297697",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "canonical_url": "https://github.com/mottopanikeiku/doomformer",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T05:25:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
