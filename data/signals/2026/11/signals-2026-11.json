@@ -1906,6 +1906,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317502",
+      "title": "Nonna – TypeScript Dependency injection without the reflection tax",
+      "canonical_url": "https://nonna.nodeboot.io/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:18:58Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript"
+      ]
     }
   ]
 }
