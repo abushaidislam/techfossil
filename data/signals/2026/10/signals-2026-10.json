@@ -21982,6 +21982,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50311376",
+      "title": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+      "canonical_url": "https://multispace.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T05:16:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
