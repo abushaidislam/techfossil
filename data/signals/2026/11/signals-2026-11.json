@@ -1444,6 +1444,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319042",
+      "title": "Hurry Curry – FOSS multiplayer cooking simulation game",
+      "canonical_url": "https://hurrycurry.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:05:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
