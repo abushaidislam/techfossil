@@ -733,6 +733,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316531",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "canonical_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T20:29:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
