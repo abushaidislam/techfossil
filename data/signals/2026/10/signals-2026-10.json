@@ -23320,6 +23320,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50277518",
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "canonical_url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:34:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
