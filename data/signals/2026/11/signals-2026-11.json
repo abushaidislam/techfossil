@@ -1361,6 +1361,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318471",
+      "title": "Show HN: Haris list jobs board for agents",
+      "canonical_url": "https://covenant-common.github.io/covenant-docs/docs/TERMINAL.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:11:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
