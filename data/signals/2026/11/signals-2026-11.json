@@ -426,6 +426,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318169",
+      "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+      "canonical_url": "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:34:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
