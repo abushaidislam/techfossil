@@ -23223,6 +23223,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50243757",
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "canonical_url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T19:54:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
