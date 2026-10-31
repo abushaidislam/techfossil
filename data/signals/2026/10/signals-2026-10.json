@@ -23028,6 +23028,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314746",
+      "title": "Show HN: Free OCR Cost Calculator – Estimate multi-provider LLM token costs",
+      "canonical_url": "https://ocrbench.app/blog/llm-ocr-cost-calculator/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:38:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
