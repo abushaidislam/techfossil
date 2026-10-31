@@ -22248,6 +22248,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50309029",
+      "title": "Infinite Mac: BeOS",
+      "canonical_url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T01:30:09Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
