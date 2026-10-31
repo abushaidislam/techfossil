@@ -23816,6 +23816,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314389",
+      "title": "Claude for Clausewitz?",
+      "canonical_url": "https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:21:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
