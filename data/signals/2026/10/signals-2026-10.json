@@ -24068,6 +24068,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314872",
+      "title": "Shiny Object Syndrome",
+      "canonical_url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T17:02:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
