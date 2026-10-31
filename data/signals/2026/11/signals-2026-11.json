@@ -1622,6 +1622,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50297068",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "canonical_url": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T04:24:56Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
