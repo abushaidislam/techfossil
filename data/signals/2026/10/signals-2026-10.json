@@ -22117,6 +22117,21 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50311801",
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "canonical_url": "https://judgementlabs.app/blog/the-coalition-room",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T06:06:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
