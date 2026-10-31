@@ -1748,6 +1748,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319749",
+      "title": "Bidirectional Charging During Grid Outages",
+      "canonical_url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T02:21:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
