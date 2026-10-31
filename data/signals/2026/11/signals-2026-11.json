@@ -992,6 +992,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318720",
+      "title": "It's the Memory Latency, Stupid",
+      "canonical_url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:38:16Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
