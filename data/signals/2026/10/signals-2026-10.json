@@ -22087,6 +22087,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50301717",
+      "title": "How do you take a picture of a black hole?",
+      "canonical_url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T15:49:02Z",
+      "category": "Software Engineering",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
