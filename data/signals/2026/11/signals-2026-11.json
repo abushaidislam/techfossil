@@ -1149,6 +1149,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318882",
+      "title": "HTTP/3 is faster with some work and help from Cloudflare",
+      "canonical_url": "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:51:34Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
