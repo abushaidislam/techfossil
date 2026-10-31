@@ -1473,6 +1473,20 @@
         "ui",
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50291812",
+      "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "canonical_url": "https://github.com/arterialist/kube32",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T22:35:14Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kubernetes",
+        "ui"
+      ]
     }
   ]
 }
