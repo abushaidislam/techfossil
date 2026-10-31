@@ -23901,6 +23901,21 @@
         "security",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314338",
+      "title": "Global fertility may have fallen below replacement level for the first time",
+      "canonical_url": "https://qazinform.com/news/global-fertility-may-have-fallen-below-replacement-level-for-the-first-time-study-f77bed",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:08:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
