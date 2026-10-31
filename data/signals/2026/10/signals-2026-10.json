@@ -23041,6 +23041,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314279",
+      "title": "Show HN: Inline comments for Hermes replies like Google Docs",
+      "canonical_url": "https://github.com/rednaks/hermes-desktop-inline-comments",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:54:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
