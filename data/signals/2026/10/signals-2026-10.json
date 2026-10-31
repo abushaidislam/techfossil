@@ -23348,6 +23348,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50308986",
+      "title": "A Pickpocket's Guide to New York",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T01:26:39Z",
+      "category": "Frontend & UI",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
