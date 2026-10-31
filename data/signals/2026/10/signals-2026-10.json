@@ -23583,6 +23583,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50281044",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "canonical_url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T03:19:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
