@@ -1792,6 +1792,21 @@
         "claude",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50307190",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "canonical_url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T23:25:15Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
