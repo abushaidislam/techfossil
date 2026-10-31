@@ -23957,6 +23957,21 @@
       "technologies": [
         "encryption"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50315776",
+      "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+      "canonical_url": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T18:57:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
