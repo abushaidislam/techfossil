@@ -31,6 +31,21 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317197",
+      "title": "French lawmakers just voted 11-10 in favour to introduce a tax on internet data",
+      "canonical_url": "https://circleid.com/posts/french-lawmakers-back-per-gigabyte-internet-traffic-tax-despite-government-opposition",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:41:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
