@@ -1247,6 +1247,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50274885",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "canonical_url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T21:04:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
