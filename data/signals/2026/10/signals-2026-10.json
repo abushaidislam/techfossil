@@ -22832,6 +22832,21 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312703",
+      "title": "Kotlin Flow: Bugs That Look Correct at First",
+      "canonical_url": "https://kt.academy/article/kaustubh_flow_bugs_that_look_correct_at_first",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T08:34:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
