@@ -23100,6 +23100,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313575",
+      "title": "Google Adopts New AI Training Control",
+      "canonical_url": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:01:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
