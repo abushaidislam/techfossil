@@ -550,6 +550,20 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318453",
+      "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+      "canonical_url": "https://github.com/contextuai/hey-spark",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:09:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
