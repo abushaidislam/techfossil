@@ -61,6 +61,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316779",
+      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+      "canonical_url": "https://github.com/Annora998/inboxwall",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T20:59:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
