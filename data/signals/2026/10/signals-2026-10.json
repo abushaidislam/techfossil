@@ -23488,6 +23488,21 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313630",
+      "title": "Automated Subtle Emergent Misalignment Research",
+      "canonical_url": "https://alignment.anthropic.com/2026/automated-em-search/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:11:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
