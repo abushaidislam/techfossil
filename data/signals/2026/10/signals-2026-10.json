@@ -22308,6 +22308,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50305320",
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "canonical_url": "https://catcopter.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:29:40Z",
+      "category": "Frontend & UI",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
