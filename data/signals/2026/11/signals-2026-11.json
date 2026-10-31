@@ -564,6 +564,21 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317829",
+      "title": "Desert Bus for Hope – the [E]nd [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=zP29j3Tqg0E",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:55:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
