@@ -23728,6 +23728,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50263837",
+      "title": "Breaking the open web won't stop the bad bots",
+      "canonical_url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T00:42:55Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
