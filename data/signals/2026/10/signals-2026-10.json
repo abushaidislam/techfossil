@@ -22177,6 +22177,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-dev-4949434",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady Winners!",
+      "canonical_url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-3-slow-and-steady-winners-3e4a",
+      "source": "dev_to",
+      "published_at": "2026-10-30T20:35:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
