@@ -22025,6 +22025,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50247342",
+      "title": "The tragedy of losing your Wikipedia page",
+      "canonical_url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T23:15:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
