@@ -1807,6 +1807,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319053",
+      "title": "2.5 hrs of makeup: Japan teen struggles with social media beauty standards",
+      "canonical_url": "https://mainichi.jp/english/articles/20261029/p2a/00m/0na/004000c",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:07:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
