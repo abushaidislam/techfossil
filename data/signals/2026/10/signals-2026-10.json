@@ -23857,6 +23857,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314972",
+      "title": "Show HN: Share file without digital trace",
+      "canonical_url": "https://apps.zincirx.com/magicalshare/web/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T17:19:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
