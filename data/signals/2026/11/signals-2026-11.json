@@ -1119,6 +1119,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318505",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3B hack",
+      "canonical_url": "https://www.bbc.com/news/articles/ckpdg3ql4169o",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:15:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
