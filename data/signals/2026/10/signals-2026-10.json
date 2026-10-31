@@ -22703,6 +22703,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50289418",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "canonical_url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T20:13:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
