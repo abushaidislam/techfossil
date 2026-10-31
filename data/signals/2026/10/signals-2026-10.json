@@ -24012,6 +24012,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50246538",
+      "title": "Compile-Time Dependent Types",
+      "canonical_url": "https://thenumb.at/Syl-Intro/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T22:28:06Z",
+      "category": "Software Engineering",
+      "importance_score": 75,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
