@@ -1837,6 +1837,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318401",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "canonical_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:02:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
