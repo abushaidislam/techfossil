@@ -22220,6 +22220,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50276792",
+      "title": "Gemini 4 Carbon",
+      "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:01:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
