@@ -1189,6 +1189,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318115",
+      "title": "I've been building a bookmark manager (note-taking app) manually for 3 years",
+      "canonical_url": "https://metaessen.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:28:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
