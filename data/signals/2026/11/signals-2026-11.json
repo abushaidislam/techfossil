@@ -666,6 +666,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318442",
+      "title": "I post trained a model on Demoscenes",
+      "canonical_url": "https://datavorous.com/writing/demoscener/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:08:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
