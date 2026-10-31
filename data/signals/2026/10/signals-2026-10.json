@@ -22378,6 +22378,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313661",
+      "title": "Digital Minimalism",
+      "canonical_url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:16:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
