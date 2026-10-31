@@ -271,6 +271,19 @@
         "architecture",
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317597",
+      "title": "UlaCache: Unified Logical Addressing for Sparse LLM Serving",
+      "canonical_url": "https://arxiv.org/abs/2610.29820",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:30:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
