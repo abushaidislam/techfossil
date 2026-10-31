@@ -22293,6 +22293,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312561",
+      "title": "Do Defenders Still Matter?",
+      "canonical_url": "https://www.ac3.com.au/resources/ai-is-prolific-do-defenders-still-matter",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T08:05:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
