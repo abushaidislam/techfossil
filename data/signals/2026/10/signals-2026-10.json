@@ -22321,6 +22321,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314020",
+      "title": "Lspkit – a Rust Toolkit for Building Programming Language Toolsets",
+      "canonical_url": "https://lspkit.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:43:09Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "rust"
+      ]
     }
   ]
 }
