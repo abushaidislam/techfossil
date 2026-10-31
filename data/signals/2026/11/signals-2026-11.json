@@ -706,6 +706,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "canonical_url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T03:40:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
