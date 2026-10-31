@@ -483,6 +483,19 @@
         "vulnerability",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317373",
+      "title": "Guardrails Are Life-Saving Machines (If They Work) [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=neGgUavFT0w",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:01:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
