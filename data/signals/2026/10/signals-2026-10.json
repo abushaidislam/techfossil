@@ -23419,6 +23419,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313474",
+      "title": "Show HN: ViBrow – A custom browser engine in pure Python for Raspberry Pi Zero",
+      "canonical_url": "https://github.com/HYXZKAKONHNK/ViBrow",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T11:34:04Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
