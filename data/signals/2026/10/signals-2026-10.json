@@ -23432,6 +23432,19 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50260753",
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "canonical_url": "https://zebra.rodeo/en/blog/marelleo/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T21:24:36Z",
+      "category": "Frontend & UI",
+      "importance_score": 78,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
