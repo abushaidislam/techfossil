@@ -22608,6 +22608,21 @@
         "ai",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314251",
+      "title": "Show HN: Everyday Toolz – free calculators that run in the browser, no sign-up",
+      "canonical_url": "https://everydaytoolz.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:46:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
