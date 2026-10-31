@@ -24053,6 +24053,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50298436",
+      "title": "Herdr has released native app",
+      "canonical_url": "https://github.com/herdrdev/herdr-app",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T06:42:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
