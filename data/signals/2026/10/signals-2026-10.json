@@ -22408,6 +22408,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50258496",
+      "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+      "canonical_url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T19:00:04Z",
+      "category": "Software Engineering",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
