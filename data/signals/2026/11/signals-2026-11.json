@@ -342,6 +342,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317919",
+      "title": "Show HN: Clawdline – Manage Claude Code/Codex sessions across computers",
+      "canonical_url": "https://clawdline.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:05:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
