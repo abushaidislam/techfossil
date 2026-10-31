@@ -22438,6 +22438,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313115",
+      "title": "UO's Knight-funded engineering school comes at Oregon State's expense",
+      "canonical_url": "https://www.oregonlive.com/silicon-forest/2026/10/a-lot-of-tension-uos-knight-funded-engineering-school-comes-at-oregon-states-expense-leaders-fear.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:06:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
