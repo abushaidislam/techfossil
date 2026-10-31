@@ -1607,6 +1607,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318615",
+      "title": "A Conversation with Paul Masurel, Creator of Tantivy",
+      "canonical_url": "https://www.paradedb.com/blog/tantivy-interview",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:26:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
