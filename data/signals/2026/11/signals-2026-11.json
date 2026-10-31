@@ -214,6 +214,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50285319",
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "canonical_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T12:47:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
