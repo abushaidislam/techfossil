@@ -23643,6 +23643,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313599",
+      "title": "Tier 1 ISPs react to unfair pricing",
+      "canonical_url": "https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:06:28Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "react",
+        "ai"
+      ]
     }
   ]
 }
