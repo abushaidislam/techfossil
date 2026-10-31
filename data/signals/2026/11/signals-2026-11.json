@@ -454,6 +454,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317429",
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "canonical_url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:09:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
