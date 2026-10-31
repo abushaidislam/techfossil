@@ -22761,6 +22761,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314277",
+      "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+      "canonical_url": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:53:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
