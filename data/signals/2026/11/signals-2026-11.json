@@ -1374,6 +1374,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316635",
+      "title": "Anthropic orders AI tool Claude to stop remaking video games",
+      "canonical_url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T20:41:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
