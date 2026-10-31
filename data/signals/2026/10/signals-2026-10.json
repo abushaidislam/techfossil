@@ -22935,6 +22935,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50305218",
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "canonical_url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:23:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
