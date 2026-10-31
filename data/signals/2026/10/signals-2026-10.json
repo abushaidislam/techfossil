@@ -22961,6 +22961,19 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313508",
+      "title": "Tools Hacker News keeps asking for",
+      "canonical_url": "https://stillunbuilt.shiptiffin.app/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T11:44:01Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
