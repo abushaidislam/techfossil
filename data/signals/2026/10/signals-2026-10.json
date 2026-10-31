@@ -23071,6 +23071,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314324",
+      "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+      "canonical_url": "https://github.com/openclaw/openclaw/pull/188766",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:05:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
