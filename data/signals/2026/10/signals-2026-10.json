@@ -23598,6 +23598,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314793",
+      "title": "'Big Short' Trader Steve Eisman on Anthropic IPO",
+      "canonical_url": "https://www.youtube.com/watch?v=AMoKKtNFkDs",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:48:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
