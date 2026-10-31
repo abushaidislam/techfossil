@@ -1020,6 +1020,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318337",
+      "title": "Put Agents to Work with an API",
+      "canonical_url": "https://www.agno.com/blog/put-agents-to-work-with-an-api",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:55:25Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "agent"
+      ]
     }
   ]
 }
