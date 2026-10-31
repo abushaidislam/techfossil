@@ -22365,6 +22365,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312465",
+      "title": "Show HN: Send to dot–share a phone photo into your existing ChatGPT conversation",
+      "canonical_url": "https://github.com/bryanzk/send-to-dot",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T07:47:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
