@@ -23503,6 +23503,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313737",
+      "title": "Non-autoregressive NC LLM spits tokens 21x faster than text diffusion",
+      "canonical_url": "https://hazyresearch.stanford.edu/blog/2026-10-12-ncm",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:31:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
