@@ -469,6 +469,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316982",
+      "title": "SBoM creator and Vulnerability scanner (Threatclaw.ai)",
+      "canonical_url": "https://www.threatclaw.ai/free-tools",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:21:57Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability",
+        "ai"
+      ]
     }
   ]
 }
