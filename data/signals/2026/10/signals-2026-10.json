@@ -23887,6 +23887,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50264368",
+      "title": "Partitioning my digital life into security domains (2011)",
+      "canonical_url": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T01:21:00Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "ai"
+      ]
     }
   ]
 }
