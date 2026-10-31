@@ -23657,6 +23657,21 @@
         "react",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50303832",
+      "title": "Show HN: Fraktur, a DJ mixing app in the browser",
+      "canonical_url": "https://greenvitriol.com/posts/fraktur",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T19:47:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
