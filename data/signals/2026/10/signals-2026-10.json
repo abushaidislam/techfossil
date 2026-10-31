@@ -22862,6 +22862,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313957",
+      "title": "Getting Google Cast on My Soundbar",
+      "canonical_url": "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:23:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
