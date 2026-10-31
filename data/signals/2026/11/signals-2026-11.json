@@ -1202,6 +1202,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317694",
+      "title": "The Frankenstein Table",
+      "canonical_url": "https://css-tricks.com/the-frankenstein-table/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:40:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
