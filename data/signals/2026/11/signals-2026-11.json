@@ -1175,6 +1175,20 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50296730",
+      "title": "Building an AI-native engineering org",
+      "canonical_url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T03:58:34Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
