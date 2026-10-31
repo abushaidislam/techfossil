@@ -22205,6 +22205,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313221",
+      "title": "Show HN: Huntsman – Self-hosted web scraper that turns pages into Markdown",
+      "canonical_url": "https://github.com/TulipFarm/huntsman",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:30:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
