@@ -858,6 +858,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317816",
+      "title": "The LLM Engineer's Schedule",
+      "canonical_url": "https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:54:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
