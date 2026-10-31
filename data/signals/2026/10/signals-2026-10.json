@@ -22662,6 +22662,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314075",
+      "title": "I trained a tic-tac-toe bot on 7k games between real people",
+      "canonical_url": "https://tictoe.org/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:59:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
