@@ -23544,6 +23544,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314132",
+      "title": "Tell HN: Warp.dev Security Incident",
+      "canonical_url": "https://news.ycombinator.com/item?id=50314132",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:14:43Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
