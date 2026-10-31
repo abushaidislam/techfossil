@@ -1089,6 +1089,21 @@
         "node",
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318646",
+      "title": "Which hobby do you think is most diverting and pleasurable?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50318646",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:30:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
