@@ -23516,6 +23516,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314524",
+      "title": "Bootstrap: Triaging Open Source with Agents",
+      "canonical_url": "https://blog.getbootstrap.com/2026/10/15/triaging-bootstrap-with-claude-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:55:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
