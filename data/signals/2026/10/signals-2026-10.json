@@ -23113,6 +23113,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313220",
+      "title": "Show HN: Smallest-editor–so-far.exe (912 bytes)",
+      "canonical_url": "https://news.ycombinator.com/item?id=50313220",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:29:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
