@@ -22393,6 +22393,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313654",
+      "title": "Mexico urges respect for treaties after Texas seizes nine islands on Rio Grande",
+      "canonical_url": "https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T12:15:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
