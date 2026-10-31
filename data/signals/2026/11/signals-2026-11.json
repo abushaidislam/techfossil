@@ -653,6 +653,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317548",
+      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+      "canonical_url": "https://www.jointter.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:24:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
