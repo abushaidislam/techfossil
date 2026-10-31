@@ -18,6 +18,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50316817",
+      "title": "Trade-off Analyzer · Architecture decisions you can defend",
+      "canonical_url": "https://tradeoffanalyzer.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:04:27Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
