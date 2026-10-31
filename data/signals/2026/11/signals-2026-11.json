@@ -1878,6 +1878,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318088",
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "canonical_url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:25:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
