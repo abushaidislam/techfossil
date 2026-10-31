@@ -24040,6 +24040,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314369",
+      "title": "We're looking at a 30-year run: UK pair aim to complete most complex game",
+      "canonical_url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/uk-complete-worlds-most-complex-board-game-the-campaign-for-north-africa",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:17:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
