@@ -23180,6 +23180,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50309314",
+      "title": "Jules Verne's Lost Novel",
+      "canonical_url": "https://blue-continuum.com/verne-paris",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T01:55:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
