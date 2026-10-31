@@ -173,6 +173,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50315226",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "canonical_url": "https://nullprogram.com/blog/2026/10/31/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T17:54:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
