@@ -1487,6 +1487,21 @@
         "kubernetes",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318481",
+      "title": "New products for new species, revisited",
+      "canonical_url": "https://eclecticlight.co/2026/10/31/new-products-for-new-species-revisited/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:12:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
