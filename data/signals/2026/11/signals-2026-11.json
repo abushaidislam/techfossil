@@ -1,0 +1,23 @@
+{
+  "dataset_version": "1.0.0",
+  "generated_at": "2026-11-01T00:00:00Z",
+  "domain": "all",
+  "partition": "2026-11",
+  "signals": [
+    {
+      "id": "sig-2026-1101-hn-50317512",
+      "title": "Useful Custom-Media Presets",
+      "canonical_url": "https://blog.master.dev/useful-custom-media-presets/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:19:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
+    }
+  ]
+}
