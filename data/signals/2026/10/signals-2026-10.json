@@ -23985,6 +23985,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50315794",
+      "title": "I helped fix sleep-wake hangs on Linux with AMD GPUs (2025)",
+      "canonical_url": "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T19:00:13Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
