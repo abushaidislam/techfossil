@@ -23829,6 +23829,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314654",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "canonical_url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:21:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
