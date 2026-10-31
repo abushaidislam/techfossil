@@ -22776,6 +22776,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50290912",
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "canonical_url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:45:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
