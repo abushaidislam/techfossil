@@ -902,6 +902,21 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50305573",
+      "title": "The federated code forge",
+      "canonical_url": "https://tangled.org/blog/forge/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:44:29Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
