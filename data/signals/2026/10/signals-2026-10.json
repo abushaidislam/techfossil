@@ -22278,6 +22278,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313542",
+      "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+      "canonical_url": "https://arxiv.org/abs/2606.03979",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T11:53:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
