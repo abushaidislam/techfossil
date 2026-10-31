@@ -22675,6 +22675,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50282538",
+      "title": "The first wired XR glasses powered by Android XR",
+      "canonical_url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T05:45:19Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
