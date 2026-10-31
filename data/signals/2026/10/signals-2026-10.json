@@ -23277,6 +23277,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50290283",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "canonical_url": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:06:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
