@@ -1562,6 +1562,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318974",
+      "title": "The Midnight Washerwomen [pdf]",
+      "canonical_url": "http://danielgiraudon.weebly.com/uploads/3/1/6/3/3163761/lavandires_crbc.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:59:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
