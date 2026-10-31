@@ -1431,6 +1431,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318869",
+      "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50318869",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:50:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
