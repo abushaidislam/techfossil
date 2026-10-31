@@ -1822,6 +1822,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319192",
+      "title": "How wise do our mentors need to be?",
+      "canonical_url": "https://www.autodidacts.io/how-wise-do-our-mentors-need-to-be/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:22:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
