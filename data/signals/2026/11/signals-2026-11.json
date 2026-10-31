@@ -413,6 +413,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317834",
+      "title": "Show HN: EWatch – an ESP32-S3 dev board built into a watch",
+      "canonical_url": "https://www.youtube.com/watch?v=X4DW4XNUbkc",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:55:57Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
