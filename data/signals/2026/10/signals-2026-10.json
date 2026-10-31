@@ -23000,6 +23000,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314669",
+      "title": "Lemmings TS",
+      "canonical_url": "https://twitter.com/PaulOBrien/status/2116205572236198305",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:24:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
