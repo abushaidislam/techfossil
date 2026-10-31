@@ -594,6 +594,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317731",
+      "title": "Ask HN: What has been your favorite VPN provider?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50317731",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:45:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
