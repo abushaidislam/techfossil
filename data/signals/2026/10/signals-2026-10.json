@@ -22847,6 +22847,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312739",
+      "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+      "canonical_url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T08:42:02Z",
+      "category": "Software Engineering",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
