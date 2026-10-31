@@ -22190,6 +22190,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50287448",
+      "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+      "canonical_url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T17:41:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
