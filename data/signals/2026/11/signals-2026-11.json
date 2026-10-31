@@ -1075,6 +1075,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50310687",
+      "title": "Linode Security Incident",
+      "canonical_url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T03:57:40Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "node",
+        "security"
+      ]
     }
   ]
 }
