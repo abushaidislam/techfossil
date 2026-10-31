@@ -22804,6 +22804,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50278678",
+      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "canonical_url": "https://github.com/emmilco/us-tax-model",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T00:30:53Z",
+      "category": "Software Engineering",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
