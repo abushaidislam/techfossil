@@ -22055,6 +22055,23 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1031-dev-4941972",
+      "title": "Zero Trust CI/CD: Keyless Bitbucket Deployment on Google Cloud",
+      "canonical_url": "https://dev.to/gde/zero-trust-cicd-keyless-bitbucket-deployment-on-google-cloud-1ka1",
+      "source": "dev_to",
+      "published_at": "2026-10-29T20:41:19Z",
+      "category": "Security & Privacy",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "security",
+        "ci/cd",
+        "devops",
+        "rust"
+      ]
     }
   ]
 }
