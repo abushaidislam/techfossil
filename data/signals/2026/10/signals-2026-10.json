@@ -23743,6 +23743,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50244486",
+      "title": "Commodore 1600 VICmodem",
+      "canonical_url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T20:37:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
