@@ -1718,6 +1718,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319896",
+      "title": "A Haskell processor running on an FPGA",
+      "canonical_url": "https://bathtub-01.github.io/technical/ouros-demo/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T02:34:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
