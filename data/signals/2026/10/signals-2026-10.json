@@ -23167,6 +23167,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50287919",
+      "title": "DoorDash to acquire Instacart",
+      "canonical_url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T18:33:05Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
