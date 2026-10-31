@@ -692,6 +692,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50291116",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "canonical_url": "https://news.ycombinator.com/item?id=50291116",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:56:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
