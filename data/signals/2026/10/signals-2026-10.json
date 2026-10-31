@@ -22523,6 +22523,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50305025",
+      "title": "Northflank Breached",
+      "canonical_url": "https://status.northflank.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:10:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
