@@ -21995,6 +21995,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50306815",
+      "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+      "canonical_url": "https://github.com/spinfinc/spinf-serve",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T23:03:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
