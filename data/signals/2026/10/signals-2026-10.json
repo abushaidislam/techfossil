@@ -22335,6 +22335,21 @@
         "ui",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312858",
+      "title": "Go programs are vulnerable to CVE-2026-98432 (Linux RCE)",
+      "canonical_url": "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw?pli=1",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T09:07:32Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "cve",
+        "linux"
+      ]
     }
   ]
 }
