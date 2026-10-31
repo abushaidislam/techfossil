@@ -761,6 +761,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50296470",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "canonical_url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T03:38:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
