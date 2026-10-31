@@ -22567,6 +22567,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314276",
+      "title": "Open-weight AI models can exploit the patch gap",
+      "canonical_url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:53:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
