@@ -22423,6 +22423,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50251070",
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "canonical_url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "source": "hacker_news",
+      "published_at": "2026-10-27T03:14:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
