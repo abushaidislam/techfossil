@@ -22987,6 +22987,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50266956",
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "canonical_url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T04:47:41Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
