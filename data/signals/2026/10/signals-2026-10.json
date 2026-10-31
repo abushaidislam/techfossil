@@ -22580,6 +22580,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312758",
+      "title": "I took my Rust GUI from 135 MB to 30 MB by ditching the GPU",
+      "canonical_url": "https://trystan-sarrade.com/article/rust-gui-135mb-to-30mb-egui-to-slint/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T08:47:18Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "rust"
+      ]
     }
   ]
 }
