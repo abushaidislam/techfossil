@@ -1062,6 +1062,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319358",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "canonical_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:39:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
