@@ -242,6 +242,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317331",
+      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+      "canonical_url": "https://github.com/Koppar-AI/koppar-lte-modem",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:56:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
