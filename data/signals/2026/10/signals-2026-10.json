@@ -23195,6 +23195,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313939",
+      "title": "The First Agentic Native Hobby Operating System",
+      "canonical_url": "https://github.com/vahmoh/Veda",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T13:18:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
