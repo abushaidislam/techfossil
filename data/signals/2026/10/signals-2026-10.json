@@ -23788,6 +23788,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314707",
+      "title": "PicasaPy: Complete rewrite of the Picasa photo editor based on Python",
+      "canonical_url": "https://github.com/sanchomuzax/PicasaPy",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:32:13Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
