@@ -1778,6 +1778,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50315987",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "canonical_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T19:25:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
