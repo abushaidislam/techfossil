@@ -720,6 +720,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318318",
+      "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+      "canonical_url": "https://www.getpublishub.com",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:52:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
