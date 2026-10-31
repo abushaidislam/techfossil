@@ -22649,6 +22649,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50314088",
+      "title": "I built the free S3 client I needed because the existing felt clunky",
+      "canonical_url": "https://nimbo.emil.moe/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T14:02:48Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
