@@ -257,6 +257,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50312426",
+      "title": "The Harness and Memory Architecture Behind Self-Updating Docs",
+      "canonical_url": "https://www.mintlify.com/blog/harness-and-memory-architecture-behind-self-updating-docs",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T07:41:58Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "memory"
+      ]
     }
   ]
 }
