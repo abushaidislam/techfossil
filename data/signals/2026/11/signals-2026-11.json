@@ -1275,6 +1275,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317860",
+      "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+      "canonical_url": "https://frontier.replit.com/vibench-2-long-horizon-software-benchmark/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T22:57:50Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
