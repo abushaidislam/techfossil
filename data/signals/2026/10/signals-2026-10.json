@@ -22594,6 +22594,20 @@
         "ui",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50313296",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "canonical_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T10:49:47Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "api"
+      ]
     }
   ]
 }
