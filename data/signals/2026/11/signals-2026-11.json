@@ -284,6 +284,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318407",
+      "title": "A City Canceled Flock's Contract. Flock Ignored It. Police Chief Unplugged Them",
+      "canonical_url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:03:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
