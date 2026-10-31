@@ -398,6 +398,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50317125",
+      "title": "We Could Have Backdoored Bash",
+      "canonical_url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T21:35:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
