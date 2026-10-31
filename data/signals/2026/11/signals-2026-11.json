@@ -1577,6 +1577,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318584",
+      "title": "Hex – local voice dictation for Mac",
+      "canonical_url": "https://anoma.ly/hex/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T00:23:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
