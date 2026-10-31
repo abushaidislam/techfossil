@@ -23056,6 +23056,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50312756",
+      "title": "Tell HN: Scribd Breached",
+      "canonical_url": "https://news.ycombinator.com/item?id=50312756",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T08:46:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
