@@ -1034,6 +1034,21 @@
         "api",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319155",
+      "title": "Inference engine in game scripting language using macros",
+      "canonical_url": "https://dasllama.io/articles/2026-10-28-the-need-for-speed.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T01:17:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
