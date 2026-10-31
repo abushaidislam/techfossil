@@ -22877,6 +22877,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50242509",
+      "title": "Java's new AOT cache feature is in a rough state",
+      "canonical_url": "https://xpipe.io/blog/java-aot-cache",
+      "source": "hacker_news",
+      "published_at": "2026-10-26T18:27:44Z",
+      "category": "Software Engineering",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
