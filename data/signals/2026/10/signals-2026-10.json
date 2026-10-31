@@ -23672,6 +23672,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1031-hn-50270284",
+      "title": "Pell Puzzles Review",
+      "canonical_url": "https://dles.gg/reviews/pell-puzzles",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T13:33:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
