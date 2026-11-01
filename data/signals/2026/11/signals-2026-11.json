@@ -1988,6 +1988,21 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50322163",
+      "title": "Quantum Billing",
+      "canonical_url": "https://getquantumbilling.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T08:17:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
