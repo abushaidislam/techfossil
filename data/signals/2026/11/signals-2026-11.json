@@ -2061,6 +2061,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50320472",
+      "title": "Show HN: Fix 1.0 – Ruby tests written as RFC 2119 specifications",
+      "canonical_url": "https://fixrb.dev/framework/release/2026/10/31/fix-1.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T03:36:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
