@@ -1932,6 +1932,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50321970",
+      "title": "Elsag SignalTrace maps cars using phone, car radio, headphone, watch, key finder",
+      "canonical_url": "https://www.leonardocompany-us.com/lpr/elsag-signaltrace",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T07:36:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
