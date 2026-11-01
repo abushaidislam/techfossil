@@ -2119,6 +2119,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50321048",
+      "title": "Altoids Project",
+      "canonical_url": "https://uvdn7.github.io/altoids-project/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T04:54:55Z",
+      "category": "Software Engineering",
+      "importance_score": 78,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
