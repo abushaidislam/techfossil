@@ -2104,6 +2104,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50320489",
+      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "canonical_url": "https://www.bbc.com/news/articles/cq8rz38jr50go",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T03:38:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
