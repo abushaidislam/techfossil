@@ -2018,6 +2018,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50320422",
+      "title": "Show HN: InterviewFit: learn the approach, not the answer",
+      "canonical_url": "https://interviewfit.io/dev/coding/sets/starter-50",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T03:29:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
