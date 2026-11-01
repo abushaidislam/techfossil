@@ -1919,6 +1919,19 @@
       "technologies": [
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50300683",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "canonical_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T13:09:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
