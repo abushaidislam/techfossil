@@ -1975,6 +1975,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50318182",
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "canonical_url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T23:36:05Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
