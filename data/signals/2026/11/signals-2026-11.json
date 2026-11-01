@@ -1947,6 +1947,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50322173",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "canonical_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T08:19:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
