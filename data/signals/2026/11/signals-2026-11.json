@@ -2089,6 +2089,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1101-hn-50319767",
+      "title": "Report from the Vatican",
+      "canonical_url": "https://garymarcus.substack.com/p/report-from-the-vatican",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T02:23:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
