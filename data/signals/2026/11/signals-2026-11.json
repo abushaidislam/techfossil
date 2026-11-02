@@ -2633,6 +2633,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332939",
+      "title": "Cra Browser: open-source Arc replacement for macOS",
+      "canonical_url": "https://github.com/VictorKildahl/cra",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:53:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
