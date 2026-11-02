@@ -4254,6 +4254,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333262",
+      "title": "Asking my AI teacher how to spell seventeen",
+      "canonical_url": "https://twitter.com/huskirl/status/2116941001335947635",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:50:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
