@@ -2618,6 +2618,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326281",
+      "title": "Ant: Can unprecedented revenue growth outrun irresponsibly large investment",
+      "canonical_url": "https://leonlins.com/writing/anthropic_ipo",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:56:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
