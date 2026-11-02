@@ -3234,6 +3234,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331784",
+      "title": "Trigger.dev customer environment variables exposed",
+      "canonical_url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:09:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
