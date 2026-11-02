@@ -4141,6 +4141,21 @@
         "encryption",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332619",
+      "title": "QαT GPU-free universal low-power NP-hard solver",
+      "canonical_url": "https://github.com/Quantumalphatech/Universal-Optimization-Engine-POC",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:56:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
