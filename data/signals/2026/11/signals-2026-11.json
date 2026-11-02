@@ -2178,6 +2178,19 @@
         "cve",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332465",
+      "title": "Sub-microsecond SEC 15c3-5 risk checks on AWS F2 via FPGA MMIO",
+      "canonical_url": "https://github.com/joeiko3424-svg/oikonomia-benchmarks",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:36:04Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "aws"
+      ]
     }
   ]
 }
