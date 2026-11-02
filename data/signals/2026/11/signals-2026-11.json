@@ -3797,6 +3797,19 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331157",
+      "title": "Should He Fix Churn, Change Pricing, or Rebuild His SaaS? [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=uTVyLYDOd1M",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:46:58Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
