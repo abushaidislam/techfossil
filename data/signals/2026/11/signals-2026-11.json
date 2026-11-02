@@ -2307,6 +2307,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331415",
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "canonical_url": "https://better-together.fun/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:19:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
