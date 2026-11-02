@@ -3969,6 +3969,20 @@
         "api",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333300",
+      "title": "Linux Plumbers Conference",
+      "canonical_url": "https://lpc.events/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:56:54Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
