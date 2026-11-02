@@ -3810,6 +3810,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50299811",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "canonical_url": "https://github.com/raphlinus/nibnib",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T10:17:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
