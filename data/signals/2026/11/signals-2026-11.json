@@ -4169,6 +4169,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331511",
+      "title": "Competition in Generative AI: Evidence from Consumer Demand (NBER)",
+      "canonical_url": "https://www.nber.org/papers/w35953",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:32:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
