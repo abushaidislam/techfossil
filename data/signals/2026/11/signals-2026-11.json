@@ -3716,6 +3716,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332086",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "canonical_url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:47:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
