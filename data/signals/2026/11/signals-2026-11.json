@@ -2947,6 +2947,21 @@
       "technologies": [
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50280131",
+      "title": "Radiation Map of the World",
+      "canonical_url": "https://radiaverse.com/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T02:06:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
