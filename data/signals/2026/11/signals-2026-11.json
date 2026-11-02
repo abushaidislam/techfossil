@@ -3998,6 +3998,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50289711",
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "canonical_url": "https://dl.acm.org/doi/10.1145/857076.857077",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T20:30:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
