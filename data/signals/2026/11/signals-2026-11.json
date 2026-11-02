@@ -4699,6 +4699,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50337608",
+      "title": "WTF Ubuntu?",
+      "canonical_url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T20:52:00Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
