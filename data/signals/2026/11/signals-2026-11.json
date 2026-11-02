@@ -4976,6 +4976,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341334",
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "canonical_url": "https://arxiv.org/abs/2610.37741",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:30:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
