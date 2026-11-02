@@ -2575,6 +2575,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330844",
+      "title": "Nine ways to break your systems code using volatile (2010)",
+      "canonical_url": "https://blog.regehr.org/archives/28",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:07:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
