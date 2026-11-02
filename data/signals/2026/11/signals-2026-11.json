@@ -3309,6 +3309,21 @@
         "python",
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331957",
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "canonical_url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:31:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
