@@ -3869,6 +3869,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326123",
+      "title": "Brian May, Queen guitarist and Astrophysicist",
+      "canonical_url": "https://english.elpais.com/science-tech/2026-10-30/brian-may-queen-guitarist-and-astrophysicist-to-be-a-complete-human-being-you-need-art-and-science.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:36:42Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
