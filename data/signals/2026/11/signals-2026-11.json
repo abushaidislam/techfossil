@@ -3743,6 +3743,19 @@
         "cloud",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333109",
+      "title": "Yandex moves its supercomputers to new site after Ukrainian drone attacks",
+      "canonical_url": "https://meduza.io/en/news/2026/10/26/yandex-moves-all-three-of-its-supercomputers-to-new-site-after-ukrainian-drone-attacks",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:27:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
