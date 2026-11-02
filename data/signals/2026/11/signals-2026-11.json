@@ -3455,6 +3455,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331765",
+      "title": "Retro Gaming Has a Port-Slop Problem",
+      "canonical_url": "https://gardinerbryant.com/retro-gaming-has-a-port-slop-problem/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:06:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
