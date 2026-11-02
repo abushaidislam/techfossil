@@ -2277,6 +2277,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331402",
+      "title": "OccupySaaS",
+      "canonical_url": "https://occupysaas.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:17:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
