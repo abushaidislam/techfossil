@@ -3249,6 +3249,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333280",
+      "title": "Show HN: 13M opinions on 48k products extracted from Reddit and HN",
+      "canonical_url": "https://www.trustmebro.reviews/r/hackernews",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:53:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
