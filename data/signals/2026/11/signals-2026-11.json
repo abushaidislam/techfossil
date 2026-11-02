@@ -3219,6 +3219,21 @@
         "javascript",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328251",
+      "title": "Mathematics has changed. Let's act like it",
+      "canonical_url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T00:28:42Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
