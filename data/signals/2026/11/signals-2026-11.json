@@ -3264,6 +3264,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50315782",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "canonical_url": "https://github.com/kerlenton/bootgpt",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T18:58:29Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
