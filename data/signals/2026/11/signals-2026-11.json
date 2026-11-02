@@ -3410,6 +3410,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50274186",
+      "title": "Redox: Ring Buffers Project Summary",
+      "canonical_url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T20:27:12Z",
+      "category": "Software Engineering",
+      "importance_score": 71,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
