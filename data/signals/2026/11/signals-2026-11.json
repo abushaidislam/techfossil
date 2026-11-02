@@ -3983,6 +3983,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326609",
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "canonical_url": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T21:33:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
