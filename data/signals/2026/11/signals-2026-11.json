@@ -2703,6 +2703,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50325454",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "canonical_url": "https://arxiv.org/abs/2610.39302",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T19:24:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
