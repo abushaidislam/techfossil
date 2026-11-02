@@ -3470,6 +3470,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331322",
+      "title": "What does Nix see when it reads a shell.nix?",
+      "canonical_url": "https://www.labcraft.dev/blog/nix-expressions",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:06:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
