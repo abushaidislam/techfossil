@@ -4399,6 +4399,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4959634",
+      "title": "Gemma 4 in Rust on TorchTPU: Hands On With Colab",
+      "canonical_url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-hands-on-with-colab-44hi",
+      "source": "dev_to",
+      "published_at": "2026-11-02T14:52:55Z",
+      "category": "Backend & APIs",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
