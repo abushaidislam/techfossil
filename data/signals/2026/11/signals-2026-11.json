@@ -3279,6 +3279,22 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50290480",
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:20:04Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ai",
+        "ui",
+        "ux"
+      ]
     }
   ]
 }
