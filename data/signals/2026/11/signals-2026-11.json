@@ -4773,6 +4773,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340616",
+      "title": "A proposal: how to hire junior engineers in the age of AI",
+      "canonical_url": "https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:47:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
