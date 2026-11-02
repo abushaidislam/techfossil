@@ -3645,6 +3645,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326821",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "canonical_url": "https://hackerbooks.org",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T21:58:28Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
