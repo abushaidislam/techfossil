@@ -2849,6 +2849,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50321522",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "canonical_url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T06:10:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
