@@ -3104,6 +3104,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330931",
+      "title": "America's Sewer Systems Are Surprisingly Vulnerable to Cyber Attacks",
+      "canonical_url": "https://policygradients.thefai.org/p/americas-sewer-systems-are-surprisingly",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:19:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
