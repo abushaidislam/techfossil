@@ -4156,6 +4156,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328070",
+      "title": "Implicit futures for C – the first access to a buffer is the await",
+      "canonical_url": "https://github.com/TanmayArya-1p/async-a-sync",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T00:11:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
