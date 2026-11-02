@@ -3910,6 +3910,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50327406",
+      "title": "A playable version of Portal prequel F-Stop leaked",
+      "canonical_url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T23:00:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
