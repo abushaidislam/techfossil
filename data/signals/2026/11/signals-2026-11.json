@@ -4239,6 +4239,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50325821",
+      "title": "Small internet forums are making a comeback in Google Search",
+      "canonical_url": "https://www.stanventures.com/research/data-reveals-google-loves-forums-and-hates-the-sites-it-told-us-to-trust/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:05:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
