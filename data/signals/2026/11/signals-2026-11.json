@@ -4557,6 +4557,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340837",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "canonical_url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:00:57Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ai"
+      ]
     }
   ]
 }
