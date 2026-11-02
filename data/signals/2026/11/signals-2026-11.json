@@ -3686,6 +3686,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50271106",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "canonical_url": "https://nullprogram.com/blog/2025/02/05/",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T15:46:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
