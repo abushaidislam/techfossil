@@ -4946,6 +4946,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341163",
+      "title": "Show HN: Chrome Extension to Advertise to Yourself",
+      "canonical_url": "https://chromewebstore.google.com/detail/advertise-to-yourself/pkjmonfjojnmpahfdebphddjjpifibhm",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:20:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
