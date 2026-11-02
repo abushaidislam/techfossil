@@ -4871,6 +4871,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339221",
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "canonical_url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:25:26Z",
+      "category": "Software Engineering",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
