@@ -3729,6 +3729,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50277379",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "canonical_url": "https://github.com/chris124567/cfsolve",
+      "source": "hacker_news",
+      "published_at": "2026-10-28T23:29:23Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ui"
+      ]
     }
   ]
 }
