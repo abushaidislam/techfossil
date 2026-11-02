@@ -3005,6 +3005,19 @@
       "technologies": [
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332791",
+      "title": "What does \"verified memory safe\" mean?",
+      "canonical_url": "https://focs-lab.comp.nus.edu.sg/blog/memory-safety-audit/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:24:15Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
