@@ -4069,6 +4069,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331387",
+      "title": "Show HN: People you know, an end-to-end encrypted private Instagram replacement",
+      "canonical_url": "https://peopleyouk.now/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:15:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
