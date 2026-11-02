@@ -2264,6 +2264,19 @@
         "rust",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50324533",
+      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+      "canonical_url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T17:17:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
