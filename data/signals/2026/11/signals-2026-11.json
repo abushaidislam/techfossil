@@ -3078,6 +3078,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333044",
+      "title": "Personality Traits and Career Success: Understanding Workplace Dynamics [pdf]",
+      "canonical_url": "https://www.rieti.go.jp/jp/publications/dp/25e105.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:13:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
