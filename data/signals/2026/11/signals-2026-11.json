@@ -3825,6 +3825,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328565",
+      "title": "Astronomy Picture of the Day: Colors of the Moon",
+      "canonical_url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T01:01:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
