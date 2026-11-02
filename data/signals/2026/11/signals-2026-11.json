@@ -3119,6 +3119,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326530",
+      "title": "Enlightenment 0.28.0 Release",
+      "canonical_url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T21:26:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
