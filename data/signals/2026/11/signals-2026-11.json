@@ -3295,6 +3295,20 @@
         "ui",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331613",
+      "title": "Lots of Python Releases for Cybersecurity Awareness Month",
+      "canonical_url": "https://hugovk.dev/blog/2026/cybersecurity-awareness/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:44:28Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python",
+        "security"
+      ]
     }
   ]
 }
