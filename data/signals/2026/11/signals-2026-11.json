@@ -4054,6 +4054,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332441",
+      "title": "Trump Demands a Cut of Alina Habba's $50M Pardon Deal",
+      "canonical_url": "https://newrepublic.com/post/217360/donald-trump-alina-habba-50-million-pardon",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:32:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
