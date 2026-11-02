@@ -4531,6 +4531,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50337431",
+      "title": "Ask HN: What hardware are you using to run local LLMs?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50337431",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T20:38:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
