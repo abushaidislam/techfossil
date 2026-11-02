@@ -3163,6 +3163,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333113",
+      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agent Harness",
+      "canonical_url": "https://arxiv.org/abs/2610.41172",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:29:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
