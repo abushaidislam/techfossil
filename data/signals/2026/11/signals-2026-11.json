@@ -3925,6 +3925,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50308754",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "canonical_url": "https://tibleiz.net/copper/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T01:09:33Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
