@@ -5135,6 +5135,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341927",
+      "title": "My Me-ware (so far)",
+      "canonical_url": "https://peter.laceybordeaux.com/blog/posts/me-ware/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T01:05:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
