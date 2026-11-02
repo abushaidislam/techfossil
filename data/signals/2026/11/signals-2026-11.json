@@ -2446,6 +2446,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331567",
+      "title": "Facebook Ad Library",
+      "canonical_url": "https://www.facebook.com/ads/library/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:37:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
