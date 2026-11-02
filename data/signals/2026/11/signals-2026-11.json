@@ -2590,6 +2590,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50326099",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "canonical_url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:34:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
