@@ -4211,6 +4211,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333332",
+      "title": "Why Don't We Live in an Art Nouveau World?",
+      "canonical_url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T11:05:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
