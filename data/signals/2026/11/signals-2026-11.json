@@ -3840,6 +3840,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50327416",
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "canonical_url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T23:01:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
