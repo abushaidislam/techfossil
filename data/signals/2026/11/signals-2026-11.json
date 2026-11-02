@@ -3352,6 +3352,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50329018",
+      "title": "Silicon Valley's in-flight magazine Colossus gives moguls coverage they crave",
+      "canonical_url": "https://sfstandard.com/2026/10/30/colossus-glossy-quarterly-silicon-valley/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T01:45:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
