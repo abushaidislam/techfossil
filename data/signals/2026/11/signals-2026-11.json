@@ -3882,6 +3882,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332497",
+      "title": "Postmortem on Claude Code Cursor extension hack",
+      "canonical_url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:41:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
