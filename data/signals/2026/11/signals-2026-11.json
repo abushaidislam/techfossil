@@ -2891,6 +2891,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332920",
+      "title": "Show HN: DodoCD – CI/CD for PHP Shared Hosting",
+      "canonical_url": "https://github.com/YohanSandun/dodocd",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:50:53Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ci/cd"
+      ]
     }
   ]
 }
