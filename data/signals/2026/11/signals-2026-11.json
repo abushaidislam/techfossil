@@ -4326,6 +4326,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339356",
+      "title": "MCP Gateways Compared: Bifrost, ContextForge, Obot, Docker and Microsoft",
+      "canonical_url": "https://medium.com/data-science-collective/5-best-mcp-gateways-in-2026-bifrost-ibm-contextforge-obot-docker-and-microsoft-compared-03d4c566cb08",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:32:21Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "docker"
+      ]
     }
   ]
 }
