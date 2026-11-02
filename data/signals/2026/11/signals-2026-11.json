@@ -2237,6 +2237,19 @@
         "ai",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332362",
+      "title": "Show HN: The Agentic State",
+      "canonical_url": "https://agenticstate.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:23:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
