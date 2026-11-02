@@ -3671,6 +3671,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50327058",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "canonical_url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T22:23:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
