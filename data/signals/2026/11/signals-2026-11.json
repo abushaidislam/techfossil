@@ -4686,6 +4686,19 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340592",
+      "title": "Drove Is a Container Orchestrator",
+      "canonical_url": "https://phonepe.github.io/drove-orchestrator/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:46:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
