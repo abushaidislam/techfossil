@@ -2934,6 +2934,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332320",
+      "title": "Ask for Advice about JavaScript",
+      "canonical_url": "https://news.ycombinator.com/item?id=50332320",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:18:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript"
+      ]
     }
   ]
 }
