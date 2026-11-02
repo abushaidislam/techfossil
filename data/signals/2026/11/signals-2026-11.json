@@ -3701,6 +3701,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50311045",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "canonical_url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T04:41:03Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
