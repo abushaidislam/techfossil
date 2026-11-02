@@ -4842,6 +4842,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340619",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "canonical_url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:47:40Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "ui"
+      ]
     }
   ]
 }
