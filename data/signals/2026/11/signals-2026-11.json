@@ -2519,6 +2519,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "canonical_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T21:52:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
