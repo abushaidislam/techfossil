@@ -4127,6 +4127,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50310038",
+      "title": "Understanding Email Encryption (2025)",
+      "canonical_url": "https://www.fastmail.com/blog/email-encryption/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T02:55:56Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "encryption",
+        "ai"
+      ]
     }
   ]
 }
