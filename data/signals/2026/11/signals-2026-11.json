@@ -3571,6 +3571,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50303984",
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "canonical_url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T19:58:42Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
