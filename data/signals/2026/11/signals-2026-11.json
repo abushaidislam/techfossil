@@ -4084,6 +4084,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328488",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "canonical_url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T00:53:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
