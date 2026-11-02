@@ -4443,6 +4443,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341015",
+      "title": "Create pull requests by just editing text",
+      "canonical_url": "https://twitter.com/mathewpregasen/status/2117300716482199745",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:12:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
