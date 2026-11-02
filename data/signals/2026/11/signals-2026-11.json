@@ -3033,6 +3033,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332602",
+      "title": "Kloak v0.3.0 Release",
+      "canonical_url": "https://getkloak.io/docs/reference/release-notes",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:54:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
