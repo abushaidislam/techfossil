@@ -3091,6 +3091,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50284789",
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "canonical_url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T11:10:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
