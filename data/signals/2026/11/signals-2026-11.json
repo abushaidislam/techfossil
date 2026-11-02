@@ -2349,6 +2349,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330520",
+      "title": "A History of Nvidia Stream Multiprocessor (2020)",
+      "canonical_url": "https://fabiensanglard.net/cuda/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T04:18:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
