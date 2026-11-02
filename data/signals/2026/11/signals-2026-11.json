@@ -4486,6 +4486,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340369",
+      "title": "Let Me Ch...",
+      "canonical_url": "https://blog.alxgsv.com/let-me-check/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:33:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
