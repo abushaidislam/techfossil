@@ -3784,6 +3784,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333010",
+      "title": "Intel trials open robotics architecture with SAP in Chinese demo",
+      "canonical_url": "https://www.sdxcentral.com/news/intel-trials-open-robotics-architecture-with-sap-in-chinese-demo/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:06:02Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
