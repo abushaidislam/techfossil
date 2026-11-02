@@ -4385,6 +4385,20 @@
         "fastapi",
         "docker"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4954870",
+      "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+      "canonical_url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+      "source": "dev_to",
+      "published_at": "2026-10-31T23:02:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
