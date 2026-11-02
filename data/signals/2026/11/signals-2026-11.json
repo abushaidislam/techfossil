@@ -3658,6 +3658,19 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50323925",
+      "title": "IEEE Wipes Out 1,417 Papers over Sold Authorship",
+      "canonical_url": "https://www.nature.com/articles/d41586-026-03455-8",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T15:30:25Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "auth"
+      ]
     }
   ]
 }
