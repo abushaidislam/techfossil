@@ -2532,6 +2532,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332213",
+      "title": "WeVisCut: The Whole Editing Room in One Agent, from Narration to Long-Form Video",
+      "canonical_url": "https://tencent.github.io/WeVisCut",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:05:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
