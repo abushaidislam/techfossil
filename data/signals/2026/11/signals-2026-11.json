@@ -4786,6 +4786,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50337716",
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "canonical_url": "https://longcat.ai/blog/longcat-2.5/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T21:00:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
