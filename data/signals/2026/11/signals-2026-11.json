@@ -3940,6 +3940,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50304718",
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "canonical_url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T20:46:16Z",
+      "category": "Software Engineering",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
