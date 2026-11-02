@@ -4226,6 +4226,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50324371",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "canonical_url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T16:44:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
