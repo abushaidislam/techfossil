@@ -5193,6 +5193,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341073",
+      "title": "Anthropic's spending commitments surge to nearly $900B",
+      "canonical_url": "https://www.axios.com/2026/11/02/anthropic-spending-revenue-surge",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:15:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
