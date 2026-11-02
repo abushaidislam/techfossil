@@ -2221,6 +2221,22 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330883",
+      "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+      "canonical_url": "https://ai-nerfs.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:14:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "gemini",
+        "ai",
+        "gpt"
+      ]
     }
   ]
 }
