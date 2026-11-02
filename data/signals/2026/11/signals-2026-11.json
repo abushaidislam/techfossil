@@ -3063,6 +3063,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50280722",
+      "title": "The case of the 9 bit AES key",
+      "canonical_url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T02:51:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
