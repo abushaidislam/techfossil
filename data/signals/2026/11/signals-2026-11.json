@@ -2377,6 +2377,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50312408",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "canonical_url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T07:38:56Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres"
+      ]
     }
   ]
 }
