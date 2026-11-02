@@ -3601,6 +3601,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332780",
+      "title": "US Led Student List in Serbia Targets Russian Business and Trade in Serbia",
+      "canonical_url": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:21:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
