@@ -2336,6 +2336,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328896",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50328896",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T01:35:27Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
