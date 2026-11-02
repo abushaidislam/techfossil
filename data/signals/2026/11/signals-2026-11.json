@@ -5075,6 +5075,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50334372",
+      "title": "BioWare co-founder: game execs \"have never made a game\" and don't get it",
+      "canonical_url": "https://www.pcgamer.com/gaming-industry/none-of-these-people-have-ever-made-a-game-bioware-co-founder-greg-zeschuk-says-of-game-industry-executives-they-just-dont-know-how-it-works/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T14:32:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
