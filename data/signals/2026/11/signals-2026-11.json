@@ -2821,6 +2821,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328893",
+      "title": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
+      "canonical_url": "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T01:34:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
