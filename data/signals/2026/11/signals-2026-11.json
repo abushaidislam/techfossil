@@ -2364,6 +2364,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332175",
+      "title": "A Powerful Mosquito-Hunting Laser Uses A.I. To Zap Winged Pests",
+      "canonical_url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:01:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
