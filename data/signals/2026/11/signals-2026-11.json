@@ -4427,6 +4427,22 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4958756",
+      "title": "Your Agent Changed Last Night and Nobody Deployed Anything: Skill Drift on Google Cloud Skill Registry",
+      "canonical_url": "https://dev.to/gde/your-agent-changed-last-night-and-nobody-deployed-anything-skill-drift-on-google-cloud-skill-1mig",
+      "source": "dev_to",
+      "published_at": "2026-11-01T19:01:20Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "devops",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
