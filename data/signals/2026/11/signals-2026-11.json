@@ -4743,6 +4743,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341170",
+      "title": "Ocarina of Time – Google Search",
+      "canonical_url": "https://www.google.com/search?q=Ocarina+of+Time",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:21:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
