@@ -2992,6 +2992,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50302686",
+      "title": "Decode kernel panic from QR Code photo",
+      "canonical_url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T17:50:24Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
