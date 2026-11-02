@@ -2904,6 +2904,21 @@
       "technologies": [
         "ci/cd"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50329707",
+      "title": "John Leeson (the voice of K9) has died",
+      "canonical_url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T02:48:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
