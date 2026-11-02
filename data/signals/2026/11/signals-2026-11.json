@@ -2689,6 +2689,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331840",
+      "title": "Show HN: EchoChain to see what happens when LLMs play telephone",
+      "canonical_url": "https://github.com/smusali/echoChain",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:15:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
