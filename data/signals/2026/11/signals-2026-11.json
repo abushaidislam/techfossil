@@ -2403,6 +2403,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50314397",
+      "title": "CVE-2026-98432: Linux IPv4 UAF",
+      "canonical_url": "https://nvd.nist.gov/vuln/detail/cve-2026-98432",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T15:23:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cve",
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
