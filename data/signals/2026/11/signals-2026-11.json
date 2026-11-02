@@ -4714,6 +4714,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340534",
+      "title": "Blaze: Incremental Rust builds up to 92x faster than cargo/rustc",
+      "canonical_url": "https://github.com/indexable-inc/blaze",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:42:44Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ui"
+      ]
     }
   ]
 }
