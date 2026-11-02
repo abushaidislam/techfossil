@@ -2878,6 +2878,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332128",
+      "title": "How to Model \"Taarof\" with AI [video]",
+      "canonical_url": "https://youtu.be/X7vf7koPxKg?si=qTC7OOblJyWjibv6&t=829",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:52:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
