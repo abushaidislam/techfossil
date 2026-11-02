@@ -2250,6 +2250,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331293",
+      "title": "Tubetui – YouTube in the Terminal (Rust)",
+      "canonical_url": "https://github.com/polblancoo/tubetui",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:02:55Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ui"
+      ]
     }
   ]
 }
