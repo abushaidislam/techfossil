@@ -5033,6 +5033,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341585",
+      "title": "South Korea targets ' highest performance' sovereign AI model",
+      "canonical_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:46:20Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance",
+        "ai"
+      ]
     }
   ]
 }
