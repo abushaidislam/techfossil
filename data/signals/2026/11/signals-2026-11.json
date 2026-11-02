@@ -3955,6 +3955,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50300902",
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "canonical_url": "https://github.com/4yk5/Ghostman",
+      "source": "hacker_news",
+      "published_at": "2026-10-30T13:48:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ui"
+      ]
     }
   ]
 }
