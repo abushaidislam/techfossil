@@ -2390,6 +2390,19 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50327266",
+      "title": "Frontier Airlines Likely Breached",
+      "canonical_url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T22:46:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
