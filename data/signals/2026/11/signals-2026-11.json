@@ -2731,6 +2731,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50329425",
+      "title": "The Linux 7.4 Merge Window Is Easily the Largest in Kernel History",
+      "canonical_url": "https://www.phoronix.com/news/Linux-7.4-Massive-Window",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T02:25:30Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel",
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
