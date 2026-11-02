@@ -4097,6 +4097,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331681",
+      "title": "Bryan Cantrill on Oxide Computer (audio)",
+      "canonical_url": "https://www.softwaresessions.com/episodes/oxide/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:54:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
