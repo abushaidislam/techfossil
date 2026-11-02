@@ -4311,6 +4311,21 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50334704",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "canonical_url": "https://syscall.sh/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T15:29:16Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
