@@ -2134,6 +2134,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1102-dev-4945564",
+      "title": "Singularity News :: CCG",
+      "canonical_url": "https://dev.to/pengeszikra/singularity-news-ccg-5ejk",
+      "source": "dev_to",
+      "published_at": "2026-10-31T02:18:22Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
