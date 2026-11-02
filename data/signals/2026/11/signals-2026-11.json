@@ -2791,6 +2791,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333042",
+      "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida",
+      "canonical_url": "https://apnews.com/article/palm-beach-plane-crash-ffdee609e7916ff7fcd178d2b8e69b39",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:12:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
