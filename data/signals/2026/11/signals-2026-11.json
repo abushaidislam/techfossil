@@ -2962,6 +2962,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331158",
+      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+      "canonical_url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:46:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
