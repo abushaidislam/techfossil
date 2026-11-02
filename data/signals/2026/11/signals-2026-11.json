@@ -2676,6 +2676,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331223",
+      "title": "Dispatch: A local GUI for manually running GitHub Actions workflows",
+      "canonical_url": "https://github.com/skorotkiewicz/dispatch-workflows",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:54:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
