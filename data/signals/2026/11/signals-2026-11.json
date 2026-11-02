@@ -4196,6 +4196,21 @@
         "claude",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333424",
+      "title": "My first open-source service reached its first 20 stars on GitHub",
+      "canonical_url": "https://github.com/embedcatalog/embedcatalog",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T11:26:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
