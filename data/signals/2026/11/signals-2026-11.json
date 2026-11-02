@@ -2977,6 +2977,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50314617",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "canonical_url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T16:14:08Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
