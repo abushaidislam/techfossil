@@ -4026,6 +4026,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50325759",
+      "title": "The Sims Game Design Documents (1997)",
+      "canonical_url": "https://donhopkins.com/home/TheSimsDesignDocuments/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:00:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
