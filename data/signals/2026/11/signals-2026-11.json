@@ -4901,6 +4901,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340028",
+      "title": "A CVE-2026-98432 firewall rule for Ubuntu, with or without Docker",
+      "canonical_url": "https://photostructure.com/coding/cve-2026-98432-ubuntu/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:12:47Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cve",
+        "docker",
+        "firewall"
+      ]
     }
   ]
 }
