@@ -2461,6 +2461,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331751",
+      "title": "I ported iPadOS to my Nintendo Switch",
+      "canonical_url": "https://twitter.com/brunostjohn/status/2116805960220189013",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:03:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
