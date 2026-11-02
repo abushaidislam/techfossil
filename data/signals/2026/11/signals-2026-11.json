@@ -2433,6 +2433,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332638",
+      "title": "Contactless continuous guidance of matter using curved acoustic fields",
+      "canonical_url": "https://www.pnas.org/doi/10.1073/pnas.2614959123",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:00:22Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
