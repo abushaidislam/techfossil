@@ -4458,6 +4458,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4955300",
+      "title": "Profile Sprawl: Solving a Problem You Didn't Know You Had",
+      "canonical_url": "https://dev.to/gde/profile-sprawl-solving-a-problem-you-didnt-know-you-had-19k5",
+      "source": "dev_to",
+      "published_at": "2026-11-01T14:35:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
