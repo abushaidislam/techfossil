@@ -2545,6 +2545,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330508",
+      "title": "Watch any video in your language",
+      "canonical_url": "https://sugar.video/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T04:16:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
