@@ -4614,6 +4614,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339445",
+      "title": "PostHog hoglake: Petabyte-scale open table format",
+      "canonical_url": "https://github.com/PostHog/hoglake",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:37:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
