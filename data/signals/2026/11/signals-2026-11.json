@@ -3440,6 +3440,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50309279",
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "canonical_url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "source": "hacker_news",
+      "published_at": "2026-10-31T01:52:56Z",
+      "category": "Software Engineering",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
