@@ -4990,6 +4990,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340992",
+      "title": "Skill to Create Product Videos",
+      "canonical_url": "https://github.com/aaitor/skill-video-studio",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:10:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
