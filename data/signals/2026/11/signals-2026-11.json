@@ -2864,6 +2864,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332768",
+      "title": "Agentic AI Is Myth Set in Motion",
+      "canonical_url": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:20:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
