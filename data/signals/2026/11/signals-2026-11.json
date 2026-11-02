@@ -2560,6 +2560,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330648",
+      "title": "GTA 6: How Jason and Lucia's relationship system works (German)",
+      "canonical_url": "https://www.shotbox.de/gta-6-so-funktioniert-beziehungssystem/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T04:35:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
