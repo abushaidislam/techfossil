@@ -4356,6 +4356,20 @@
         "gemini",
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4962109",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 1: Emulator, AuthService, and Route Guard) [GDE]",
+      "canonical_url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-1-emulator-4jm",
+      "source": "dev_to",
+      "published_at": "2026-11-02T09:45:08Z",
+      "category": "Security & Privacy",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "auth",
+        "ai"
+      ]
     }
   ]
 }
