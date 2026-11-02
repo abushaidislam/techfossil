@@ -3191,6 +3191,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332874",
+      "title": "WeSesh: Pair Programming with Coding Agents",
+      "canonical_url": "https://wesesh.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:41:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
