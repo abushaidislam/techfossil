@@ -4182,6 +4182,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333289",
+      "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max",
+      "canonical_url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:54:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "gpt"
+      ]
     }
   ]
 }
