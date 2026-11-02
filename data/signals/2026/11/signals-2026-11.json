@@ -4673,6 +4673,19 @@
         "memory",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50333339",
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "canonical_url": "https://wikihack.netlify.app",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T11:06:30Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
