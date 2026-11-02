@@ -4041,6 +4041,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50320599",
+      "title": "AI text watermarking and quality loss",
+      "canonical_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T03:50:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
