@@ -3018,6 +3018,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332808",
+      "title": "Scientists reveal the staggering number of bat deaths at wind turbines",
+      "canonical_url": "https://phys.org/news/2026-10-scientists-reveal-staggering-deaths-turbines.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:28:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
