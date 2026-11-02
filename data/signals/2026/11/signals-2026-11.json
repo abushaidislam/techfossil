@@ -3756,6 +3756,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50325662",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "canonical_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T19:47:24Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
