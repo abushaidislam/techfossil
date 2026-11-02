@@ -3543,6 +3543,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333312",
+      "title": "CEPO: General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+      "canonical_url": "https://arxiv.org/abs/2610.34722",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:58:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
