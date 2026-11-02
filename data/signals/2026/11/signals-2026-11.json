@@ -2776,6 +2776,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333101",
+      "title": "Learning without retention is what real intelligence needs",
+      "canonical_url": "https://zenodo.org/records/22706328",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:26:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
