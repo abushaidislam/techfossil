@@ -4339,6 +4339,23 @@
       "technologies": [
         "docker"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4957524",
+      "title": "From `main.js` Leaks to Hidden Tailwind CSS v4 Bloat — How I Built `angular-bundle-guard` with Antigravity `/learn` [GDE]",
+      "canonical_url": "https://dev.to/gde/from-mainjs-leaks-to-hidden-tailwind-css-v4-bloat-how-i-built-angular-bundle-guard-with-geg",
+      "source": "dev_to",
+      "published_at": "2026-11-01T13:23:27Z",
+      "category": "Systems & Architecture",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "tailwind",
+        "css",
+        "ui",
+        "gemini",
+        "performance"
+      ]
     }
   ]
 }
