@@ -2191,6 +2191,21 @@
       "technologies": [
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50328487",
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "canonical_url": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T00:53:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
