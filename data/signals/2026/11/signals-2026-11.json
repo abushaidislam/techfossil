@@ -5150,6 +5150,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339224",
+      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "canonical_url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:25:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
