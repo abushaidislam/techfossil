@@ -2149,6 +2149,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50321130",
+      "title": "When electric cars were for women",
+      "canonical_url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T05:08:12Z",
+      "category": "Software Engineering",
+      "importance_score": 73,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
