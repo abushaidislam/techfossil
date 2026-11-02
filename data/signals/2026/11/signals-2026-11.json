@@ -2661,6 +2661,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331340",
+      "title": "Martian dust presents additional risks for future crewed missions to Mars",
+      "canonical_url": "https://www.pnas.org/doi/10.1073/pnas.2620747123",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:08:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
