@@ -5178,6 +5178,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340944",
+      "title": "You're supposed to turn Bluetooth off when you don't need it – how risky is it?",
+      "canonical_url": "https://www.rnz.co.nz/life/wellbeing/you-re-supposed-to-turn-bluetooth-off-when-you-don-t-need-it-how-risky-is-it-really",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:07:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
