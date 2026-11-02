@@ -2321,6 +2321,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331191",
+      "title": "Self-Serve Drill Bits Are a CIAM Use Case",
+      "canonical_url": "https://ciamweekly.substack.com/p/self-serve-drill-bits-are-a-ciam",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:50:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
