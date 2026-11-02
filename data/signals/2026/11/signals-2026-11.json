@@ -3515,6 +3515,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332890",
+      "title": "The Economic Paradox of AI-Generated Software",
+      "canonical_url": "https://medium.com/@yassien/the-economic-paradox-of-ai-generated-software-93239b25bf1c",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T09:43:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
