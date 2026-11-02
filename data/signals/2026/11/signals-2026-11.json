@@ -4629,6 +4629,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50338728",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "canonical_url": "https://news.ycombinator.com/item?id=50338728",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:01:37Z",
+      "category": "Software Engineering",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
