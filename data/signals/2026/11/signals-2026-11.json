@@ -2491,6 +2491,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50290533",
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "canonical_url": "https://outcrop.rocks/",
+      "source": "hacker_news",
+      "published_at": "2026-10-29T21:22:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
