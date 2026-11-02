@@ -2746,6 +2746,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330916",
+      "title": "France plans internet tax of 5.5 cents per gigabyte",
+      "canonical_url": "https://www.heise.de/en/news/France-plans-internet-tax-of-5-5-cents-per-gigabyte-11507179.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T05:17:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
