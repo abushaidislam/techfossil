@@ -3630,6 +3630,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50333037",
+      "title": "BYD expands EV shipping fleet as wars upend freight costs and key trade routes",
+      "canonical_url": "https://restofworld.org/2026/byd-expands-cargo-ship-ev-exports/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T10:11:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
