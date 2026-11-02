@@ -2919,6 +2919,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50320995",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "canonical_url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T04:46:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
