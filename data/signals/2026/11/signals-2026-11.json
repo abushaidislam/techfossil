@@ -3148,6 +3148,21 @@
         "postgres",
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50319876",
+      "title": "A Chemical Hunger (2021)",
+      "canonical_url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T02:32:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
