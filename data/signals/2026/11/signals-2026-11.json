@@ -4370,6 +4370,21 @@
         "auth",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4958915",
+      "title": "RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode & Decoupled Remote Connect",
+      "canonical_url": "https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k",
+      "source": "dev_to",
+      "published_at": "2026-11-01T19:57:46Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "fastapi",
+        "docker"
+      ]
     }
   ]
 }
