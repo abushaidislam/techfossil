@@ -5222,6 +5222,20 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341366",
+      "title": "AI models are enabling suicide",
+      "canonical_url": "https://twitter.com/Prosaic_int/status/2117318562880905678",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:33:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
