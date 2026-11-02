@@ -2761,6 +2761,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331307",
+      "title": "Hippos and Whales: Unlikely Cousins",
+      "canonical_url": "https://www.rom.on.ca/blogs/hippos-and-whales-unlikely-cousins",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T06:04:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
