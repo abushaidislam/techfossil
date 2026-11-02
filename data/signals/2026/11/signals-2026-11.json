@@ -2418,6 +2418,21 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50330464",
+      "title": "Back in Time Live 2026",
+      "canonical_url": "https://www.linusakesson.net/music/bitlive2026/index.php",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T04:11:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
