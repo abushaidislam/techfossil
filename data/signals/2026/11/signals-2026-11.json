@@ -4659,6 +4659,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50337558",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "canonical_url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T20:47:28Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "ui"
+      ]
     }
   ]
 }
