@@ -5020,6 +5020,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339628",
+      "title": "SUSE to cut one in ten employees because of AI",
+      "canonical_url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:48:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
