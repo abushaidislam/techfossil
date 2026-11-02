@@ -2476,6 +2476,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50332534",
+      "title": "Proposed data centre would release 23 Hiroshima-sized atomic bombs of energy/day",
+      "canonical_url": "https://www.cbc.ca/news/canada/edmonton/wonder-valley-slcn-court-physicist-9.7403677",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:45:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
