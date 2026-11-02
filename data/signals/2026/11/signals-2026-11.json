@@ -2836,6 +2836,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50321436",
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "canonical_url": "https://emarzion.github.io/KSRT/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T05:55:21Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
