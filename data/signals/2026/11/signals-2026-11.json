@@ -3616,6 +3616,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1102-hn-50331879",
+      "title": "Show HN: Skep – live cross-device sessions for AI coding agents",
+      "canonical_url": "https://skepagent.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:20:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
