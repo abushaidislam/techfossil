@@ -4297,6 +4297,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4955249",
+      "title": "All That Glisters Is Softmax: Shiny-Object Interns, Airplane-Magazine Execs, and Why AI Labs Can Only Bake In Half the Scars",
+      "canonical_url": "https://dev.to/gde/all-that-glisters-is-softmax-shiny-object-interns-airplane-magazine-execs-and-why-ai-labs-can-18af",
+      "source": "dev_to",
+      "published_at": "2026-11-01T00:41:17Z",
+      "category": "Systems & Architecture",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
