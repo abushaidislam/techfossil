@@ -4644,6 +4644,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50337439",
+      "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+      "canonical_url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T20:38:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
