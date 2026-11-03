@@ -5983,6 +5983,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50343376",
+      "title": "Japan launches mission to make first return trip to Mars",
+      "canonical_url": "https://www.ft.com/content/88638d03-1537-4f71-b099-3a951f1c4cb7",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T02:39:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
