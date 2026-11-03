@@ -6623,6 +6623,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50352461",
+      "title": "Bold new treatment may have just cracked how to reverse Alzheimer's",
+      "canonical_url": "https://www.sciencefocus.com/news/new-treatment-reverse-alzheimers",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:32:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
