@@ -6653,6 +6653,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50348740",
+      "title": "Show HN: ReBirth 338 in Browser",
+      "canonical_url": "https://margeux.com/rb338.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T12:24:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
