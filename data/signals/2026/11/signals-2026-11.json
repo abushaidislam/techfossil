@@ -5653,6 +5653,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50325694",
+      "title": "Novellas with Groff",
+      "canonical_url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T19:51:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
