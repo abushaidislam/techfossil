@@ -5464,6 +5464,21 @@
       "technologies": [
         "cryptography"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339805",
+      "title": "IBM PC/XT drives stuck in the bay? How to free them",
+      "canonical_url": "https://dfarq.homeip.net/ibm-pc-xt-drives-stuck-in-the-bay-how-to-free-them/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:59:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
