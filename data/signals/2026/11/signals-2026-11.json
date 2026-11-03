@@ -5293,6 +5293,19 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347766",
+      "title": "Mass attempted replication of old findings of LLMs with new models",
+      "canonical_url": "https://zou-group.github.io/llm-claims-shelf-life/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T09:41:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
