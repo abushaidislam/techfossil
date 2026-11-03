@@ -5841,6 +5841,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346162",
+      "title": "Show HN: Learn to speak French by watching Netflix",
+      "canonical_url": "https://chromewebstore.google.com/detail/greetai-learn-speak-langu/hhildamloicfginbdnilakddipgkolbf",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:09:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
