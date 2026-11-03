@@ -6336,6 +6336,20 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50349568",
+      "title": "Show HN: Try an AI agent wallet in the browser – buy a stamp from a bot",
+      "canonical_url": "https://proof.zketernity.app/stamps/try.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T14:43:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
