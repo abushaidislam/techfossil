@@ -5856,6 +5856,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50344158",
+      "title": "The Ford Privacy Promise: You're in Control of Your Data",
+      "canonical_url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T03:37:00Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
