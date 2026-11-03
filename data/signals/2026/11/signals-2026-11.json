@@ -5925,6 +5925,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50334523",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "canonical_url": "https://erici.eu",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T14:58:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
