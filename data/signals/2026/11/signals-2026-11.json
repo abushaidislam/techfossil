@@ -5524,6 +5524,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50340159",
+      "title": "Polyend releases the Tracker firmware source code",
+      "canonical_url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T23:20:13Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
