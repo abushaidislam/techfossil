@@ -5236,6 +5236,19 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4964848",
+      "title": "Gemma 4 in Rust on TorchTPU: A Native TPU Rig With PyO3 and MCP",
+      "canonical_url": "https://dev.to/gde/gemma-4-in-rust-on-torchtpu-a-native-tpu-rig-with-pyo3-and-mcp-47j1",
+      "source": "dev_to",
+      "published_at": "2026-11-02T21:32:30Z",
+      "category": "Backend & APIs",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
