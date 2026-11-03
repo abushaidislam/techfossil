@@ -6308,6 +6308,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50339397",
+      "title": "US boy names that became girl names and vice versa",
+      "canonical_url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:34:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
