@@ -6638,6 +6638,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50350004",
+      "title": "Revolut moves to self-hosted GLM",
+      "canonical_url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T15:53:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
