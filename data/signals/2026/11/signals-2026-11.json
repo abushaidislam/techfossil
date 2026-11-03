@@ -5869,6 +5869,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50348178",
+      "title": "A new take on the Fermi paradox",
+      "canonical_url": "https://news.ycombinator.com/item?id=50348178",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T10:44:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
