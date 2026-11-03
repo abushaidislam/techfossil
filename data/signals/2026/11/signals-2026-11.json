@@ -6181,6 +6181,21 @@
       "technologies": [
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50338062",
+      "title": "Queen of the Bagel Business",
+      "canonical_url": "https://thehustle.co/originals/the-unlikely-queen-of-the-bagel-business",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T21:23:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
