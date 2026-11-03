@@ -6552,6 +6552,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353294",
+      "title": "New England RetroFest Recap – By Paul Lefebvre – Goto 10",
+      "canonical_url": "https://www.goto10retro.com/p/new-england-retrofest-recap",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:34:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
