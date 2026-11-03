@@ -5334,6 +5334,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346099",
+      "title": "Au High Court to consider whether under-16s social media ban is unconstitutional",
+      "canonical_url": "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:03:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
