@@ -6211,6 +6211,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50326246",
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "canonical_url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T20:52:05Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
