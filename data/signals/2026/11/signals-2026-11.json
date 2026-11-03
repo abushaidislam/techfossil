@@ -6463,6 +6463,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354401",
+      "title": "Live Election Results",
+      "canonical_url": "https://electionenjoyer.com/live/?v=ca28ddd0",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:50:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
