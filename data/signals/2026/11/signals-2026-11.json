@@ -6406,6 +6406,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354548",
+      "title": "Designsystemet, Now in Elm",
+      "canonical_url": "https://cekrem.github.io/posts/designsystemet-elm/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:58:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
