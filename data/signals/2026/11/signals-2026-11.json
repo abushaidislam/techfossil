@@ -5968,6 +5968,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347252",
+      "title": "Apple's Growth Machine Is Slowing. High Prices Might Not Save It",
+      "canonical_url": "https://www.wsj.com/tech/apple-beats-wall-street-expectations-with-boost-from-higher-prices-36749418",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T08:31:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
