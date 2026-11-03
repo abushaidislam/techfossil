@@ -5668,6 +5668,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341174",
+      "title": "Astra can read and write weights to improve Qwen",
+      "canonical_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:21:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
