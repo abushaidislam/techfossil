@@ -6537,6 +6537,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50355098",
+      "title": "Algorithms for One",
+      "canonical_url": "https://davidgasquez.com/algorithms-for-one",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T23:30:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
