@@ -6478,6 +6478,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354226",
+      "title": "High schooler proving sky is not the limit, earns pilot's license (2023)",
+      "canonical_url": "https://cbs12.com/news/local/nathalia-filgueiras-palm-beach-high-school-senior-pilots-license-drivers-florida-10-24-2023",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:38:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
