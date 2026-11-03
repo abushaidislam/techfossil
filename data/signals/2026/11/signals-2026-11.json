@@ -6507,6 +6507,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354555",
+      "title": "Snapchat Is Harming Children at an Industrial Scale",
+      "canonical_url": "https://www.afterbabel.com/p/industrial-scale-snapchat",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:59:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
