@@ -6449,6 +6449,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-dev-4935499",
+      "title": "Prompt Pad: Lock Your AI's Output Schema in Google AI Studio",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-lock-your-ais-output-schema-in-google-ai-studio-53io",
+      "source": "dev_to",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
