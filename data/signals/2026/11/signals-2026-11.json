@@ -5423,6 +5423,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50335659",
+      "title": "Never Complain, Never Explain",
+      "canonical_url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T17:55:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
