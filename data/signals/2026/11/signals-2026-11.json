@@ -5897,6 +5897,19 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346129",
+      "title": "An Existential Guide To: Flirting",
+      "canonical_url": "https://theshadowedarchive.substack.com/p/an-existential-guide-to-flirting",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:06:55Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
