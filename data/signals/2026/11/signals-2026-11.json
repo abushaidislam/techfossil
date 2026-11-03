@@ -5319,6 +5319,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50344222",
+      "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
+      "canonical_url": "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T03:42:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
