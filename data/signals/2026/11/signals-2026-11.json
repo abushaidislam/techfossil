@@ -6350,6 +6350,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50348591",
+      "title": "How AI is creating a lopsided US economy",
+      "canonical_url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T11:58:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
