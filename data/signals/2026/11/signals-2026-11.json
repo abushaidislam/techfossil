@@ -6522,6 +6522,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353449",
+      "title": "Fire risk to US structures will nearly triple by 2060 if we do nothing",
+      "canonical_url": "https://www.colorado.edu/today/2026/11/03/fire-risk-us-structures-will-nearly-triple-2060-if-we-do-nothing",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:47:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
