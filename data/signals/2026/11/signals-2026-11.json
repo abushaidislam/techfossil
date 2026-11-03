@@ -6580,6 +6580,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354250",
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "canonical_url": "https://arxiv.org/abs/2611.02618",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:40:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
