@@ -5539,6 +5539,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347006",
+      "title": "Ask HN: Why is it so hard to promote/market even when the product seems right",
+      "canonical_url": "https://news.ycombinator.com/item?id=50347006",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T07:56:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
