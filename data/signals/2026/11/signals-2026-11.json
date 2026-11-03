@@ -6493,6 +6493,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353257",
+      "title": "Railway employee's agent caught hacking competitors",
+      "canonical_url": "https://twitter.com/ns123abc/status/2117497728737620197",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:31:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
