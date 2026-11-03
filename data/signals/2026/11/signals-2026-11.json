@@ -5264,6 +5264,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50345977",
+      "title": "One of Google's Android partners turned 1.3M set-top boxes into a botnet",
+      "canonical_url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T05:51:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
