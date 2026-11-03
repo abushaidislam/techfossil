@@ -6154,6 +6154,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50342284",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "canonical_url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T01:27:37Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
