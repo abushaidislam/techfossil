@@ -5940,6 +5940,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50342908",
+      "title": "Bitcoin Suisse CEO: Switzerland has lost interest in cryptocurrencies",
+      "canonical_url": "https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T02:06:43Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
