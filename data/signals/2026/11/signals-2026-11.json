@@ -5279,6 +5279,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-dev-4935498",
+      "title": "Prompt Pad: Frame Your Persona for Better AI Answers",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-frame-your-persona-for-better-ai-answers-eg3",
+      "source": "dev_to",
+      "published_at": "2026-11-02T20:09:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
