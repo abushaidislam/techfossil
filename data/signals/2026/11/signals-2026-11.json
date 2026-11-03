@@ -6111,6 +6111,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347144",
+      "title": "Email Should Be Opt-In",
+      "canonical_url": "https://fgclue.org/blog/emails-should-be-opt-in/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T08:16:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
