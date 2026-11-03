@@ -5249,6 +5249,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341502",
+      "title": "SOML – A Config Format for Humans",
+      "canonical_url": "https://github.com/soml-lang/soml",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:42:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
