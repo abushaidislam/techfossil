@@ -5569,6 +5569,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346314",
+      "title": "What Are the US Midterms",
+      "canonical_url": "https://www.bbc.com/news/articles/c6wyz223j19po",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:28:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
