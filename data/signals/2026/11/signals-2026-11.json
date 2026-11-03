@@ -6595,6 +6595,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354839",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T23:16:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
