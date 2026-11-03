@@ -6267,6 +6267,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341065",
+      "title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
+      "canonical_url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:14:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
