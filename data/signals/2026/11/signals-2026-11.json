@@ -5884,6 +5884,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50335401",
+      "title": "Show HN: HackerTube for Apple TV. Videos HN Recommends, on Your TV",
+      "canonical_url": "https://news.ycombinator.com/item?id=50335401",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T17:16:30Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
