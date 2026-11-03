@@ -5479,6 +5479,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346849",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "canonical_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T07:33:43Z",
+      "category": "Software Engineering",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
