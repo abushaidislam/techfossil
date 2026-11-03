@@ -5451,6 +5451,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347425",
+      "title": "Ask HN: What Cryptography book do you recommend for reading with 10 year olds?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50347425",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T08:52:50Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cryptography"
+      ]
     }
   ]
 }
