@@ -6070,6 +6070,21 @@
         "ai",
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50348194",
+      "title": "NASA's Swift space telescope predicted to crash back to Earth tomorrow",
+      "canonical_url": "https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T10:47:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
