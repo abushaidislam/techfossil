@@ -5584,6 +5584,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50330033",
+      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
+      "canonical_url": "https://arxiv.org/abs/2610.40269",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T03:22:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
