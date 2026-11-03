@@ -5953,6 +5953,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50348174",
+      "title": "Show HN: Followz – A simple RSS feed for the blogs of people you like",
+      "canonical_url": "https://followz.vercel.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T10:43:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
