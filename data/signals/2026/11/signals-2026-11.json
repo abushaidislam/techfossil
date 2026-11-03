@@ -6608,6 +6608,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353192",
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "canonical_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:25:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
