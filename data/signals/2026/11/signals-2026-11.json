@@ -6085,6 +6085,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50341736",
+      "title": "Egoless Mathematics in the AI Era",
+      "canonical_url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:54:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
