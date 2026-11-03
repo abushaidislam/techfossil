@@ -6421,6 +6421,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50345735",
+      "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+      "canonical_url": "https://www.c64-wiki.com/wiki/GUI64",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T05:32:22Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
