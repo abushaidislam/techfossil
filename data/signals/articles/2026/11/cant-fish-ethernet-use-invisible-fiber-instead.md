@@ -6,10 +6,10 @@
 - **Published:** 2026-11-03T03:42:18Z
 - **Verification:** `verified` (Score: 70/100)
 - **Canonical URL:** [https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/](https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/)
-- **Technologies:** `technology`, `development`, `software`
+- **Technologies:** `software`, `technology`, `development`
 
 ## Summary & Context
 Discussion on Hacker News with 61 comments and 57 points.
 
 ---
-*Archived by TechFossil Live Ingestion Daemon on 2026-11-03 10:39:13 UTC*
+*Archived by TechFossil Live Ingestion Daemon on 2026-11-03 11:24:02 UTC*
