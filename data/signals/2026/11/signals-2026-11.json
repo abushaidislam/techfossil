@@ -5638,6 +5638,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50344958",
+      "title": "Anthropic's growth just flattened",
+      "canonical_url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T04:33:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
