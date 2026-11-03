@@ -6012,6 +6012,21 @@
         "api",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346339",
+      "title": "Audience Capture",
+      "canonical_url": "https://www.seangoedecke.com/audience-capture/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:30:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
