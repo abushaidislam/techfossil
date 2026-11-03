@@ -5379,6 +5379,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50323123",
+      "title": "Resisting Cognitive Surrender",
+      "canonical_url": "https://knlb.dev/essays/surrender",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T12:13:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
