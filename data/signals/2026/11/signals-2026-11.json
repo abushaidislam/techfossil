@@ -5813,6 +5813,19 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50348315",
+      "title": "Show HN: MCPgraphy – a proxy that learns when your agent's MCP tools work",
+      "canonical_url": "https://github.com/hemanth1999k/mcpgraphy",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T11:07:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
