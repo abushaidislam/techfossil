@@ -6391,6 +6391,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50350493",
+      "title": "Blade Runner: More Human Than Human",
+      "canonical_url": "https://blue-continuum.com/remembering-the-future-blade-runner",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T17:08:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
