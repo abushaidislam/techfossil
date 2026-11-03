@@ -5364,6 +5364,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50344181",
+      "title": "BYD sold more EVs last month than the US did all quarter",
+      "canonical_url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T03:38:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
