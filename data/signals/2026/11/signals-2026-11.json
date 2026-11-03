@@ -6668,6 +6668,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354859",
+      "title": "Show HN: A fast, lightweight U.S. midterm election tracker",
+      "canonical_url": "https://whoswinningthis.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T23:16:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
