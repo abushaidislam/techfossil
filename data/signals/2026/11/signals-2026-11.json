@@ -6323,6 +6323,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50350456",
+      "title": "Reviewer-gates: Trading speed for correctness with Claude",
+      "canonical_url": "https://alexitc.com/blog/2026-11-02-trading-speed-for-correctness-with-claude/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T17:04:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
