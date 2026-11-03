@@ -5625,6 +5625,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50346468",
+      "title": "Quitting jobs: The two-week notice is dying. Maybe it should",
+      "canonical_url": "https://slate.com/life/2026/11/jobs-job-work-quit-two-weeks-notice.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T06:47:02Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
