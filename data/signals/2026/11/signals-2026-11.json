@@ -5509,6 +5509,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50347571",
+      "title": "Software freedom is about our human desire to share, tinker, and collaborate",
+      "canonical_url": "https://educatingtobehuman.org/software-freedom-and-the-case-for-open-with-matthias-kirschner",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T09:13:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
