@@ -6139,6 +6139,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50334240",
+      "title": "Wir müssen wissen – wir werden wissen",
+      "canonical_url": "https://remy.wang/blog/hilbert.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T14:07:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
