@@ -6376,6 +6376,21 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1103-hn-50331800",
+      "title": "Vathographs: Photographic depth maps as creative expression",
+      "canonical_url": "https://vathography.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T07:11:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
