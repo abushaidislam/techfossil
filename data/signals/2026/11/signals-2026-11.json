@@ -8401,6 +8401,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362087",
+      "title": "Valve Steam: Updates to the Pre-Release Review Process",
+      "canonical_url": "https://store.steampowered.com/news/group/4145017/view/696528162820984745",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T12:27:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
