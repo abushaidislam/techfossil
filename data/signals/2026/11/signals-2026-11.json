@@ -7742,6 +7742,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358702",
+      "title": "The Internals of PostgreSQL",
+      "canonical_url": "https://www.interdb.jp/pg/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:51:06Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres",
+        "sql"
+      ]
     }
   ]
 }
