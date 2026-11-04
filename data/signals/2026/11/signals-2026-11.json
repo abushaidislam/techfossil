@@ -7496,6 +7496,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50344919",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "canonical_url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T04:30:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
