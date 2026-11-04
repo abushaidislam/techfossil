@@ -6801,6 +6801,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360115",
+      "title": "People Against Genocide Smash Military Satellites on Balfour Anniversary",
+      "canonical_url": "https://aftershock.media/military-satellites-balfour/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:25:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
