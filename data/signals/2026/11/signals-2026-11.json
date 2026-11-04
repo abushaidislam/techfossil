@@ -7886,6 +7886,19 @@
         "rust",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50355767",
+      "title": "How I use AI (Oct 2026)",
+      "canonical_url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T00:11:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
