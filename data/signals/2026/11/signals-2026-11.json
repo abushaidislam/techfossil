@@ -7454,6 +7454,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358582",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "canonical_url": "https://arxiv.org/abs/2605.29713",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:40:53Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
