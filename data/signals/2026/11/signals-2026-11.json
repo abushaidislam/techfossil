@@ -8271,6 +8271,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362064",
+      "title": "Re.press",
+      "canonical_url": "https://re-press.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T12:25:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
