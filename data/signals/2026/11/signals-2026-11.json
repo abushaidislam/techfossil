@@ -7413,6 +7413,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360457",
+      "title": "Writing as an act of rebellion (Despite the AI psychosis)",
+      "canonical_url": "https://charlesfonseca.substack.com/p/writing-as-an-act-of-rebellion",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:21:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
