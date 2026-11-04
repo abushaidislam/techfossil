@@ -8115,6 +8115,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360407",
+      "title": "Colour Malarkey",
+      "canonical_url": "https://retrorgb.com/colour-malarkey.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:14:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
