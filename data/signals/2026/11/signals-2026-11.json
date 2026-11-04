@@ -7771,6 +7771,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361778",
+      "title": "YC's Workatastartup – New UI",
+      "canonical_url": "https://news.ycombinator.com/item?id=50361778",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T11:27:08Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
