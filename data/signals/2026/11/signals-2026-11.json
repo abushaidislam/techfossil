@@ -8055,6 +8055,21 @@
       "technologies": [
         "html"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50344224",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "canonical_url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T03:42:25Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
