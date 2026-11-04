@@ -8014,6 +8014,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354336",
+      "title": "Gitbook Breached",
+      "canonical_url": "https://news.ycombinator.com/item?id=50354336",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:45:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
