@@ -7299,6 +7299,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50357782",
+      "title": "I dumped Apple’s word list",
+      "canonical_url": "https://helgesver.re/articles/macos-vulgar-word-flags",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T02:33:23Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
