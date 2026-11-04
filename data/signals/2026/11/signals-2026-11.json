@@ -7583,6 +7583,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50357973",
+      "title": "The Pnyx and the Agora (2016)",
+      "canonical_url": "https://www.readingdesign.org/the-pnyx-and-the-agora",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T02:49:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
