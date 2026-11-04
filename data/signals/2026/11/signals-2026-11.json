@@ -8488,6 +8488,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360947",
+      "title": "Tell HN: Don't use Postman, they proxy your info without your permission",
+      "canonical_url": "https://news.ycombinator.com/item?id=50360947",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T08:43:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
