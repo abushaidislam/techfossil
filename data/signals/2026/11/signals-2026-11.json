@@ -7116,6 +7116,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50351111",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "canonical_url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T18:21:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
