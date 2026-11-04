@@ -7256,6 +7256,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50342931",
+      "title": "Union Types and Option Types (2025)",
+      "canonical_url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T02:08:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
