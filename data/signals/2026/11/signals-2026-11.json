@@ -8226,6 +8226,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361892",
+      "title": "Peptides and Silicon Valley's Use of Them – Good Work [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=W0ltbBby9FU",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T11:51:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
