@@ -7468,6 +7468,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360381",
+      "title": "Testing without a server: using FakeValkey, the in-memory test double for Valkey",
+      "canonical_url": "https://valkey.io/blog/testing-without-a-server-fakevalkey/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:10:14Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
