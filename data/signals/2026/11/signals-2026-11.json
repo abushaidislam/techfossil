@@ -7843,6 +7843,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360153",
+      "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+      "canonical_url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:31:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
