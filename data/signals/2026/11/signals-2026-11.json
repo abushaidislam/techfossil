@@ -7174,6 +7174,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360563",
+      "title": "How HN: CloudDrive (Open Source) – Put Your Own Cloudflare R2 Bucket in Finder",
+      "canonical_url": "https://github.com/createdbymax/CloudDrive",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:38:56Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
