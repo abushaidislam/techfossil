@@ -6786,6 +6786,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360122",
+      "title": "French blood storage facilities targeted in cyberattack",
+      "canonical_url": "https://twitter.com/etnshow/status/2117728420477936043",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:27:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
