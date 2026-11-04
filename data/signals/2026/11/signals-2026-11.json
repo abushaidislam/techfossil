@@ -8356,6 +8356,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50348962",
+      "title": "Nvidia – open-source auto-ontology",
+      "canonical_url": "https://github.com/NVIDIA/auto-ontology",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T13:04:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
