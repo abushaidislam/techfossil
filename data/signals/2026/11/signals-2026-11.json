@@ -7784,6 +7784,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354960",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "canonical_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T23:22:37Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "api"
+      ]
     }
   ]
 }
