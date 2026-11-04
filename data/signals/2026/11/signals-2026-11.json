@@ -7357,6 +7357,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358562",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "canonical_url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:39:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
