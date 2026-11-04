@@ -7928,6 +7928,21 @@
         "ai",
         "neural"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50354252",
+      "title": "Tangled in a Box",
+      "canonical_url": "https://jola.dev/posts/tangled-in-a-box",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:40:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
