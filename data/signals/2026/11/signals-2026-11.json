@@ -7511,6 +7511,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50357457",
+      "title": "Pratt parsing is a black box",
+      "canonical_url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T02:07:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
