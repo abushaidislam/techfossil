@@ -7058,6 +7058,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50359709",
+      "title": "Kitty 0.50.0",
+      "canonical_url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T05:35:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
