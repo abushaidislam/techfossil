@@ -6915,6 +6915,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360921",
+      "title": "Terence Tao: Math 2.0 [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=aHpPoNNTOKY",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T08:39:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
