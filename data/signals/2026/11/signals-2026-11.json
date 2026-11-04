@@ -8042,6 +8042,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361042",
+      "title": "Show HN: DropMyPage – turn an HTML file or PDF into a link and QR code",
+      "canonical_url": "https://dropmypage.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T08:59:04Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html"
+      ]
     }
   ]
 }
