@@ -6842,6 +6842,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360573",
+      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+      "canonical_url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:40:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
