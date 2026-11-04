@@ -7215,6 +7215,19 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358388",
+      "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+      "canonical_url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:23:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
