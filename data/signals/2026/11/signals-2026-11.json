@@ -8443,6 +8443,21 @@
       "technologies": [
         "cryptography"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50363049",
+      "title": "Geolocating any audio recording using flight data and the Doppler Effect",
+      "canonical_url": "https://www.techradar.com/computing/cyber-security/youtuber-discovers-aircraft-noise-trick-that-can-geolocate-your-videos-to-within-100m-doppler-effect-pinpoints-locations-from-just-60-seconds-of-audio",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T15:08:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
