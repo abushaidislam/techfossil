@@ -7187,6 +7187,21 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50348535",
+      "title": "The Nordic Token Tax",
+      "canonical_url": "https://research.klang.ai/papers/the-nordic-token-tax",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T11:47:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
