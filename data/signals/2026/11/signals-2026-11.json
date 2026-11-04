@@ -7798,6 +7798,21 @@
         "ai",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361318",
+      "title": "Show HN: Brim – Use the iPhone Duo's whole outer display in Safari",
+      "canonical_url": "https://brim-app-rho.vercel.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:52:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
