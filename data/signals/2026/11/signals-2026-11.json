@@ -7271,6 +7271,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50351404",
+      "title": "Show HN: Bema: Work messaging built for humans",
+      "canonical_url": "https://getbema.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T18:51:11Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
