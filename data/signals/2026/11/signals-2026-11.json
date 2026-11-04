@@ -7856,6 +7856,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361018",
+      "title": "Unlocking the (Nintendo) lockout (see pages 6-9) [pdf]",
+      "canonical_url": "https://archive.nes.science/nintendoage-forums/static.nintendoagemedia.com/ezine/Issue_07-2008.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T08:54:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
