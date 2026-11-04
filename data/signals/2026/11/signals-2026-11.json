@@ -6872,6 +6872,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360046",
+      "title": "Show HN: An interactive map of midterm ads",
+      "canonical_url": "https://admap.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:16:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
