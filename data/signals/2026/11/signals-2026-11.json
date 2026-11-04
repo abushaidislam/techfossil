@@ -6827,6 +6827,21 @@
       "technologies": [
         "css"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360044",
+      "title": "Multi-Column Different-Speed Scrolling",
+      "canonical_url": "https://blog.master.dev/multi-column-different-speed-scrolling/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:16:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
