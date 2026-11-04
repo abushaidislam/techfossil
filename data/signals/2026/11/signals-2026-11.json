@@ -6771,6 +6771,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360372",
+      "title": "Google Disrupts 1.3M Device Botnet, Says TV Box Maker Sold Criminal Access",
+      "canonical_url": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:08:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
