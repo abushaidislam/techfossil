@@ -7697,6 +7697,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360700",
+      "title": "A $300 Robot That Fetches a Ball and Brings It Back, All on Its Own",
+      "canonical_url": "https://www.gadgetreview.com/a-300-robot-that-fetches-a-ball-and-brings-it-back-all-on-its-own",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:58:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
