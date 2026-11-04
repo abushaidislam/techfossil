@@ -8241,6 +8241,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361375",
+      "title": "Show HN: Handball Logos – Collection of logos of handball clubs",
+      "canonical_url": "https://handball-logos.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T10:02:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
