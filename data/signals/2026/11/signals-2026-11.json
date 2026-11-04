@@ -7756,6 +7756,21 @@
         "postgres",
         "sql"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360607",
+      "title": "FBI Probes Autism Therapy Provider That Billed $30k a Day",
+      "canonical_url": "https://www.wsj.com/us-news/law/fbi-probes-autism-therapy-provider-that-billed-30-000-a-day-cd1885ea",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:45:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
