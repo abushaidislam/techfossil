@@ -6698,6 +6698,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360020",
+      "title": "Sandchest: Add a Hacker to Your Team",
+      "canonical_url": "https://www.sandchest.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:13:27Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
