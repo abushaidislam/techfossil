@@ -8213,6 +8213,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362464",
+      "title": "Dopplertrack: Acoustic geolocation from the Doppler curves of propeller aircraft",
+      "canonical_url": "https://github.com/mjshiggins/dopplertrack",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T13:36:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
