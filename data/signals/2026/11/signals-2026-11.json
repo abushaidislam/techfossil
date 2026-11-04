@@ -8503,6 +8503,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50352898",
+      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
+      "canonical_url": "https://github.com/Muvon/octomind",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:02:58Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
