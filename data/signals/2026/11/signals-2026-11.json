@@ -7682,6 +7682,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360322",
+      "title": "Nsw Health Breached",
+      "canonical_url": "https://www.smh.com.au/national/nsw/100-000-documents-stolen-from-isolated-nsw-health-server-20261104-p61b78.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:00:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
