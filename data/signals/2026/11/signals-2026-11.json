@@ -8517,6 +8517,21 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50363378",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "canonical_url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T16:00:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
