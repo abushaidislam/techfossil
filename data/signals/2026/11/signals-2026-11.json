@@ -8198,6 +8198,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361107",
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "canonical_url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:11:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
