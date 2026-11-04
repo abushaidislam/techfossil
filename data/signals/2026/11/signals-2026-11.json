@@ -7228,6 +7228,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360496",
+      "title": "Show HN: Gesture Studio – Windows gesture shortcuts for touch, pen, and mouse",
+      "canonical_url": "https://apps.microsoft.com/detail/9nz37wkhnbb3?hl=en-US&gl=US",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:27:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
