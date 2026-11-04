@@ -6726,6 +6726,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360067",
+      "title": "Tesla allegedly misled South Korean customers about automated-driving tech",
+      "canonical_url": "https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:19:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
