@@ -7073,6 +7073,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50335615",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "canonical_url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T17:50:13Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
