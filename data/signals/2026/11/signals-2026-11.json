@@ -8416,6 +8416,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50341462",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "canonical_url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T00:39:38Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
