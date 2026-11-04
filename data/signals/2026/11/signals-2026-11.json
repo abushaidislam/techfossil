@@ -8343,6 +8343,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362354",
+      "title": "Tiny Pickles: Why are AI companies investing so much in math proofs?",
+      "canonical_url": "https://blog.chaoticgood.computer/content/dead-math",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T13:15:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
