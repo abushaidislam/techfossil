@@ -8100,6 +8100,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353383",
+      "title": "Bear turns 10, and it still feels like day one",
+      "canonical_url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:41:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
