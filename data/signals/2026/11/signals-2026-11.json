@@ -8386,6 +8386,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362022",
+      "title": "Scientists voted to redefine how the world keeps time",
+      "canonical_url": "https://www.scientificamerican.com/article/scientists-vote-to-end-leap-seconds-redefining-how-the-world-keeps-time/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T12:16:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
