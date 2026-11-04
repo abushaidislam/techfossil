@@ -8547,6 +8547,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362993",
+      "title": "Milkman – The Better Alternative to Postman",
+      "canonical_url": "https://milkman.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T14:58:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
