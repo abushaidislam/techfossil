@@ -7971,6 +7971,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360161",
+      "title": "Recycler: Cost-Free Latent Reasoning via Hidden State Recycling [pdf]",
+      "canonical_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/hyvsmeh7uhobf/recycler_arxiv%20%282%29.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:32:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
