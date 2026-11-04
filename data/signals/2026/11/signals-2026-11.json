@@ -7667,6 +7667,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360603",
+      "title": "TimeScore Weighted Scoring Algorithm",
+      "canonical_url": "https://mckoss.com/posts/timescore/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:45:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
