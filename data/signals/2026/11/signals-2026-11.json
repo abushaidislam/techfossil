@@ -7554,6 +7554,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "canonical_url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:53:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
