@@ -7654,6 +7654,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358414",
+      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+      "canonical_url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:25:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 71,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
