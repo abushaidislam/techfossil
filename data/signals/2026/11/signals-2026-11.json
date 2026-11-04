@@ -7426,6 +7426,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353386",
+      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+      "canonical_url": "https://hissingkitty.com/hacker-churn",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:41:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
