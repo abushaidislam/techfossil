@@ -8299,6 +8299,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361726",
+      "title": "Synthetic Deep Web: On Algorithmic Invisibility in the Age of Generative Models",
+      "canonical_url": "https://medium.com/@smoking2man/synthetic-deep-web-on-algorithmic-invisibility-in-the-age-of-generative-models-b35f26f9df80",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T11:16:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
