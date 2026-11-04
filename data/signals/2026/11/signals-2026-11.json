@@ -8314,6 +8314,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362893",
+      "title": "Canva Layoffs",
+      "canonical_url": "https://www.canva.com/newsroom/news/canva-team-update/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T14:44:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
