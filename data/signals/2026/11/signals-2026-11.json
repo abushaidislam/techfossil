@@ -7327,6 +7327,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361631",
+      "title": "GPT-Synopsys Combines IC Design EDA with Agentic AI",
+      "canonical_url": "https://www.eetimes.com/gpt-synopsys-combines-ic-design-eda-with-agentic-ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T10:55:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gpt",
+        "agent"
+      ]
     }
   ]
 }
