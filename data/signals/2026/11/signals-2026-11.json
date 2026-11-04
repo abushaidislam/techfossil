@@ -6887,6 +6887,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360150",
+      "title": "Caching at Scale in Django: Lessons from Production",
+      "canonical_url": "https://johnnymetz.com/posts/caching-at-scale-in-django/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:31:03Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "django"
+      ]
     }
   ]
 }
