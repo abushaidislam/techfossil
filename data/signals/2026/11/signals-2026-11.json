@@ -7385,6 +7385,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361191",
+      "title": "Show HN: Railyard – Git-push deploys and OSS templates on your own VPS",
+      "canonical_url": "https://railyard.run/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:26:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
