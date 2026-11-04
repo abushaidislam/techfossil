@@ -7398,6 +7398,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360738",
+      "title": "Continual learning and 150KB timing models without backpropagation",
+      "canonical_url": "https://buildcivilization.com/learner/results",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T08:05:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
