@@ -6814,6 +6814,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360517",
+      "title": "Show HN: Predictygraph – animated diagrams styled with CSS, no reshuffle on edit",
+      "canonical_url": "https://predictygraph.github.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:31:03Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "css"
+      ]
     }
   ]
 }
