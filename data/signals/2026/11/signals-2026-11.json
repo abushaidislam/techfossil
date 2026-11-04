@@ -6857,6 +6857,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50321605",
+      "title": "Toit v2.0.0",
+      "canonical_url": "https://toit.io/blog/toit-v2-0-0/",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T06:25:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
