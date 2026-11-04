@@ -7986,6 +7986,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50359688",
+      "title": "Rotary Position Encodings for Graphs",
+      "canonical_url": "https://idlemachines.co.uk/essays/rope-for-graphs",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T05:33:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
