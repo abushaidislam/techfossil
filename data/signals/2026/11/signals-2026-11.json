@@ -7639,6 +7639,21 @@
       "technologies": [
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50356944",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "canonical_url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T01:27:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
