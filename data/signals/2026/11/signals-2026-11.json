@@ -7541,6 +7541,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361330",
+      "title": "Ask HN: Are you building your own personal webapps?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50361330",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:54:40Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
