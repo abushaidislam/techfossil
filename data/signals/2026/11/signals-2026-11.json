@@ -7626,6 +7626,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353229",
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "canonical_url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:29:15Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "aws"
+      ]
     }
   ]
 }
