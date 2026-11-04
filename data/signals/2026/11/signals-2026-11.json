@@ -8001,6 +8001,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360263",
+      "title": "Ask HN: What is the best non mainstream programming language or stack in 2026?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50360263",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:51:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
