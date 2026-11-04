@@ -6974,6 +6974,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360521",
+      "title": "OpenSc3k – SimCity 3000 Open Source",
+      "canonical_url": "https://opensc3k.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:31:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
