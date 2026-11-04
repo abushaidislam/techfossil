@@ -7914,6 +7914,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360281",
+      "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+      "canonical_url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:54:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "neural"
+      ]
     }
   ]
 }
