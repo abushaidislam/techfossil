@@ -7032,6 +7032,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360211",
+      "title": "Dev-Guard – Defend Against Supply Chain Malware",
+      "canonical_url": "https://github.com/yeeth-security/dev-guard",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:43:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
