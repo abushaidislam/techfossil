@@ -8473,6 +8473,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50363284",
+      "title": "Why king – man + woman isn't queen",
+      "canonical_url": "https://deployed-ai.io/blog/what-is-an-embedding/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T15:50:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
