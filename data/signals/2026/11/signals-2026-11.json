@@ -8329,6 +8329,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362245",
+      "title": "Affinity for Linux is in active development",
+      "canonical_url": "https://twitter.com/Affinity/status/2117276850795790442",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T12:55:32Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
