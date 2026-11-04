@@ -7161,6 +7161,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358352",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "canonical_url": "https://uncracked.city",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:20:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
