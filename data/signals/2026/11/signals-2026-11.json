@@ -7372,6 +7372,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361306",
+      "title": "A private AI box in one apply",
+      "canonical_url": "https://conn3x.org/blog/private-ai-box",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:49:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
