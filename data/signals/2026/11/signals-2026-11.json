@@ -6741,6 +6741,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50359995",
+      "title": "Centralia's underground fire and the NIF record shot, by the numbers",
+      "canonical_url": "https://anotherdoor.de/works/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:10:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
