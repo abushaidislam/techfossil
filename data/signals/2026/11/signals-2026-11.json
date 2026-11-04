@@ -8157,6 +8157,19 @@
         "react",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50352405",
+      "title": "US Hedge Funds Just Sold Every AI Stock They Bought Since 2025",
+      "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:27:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
