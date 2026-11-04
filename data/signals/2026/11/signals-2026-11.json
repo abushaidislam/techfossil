@@ -7943,6 +7943,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50336557",
+      "title": "433MHz TUI scanner: using a FT232H connected to a CC1101",
+      "canonical_url": "https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T19:28:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
