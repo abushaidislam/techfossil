@@ -6930,6 +6930,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50326545",
+      "title": "Embedding boolean circuits in a neural network",
+      "canonical_url": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
+      "source": "hacker_news",
+      "published_at": "2026-11-01T21:27:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "neural",
+        "ui"
+      ]
     }
   ]
 }
