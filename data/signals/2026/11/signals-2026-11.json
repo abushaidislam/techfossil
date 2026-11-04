@@ -7526,6 +7526,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50358126",
+      "title": "Deskilling the body: We are doing less sensing, navigating, remembering, walking",
+      "canonical_url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:00:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
