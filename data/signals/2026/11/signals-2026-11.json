@@ -8029,6 +8029,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50353073",
+      "title": "Tiny Basic for Arduino",
+      "canonical_url": "https://dilshan.github.io/tiny-basic/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:17:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
