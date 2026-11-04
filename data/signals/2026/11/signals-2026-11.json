@@ -7101,6 +7101,21 @@
       "technologies": [
         "css"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50351574",
+      "title": "How McDonald's first got its start (2016)",
+      "canonical_url": "https://www.smithsonianmag.com/history/story-how-mcdonalds-first-got-its-start-180960931/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T19:12:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
