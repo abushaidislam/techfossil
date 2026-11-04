@@ -8085,6 +8085,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50361708",
+      "title": "Extreme Environments Push Chips to Their Breaking Point",
+      "canonical_url": "https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T11:11:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
