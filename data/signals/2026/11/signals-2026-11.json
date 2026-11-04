@@ -7243,6 +7243,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50339288",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "canonical_url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:29:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
