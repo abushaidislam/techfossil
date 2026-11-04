@@ -7439,6 +7439,21 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360273",
+      "title": "French blood storage facilities targeted in cyberattack",
+      "canonical_url": "https://www.aa.com.tr/en/science-technology/french-blood-storage-facilities-targeted-in-cyberattack-report/4110658",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T06:53:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
