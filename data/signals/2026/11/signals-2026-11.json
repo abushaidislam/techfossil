@@ -7956,6 +7956,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50360529",
+      "title": "Show HN: NotLate – An iOS app for overthinking and restless nights",
+      "canonical_url": "https://www.adribyte-studio.com/mobile-apps/notlate",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T07:32:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
