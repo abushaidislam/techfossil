@@ -6711,6 +6711,21 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1104-dev-4971470",
+      "title": "Let's see where you code!",
+      "canonical_url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+      "source": "dev_to",
+      "published_at": "2026-11-03T20:18:40Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
