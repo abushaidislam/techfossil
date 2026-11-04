@@ -8130,6 +8130,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1104-hn-50362367",
+      "title": "Jobox CTO is in the news for fraud again",
+      "canonical_url": "https://twitter.com/MissionTG/status/1914227998183788642",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T13:17:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
