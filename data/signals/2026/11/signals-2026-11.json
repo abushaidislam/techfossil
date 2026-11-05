@@ -9894,6 +9894,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50367653",
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "canonical_url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T22:11:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
