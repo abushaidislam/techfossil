@@ -8637,6 +8637,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369895",
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "canonical_url": "https://fireflyk64.github.io/wcmulti/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:51:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
