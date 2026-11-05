@@ -9338,6 +9338,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371785",
+      "title": "New York reports first measles death in more than 30 years",
+      "canonical_url": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:24:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
