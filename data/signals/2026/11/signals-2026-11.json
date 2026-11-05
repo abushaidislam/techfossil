@@ -9671,6 +9671,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372853",
+      "title": "AI poisoning: are we using AI, or is AI using us?",
+      "canonical_url": "https://blog.sparkcan.com/posts/ai-poisoning/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:24:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
