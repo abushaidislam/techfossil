@@ -9714,6 +9714,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373628",
+      "title": "The anatomy of language model inference and reinforcement learning",
+      "canonical_url": "https://www.nabo.dev/blogs/jam-architecture",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:58:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
