@@ -9224,6 +9224,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372925",
+      "title": "The psychology of separating church and state Essays",
+      "canonical_url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:33:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
