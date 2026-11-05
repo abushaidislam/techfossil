@@ -9508,6 +9508,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50374033",
+      "title": "Time || Space? Generation of Time and Dates in C Language:Generation of Space",
+      "canonical_url": "http://www.catb.org/esr/time-programming/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T07:46:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
