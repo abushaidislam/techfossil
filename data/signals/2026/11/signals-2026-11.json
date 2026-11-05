@@ -10391,6 +10391,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373505",
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "canonical_url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:43:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
