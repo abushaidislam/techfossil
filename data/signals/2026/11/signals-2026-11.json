@@ -8608,6 +8608,20 @@
         "ai",
         "kubernetes"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4976371",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 3: Lightweight Home Screen, Lazy CDK Dialog, and Header Navigation)",
+      "canonical_url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-3-lightweight-home-17dg",
+      "source": "dev_to",
+      "published_at": "2026-11-04T15:23:31Z",
+      "category": "Security & Privacy",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "auth",
+        "ai"
+      ]
     }
   ]
 }
