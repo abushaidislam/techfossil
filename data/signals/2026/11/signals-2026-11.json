@@ -10245,6 +10245,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50364284",
+      "title": "Replacing homepage demo media with looping HTML and CSS",
+      "canonical_url": "https://stepshots.com/css-feature-clips",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T17:45:15Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html",
+        "css"
+      ]
     }
   ]
 }
