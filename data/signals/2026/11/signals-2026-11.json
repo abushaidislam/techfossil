@@ -10121,6 +10121,21 @@
         "ui",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377125",
+      "title": "Palestine Action Supreme Court Hearing Day 1",
+      "canonical_url": "https://www.craigmurray.org.uk/archives/2026/11/palestine-action-supreme-court-hearing-day-1/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:34:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
