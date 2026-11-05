@@ -9125,6 +9125,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372814",
+      "title": "Pcbang.io",
+      "canonical_url": "https://pcbang.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:20:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
