@@ -9439,6 +9439,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373184",
+      "title": "Stable Releases, API, Text and Everything Else",
+      "canonical_url": "https://ruffle.rs/blog/2026/11/04/stable-releases-and-everything-else",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:05:19Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
