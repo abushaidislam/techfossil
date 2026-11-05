@@ -10230,6 +10230,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377264",
+      "title": "Number Parsing at a Gigabyte per Second",
+      "canonical_url": "https://arxiv.org/abs/2101.11408",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:53:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
