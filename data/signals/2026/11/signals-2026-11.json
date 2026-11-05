@@ -8622,6 +8622,21 @@
         "auth",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372088",
+      "title": "Everyone sits in the same traffic now",
+      "canonical_url": "https://www.ystrickler.com/everyone-sits-in-the-same-traffic-now/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:54:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
