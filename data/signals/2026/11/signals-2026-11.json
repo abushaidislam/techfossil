@@ -8996,6 +8996,19 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371936",
+      "title": "A startup wants to build a nuclear-powered data center on public land in Utah",
+      "canonical_url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:39:51Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
