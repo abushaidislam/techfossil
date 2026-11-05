@@ -8980,6 +8980,22 @@
       "technologies": [
         "neural"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4972397",
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "canonical_url": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "source": "dev_to",
+      "published_at": "2026-11-04T22:49:08Z",
+      "category": "Backend & APIs",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "python",
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
