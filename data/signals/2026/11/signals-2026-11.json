@@ -9170,6 +9170,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50362980",
+      "title": "Kitty 0.50",
+      "canonical_url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T14:57:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
