@@ -10419,6 +10419,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50376340",
+      "title": "A 3D Science Simulator with Molecules, a Periodic Table, and a Solar System",
+      "canonical_url": "https://visionvix.world/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T13:47:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
