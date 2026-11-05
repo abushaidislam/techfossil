@@ -10479,6 +10479,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50376212",
+      "title": "NASA's 22-year-old Swift satellite telescope falls from orbit",
+      "canonical_url": "https://www.reuters.com/science/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale-2026-11-04/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T13:29:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
