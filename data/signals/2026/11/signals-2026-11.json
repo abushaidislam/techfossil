@@ -10217,6 +10217,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377523",
+      "title": "Ask HN: How do you use AI to learn complex new Math/CS topics?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50377523",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:33:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
