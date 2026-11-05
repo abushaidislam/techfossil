@@ -9729,6 +9729,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372151",
+      "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI",
+      "canonical_url": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:00:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
