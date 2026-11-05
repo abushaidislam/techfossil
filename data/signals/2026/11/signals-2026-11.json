@@ -10641,6 +10641,21 @@
         "hacker",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50349992",
+      "title": "Chip Art",
+      "canonical_url": "https://en.wikipedia.org/wiki/Chip_art",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T15:51:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
