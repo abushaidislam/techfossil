@@ -8593,6 +8593,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4975841",
+      "title": "Leveling the Playing Field: Building a 100% Offline Kubernetes Docs RAG Exam Assistant with Web AI, Gemma 4, and WebGPU",
+      "canonical_url": "https://dev.to/gde/leveling-the-playing-field-building-a-100-offline-kubernetes-docs-rag-exam-assistant-with-web-ai-53bi",
+      "source": "dev_to",
+      "published_at": "2026-11-04T13:56:06Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai",
+        "kubernetes"
+      ]
     }
   ]
 }
