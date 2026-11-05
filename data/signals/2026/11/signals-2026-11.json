@@ -9493,6 +9493,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371090",
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "canonical_url": "https://github.com/gauge-sh/gauge-cli",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:31:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
