@@ -10107,6 +10107,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50342031",
+      "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+      "canonical_url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T01:13:55Z",
+      "category": "Backend & APIs",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "rust"
+      ]
     }
   ]
 }
