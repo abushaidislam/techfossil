@@ -9611,6 +9611,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372360",
+      "title": "Less Popular Than Coal",
+      "canonical_url": "https://www.argmin.net/p/less-popular-than-coal",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:26:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
