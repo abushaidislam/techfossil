@@ -10317,6 +10317,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377651",
+      "title": "DeepSeek Harness [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=VKmUC5ukfqU",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:50:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
