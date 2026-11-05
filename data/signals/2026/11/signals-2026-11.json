@@ -8766,6 +8766,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4972669",
+      "title": "Securing an Angular Firebase AI App with Email/Password Authentication (Part 2: Signal Forms Sign-In Modal) [GDE]",
+      "canonical_url": "https://dev.to/gde/securing-an-angular-firebase-ai-app-with-emailpassword-authentication-part-2-signal-forms-3ll9",
+      "source": "dev_to",
+      "published_at": "2026-11-04T02:48:43Z",
+      "category": "Security & Privacy",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "auth",
+        "ai"
+      ]
     }
   ]
 }
