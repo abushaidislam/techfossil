@@ -9023,6 +9023,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4966183",
+      "title": "The Postcard That Ate Six Grammars: 1980 Smalltalk-80, 1976 Make, TDD, and the Four Attractors of Agentic Coding",
+      "canonical_url": "https://dev.to/gde/the-postcard-that-ate-six-grammars-1980-smalltalk-80-1976-make-tdd-and-the-four-attractors-of-45me",
+      "source": "dev_to",
+      "published_at": "2026-11-03T02:41:46Z",
+      "category": "Systems & Architecture",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "architecture"
+      ]
     }
   ]
 }
