@@ -10684,6 +10684,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50349165",
+      "title": "Future Maintenance of Mbed TLS",
+      "canonical_url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T13:39:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
