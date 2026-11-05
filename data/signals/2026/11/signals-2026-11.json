@@ -8910,6 +8910,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371716",
+      "title": "League City to disable Flock cameras after voters reject their use",
+      "canonical_url": "https://www.houstonpublicmedia.org/articles/galveston-county/2026/11/04/566248/league-city-to-disable-flock-cameras-after-voters-reject-their-use/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:20:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
