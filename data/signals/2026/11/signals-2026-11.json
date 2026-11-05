@@ -9411,6 +9411,19 @@
       "technologies": [
         "sql"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50366465",
+      "title": "TScert: A Sound Core for TypeScript",
+      "canonical_url": "https://github.com/cristianoc/TScert",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T20:58:52Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript"
+      ]
     }
   ]
 }
