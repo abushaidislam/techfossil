@@ -10332,6 +10332,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50366999",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "canonical_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T21:30:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
