@@ -9424,6 +9424,21 @@
       "technologies": [
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50364860",
+      "title": "So my ISP was hijacking my DNS",
+      "canonical_url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T18:51:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
