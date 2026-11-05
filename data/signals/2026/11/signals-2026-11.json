@@ -8780,6 +8780,21 @@
         "auth",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371992",
+      "title": "Show HN: Aggregate Finance, your financial data in a spreadsheet you own",
+      "canonical_url": "https://app.aggregatefi.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:45:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
