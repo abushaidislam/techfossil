@@ -9798,6 +9798,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372642",
+      "title": "You Can Build a Database, and how I'm doing it",
+      "canonical_url": "https://charlesfonseca.substack.com/p/you-can-build-a-database-heres-how",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:59:17Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "database"
+      ]
     }
   ]
 }
