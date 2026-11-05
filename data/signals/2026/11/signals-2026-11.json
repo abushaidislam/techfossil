@@ -9742,6 +9742,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371246",
+      "title": "Residential proxies detected on White House network",
+      "canonical_url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:45:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
