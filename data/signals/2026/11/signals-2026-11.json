@@ -10524,6 +10524,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50339183",
+      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+      "canonical_url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T22:23:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
