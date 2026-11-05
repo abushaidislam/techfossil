@@ -8810,6 +8810,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372381",
+      "title": "Canva lays off 22% of its workforce; 1,270 people",
+      "canonical_url": "https://news.ycombinator.com/item?id=50372381",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:29:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
