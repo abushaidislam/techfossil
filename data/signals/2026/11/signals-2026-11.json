@@ -10494,6 +10494,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50378034",
+      "title": "A tiny Ohio town has a strategy to force data centers to keep their promises",
+      "canonical_url": "https://www.vox.com/future-perfect/509247/ohio-data-centers-ai-election-perry-tax-breaks",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T17:48:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
