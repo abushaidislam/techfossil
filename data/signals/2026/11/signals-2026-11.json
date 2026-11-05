@@ -9383,6 +9383,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372095",
+      "title": "Meta locks hack victim out of account, won't offer support [video]",
+      "canonical_url": "https://www.youtube.com/shorts/TUH_tNq1Ou8",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:55:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
