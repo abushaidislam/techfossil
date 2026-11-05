@@ -8725,6 +8725,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371848",
+      "title": "What Gemini does with saved chats, and what turning off Keep Activity costs",
+      "canonical_url": "https://theainewsreport.com/2026-11-04-gemini-keep-activity-training-human-review-explained.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:30:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
