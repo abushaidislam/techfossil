@@ -9992,6 +9992,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50376478",
+      "title": "Ask HN: What are the fundamentals of agentic coding?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50376478",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T14:08:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
