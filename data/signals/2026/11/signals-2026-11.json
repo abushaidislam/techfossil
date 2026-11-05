@@ -9977,6 +9977,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373004",
+      "title": "Vi Turns 50: The True History of vi",
+      "canonical_url": "https://lunduke.substack.com/p/the-true-history-of-vi",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:43:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
