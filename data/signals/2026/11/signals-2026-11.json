@@ -9568,6 +9568,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T20:37:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
