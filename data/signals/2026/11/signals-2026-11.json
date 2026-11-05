@@ -9934,6 +9934,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369503",
+      "title": "Conductor is joining Meta",
+      "canonical_url": "https://www.conductor.build/announcement",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:22:40Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
