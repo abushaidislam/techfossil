@@ -8895,6 +8895,21 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373609",
+      "title": "Competition for direct weight editing for models: Delta League",
+      "canonical_url": "https://deltaleague.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:55:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
