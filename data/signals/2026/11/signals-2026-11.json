@@ -10449,6 +10449,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50375653",
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "canonical_url": "https://www.altera.com/newsroom/agilex-2x",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T11:47:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
