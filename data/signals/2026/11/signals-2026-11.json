@@ -9582,6 +9582,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50370654",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "canonical_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T01:55:14Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai"
+      ]
     }
   ]
 }
