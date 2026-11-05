@@ -10614,6 +10614,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50378066",
+      "title": "Show HN: A 69-byte on-chain PNG that turns OLED pixels off (0 nits)",
+      "canonical_url": "https://black-pixel-1x1.vercel.app/dossier.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T17:52:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
