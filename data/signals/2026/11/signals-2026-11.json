@@ -9523,6 +9523,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50370495",
+      "title": "Kellogg's Rice Krispies changed U.K. recipe, muffling its snap, crackle and pop",
+      "canonical_url": "https://www.cbc.ca/news/business/rice-krispies-changes-recipe-rice-9.7408568",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T01:40:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
