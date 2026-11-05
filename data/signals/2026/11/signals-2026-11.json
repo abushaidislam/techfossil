@@ -10539,6 +10539,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50378085",
+      "title": "All 5 genetic letters of DNA and RNA discovered in 4.5B-year-old asteroid",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T17:54:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
