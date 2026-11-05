@@ -8710,6 +8710,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50356913",
+      "title": "Introduction to Programming in ATS",
+      "canonical_url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T01:25:18Z",
+      "category": "Software Engineering",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
