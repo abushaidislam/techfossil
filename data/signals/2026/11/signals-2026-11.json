@@ -8795,6 +8795,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372572",
+      "title": "EU/UK Android Devs need to put phone number on Play Store Listing",
+      "canonical_url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:50:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
