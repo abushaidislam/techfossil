@@ -10347,6 +10347,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372266",
+      "title": "Curious What Replaces REST?",
+      "canonical_url": "https://graftcode.com/compare/rest",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:14:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
