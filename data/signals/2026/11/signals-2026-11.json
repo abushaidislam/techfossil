@@ -9949,6 +9949,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371421",
+      "title": "Native Discord desktop client in Rust",
+      "canonical_url": "https://twitter.com/svishnevskiy/status/2118081920194203799",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:58:18Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
