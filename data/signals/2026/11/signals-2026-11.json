@@ -9239,6 +9239,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371851",
+      "title": "Time to wake up MetOp-SG-B1 weather satellite",
+      "canonical_url": "https://new.esa.int/articles/about-us/directorates/earth-observation-programmes/meteorological-missions/metop-second-generation/time-to-wake-up-metop-sg-b1-weather-satellite",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:31:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
