@@ -10712,6 +10712,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1106-dev-4982961",
+      "title": "Thank you to everyone who pointed out the phishing posts we got yesterday. We're working on improved mechanisms to automatically reject those types of attacks.",
+      "canonical_url": "https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b",
+      "source": "dev_to",
+      "published_at": "2026-11-05T15:25:46Z",
+      "category": "Security & Privacy",
+      "importance_score": 83,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
