@@ -9051,6 +9051,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372945",
+      "title": "Introducing Images 2.6",
+      "canonical_url": "https://openai.com/index/introducing-images-2-6/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:35:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
