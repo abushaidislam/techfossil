@@ -10302,6 +10302,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50361268",
+      "title": "Jelly Sheet",
+      "canonical_url": "https://mrdoob.github.io/codevember-2026/01/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:40:50Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
