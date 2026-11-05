@@ -8578,6 +8578,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371890",
+      "title": "Don't Call It a Decision Model",
+      "canonical_url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:35:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
