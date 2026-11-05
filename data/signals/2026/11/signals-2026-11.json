@@ -8652,6 +8652,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372303",
+      "title": "The SBND collaboration releases first neutrino results",
+      "canonical_url": "https://news.fnal.gov/2026/10/the-sbnd-collaboration-releases-first-neutrino-results/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:19:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
