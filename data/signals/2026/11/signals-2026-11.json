@@ -10092,6 +10092,21 @@
       "technologies": [
         "vulnerability"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377680",
+      "title": "Italian chef fired after refusing to put pineapple on pizza",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:55:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
