@@ -10136,6 +10136,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377574",
+      "title": "Trump proclaims 'American space superiority for all eternity'",
+      "canonical_url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:40:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
