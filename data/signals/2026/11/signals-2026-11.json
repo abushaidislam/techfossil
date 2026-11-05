@@ -8825,6 +8825,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4935500",
+      "title": "Prompt Pad: What Is Open Source?",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-what-is-open-source-23k6",
+      "source": "dev_to",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
