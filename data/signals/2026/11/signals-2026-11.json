@@ -10274,6 +10274,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372038",
+      "title": "Harmony: Chat like Discord. Federated like email",
+      "canonical_url": "https://mony.lol/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:49:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
