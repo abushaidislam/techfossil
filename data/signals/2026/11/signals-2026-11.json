@@ -10034,6 +10034,23 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377784",
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+      "canonical_url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T17:11:23Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "openai",
+        "kernel",
+        "ai",
+        "ux"
+      ]
     }
   ]
 }
