@@ -9812,6 +9812,19 @@
         "ui",
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369106",
+      "title": "A new Go API for JSON",
+      "canonical_url": "https://go.dev/blog/jsonv2",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T23:52:11Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
