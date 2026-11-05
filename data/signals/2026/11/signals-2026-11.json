@@ -10189,6 +10189,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377530",
+      "title": "Patching the PHP and Node.js Vulnerabilities",
+      "canonical_url": "https://laravel.com/blog/php-nodejs-vulnerabilities-post-mortem",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:34:27Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "node"
+      ]
     }
   ]
 }
