@@ -10554,6 +10554,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369754",
+      "title": "Have I befriended a murderer?",
+      "canonical_url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:40:54Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
