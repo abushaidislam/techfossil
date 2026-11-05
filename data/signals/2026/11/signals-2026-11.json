@@ -10584,6 +10584,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50363019",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "canonical_url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T15:01:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
