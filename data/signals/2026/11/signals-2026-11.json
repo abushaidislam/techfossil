@@ -8967,6 +8967,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371763",
+      "title": "Fireflies: A game written in Neural Net Weights",
+      "canonical_url": "https://twitter.com/etticat/status/2118091399430090865",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:23:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "neural"
+      ]
     }
   ]
 }
