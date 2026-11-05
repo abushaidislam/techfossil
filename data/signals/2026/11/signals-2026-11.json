@@ -8866,6 +8866,20 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4971518",
+      "title": "What I Learned Managing a Full Project with Antigravity",
+      "canonical_url": "https://dev.to/gde/what-i-learned-managing-a-full-project-with-antigravity-1ppc",
+      "source": "dev_to",
+      "published_at": "2026-11-03T21:39:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
