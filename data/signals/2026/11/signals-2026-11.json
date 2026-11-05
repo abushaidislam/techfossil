@@ -10162,6 +10162,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50376830",
+      "title": "Show HN: X402 Music – API to search, license, and stream pre-cleared music stems",
+      "canonical_url": "https://levievans.cloud",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T14:53:13Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
