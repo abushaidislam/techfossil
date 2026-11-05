@@ -10175,6 +10175,20 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377174",
+      "title": "Show HN: IdeaAI – Local-first autonomous agent that refactors code overnight",
+      "canonical_url": "https://apps.microsoft.com/detail/9p9sfwqgbsk7?hl=en-US&gl=US",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:40:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
