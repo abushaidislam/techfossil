@@ -10202,6 +10202,21 @@
       "technologies": [
         "node"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377388",
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "canonical_url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:11:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
