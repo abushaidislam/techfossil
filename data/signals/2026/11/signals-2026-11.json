@@ -9254,6 +9254,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50366811",
+      "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+      "canonical_url": "https://github.com/peterretief/codemap",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T21:18:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
