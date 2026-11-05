@@ -8853,6 +8853,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371526",
+      "title": "Bruno: The Git-native API client",
+      "canonical_url": "https://www.usebruno.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:06:25Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
