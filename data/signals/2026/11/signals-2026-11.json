@@ -10079,6 +10079,19 @@
       "technologies": [
         "vulnerability"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377442",
+      "title": "Cert-In flags vulnerability in Tata Motors' mobile apps",
+      "canonical_url": "https://www.thehindubusinessline.com/companies/cert-in-flags-vulnerability-in-tata-motors-mobile-apps-ira-20-iraev/article71669300.ece",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:20:02Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability"
+      ]
     }
   ]
 }
