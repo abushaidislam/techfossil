@@ -10697,6 +10697,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372929",
+      "title": "A thousand fewer paths to root",
+      "canonical_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:33:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
