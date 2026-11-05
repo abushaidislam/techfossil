@@ -9398,6 +9398,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373795",
+      "title": "Show HN: I turned 18 Agatha Christie novels into SQL murder cases",
+      "canonical_url": "https://querythemurder.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T07:18:16Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "sql"
+      ]
     }
   ]
 }
