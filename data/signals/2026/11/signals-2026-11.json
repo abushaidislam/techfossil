@@ -8880,6 +8880,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4972235",
+      "title": "The A2A CLI and Rust: The Same Code, Three Ways to Serve It",
+      "canonical_url": "https://dev.to/gde/the-a2a-cli-and-rust-the-same-code-three-ways-to-serve-it-4el0",
+      "source": "dev_to",
+      "published_at": "2026-11-04T01:04:48Z",
+      "category": "Backend & APIs",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
