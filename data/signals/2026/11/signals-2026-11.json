@@ -9656,6 +9656,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50332342",
+      "title": "Katamari Damacy but it's The Met collection",
+      "canonical_url": "https://katamari.vaguespac.es/",
+      "source": "hacker_news",
+      "published_at": "2026-11-02T08:21:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
