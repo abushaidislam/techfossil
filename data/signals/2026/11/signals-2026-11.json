@@ -9009,6 +9009,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373233",
+      "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
+      "canonical_url": "https://getcinnamon.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:10:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
