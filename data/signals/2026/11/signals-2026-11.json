@@ -9684,6 +9684,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373051",
+      "title": "Postal Service Surveilled Protest Activities Online with Little Rules, Oversight",
+      "canonical_url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:49:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
