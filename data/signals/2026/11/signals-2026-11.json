@@ -9140,6 +9140,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372396",
+      "title": "Everything should be a random number generator",
+      "canonical_url": "https://en.cppreference.com/cpp/numeric/random",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:30:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
