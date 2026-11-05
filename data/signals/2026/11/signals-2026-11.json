@@ -9095,6 +9095,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50361106",
+      "title": "NetBSD 11.1",
+      "canonical_url": "https://netbsd.org/releases/formal-11/NetBSD-11.1.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:11:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
