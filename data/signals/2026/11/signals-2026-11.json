@@ -9311,6 +9311,20 @@
         "ui",
         "node"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372513",
+      "title": "Clawd's Bar opens - a speakeasy for AI agents and a new kind of service with it",
+      "canonical_url": "https://x.com/clawds_bar",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:42:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
