@@ -10376,6 +10376,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377069",
+      "title": "Show HN: Anything to colors – To every dream, its colors",
+      "canonical_url": "https://colors.void.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:28:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
