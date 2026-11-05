@@ -10656,6 +10656,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377487",
+      "title": "Master of Puppets: Voice-Driven Agent Development",
+      "canonical_url": "https://xlii.space/eng/master-of-puppets-voice-driven-agent-development/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:28:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
