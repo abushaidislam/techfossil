@@ -9757,6 +9757,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369194",
+      "title": "This Month in Ladybird – October 2026",
+      "canonical_url": "https://ladybird.org/newsletter/2026-10-31/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T23:59:35Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
