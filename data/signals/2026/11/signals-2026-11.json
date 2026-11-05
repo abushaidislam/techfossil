@@ -9641,6 +9641,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369651",
+      "title": "Flock (YC 2018) Re-Connects Camera Disabled by Police Chief",
+      "canonical_url": "https://www.thedrive.com/news/flock-just-replaced-a-camera-my-city-banned-and-unplugged-calling-it-broken",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:33:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
