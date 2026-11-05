@@ -9868,6 +9868,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50358314",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "canonical_url": "https://github.com/finic-ai/kairos",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:16:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
