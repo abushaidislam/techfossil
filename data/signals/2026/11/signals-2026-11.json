@@ -10259,6 +10259,21 @@
         "html",
         "css"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50356791",
+      "title": "Is Curiosity Good for Us?",
+      "canonical_url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T01:16:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
