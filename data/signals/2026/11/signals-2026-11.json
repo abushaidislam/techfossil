@@ -8751,6 +8751,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50349276",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "canonical_url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T13:56:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
