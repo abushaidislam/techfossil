@@ -8738,6 +8738,19 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50364336",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "canonical_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T17:52:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
