@@ -9825,6 +9825,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50371508",
+      "title": "Everything is an AI scam now",
+      "canonical_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:05:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
