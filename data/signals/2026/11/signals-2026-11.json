@@ -10066,6 +10066,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377221",
+      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+      "canonical_url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:46:17Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability"
+      ]
     }
   ]
 }
