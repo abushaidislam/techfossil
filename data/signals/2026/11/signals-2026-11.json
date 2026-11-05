@@ -10005,6 +10005,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50377044",
+      "title": "Searching for the Origin of the Stonehenge Altar Stone",
+      "canonical_url": "https://www.lyellcollection.org/doi/full/10.1144/jgs2026-090",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:24:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
