@@ -10464,6 +10464,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50352846",
+      "title": "TextEdit vs. Pages",
+      "canonical_url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T21:00:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
