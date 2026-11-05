@@ -10287,6 +10287,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50376131",
+      "title": "The test that deleted my home folder",
+      "canonical_url": "https://www.shuffle-on.com/blog/the-test-that-deleted-my-home-folder",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T13:16:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
