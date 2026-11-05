@@ -9881,6 +9881,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50366929",
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "canonical_url": "https://pcdealcheck.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T21:25:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
