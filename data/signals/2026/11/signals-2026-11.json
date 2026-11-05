@@ -8838,6 +8838,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369845",
+      "title": "Funimation Shutdown Fuels Push for DMCA Exemption to Legally Rip Anime Content",
+      "canonical_url": "https://torrentfreak.com/funimation-shutdown-fuels-push-for-dmca-exemption-to-legally-rip-anime-content/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:47:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
