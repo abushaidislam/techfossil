@@ -8667,6 +8667,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369462",
+      "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+      "canonical_url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:20:06Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
