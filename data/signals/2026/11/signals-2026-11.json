@@ -9553,6 +9553,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50372985",
+      "title": "Intersection of Three Circles",
+      "canonical_url": "https://late-nine.itch.io/intersection-of-three-circles",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T05:40:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
