@@ -9920,6 +9920,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50373908",
+      "title": "Bansat – Make your AI agent write the blueprint before the code",
+      "canonical_url": "https://github.com/bewithkhan/bansat",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T07:32:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
