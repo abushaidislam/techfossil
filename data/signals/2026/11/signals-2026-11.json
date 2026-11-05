@@ -9080,6 +9080,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1105-dev-4943139",
+      "title": "Welcome Thread - v400",
+      "canonical_url": "https://dev.to/sloan/welcome-thread-v400-2e8m",
+      "source": "dev_to",
+      "published_at": "2026-11-04T14:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
