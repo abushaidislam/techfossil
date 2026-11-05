@@ -9785,6 +9785,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1105-hn-50369277",
+      "title": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails",
+      "canonical_url": "https://unclickbait.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:05:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
