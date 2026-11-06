@@ -4,7 +4,7 @@
 - **Source:** `dev_to`
 - **Category:** Security & Privacy
 - **Published:** 2026-11-05T15:25:46Z
-- **Verification:** `verified` (Score: 83/100)
+- **Verification:** `verified` (Score: 86/100)
 - **Canonical URL:** [https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b](https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b)
 - **Technologies:** `security`
 
@@ -12,4 +12,4 @@
 A post by Ben Halpern
 
 ---
-*Archived by TechFossil Live Ingestion Daemon on 2026-11-06 00:04:13 UTC*
+*Archived by TechFossil Live Ingestion Daemon on 2026-11-06 11:10:00 UTC*
