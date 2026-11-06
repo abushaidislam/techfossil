@@ -10810,6 +10810,19 @@
         "vulnerability",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1106-dev-4965130",
+      "title": "Prompt Pad: What Are Open-Weight Models?",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-what-are-open-weight-models-1ghh",
+      "source": "dev_to",
+      "published_at": "2026-11-05T21:00:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
