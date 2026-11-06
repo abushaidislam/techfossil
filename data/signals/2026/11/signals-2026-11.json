@@ -10753,6 +10753,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1106-dev-4984400",
+      "title": "Who is building solutions with documents?",
+      "canonical_url": "https://dev.to/missamarakay/who-is-building-solutions-for-documents-4d58",
+      "source": "dev_to",
+      "published_at": "2026-11-05T21:23:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
