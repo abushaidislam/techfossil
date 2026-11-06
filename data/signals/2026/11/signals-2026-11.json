@@ -10781,6 +10781,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1106-dev-4978154",
+      "title": "Crows, Moths, and Makefiles: How 300 Megabytes of Crow DNA Explains Why a 20-Kilobyte Scar File Outsmarts a Terabyte LLM",
+      "canonical_url": "https://dev.to/gde/crows-moths-and-makefiles-how-300-megabytes-of-crow-dna-explains-why-a-20-kilobyte-scar-file-36a",
+      "source": "dev_to",
+      "published_at": "2026-11-05T00:02:44Z",
+      "category": "Systems & Architecture",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
