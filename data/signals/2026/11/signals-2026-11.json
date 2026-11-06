@@ -10740,6 +10740,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1106-hn-50386729",
+      "title": "Superintelligence – Why the people building it keep warning us about it",
+      "canonical_url": "https://byjorin.substack.com/p/the-superintelligence-story",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T06:47:29Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
