@@ -10796,6 +10796,20 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1106-hn-50384233",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "canonical_url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T02:43:42Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability",
+        "ai"
+      ]
     }
   ]
 }
