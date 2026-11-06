@@ -10823,6 +10823,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1106-dev-4929837",
+      "title": "Android 17 on a 4.9 Kernel: LineageOS 24.0 on the Pixel 3a",
+      "canonical_url": "https://dev.to/gde/android-17-on-a-49-kernel-lineageos-240-on-the-pixel-3a-1mok",
+      "source": "dev_to",
+      "published_at": "2026-11-05T16:37:16Z",
+      "category": "Systems & Architecture",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "kernel"
+      ]
     }
   ]
 }
