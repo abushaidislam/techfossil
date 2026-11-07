@@ -11258,6 +11258,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50401414",
+      "title": "Lighting the Skies",
+      "canonical_url": "https://computer.rip/2026-10-25-searchlights.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T09:40:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
