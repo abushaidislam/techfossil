@@ -10896,6 +10896,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402044",
+      "title": "Envelox: Private Email Client",
+      "canonical_url": "https://apps.mjanssen.nl/envelox/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:57:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
