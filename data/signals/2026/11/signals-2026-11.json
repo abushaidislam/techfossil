@@ -11216,6 +11216,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50398010",
+      "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+      "canonical_url": "https://sketchagent.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T02:28:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "llm"
+      ]
     }
   ]
 }
