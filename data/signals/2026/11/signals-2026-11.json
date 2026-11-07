@@ -10851,6 +10851,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50366853",
+      "title": "A wave of plastic-free coffee pods and machines",
+      "canonical_url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T21:20:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
