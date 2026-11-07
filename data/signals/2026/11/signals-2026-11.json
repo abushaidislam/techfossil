@@ -11948,6 +11948,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50399569",
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "canonical_url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T04:50:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
