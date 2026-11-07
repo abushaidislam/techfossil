@@ -11862,6 +11862,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403567",
+      "title": "Lessons from a Can Opener (Technology Connections) [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=i_mLxyIXpSY",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T17:23:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
