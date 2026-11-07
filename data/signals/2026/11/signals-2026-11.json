@@ -11416,6 +11416,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50393458",
+      "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+      "canonical_url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T21:24:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 79,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
