@@ -11758,6 +11758,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50398229",
+      "title": "UV-5RM-Radio-Mod",
+      "canonical_url": "https://github.com/jakegarrett13-afk/UV-5RM-Radio-Mod",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T02:43:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
