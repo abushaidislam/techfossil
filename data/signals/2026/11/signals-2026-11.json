@@ -11371,6 +11371,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403289",
+      "title": "Clawdcursor > Computer-Use",
+      "canonical_url": "https://clawdcursor.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:30:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
