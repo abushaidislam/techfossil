@@ -11243,6 +11243,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50394771",
+      "title": "Only 16% of U.S. fast-charging stations meet federal NEVI standards (open data)",
+      "canonical_url": "https://chargingnear.me/data",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:45:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
