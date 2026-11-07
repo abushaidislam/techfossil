@@ -11642,6 +11642,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50398485",
+      "title": "AI-supported woodworking: Building an up-and-over tool chest with a clever hinge",
+      "canonical_url": "https://portalworkers.com/blog/up-and-over-tool-chest/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T03:02:26Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
