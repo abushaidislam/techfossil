@@ -12062,6 +12062,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402624",
+      "title": "A lighter and less costly SDD workflow comapared to openspec",
+      "canonical_url": "https://github.com/iswalterwu/dev-circuit-ultra",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T14:06:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
