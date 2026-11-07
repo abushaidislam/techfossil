@@ -10982,6 +10982,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50401905",
+      "title": "SR-Gadgets: Make Scan-Resistant Caching Practical",
+      "canonical_url": "https://arxiv.org/abs/2609.30468",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:26:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
