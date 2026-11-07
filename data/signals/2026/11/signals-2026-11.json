@@ -11459,6 +11459,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402535",
+      "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+      "canonical_url": "https://bong.glendalab.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T13:48:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
