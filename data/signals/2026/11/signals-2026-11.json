@@ -10939,6 +10939,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-dev-4984085",
+      "title": "Congrats to the Kaggle Benchmarking Challenge Winners!",
+      "canonical_url": "https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh",
+      "source": "dev_to",
+      "published_at": "2026-11-05T21:12:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
