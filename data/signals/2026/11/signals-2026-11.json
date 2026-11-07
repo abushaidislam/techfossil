@@ -11201,6 +11201,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50389370",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "canonical_url": "https://apps.metaebene.me/en/kugelblitz",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T13:47:38Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
