@@ -10967,6 +10967,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-dev-4977952",
+      "title": "One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4",
+      "canonical_url": "https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2",
+      "source": "dev_to",
+      "published_at": "2026-11-06T16:31:06Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
