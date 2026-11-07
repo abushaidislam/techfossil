@@ -11286,6 +11286,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50401820",
+      "title": "Powered by muscle cells, a paper-thin robot swims through watery maze",
+      "canonical_url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:11:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
