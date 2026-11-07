@@ -11656,6 +11656,20 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50355009",
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "canonical_url": "https://github.com/andrewboldi/tmux-restore",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T23:25:21Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ux"
+      ]
     }
   ]
 }
