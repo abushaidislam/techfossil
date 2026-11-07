@@ -11683,6 +11683,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403309",
+      "title": "Call is being recorded – and broadcast to the internet",
+      "canonical_url": "https://groundup.org.za/article/your-call-is-being-recorded-and-broadcast-to-the-internet/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:34:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
