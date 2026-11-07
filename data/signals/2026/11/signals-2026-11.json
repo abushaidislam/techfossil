@@ -11905,6 +11905,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50357767",
+      "title": "Enterprise Brain – Memory that learns from work",
+      "canonical_url": "https://www.ampup.ai/companybrain",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T02:31:45Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "ai"
+      ]
     }
   ]
 }
