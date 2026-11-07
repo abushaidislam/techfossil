@@ -11877,6 +11877,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403404",
+      "title": "The Shared Cache; A short novel written by Opus 5.5 based on a true story",
+      "canonical_url": "https://khaledez.net/blog/the-shared-cache/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:51:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
