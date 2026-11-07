@@ -11301,6 +11301,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403087",
+      "title": "Vale: Bring code-like linting to prose",
+      "canonical_url": "https://vale.sh",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T15:44:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
