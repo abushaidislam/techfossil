@@ -12077,6 +12077,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402738",
+      "title": "OpenAI reportedly raises an additional $11B at a $1.25T valuation",
+      "canonical_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T14:28:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
