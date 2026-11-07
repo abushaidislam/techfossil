@@ -11670,6 +11670,19 @@
         "agent",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402854",
+      "title": "Vibrating Mattress Helps Clear Alzheimer's Protein from the Brain",
+      "canonical_url": "https://www.nature.com/articles/s41467-026-78894-y",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T14:56:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
