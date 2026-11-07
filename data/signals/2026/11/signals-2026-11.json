@@ -11171,6 +11171,21 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50394070",
+      "title": "Swipeblocked: The phrases your iPhone won't suggest",
+      "canonical_url": "https://swipeblocked.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:01:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
