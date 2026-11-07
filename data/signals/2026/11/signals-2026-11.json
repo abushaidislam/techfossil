@@ -11919,6 +11919,21 @@
         "memory",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403345",
+      "title": "How many frames does a scroll animation need? (and how big should each be)",
+      "canonical_url": "https://beta.scrollsequence.com/blog/how-many-frames-scroll-animation",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:42:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
