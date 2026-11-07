@@ -11342,6 +11342,20 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402212",
+      "title": "The Components of Agent Memory",
+      "canonical_url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T12:39:04Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "memory"
+      ]
     }
   ]
 }
