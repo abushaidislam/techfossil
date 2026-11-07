@@ -11502,6 +11502,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402068",
+      "title": "Editing at the Speed of Thought in Emacs",
+      "canonical_url": "https://joshblais.com/blog/editing-at-the-speed-of-thought-in-emacs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T12:01:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
