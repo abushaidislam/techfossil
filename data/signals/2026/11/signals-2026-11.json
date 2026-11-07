@@ -11615,6 +11615,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402227",
+      "title": "Galactica, a TypeScript codebase map for developers and agents",
+      "canonical_url": "https://github.com/cognitap/galactica",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T12:42:20Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "typescript"
+      ]
     }
   ]
 }
