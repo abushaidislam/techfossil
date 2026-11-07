@@ -11728,6 +11728,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50394278",
+      "title": "WebAssembly Specification Release 3.0 (2026-11-04)",
+      "canonical_url": "https://webassembly.github.io/spec/core/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:13:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
