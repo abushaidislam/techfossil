@@ -11601,6 +11601,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402836",
+      "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+      "canonical_url": "https://rungrid.space",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T14:53:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
