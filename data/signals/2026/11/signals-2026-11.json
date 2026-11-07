@@ -11892,6 +11892,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403724",
+      "title": "University on Kontext: what it does, how to use it, and what you can build",
+      "canonical_url": "https://kontext.network/journal/@muggzie1/kontext-as-a-service/kontext-university-module",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T17:49:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
