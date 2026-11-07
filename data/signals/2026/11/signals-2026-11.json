@@ -11070,6 +11070,19 @@
         "javascript",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-dev-4990855",
+      "title": "An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners",
+      "canonical_url": "https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp",
+      "source": "dev_to",
+      "published_at": "2026-11-06T22:28:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
