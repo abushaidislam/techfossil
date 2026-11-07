@@ -11773,6 +11773,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50401907",
+      "title": "Tetris Theme Remix (video, 2018)",
+      "canonical_url": "https://www.youtube.com/watch?v=-1uQKFblyUU",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:26:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
