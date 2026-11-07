@@ -12091,6 +12091,19 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403782",
+      "title": "You Don't Know If Your Agents.md Helps. You Just Keep Adding Rules",
+      "canonical_url": "https://prod.codes/blog/agents-md-false-confidence/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T17:59:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
