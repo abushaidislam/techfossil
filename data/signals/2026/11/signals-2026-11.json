@@ -11125,6 +11125,21 @@
         "memory",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402172",
+      "title": "Creating Logic Using Waves: Photonic Gates [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T12:29:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
