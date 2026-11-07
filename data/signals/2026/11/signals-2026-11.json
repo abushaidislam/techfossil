@@ -11586,6 +11586,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403063",
+      "title": "Port 0: The Port That Does Not Exist",
+      "canonical_url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T15:38:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
