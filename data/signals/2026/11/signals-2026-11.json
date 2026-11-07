@@ -11111,6 +11111,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50395919",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "canonical_url": "https://arxiv.org/abs/2610.21375",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T00:03:33Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "llm"
+      ]
     }
   ]
 }
