@@ -11316,6 +11316,32 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402561",
+      "title": "Free open API of weekly resale sold-price medians",
+      "canonical_url": "https://www.aiplannermail.com/free-resale-price-api/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T13:53:55Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50397099",
+      "title": "GitHub's new Git storage architecture",
+      "canonical_url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T01:24:21Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
