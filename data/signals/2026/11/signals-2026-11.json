@@ -11026,6 +11026,23 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-dev-4989553",
+      "title": "Containing the Autonomous Mind: Sub-Second Zero-Trust Execution with GKE Agent Sandbox",
+      "canonical_url": "https://dev.to/gde/containing-the-autonomous-mind-sub-second-zero-trust-execution-with-gke-agent-sandbox-5e6b",
+      "source": "dev_to",
+      "published_at": "2026-11-06T16:34:18Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "kubernetes",
+        "cloud",
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
