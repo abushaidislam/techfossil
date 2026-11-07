@@ -11961,6 +11961,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50378942",
+      "title": "I wish tech companies knew more about me",
+      "canonical_url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T19:40:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
