@@ -12021,6 +12021,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50383163",
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "canonical_url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T01:16:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
