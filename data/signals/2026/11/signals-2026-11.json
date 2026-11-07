@@ -12034,6 +12034,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50372439",
+      "title": "Bug Finding Considered Harmful?",
+      "canonical_url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T04:35:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
