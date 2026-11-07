@@ -11713,6 +11713,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50394855",
+      "title": "First steps in bare-metal programming using UEFI",
+      "canonical_url": "https://kevinboone.me/efitest_index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:50:29Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
