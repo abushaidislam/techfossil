@@ -11273,6 +11273,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403408",
+      "title": "The Pentagon wants to know who checks code when AI writes it",
+      "canonical_url": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:52:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
