@@ -11098,6 +11098,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402369",
+      "title": "Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values",
+      "canonical_url": "https://nousresearch.com/arete",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T13:14:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
