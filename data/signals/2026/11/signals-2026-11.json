@@ -11401,6 +11401,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403249",
+      "title": "Show HN: Retex, a Faster LaTeX Engine",
+      "canonical_url": "https://gitlab.com/severin-lemaignan/retex",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:23:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
