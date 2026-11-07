@@ -11629,6 +11629,19 @@
         "agent",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50379249",
+      "title": "MCP Explained",
+      "canonical_url": "https://mcp-explained.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T20:08:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
