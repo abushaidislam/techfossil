@@ -11834,6 +11834,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403034",
+      "title": "Number of Tries Using Coding Agents May Say More About Standards Than Competence",
+      "canonical_url": "https://codemanship.wordpress.com/2026/11/07/how-many-tries-we-need-using-coding-agents-may-say-more-about-standards-than-competence/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T15:31:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
