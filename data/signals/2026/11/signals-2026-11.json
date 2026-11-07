@@ -11698,6 +11698,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403097",
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "canonical_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T15:46:03Z",
+      "category": "Software Engineering",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
