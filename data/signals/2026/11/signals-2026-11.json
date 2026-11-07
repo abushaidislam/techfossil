@@ -10881,6 +10881,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402689",
+      "title": "Solar plane soars to 47,600 ft, on target to fly 100 hours",
+      "canonical_url": "https://newatlas.com/aircraft/uavos-apusneo-haps-solar-aircraft-100-hour-flight-fuerteventura/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T14:18:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
