@@ -11140,6 +11140,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50403233",
+      "title": "Show HN: One-script installer for TRELLIS.2 on Nvidia Blackwell under WSL2",
+      "canonical_url": "https://github.com/Creepybits/trellis2-blackwell-wsl",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:20:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
