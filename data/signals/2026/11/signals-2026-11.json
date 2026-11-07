@@ -11186,6 +11186,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50396064",
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "canonical_url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T00:13:35Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
