@@ -11356,6 +11356,21 @@
         "agent",
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50392787",
+      "title": "MTG-I2 First Images",
+      "canonical_url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T20:35:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
