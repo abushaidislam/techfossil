@@ -11819,6 +11819,21 @@
         "ai",
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50401901",
+      "title": "Open source Matlab Alternative, first release.",
+      "canonical_url": "https://github.com/me-farza/opennumlab",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:25:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
