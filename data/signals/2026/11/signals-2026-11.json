@@ -11230,6 +11230,19 @@
         "agent",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50374287",
+      "title": "How tall can you build with 54 Jenga blocks?",
+      "canonical_url": "https://johnjwang.com/post/2026/10/25/tallest-jenga-tower",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T08:19:18Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
