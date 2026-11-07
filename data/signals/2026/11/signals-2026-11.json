@@ -11545,6 +11545,19 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50397711",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "canonical_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T02:09:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 79,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
