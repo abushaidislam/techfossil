@@ -11532,6 +11532,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50376313",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "canonical_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T13:44:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
