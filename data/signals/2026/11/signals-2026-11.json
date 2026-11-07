@@ -11934,6 +11934,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50402372",
+      "title": "Linux for Your Mac",
+      "canonical_url": "https://gravitylinux.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T13:14:58Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
