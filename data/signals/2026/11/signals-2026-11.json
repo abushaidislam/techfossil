@@ -11011,6 +11011,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-dev-4990336",
+      "title": "Want to make DEV your full-time job? We're hiring a Community Manager!",
+      "canonical_url": "https://dev.to/devteam/want-to-make-dev-your-full-time-job-were-hiring-a-community-manager-4p1f",
+      "source": "dev_to",
+      "published_at": "2026-11-06T20:05:42Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
