@@ -11083,6 +11083,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1107-hn-50386338",
+      "title": "Inkling 2 Small",
+      "canonical_url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T06:00:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
