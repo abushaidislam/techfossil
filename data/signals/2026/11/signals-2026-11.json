@@ -13238,6 +13238,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408750",
+      "title": "IRA Velinsky – Commodore's Industrial Designer",
+      "canonical_url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:45:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
