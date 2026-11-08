@@ -13382,6 +13382,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50358337",
+      "title": "Turning every radio into a radar",
+      "canonical_url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T03:18:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
