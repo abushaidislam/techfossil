@@ -14187,6 +14187,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409132",
+      "title": "Diamond Foundry produces the first-ever single-crystal 200mm diamond",
+      "canonical_url": "https://www.df.com/insights/d200mm-single-crystal-diamond",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:45:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
