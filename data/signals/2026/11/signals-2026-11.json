@@ -12134,6 +12134,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408041",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "canonical_url": "https://www.bbc.com/news/articles/ckjrwx1r2d5ro",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:04:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
