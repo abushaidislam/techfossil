@@ -14445,6 +14445,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50373513",
+      "title": "The great butter and cheese fire of 1991",
+      "canonical_url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T06:44:16Z",
+      "category": "Software Engineering",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
