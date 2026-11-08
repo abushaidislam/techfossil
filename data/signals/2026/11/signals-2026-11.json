@@ -14217,6 +14217,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410293",
+      "title": "Le Salon Client IRCv3 natif en Rust – interface GPU avec GPUI",
+      "canonical_url": "https://github.com/MrTHP/Le-Salon",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:54:32Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ui"
+      ]
     }
   ]
 }
