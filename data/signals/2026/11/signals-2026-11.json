@@ -12679,6 +12679,21 @@
         "auth",
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50351640",
+      "title": "Shipping 103,802 Dots in 82 KB",
+      "canonical_url": "https://layers.engineering/shipping-103-802-dots-in-82-kb-b4f7d3a89779",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T19:20:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
