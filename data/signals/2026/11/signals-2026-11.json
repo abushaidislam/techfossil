@@ -12390,6 +12390,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408422",
+      "title": "Halo: Combat Evolved in the Browser",
+      "canonical_url": "https://opencommunityedition.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:57:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
