@@ -13369,6 +13369,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409866",
+      "title": "Claude Watermark Text",
+      "canonical_url": "https://www.notebookcheck.net/Claude-now-watermarks-text-from-older-models-with-no-opt-out.1444769.0.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:04:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
