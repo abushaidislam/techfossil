@@ -13919,6 +13919,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50399695",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "canonical_url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T05:03:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 73,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
