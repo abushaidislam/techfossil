@@ -13585,6 +13585,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409349",
+      "title": "Qwen3.8-27B MTP Q4S head on Q6 quant is faster than q6, f16 slower = acceptance",
+      "canonical_url": "https://github.com/alainnothere/llama.cpp/commit/77b124a7ab56e0f1c33c025344a9c63465a9a87f",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:18:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
