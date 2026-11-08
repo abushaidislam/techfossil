@@ -13397,6 +13397,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410342",
+      "title": "Gossip penalty hits men harder than woman at work",
+      "canonical_url": "https://tippie.uiowa.edu/news/2026/10/gossip-penalty-hits-men-harder-woman-work",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:10:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
