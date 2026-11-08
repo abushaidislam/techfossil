@@ -12262,6 +12262,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50406319",
+      "title": "Five memorable books about programming (2008)",
+      "canonical_url": "https://prog21.dadgum.com/19.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T23:30:49Z",
+      "category": "Software Engineering",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
