@@ -12320,6 +12320,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409668",
+      "title": "Quantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It.",
+      "canonical_url": "https://www.wsj.com/tech/ai/ai-math-online-encryption-quantum-computers-57926bb2",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T07:21:18Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "encryption",
+        "ai"
+      ]
     }
   ]
 }
