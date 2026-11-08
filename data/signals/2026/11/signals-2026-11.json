@@ -12650,6 +12650,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50389990",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "canonical_url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T15:13:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
