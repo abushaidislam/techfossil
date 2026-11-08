@@ -12664,6 +12664,21 @@
         "claude",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409193",
+      "title": "Dual JWT Authentication: Security, Redis, and Trade-Offs",
+      "canonical_url": "https://www.jstools.space/blog/dual-jwt-authentication/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:56:09Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "redis",
+        "auth",
+        "security"
+      ]
     }
   ]
 }
