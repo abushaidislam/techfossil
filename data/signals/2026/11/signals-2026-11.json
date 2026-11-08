@@ -12878,6 +12878,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50392348",
+      "title": "How octopuses squeeze through too small gaps",
+      "canonical_url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T19:57:20Z",
+      "category": "Software Engineering",
+      "importance_score": 76,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
