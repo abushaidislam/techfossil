@@ -12921,6 +12921,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409340",
+      "title": "The Predator Holiday Special",
+      "canonical_url": "https://en.wikipedia.org/wiki/The_Predator_Holiday_Special",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:16:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
