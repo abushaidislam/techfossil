@@ -13848,6 +13848,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408972",
+      "title": "Remote Parents",
+      "canonical_url": "https://www.jaymehoffman.com/writing/remote-parents/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:17:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
