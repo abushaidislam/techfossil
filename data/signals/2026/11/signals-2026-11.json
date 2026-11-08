@@ -12996,6 +12996,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50405782",
+      "title": "Every processor die anyone has photographed and given away",
+      "canonical_url": "https://sheets.works/data-viz/cpu-dies",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T22:21:36Z",
+      "category": "Software Engineering",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
