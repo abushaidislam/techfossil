@@ -13095,6 +13095,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410115",
+      "title": "Goodbye Duolingo: a new Italian Teaching App",
+      "canonical_url": "https://www.italicore.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:13:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
