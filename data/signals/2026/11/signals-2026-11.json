@@ -12375,6 +12375,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408722",
+      "title": "Show HN: Yahtzee – Probability Engine / Difficult CPU",
+      "canonical_url": "https://slayyyyer.github.io/yahtzee/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:41:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
