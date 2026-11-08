@@ -12507,6 +12507,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408104",
+      "title": "Shadow of the Sun (2021)",
+      "canonical_url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:11:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
