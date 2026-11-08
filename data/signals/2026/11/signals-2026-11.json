@@ -12594,6 +12594,21 @@
         "privacy",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50403507",
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "canonical_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T17:11:15Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
