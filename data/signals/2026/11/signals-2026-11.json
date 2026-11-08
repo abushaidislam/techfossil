@@ -13066,6 +13066,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408961",
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "canonical_url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:15:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
