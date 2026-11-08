@@ -12449,6 +12449,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409433",
+      "title": "Ask HN: Why does Ant, Open AI even need a datacenter?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50409433",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:36:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
