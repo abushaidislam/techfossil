@@ -12622,6 +12622,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408429",
+      "title": "Show HN: R-eyesy: robo eyes that live on an old phone or a browser tab",
+      "canonical_url": "https://wispplayer.com/reyesy/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:58:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
