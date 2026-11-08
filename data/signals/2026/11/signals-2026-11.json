@@ -12865,6 +12865,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408576",
+      "title": "ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids",
+      "canonical_url": "https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:16:13Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
