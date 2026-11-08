@@ -14346,6 +14346,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50389570",
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "canonical_url": "https://www.norvig.com/chomsky.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T14:18:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
