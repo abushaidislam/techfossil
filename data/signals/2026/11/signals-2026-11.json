@@ -12362,6 +12362,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409675",
+      "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+      "canonical_url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T07:22:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
