@@ -12462,6 +12462,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409700",
+      "title": "Cardiologists' High Hopes for Two Drugs Were Dashed",
+      "canonical_url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T07:26:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
