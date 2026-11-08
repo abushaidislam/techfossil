@@ -13790,6 +13790,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50394906",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "canonical_url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:54:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
