@@ -12780,6 +12780,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50383294",
+      "title": "Pangram Image 1.0",
+      "canonical_url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T01:27:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
