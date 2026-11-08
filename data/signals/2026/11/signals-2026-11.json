@@ -13026,6 +13026,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409855",
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "canonical_url": "https://github.com/crmne/zapfast",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:02:27Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ui"
+      ]
     }
   ]
 }
