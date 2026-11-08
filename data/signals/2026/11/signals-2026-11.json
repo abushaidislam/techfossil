@@ -13630,6 +13630,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50395869",
+      "title": "Size-It-Up (Game)",
+      "canonical_url": "https://magnitudle.com/size-it-up",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T23:59:59Z",
+      "category": "Software Engineering",
+      "importance_score": 81,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
