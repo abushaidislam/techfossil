@@ -13893,6 +13893,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408350",
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "canonical_url": "https://eyesrhythm.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:47:47Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
