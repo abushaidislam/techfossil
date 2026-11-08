@@ -14402,6 +14402,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50354097",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "canonical_url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T22:30:23Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
