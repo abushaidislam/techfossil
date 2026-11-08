@@ -14144,6 +14144,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50351954",
+      "title": "Amsterdam School",
+      "canonical_url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T19:50:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
