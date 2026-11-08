@@ -13309,6 +13309,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50404747",
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "canonical_url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T20:18:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
