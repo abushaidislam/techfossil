@@ -13818,6 +13818,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50405678",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "canonical_url": "https://kevinboone.me/tpwin.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T22:06:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
