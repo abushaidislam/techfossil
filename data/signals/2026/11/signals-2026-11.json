@@ -14361,6 +14361,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50409986",
+      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+      "canonical_url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:37:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
