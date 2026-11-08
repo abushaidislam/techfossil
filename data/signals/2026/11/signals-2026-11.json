@@ -13805,6 +13805,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409962",
+      "title": "Why mandating AI use in the workplace can backfire",
+      "canonical_url": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:31:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
