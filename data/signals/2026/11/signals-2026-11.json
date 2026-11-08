@@ -13745,6 +13745,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50405973",
+      "title": "America's economy is becoming zero-sum",
+      "canonical_url": "https://www.usatoday.com/story/opinion/2026/11/07/crypto-sports-betting-tariffs-zero-sum-economy/92396495007/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T22:50:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
