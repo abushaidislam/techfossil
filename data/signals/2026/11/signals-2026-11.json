@@ -14302,6 +14302,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50414016",
+      "title": "DeepSeek Harness: Growing Together with Our Plugin Community",
+      "canonical_url": "https://twitter.com/DeepSeekHarness/status/2119431663642153128",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:19:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
