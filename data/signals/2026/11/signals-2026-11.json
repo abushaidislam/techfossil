@@ -13354,6 +13354,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50362187",
+      "title": "Multi-Token Prediction Done Right",
+      "canonical_url": "https://arxiv.org/abs/2610.38331",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T12:46:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
