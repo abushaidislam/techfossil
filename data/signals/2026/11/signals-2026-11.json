@@ -12906,6 +12906,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410056",
+      "title": "Show HN: I'm 15 and my personal website looks like iMessage",
+      "canonical_url": "https://apanda.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:59:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
