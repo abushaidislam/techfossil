@@ -14535,6 +14535,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50414215",
+      "title": "From Infocom to 80 Days: An oral history of text games and interactive fiction",
+      "canonical_url": "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:42:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
