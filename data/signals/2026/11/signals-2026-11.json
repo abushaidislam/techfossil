@@ -14017,6 +14017,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410369",
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "canonical_url": "https://www.mirastacklabs.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:15:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
