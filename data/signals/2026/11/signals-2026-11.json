@@ -12981,6 +12981,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408336",
+      "title": "Billion Watts in the Speaker [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:45:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
