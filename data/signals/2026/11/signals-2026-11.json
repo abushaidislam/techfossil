@@ -13225,6 +13225,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410107",
+      "title": "Goodbye Claude, Hello Pi",
+      "canonical_url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:11:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
