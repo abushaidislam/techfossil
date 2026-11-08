@@ -12637,6 +12637,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409416",
+      "title": "Ask HN: What are you building that you're excited by",
+      "canonical_url": "https://news.ycombinator.com/item?id=50409416",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:30:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
