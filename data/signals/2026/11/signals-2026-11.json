@@ -13440,6 +13440,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410249",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "canonical_url": "https://github.com/dmunozv04/isponsorblocktv",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:47:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
