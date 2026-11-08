@@ -13906,6 +13906,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409126",
+      "title": "The scramble for your brain data",
+      "canonical_url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:43:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
