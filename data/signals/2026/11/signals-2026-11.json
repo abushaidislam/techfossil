@@ -13600,6 +13600,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410427",
+      "title": "The SideWinder Game Pad, Microsoft's first game controller",
+      "canonical_url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:32:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
