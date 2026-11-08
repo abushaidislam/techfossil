@@ -13989,6 +13989,21 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50399657",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "canonical_url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T05:00:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
