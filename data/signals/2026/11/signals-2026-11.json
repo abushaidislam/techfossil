@@ -13182,6 +13182,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410282",
+      "title": "Breaking the Decade-Long Trump Fever",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:52:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
