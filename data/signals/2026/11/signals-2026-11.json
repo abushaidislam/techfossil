@@ -13557,6 +13557,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50394977",
+      "title": "PyLings: Solve Exercises and Learn Python",
+      "canonical_url": "https://github.com/thesayfulla/pylings",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T22:59:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
