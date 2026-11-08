@@ -13962,6 +13962,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410477",
+      "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
+      "canonical_url": "https://github.com/volcengine/OpenViking",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:44:14Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "agent"
+      ]
     }
   ]
 }
