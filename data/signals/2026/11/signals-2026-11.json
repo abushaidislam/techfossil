@@ -13253,6 +13253,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50404161",
+      "title": "Microsoft requiring DMARC now or just us?",
+      "canonical_url": "https://list.sys4.de/hyperkitty/list/mailop@mailop.org/thread/SSF3AS4J7HGO4DGDG5BRSM2VQMTUCDV7/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T18:56:26Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
