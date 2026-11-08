@@ -14058,6 +14058,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50388122",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "canonical_url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T10:17:49Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
