@@ -13512,6 +13512,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50370787",
+      "title": "The typo generation is damaging literature",
+      "canonical_url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:05:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
