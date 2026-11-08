@@ -13730,6 +13730,21 @@
       "technologies": [
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408813",
+      "title": "Update the Material Components Library and Improving Material Colors on Uhabits",
+      "canonical_url": "https://github.com/iSoron/uhabits/discussions/2423",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:54:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
