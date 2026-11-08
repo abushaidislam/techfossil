@@ -13976,6 +13976,19 @@
         "ui",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50407643",
+      "title": "Hackers pull off $133M French bank heist via service provider",
+      "canonical_url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T02:16:24Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
