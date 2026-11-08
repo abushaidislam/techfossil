@@ -13717,6 +13717,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409194",
+      "title": "A database is a store for global variables",
+      "canonical_url": "https://www.seangoedecke.com/a-database-is-a-store-for-global-variables/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:56:13Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "database"
+      ]
     }
   ]
 }
