@@ -12232,6 +12232,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50361212",
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "canonical_url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T09:30:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
