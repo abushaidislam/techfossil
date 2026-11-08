@@ -12405,6 +12405,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50385272",
+      "title": "Claude Code sends your email address to websites",
+      "canonical_url": "https://github.com/anthropics/claude-code/issues/107757",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T04:17:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
