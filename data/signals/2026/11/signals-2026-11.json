@@ -14172,6 +14172,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50352791",
+      "title": "British Library Legal deposit and web archiving",
+      "canonical_url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:56:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
