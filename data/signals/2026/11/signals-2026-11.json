@@ -12609,6 +12609,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409570",
+      "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+      "canonical_url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T07:00:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
