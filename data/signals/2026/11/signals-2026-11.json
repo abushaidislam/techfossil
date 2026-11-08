@@ -12936,6 +12936,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408706",
+      "title": "New Tool's Website",
+      "canonical_url": "https://tooljoy.app",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:38:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
