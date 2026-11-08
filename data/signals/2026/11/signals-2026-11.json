@@ -12893,6 +12893,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409176",
+      "title": "Instant payment rails meet batch bank cores",
+      "canonical_url": "https://tuladb.com/blog/instant-rails-meet-batch-cores/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:52:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
