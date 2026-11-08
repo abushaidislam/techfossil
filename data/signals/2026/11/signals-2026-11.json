@@ -12694,6 +12694,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410126",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "canonical_url": "https://rpallas.xyz/good-night-and-good-luck/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:14:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
