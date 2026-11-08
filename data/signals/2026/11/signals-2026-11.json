@@ -13570,6 +13570,21 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410122",
+      "title": "A Quantum Theorem Has Killed Einstein's Reality",
+      "canonical_url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:14:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
