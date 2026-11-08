@@ -14505,6 +14505,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50382958",
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "canonical_url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T00:59:37Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
