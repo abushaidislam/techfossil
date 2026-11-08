@@ -14289,6 +14289,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50413912",
+      "title": "I Just Deleted All My Agent Skills",
+      "canonical_url": "https://philippdubach.com/posts/i-just-deleted-all-my-agent-skills/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:04:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
