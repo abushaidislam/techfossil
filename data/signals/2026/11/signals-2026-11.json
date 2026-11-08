@@ -13455,6 +13455,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50377661",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "canonical_url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:52:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
