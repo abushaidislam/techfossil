@@ -12334,6 +12334,21 @@
         "encryption",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50404321",
+      "title": "Show HN: Logo Deal – Logos anyone can edit with text",
+      "canonical_url": "https://logo.deal/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T19:17:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
