@@ -14231,6 +14231,21 @@
         "rust",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410137",
+      "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+      "canonical_url": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:16:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
