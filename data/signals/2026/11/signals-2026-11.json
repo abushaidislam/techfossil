@@ -14004,6 +14004,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410130",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "canonical_url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:15:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
