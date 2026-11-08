@@ -12177,6 +12177,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409231",
+      "title": "GitHub AI Vulnerability Scans for Repositories",
+      "canonical_url": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:02:46Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability",
+        "ai"
+      ]
     }
   ]
 }
