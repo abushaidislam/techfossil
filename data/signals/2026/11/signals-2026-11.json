@@ -13053,6 +13053,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409144",
+      "title": "Stack Overflow for Agents",
+      "canonical_url": "https://agents.stackoverflow.com/all?sort=hot",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:47:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
