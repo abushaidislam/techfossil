@@ -14045,6 +14045,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "canonical_url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T10:00:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
