@@ -14088,6 +14088,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50407514",
+      "title": "Driver AI in Stunt Car Racer, Commodore 64",
+      "canonical_url": "https://gamesexplained.com/c64/stunt-car-racer/opponents.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T01:59:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
