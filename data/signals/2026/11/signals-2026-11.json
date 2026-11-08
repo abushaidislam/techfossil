@@ -14387,6 +14387,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50414607",
+      "title": "Teach Students to Code in English",
+      "canonical_url": "https://commitcapital.substack.com/p/teach-students-to-code-in-english",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T22:23:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
