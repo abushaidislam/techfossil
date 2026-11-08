@@ -12206,6 +12206,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50397017",
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "canonical_url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T01:19:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
