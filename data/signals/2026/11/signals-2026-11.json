@@ -14417,6 +14417,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50414234",
+      "title": "I have never seen a game fail because the artists were too slow",
+      "canonical_url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:44:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
