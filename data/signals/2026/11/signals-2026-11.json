@@ -13542,6 +13542,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50377613",
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "canonical_url": "https://github.com/hyphatech/spindle",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T16:45:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
