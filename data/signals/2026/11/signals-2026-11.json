@@ -13169,6 +13169,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409269",
+      "title": "Changing one letter bypassed an admin API in HuggingFace",
+      "canonical_url": "https://twitter.com/v12sec/status/2118442075574464848",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:06:59Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
