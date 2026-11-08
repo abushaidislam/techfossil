@@ -14129,6 +14129,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50387796",
+      "title": "Pwn.college",
+      "canonical_url": "https://pwn.college/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T09:27:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
