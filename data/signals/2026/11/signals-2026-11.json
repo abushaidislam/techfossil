@@ -13154,6 +13154,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409085",
+      "title": "Hour \"Do Nothing\" Challenge",
+      "canonical_url": "https://mattlakeman.org/2020/12/08/the-24-hour-do-nothing-challenge/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:36:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
