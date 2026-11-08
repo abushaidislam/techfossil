@@ -13266,6 +13266,20 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409687",
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "canonical_url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T07:24:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
