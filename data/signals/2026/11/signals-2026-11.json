@@ -13688,6 +13688,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410172",
+      "title": "Addressing protocol security gaps in multi-tenant Kubernetes",
+      "canonical_url": "https://aws.amazon.com/blogs/security/addressing-protocol-security-gaps-in-multi-tenant-kubernetes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T09:25:39Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kubernetes",
+        "security"
+      ]
     }
   ]
 }
