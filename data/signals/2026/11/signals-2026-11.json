@@ -14374,6 +14374,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50352518",
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "canonical_url": "https://qlabs.sh/research/parameters",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:37:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
