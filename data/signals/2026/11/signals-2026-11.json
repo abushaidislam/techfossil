@@ -12164,6 +12164,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50401029",
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "canonical_url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T08:20:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
