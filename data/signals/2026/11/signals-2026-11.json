@@ -12580,6 +12580,20 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409856",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "canonical_url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:02:38Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy",
+        "ai"
+      ]
     }
   ]
 }
