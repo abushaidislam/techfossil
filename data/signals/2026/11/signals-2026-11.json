@@ -13324,6 +13324,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409313",
+      "title": "Synergy 1.21 has been released",
+      "canonical_url": "https://symless.com/synergy/download/release-notes/synergy1-personal/v1.21.2",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:12:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
