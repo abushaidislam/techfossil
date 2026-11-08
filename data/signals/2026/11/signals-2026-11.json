@@ -12349,6 +12349,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408949",
+      "title": "Tesla's quiet EV software update is unplugging Australian homes",
+      "canonical_url": "https://thedriven.io/2026/11/07/teslas-quiet-ev-software-update-is-unplugging-australian-homes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T05:13:11Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
