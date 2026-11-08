@@ -13280,6 +13280,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408438",
+      "title": "Ask HN: How do you keep track of the articles, papers and videos you save?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50408438",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:59:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
