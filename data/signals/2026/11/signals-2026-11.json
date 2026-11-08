@@ -12720,6 +12720,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408729",
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "canonical_url": "https://linebender.org/blog/jit-bitmap-text/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:41:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
