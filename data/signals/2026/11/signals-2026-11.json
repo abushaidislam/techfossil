@@ -13110,6 +13110,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50369283",
+      "title": "8088 Domination Post-Mortem",
+      "canonical_url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T00:06:14Z",
+      "category": "Software Engineering",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
