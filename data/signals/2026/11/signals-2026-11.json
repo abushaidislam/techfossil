@@ -14520,6 +14520,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50413732",
+      "title": "Sunshine Atlas – the climate of 3,833 destinations, month by month",
+      "canonical_url": "https://sunshineatlas.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T20:37:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
