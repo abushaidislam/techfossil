@@ -13702,6 +13702,21 @@
         "kubernetes",
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408855",
+      "title": "Exception Excursions (a new zero-cost exception model)",
+      "canonical_url": "https://jamsilva.github.io/posts/exciting-exception-excursions/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:59:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
