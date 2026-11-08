@@ -12305,6 +12305,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50408335",
+      "title": "Learning in a World of Notes",
+      "canonical_url": "https://engram.com/blog/learning-in-a-world-of-notes",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T03:45:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
