@@ -14261,6 +14261,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50415281",
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "canonical_url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T23:32:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
