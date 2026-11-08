@@ -14159,6 +14159,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50410488",
+      "title": "Next bcachefs release will be 100% Rust",
+      "canonical_url": "https://github.com/lxc/incus/issues/213#issuecomment-6716682748",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:48:15Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
