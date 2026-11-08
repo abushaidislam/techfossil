@@ -14276,6 +14276,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50405789",
+      "title": "How Long Can Life Wait?",
+      "canonical_url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T22:22:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
