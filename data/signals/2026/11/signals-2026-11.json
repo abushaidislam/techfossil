@@ -12477,6 +12477,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409979",
+      "title": "Microsoft Removes PC-to-PC Migration from Windows 11, Pushes Users to OneDrive",
+      "canonical_url": "https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T08:35:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
