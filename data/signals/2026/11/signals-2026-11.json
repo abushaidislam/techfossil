@@ -13673,6 +13673,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50405674",
+      "title": "Terry Pratchett's Study",
+      "canonical_url": "https://www.sussi.dk/terry-pratchetts-study",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T22:05:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
