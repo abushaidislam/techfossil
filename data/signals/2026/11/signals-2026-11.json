@@ -13645,6 +13645,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50356722",
+      "title": "Panthera: Ampere's CPU Performance Model",
+      "canonical_url": "https://github.com/AmpereComputing/panthera",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T01:12:17Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance"
+      ]
     }
   ]
 }
