@@ -12290,6 +12290,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50406502",
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "canonical_url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T23:54:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
