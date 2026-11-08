@@ -13125,6 +13125,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50401867",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "canonical_url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:20:18Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
