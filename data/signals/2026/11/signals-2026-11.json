@@ -13468,6 +13468,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50361765",
+      "title": "PostgreSQL Internals [pdf] (2023)",
+      "canonical_url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T11:22:43Z",
+      "category": "Backend & APIs",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres",
+        "sql"
+      ]
     }
   ]
 }
