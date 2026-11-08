@@ -12492,6 +12492,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409554",
+      "title": "The Power of Sync",
+      "canonical_url": "https://seths.blog/2026/11/the-power-of-sync-2/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:57:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
