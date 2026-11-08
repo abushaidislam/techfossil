@@ -13412,6 +13412,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "canonical_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T02:27:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
