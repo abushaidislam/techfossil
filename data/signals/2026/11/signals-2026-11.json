@@ -12434,6 +12434,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50403052",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "canonical_url": "https://nfsu2.xyz/",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T15:36:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
