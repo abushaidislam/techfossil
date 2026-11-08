@@ -14317,6 +14317,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50413822",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "canonical_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T20:49:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "openai"
+      ]
     }
   ]
 }
