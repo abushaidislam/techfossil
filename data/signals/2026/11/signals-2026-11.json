@@ -13295,6 +13295,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50409432",
+      "title": "MarQ – Project board where AI agents lease tasks over MCP",
+      "canonical_url": "https://www.marqpm.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T06:35:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
