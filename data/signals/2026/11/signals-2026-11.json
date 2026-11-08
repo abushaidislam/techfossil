@@ -14475,6 +14475,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50356037",
+      "title": "ToothPaste",
+      "canonical_url": "https://brisk4t.github.io/blog/toothpaste/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T00:27:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
