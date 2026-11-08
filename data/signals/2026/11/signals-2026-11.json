@@ -12567,6 +12567,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1108-hn-50352701",
+      "title": "The Flash C Compiler",
+      "canonical_url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "source": "hacker_news",
+      "published_at": "2026-11-03T20:49:42Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
