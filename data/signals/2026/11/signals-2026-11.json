@@ -15711,6 +15711,21 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422623",
+      "title": "\"What Good Is a New-Born Baby?\"",
+      "canonical_url": "https://www.americanheritage.com/what-good-new-born-baby",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T14:17:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
