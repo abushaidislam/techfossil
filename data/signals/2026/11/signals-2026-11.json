@@ -16348,6 +16348,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421620",
+      "title": "Oriental Men's operating system [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=qvcwnwoQbWI",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:03:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
