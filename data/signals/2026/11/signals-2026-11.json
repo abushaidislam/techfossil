@@ -14872,6 +14872,21 @@
         "security",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4996595",
+      "title": "Stop Passive AI Rewrites: Agentic Coaching in Google Docs with gdocumentor",
+      "canonical_url": "https://dev.to/gde/stop-passive-ai-rewrites-agentic-coaching-in-google-docs-with-gdocumentor-2448",
+      "source": "dev_to",
+      "published_at": "2026-11-08T02:40:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
