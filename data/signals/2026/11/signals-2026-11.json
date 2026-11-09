@@ -15226,6 +15226,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422268",
+      "title": "IAL Paper Tracker – free tracker for Edexcel IAL students",
+      "canonical_url": "https://www.ialpapertracker.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:32:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
