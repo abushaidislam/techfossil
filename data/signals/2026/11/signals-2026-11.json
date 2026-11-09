@@ -16108,6 +16108,20 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50403153",
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50403153",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T16:01:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
