@@ -14594,6 +14594,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4978821",
+      "title": "Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a",
+      "canonical_url": "https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc",
+      "source": "dev_to",
+      "published_at": "2026-11-08T19:52:14Z",
+      "category": "Systems & Architecture",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "kernel",
+        "linux"
+      ]
     }
   ]
 }
