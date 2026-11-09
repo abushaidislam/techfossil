@@ -15899,6 +15899,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50415135",
+      "title": "A Little Snitch for Windows",
+      "canonical_url": "https://packethound.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T23:16:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
