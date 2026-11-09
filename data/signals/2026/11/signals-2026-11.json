@@ -14917,6 +14917,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420857",
+      "title": "A Critique of GPUI",
+      "canonical_url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:51:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
