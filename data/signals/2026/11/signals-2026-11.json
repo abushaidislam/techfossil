@@ -15755,6 +15755,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420710",
+      "title": "Official Wanting Data Centers on Public Lands Has >10M Invested in AI Industry",
+      "canonical_url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:31:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
