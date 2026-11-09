@@ -16152,6 +16152,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50417460",
+      "title": "Piezoelectric toothbrush reduces plaque",
+      "canonical_url": "https://www.science.org/doi/10.1126/sciadv.aeg5744",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T03:25:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
