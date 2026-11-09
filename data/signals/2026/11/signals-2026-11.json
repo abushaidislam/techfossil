@@ -15241,6 +15241,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416011",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "canonical_url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:03:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
