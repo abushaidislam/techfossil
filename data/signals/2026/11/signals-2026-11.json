@@ -15058,6 +15058,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50362963",
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "canonical_url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T14:54:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
