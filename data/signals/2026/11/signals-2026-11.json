@@ -15856,6 +15856,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422306",
+      "title": "Asahi Linux forbids using AI to contribute",
+      "canonical_url": "https://asahilinux.org/llm-policy/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:36:35Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
