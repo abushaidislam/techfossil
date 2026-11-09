@@ -16363,6 +16363,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422628",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "canonical_url": "https://news.ycombinator.com/item?id=50422628",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T14:17:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt",
+        "agent"
+      ]
     }
   ]
 }
