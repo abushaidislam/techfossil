@@ -15371,6 +15371,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421376",
+      "title": "Conductor's shutting down on the 20th so I built an alternative (founder, AMA)",
+      "canonical_url": "https://concors.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:21:09Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
