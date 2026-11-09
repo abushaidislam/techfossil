@@ -15740,6 +15740,21 @@
         "llm",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422137",
+      "title": "Show HN: Dependency free RSS reader (vibecoded with DeepSeek)",
+      "canonical_url": "https://github.com/bipinKrishnan/rss_feed",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:16:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
