@@ -15556,6 +15556,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420729",
+      "title": "Anthropic, stop silently degrading models. You will undermine trust",
+      "canonical_url": "https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:34:45Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
