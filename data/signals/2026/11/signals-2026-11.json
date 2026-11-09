@@ -15129,6 +15129,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50410359",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "canonical_url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T10:14:12Z",
+      "category": "Frontend & UI",
+      "importance_score": 73,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
