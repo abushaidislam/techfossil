@@ -15655,6 +15655,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50395183",
+      "title": "Notes on San Marino",
+      "canonical_url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T23:12:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
