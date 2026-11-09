@@ -15457,6 +15457,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50371360",
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "canonical_url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:53:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
