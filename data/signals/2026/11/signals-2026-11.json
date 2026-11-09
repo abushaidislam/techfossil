@@ -14713,6 +14713,21 @@
         "cloud",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50419645",
+      "title": "Ian Murdock – And we learn about Debian",
+      "canonical_url": "https://larrymurdock.substack.com/p/ian-murdock-72d",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:02:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
