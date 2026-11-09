@@ -15698,6 +15698,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50390822",
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "canonical_url": "https://blue-continuum.com/branching-beyond-leonardo",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T17:01:12Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
