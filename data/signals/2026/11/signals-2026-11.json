@@ -16377,6 +16377,20 @@
         "gpt",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50401844",
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "canonical_url": "https://github.com/rkaehn/uniform",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T11:16:31Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript",
+        "wasm"
+      ]
     }
   ]
 }
