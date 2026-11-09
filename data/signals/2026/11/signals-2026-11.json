@@ -15472,6 +15472,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421231",
+      "title": "Humans' Origin Story Is Being Revised [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=wDU27f84hAs",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T10:56:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
