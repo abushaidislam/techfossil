@@ -15002,6 +15002,19 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421656",
+      "title": "Brotli CVE-2026-111497 reaches stock WordPress through pingbacks",
+      "canonical_url": "https://hatamoto.dev/wordpress/brotli-flaw-wordpress-xmlrpc-pingback",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:07:26Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cve"
+      ]
     }
   ]
 }
