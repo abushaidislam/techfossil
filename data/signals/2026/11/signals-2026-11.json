@@ -15726,6 +15726,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50419884",
+      "title": "Agents don't suggest the use of LLMs for problems where they should",
+      "canonical_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:37:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "agent"
+      ]
     }
   ]
 }
