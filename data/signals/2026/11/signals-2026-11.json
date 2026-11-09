@@ -15685,6 +15685,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421426",
+      "title": "Apple capped engineers at a $200 daily AI budget",
+      "canonical_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:30:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 79,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
