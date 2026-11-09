@@ -15841,6 +15841,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50389923",
+      "title": "The Reconstruction of Torn Documents",
+      "canonical_url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T15:05:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
