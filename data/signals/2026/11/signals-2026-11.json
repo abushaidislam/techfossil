@@ -15311,6 +15311,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416801",
+      "title": "Statement from Nvidia board of directors",
+      "canonical_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T02:26:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
