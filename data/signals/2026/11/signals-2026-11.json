@@ -14930,6 +14930,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421899",
+      "title": "WindyMaps – Free offline maps, 1h/1km weather and route trip planner",
+      "canonical_url": "https://windymapy.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:40:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
