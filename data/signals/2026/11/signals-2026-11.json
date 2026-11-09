@@ -15256,6 +15256,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422221",
+      "title": "The Dose Makes the Poison",
+      "canonical_url": "https://en.wikipedia.org/wiki/The_dose_makes_the_poison",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:27:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
