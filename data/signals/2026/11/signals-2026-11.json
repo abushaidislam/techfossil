@@ -15543,6 +15543,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422399",
+      "title": "Tech giant Nvidia to investigate CEO's affair with suspected Chinese spy",
+      "canonical_url": "https://www.bbc.co.uk/news/live/cm78p221e313t",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:48:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
