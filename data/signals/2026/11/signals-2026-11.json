@@ -14855,6 +14855,23 @@
         "memory",
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4992916",
+      "title": "Trust No Pipeline: Why Attackers Stopped Hacking Your Cluster and Started Riding Your CI/CD (And How to Stop Them on Google Cloud)",
+      "canonical_url": "https://dev.to/gde/trust-no-pipeline-why-attackers-stopped-hacking-your-cluster-and-started-riding-your-cicd-and-2m74",
+      "source": "dev_to",
+      "published_at": "2026-11-07T10:00:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "kubernetes",
+        "ci/cd",
+        "security",
+        "rust"
+      ]
     }
   ]
 }
