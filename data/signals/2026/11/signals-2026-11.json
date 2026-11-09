@@ -15198,6 +15198,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421155",
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "canonical_url": "https://github.com/OmniJev/Flide",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T10:43:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
