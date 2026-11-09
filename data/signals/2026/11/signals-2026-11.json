@@ -15983,6 +15983,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416158",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "canonical_url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:20:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
