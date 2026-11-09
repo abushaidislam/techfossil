@@ -14887,6 +14887,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50417407",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "canonical_url": "https://news.ycombinator.com/item?id=50417407",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T03:20:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
