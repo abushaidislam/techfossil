@@ -15157,6 +15157,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50389333",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "canonical_url": "https://github.com/ppmpreetham/BUI",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T13:40:35Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
