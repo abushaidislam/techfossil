@@ -16292,6 +16292,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50370793",
+      "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
+      "canonical_url": "https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T02:07:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
