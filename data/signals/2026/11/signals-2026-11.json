@@ -14799,6 +14799,22 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4995789",
+      "title": "Stop Asking LLMs to Do Math: Client-Side Functions in Flutter GenUI with bloc_signals",
+      "canonical_url": "https://dev.to/gde/stop-asking-llms-to-do-math-client-side-functions-in-flutter-genui-with-blocsignals-23bh",
+      "source": "dev_to",
+      "published_at": "2026-11-07T21:34:26Z",
+      "category": "Systems & Architecture",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai",
+        "llm",
+        "ui"
+      ]
     }
   ]
 }
