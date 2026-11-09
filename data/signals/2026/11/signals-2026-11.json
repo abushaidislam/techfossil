@@ -15597,6 +15597,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50411467",
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "canonical_url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T14:40:23Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "agent"
+      ]
     }
   ]
 }
