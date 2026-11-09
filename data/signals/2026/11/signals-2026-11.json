@@ -15271,6 +15271,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416053",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "canonical_url": "https://duxlabs.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:08:51Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ux"
+      ]
     }
   ]
 }
