@@ -16221,6 +16221,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421716",
+      "title": "Studies: Does working life change our personality?",
+      "canonical_url": "https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:15:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
