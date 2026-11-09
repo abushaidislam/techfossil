@@ -15955,6 +15955,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420697",
+      "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
+      "canonical_url": "https://company.mindfries.com/login",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:30:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
