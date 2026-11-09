@@ -14828,6 +14828,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420632",
+      "title": "The Rust I Wanted Had No Future (2023)",
+      "canonical_url": "https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:20:19Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
