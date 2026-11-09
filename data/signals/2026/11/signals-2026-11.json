@@ -14567,6 +14567,20 @@
         "ui",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50415750",
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "canonical_url": "https://kevinboone.me/cpmzork.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T00:33:50Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
