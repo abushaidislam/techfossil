@@ -14550,6 +14550,23 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4992435",
+      "title": "Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run",
+      "canonical_url": "https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g",
+      "source": "dev_to",
+      "published_at": "2026-11-07T07:35:33Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "python",
+        "ui",
+        "agent"
+      ]
     }
   ]
 }
