@@ -15284,6 +15284,20 @@
       "technologies": [
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421012",
+      "title": "Show HN: A diffusion model that runs in pure CSS, no JavaScript",
+      "canonical_url": "https://metrix187.github.io/diffusion.css/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T10:16:07Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript",
+        "css"
+      ]
     }
   ]
 }
