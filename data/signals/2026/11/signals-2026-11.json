@@ -15073,6 +15073,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50371886",
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "canonical_url": "https://github.com/RenderBear/haci",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T03:34:49Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "distributed"
+      ]
     }
   ]
 }
