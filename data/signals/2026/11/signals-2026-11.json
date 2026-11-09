@@ -14697,6 +14697,22 @@
         "rust",
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4998341",
+      "title": "How I Made a Voice Clone in Minutes, Using Google Antigravity, Gemini 3.8 Flash TTS and My Harness",
+      "canonical_url": "https://dev.to/gde/how-i-made-a-voice-clone-in-minutes-using-google-antigravity-gemini-38-flash-tts-and-my-harness-10j3",
+      "source": "dev_to",
+      "published_at": "2026-11-08T11:56:59Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai",
+        "cloud",
+        "agent"
+      ]
     }
   ]
 }
