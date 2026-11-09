@@ -15813,6 +15813,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50419805",
+      "title": "Advent of Computing Episode 194 – SpeedCoding Your Way to Software",
+      "canonical_url": "https://adventofcomputing.libsyn.com/episode-194-speedcoding-your-way-to-software",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:27:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
