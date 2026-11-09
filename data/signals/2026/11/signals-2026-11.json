@@ -15030,6 +15030,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420165",
+      "title": "Amutable Foundations: A Technical Overview",
+      "canonical_url": "https://amutable.com/blog/amutable-foundations-technical-overview",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T08:18:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
