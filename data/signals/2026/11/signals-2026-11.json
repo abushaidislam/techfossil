@@ -15015,6 +15015,21 @@
       "technologies": [
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421360",
+      "title": "Trying to outsmart the Apple News algorithm",
+      "canonical_url": "https://www.fabian.fyi/2026/11/rock-veto-algorithm.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:18:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
