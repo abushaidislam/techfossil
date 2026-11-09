@@ -15582,6 +15582,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50408713",
+      "title": "Making any integer with four 2s (2025)",
+      "canonical_url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T04:38:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
