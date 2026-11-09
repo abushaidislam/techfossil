@@ -14902,6 +14902,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50368481",
+      "title": "Declarative Dragging",
+      "canonical_url": "https://declarative-dragging.github.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T23:05:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
