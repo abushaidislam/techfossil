@@ -15783,6 +15783,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416471",
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "canonical_url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:49:46Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
