@@ -15798,6 +15798,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50415581",
+      "title": "Show HN: Notekpr – An open-source, E2EE alternative to Notion and Obsidian",
+      "canonical_url": "https://notekpr.md",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T00:10:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
