@@ -14624,6 +14624,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50412830",
+      "title": "How to prove equations using diagrams, part 1",
+      "canonical_url": "https://www.epatters.org/post/e-graphs-1/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T18:51:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
