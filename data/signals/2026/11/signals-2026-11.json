@@ -14786,6 +14786,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50419843",
+      "title": "Microsoft Workers Call for Accountable AI",
+      "canonical_url": "https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:31:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
