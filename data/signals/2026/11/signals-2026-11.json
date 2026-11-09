@@ -15968,6 +15968,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50395450",
+      "title": "Devvm.dev: One VM for every project",
+      "canonical_url": "https://devvm.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-06T23:30:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
