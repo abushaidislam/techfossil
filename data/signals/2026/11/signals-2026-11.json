@@ -16122,6 +16122,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420035",
+      "title": "RIP, Harvest",
+      "canonical_url": "https://aphyr.com/posts/427-rip-harvest",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:58:21Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
