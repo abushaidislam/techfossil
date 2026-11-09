@@ -16180,6 +16180,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421665",
+      "title": "China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties",
+      "canonical_url": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:09:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
