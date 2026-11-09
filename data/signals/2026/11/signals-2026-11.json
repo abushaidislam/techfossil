@@ -15142,6 +15142,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421507",
+      "title": "AetherSkin User Testing",
+      "canonical_url": "https://aetherskin.app",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:43:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
