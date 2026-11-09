@@ -15114,6 +15114,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420915",
+      "title": "Cryptocurrencies slide to two-month lows after US midterms",
+      "canonical_url": "https://www.reuters.com/business/cryptocurrencies-slide-two-month-lows-after-us-midterms-2026-11-08/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:59:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
