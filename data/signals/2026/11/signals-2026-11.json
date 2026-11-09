@@ -14758,6 +14758,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420981",
+      "title": "Best-Effort Extent-Same, a btrfs dedupe agent",
+      "canonical_url": "https://github.com/Zygo/bees",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T10:11:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
