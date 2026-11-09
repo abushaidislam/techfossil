@@ -15515,6 +15515,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420040",
+      "title": "AI-first browser test automation at $0.01 per step",
+      "canonical_url": "https://www.yourAItester.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T07:59:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
