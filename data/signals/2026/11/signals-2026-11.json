@@ -15487,6 +15487,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50366902",
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "canonical_url": "https://clj.rs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-04T21:23:16Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
