@@ -14841,6 +14841,20 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50380051",
+      "title": "Mizu – zero-copy parallel R and Python over shared memory",
+      "canonical_url": "https://github.com/shikokuchuo/pymizu",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T21:09:04Z",
+      "category": "Systems & Architecture",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "python"
+      ]
     }
   ]
 }
