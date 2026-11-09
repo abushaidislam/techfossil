@@ -14945,6 +14945,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421778",
+      "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50421778",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T12:22:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
