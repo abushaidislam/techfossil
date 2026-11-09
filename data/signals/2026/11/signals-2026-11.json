@@ -14988,6 +14988,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50413885",
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "canonical_url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:00:42Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "ui"
+      ]
     }
   ]
 }
