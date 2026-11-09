@@ -16037,6 +16037,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420599",
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "canonical_url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:15:17Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
