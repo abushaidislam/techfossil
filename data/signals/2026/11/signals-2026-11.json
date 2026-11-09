@@ -15942,6 +15942,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50413769",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "canonical_url": "https://goldstein.lol/posts/deno-security/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T20:42:38Z",
+      "category": "Security & Privacy",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
