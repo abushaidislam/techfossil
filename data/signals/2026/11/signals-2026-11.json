@@ -15170,6 +15170,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422336",
+      "title": "ESP32 Tailscale gateway with WoL and other recovery functions",
+      "canonical_url": "https://mattboxx.github.io/esp32-tailnet-gateway/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:38:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
