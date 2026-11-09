@@ -15326,6 +15326,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420578",
+      "title": "Everything to automate and make your device,like aPC and phone,smart as a robot",
+      "canonical_url": "https://news.ycombinator.com/item?id=50420578",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:12:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
