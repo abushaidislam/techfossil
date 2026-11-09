@@ -15086,6 +15086,19 @@
       "technologies": [
         "distributed"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420383",
+      "title": "A Bit about Email",
+      "canonical_url": "https://maurycyz.com/misc/email/",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T08:46:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
