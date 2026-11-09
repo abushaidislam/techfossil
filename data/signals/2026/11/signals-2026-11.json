@@ -15183,6 +15183,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50416014",
+      "title": "Playing with the STM32MP2",
+      "canonical_url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:04:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
