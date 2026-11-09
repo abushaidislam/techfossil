@@ -15341,6 +15341,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50411083",
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "canonical_url": "https://github.com/graealex/WaveDudeNext",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T13:09:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
