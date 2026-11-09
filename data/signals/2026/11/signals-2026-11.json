@@ -14639,6 +14639,20 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4991005",
+      "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
+      "canonical_url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
+      "source": "dev_to",
+      "published_at": "2026-11-06T23:51:03Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "architecture"
+      ]
     }
   ]
 }
