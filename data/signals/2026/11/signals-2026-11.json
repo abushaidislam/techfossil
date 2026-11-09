@@ -16024,6 +16024,19 @@
         "sql",
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422605",
+      "title": "Show HN: Nearby Share:I built a browser-based file transfer tool",
+      "canonical_url": "https://nearbyshare.app",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T14:14:35Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
