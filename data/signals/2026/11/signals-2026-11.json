@@ -15871,6 +15871,21 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421329",
+      "title": "Four Useful Questions",
+      "canonical_url": "https://www.henrikkarlsson.xyz/p/four-useful-questions",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:13:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
