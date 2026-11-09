@@ -15611,6 +15611,20 @@
         "memory",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421568",
+      "title": "Show HN: A bot attack forced me to rebuild my tools on Cloudflare Workers",
+      "canonical_url": "https://sitetoolsbox.com/article.php?id=52",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:54:45Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ui"
+      ]
     }
   ]
 }
