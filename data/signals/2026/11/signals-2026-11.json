@@ -14581,6 +14581,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4978026",
+      "title": "Six Serving Engines, One 8 GB GPU: Gemma 4 E2B on an RTX 3050",
+      "canonical_url": "https://dev.to/gde/six-serving-engines-one-8-gb-gpu-gemma-4-e2b-on-an-rtx-3050-ad7",
+      "source": "dev_to",
+      "published_at": "2026-11-08T19:08:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
