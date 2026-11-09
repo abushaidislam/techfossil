@@ -15213,6 +15213,19 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50415628",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "canonical_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T00:16:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
