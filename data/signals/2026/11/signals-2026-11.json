@@ -15298,6 +15298,19 @@
         "javascript",
         "css"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420874",
+      "title": "Pay per pre-configured GPU hour or per token for open-source LLM inference?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50420874",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:52:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
