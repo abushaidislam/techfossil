@@ -14815,6 +14815,19 @@
         "llm",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-dev-4996593",
+      "title": "Measuring Gemma & On-Device Latency on 16GB Apple Silicon for Agent Workflows",
+      "canonical_url": "https://dev.to/gde/measuring-real-world-response-latency-on-16gb-apple-silicon-for-agent-workflows-24e5",
+      "source": "dev_to",
+      "published_at": "2026-11-08T02:39:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
