@@ -15569,6 +15569,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50421579",
+      "title": "Those who have lost their job to AI what was your job?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50421579",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T11:56:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
