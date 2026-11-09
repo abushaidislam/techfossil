@@ -14668,6 +14668,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50420840",
+      "title": "New Zealand children can't hold a pencil properly – new study",
+      "canonical_url": "https://www.rnz.co.nz/life/relationships/family/new-zealand-children-can-t-hold-a-pencil-properly-new-study",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T09:48:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
