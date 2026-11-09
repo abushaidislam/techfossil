@@ -15356,6 +15356,21 @@
         "software",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50422486",
+      "title": "Ask HN: Will Humans Become Useless?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50422486",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:58:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
