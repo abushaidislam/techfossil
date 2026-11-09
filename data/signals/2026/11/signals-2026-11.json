@@ -16050,6 +16050,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1109-hn-50378974",
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "canonical_url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T19:44:07Z",
+      "category": "Software Engineering",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "software",
+        "technology"
+      ]
     }
   ]
 }
