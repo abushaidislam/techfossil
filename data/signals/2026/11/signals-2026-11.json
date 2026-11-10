@@ -16533,6 +16533,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50435660",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "canonical_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T09:20:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
