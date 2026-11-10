@@ -16518,6 +16518,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50436587",
+      "title": "Mathematicians Are Like Luddites",
+      "canonical_url": "https://alok.blog/luddite/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T11:52:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
