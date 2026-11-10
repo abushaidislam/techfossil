@@ -16578,6 +16578,21 @@
         "serverless",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50435279",
+      "title": "China seeks high-tech upper hand in industry carrying 80% of global trade",
+      "canonical_url": "https://www.reuters.com/world/china/china-seeks-high-tech-upper-hand-industry-carrying-80-global-trade-2026-11-10/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T08:18:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
