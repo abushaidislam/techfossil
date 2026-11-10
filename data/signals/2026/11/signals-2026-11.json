@@ -16462,6 +16462,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5005298",
+      "title": "Six Serving Engines on One Cloud TPU v5e Chip: Gemma 4 E2B",
+      "canonical_url": "https://dev.to/gde/six-serving-engines-on-one-cloud-tpu-v5e-chip-gemma-4-e2b-22hn",
+      "source": "dev_to",
+      "published_at": "2026-11-09T16:00:42Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "llm"
+      ]
     }
   ]
 }
