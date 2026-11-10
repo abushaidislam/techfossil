@@ -16593,6 +16593,22 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5005109",
+      "title": "Why Developer Experience (DX) Isn't Enough in 2026: You Need Agent Experience (AX)",
+      "canonical_url": "https://dev.to/gde/why-developer-experience-dx-isnt-enough-in-2026-you-need-agent-experience-ax-3dcf",
+      "source": "dev_to",
+      "published_at": "2026-11-09T15:10:32Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "gemini",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
