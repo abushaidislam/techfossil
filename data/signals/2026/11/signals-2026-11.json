@@ -16625,6 +16625,19 @@
         "privacy",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50377111",
+      "title": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
+      "canonical_url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
+      "source": "hacker_news",
+      "published_at": "2026-11-05T15:32:50Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
