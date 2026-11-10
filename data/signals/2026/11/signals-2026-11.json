@@ -16638,6 +16638,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50431524",
+      "title": "Computing as Social Activity",
+      "canonical_url": "https://destructured.net/casa",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T02:27:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
