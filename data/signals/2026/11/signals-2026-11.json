@@ -16653,6 +16653,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50436111",
+      "title": "Mountains of Kong",
+      "canonical_url": "https://en.wikipedia.org/wiki/Mountains_of_Kong",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T10:37:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
