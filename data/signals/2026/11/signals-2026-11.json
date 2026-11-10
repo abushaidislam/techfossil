@@ -16561,6 +16561,23 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-4992972",
+      "title": "Google AI Classroom Part 1: Solving the $25-Per-Exam Problem — Architecting a Sub-$0.02/Student Serverless AI Classroom with Gemini 4 & Firebase",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-1-solving-the-25-per-exam-problem-architecting-a-sub-002student-fjc",
+      "source": "dev_to",
+      "published_at": "2026-11-09T07:21:59Z",
+      "category": "Systems & Architecture",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai",
+        "cloud",
+        "serverless",
+        "gemini"
+      ]
     }
   ]
 }
