@@ -16609,6 +16609,22 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-4705568",
+      "title": "Open-weights models: A case (and first step) for Gemma over Gemini for budget & privacy",
+      "canonical_url": "https://dev.to/gde/open-weights-models-a-case-and-first-step-for-gemma-over-gemini-for-budget-privacy-2gjo",
+      "source": "dev_to",
+      "published_at": "2026-11-09T07:56:20Z",
+      "category": "Security & Privacy",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "python",
+        "privacy",
+        "ai"
+      ]
     }
   ]
 }
