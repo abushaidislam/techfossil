@@ -16546,6 +16546,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5003116",
+      "title": "Take Claude Code Above Average: Let Antigravity Review It",
+      "canonical_url": "https://dev.to/gde/take-claude-code-above-average-let-antigravity-review-it-1f3g",
+      "source": "dev_to",
+      "published_at": "2026-11-09T08:18:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
