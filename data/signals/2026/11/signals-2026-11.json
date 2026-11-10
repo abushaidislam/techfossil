@@ -16476,6 +16476,19 @@
         "cloud",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5005835",
+      "title": "Porting Gemma 4 E2B to SGLang-JAX on One Cloud TPU v5e",
+      "canonical_url": "https://dev.to/gde/porting-gemma-4-e2b-to-sglang-jax-on-one-cloud-tpu-v5e-5e9l",
+      "source": "dev_to",
+      "published_at": "2026-11-09T17:16:08Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
