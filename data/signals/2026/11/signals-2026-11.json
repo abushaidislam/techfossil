@@ -16502,6 +16502,22 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5004593",
+      "title": "Take a Claude Agent SDK agent from install to deploy with Agents CLI",
+      "canonical_url": "https://dev.to/googlecloud/take-a-claude-agent-sdk-agent-from-install-to-deploy-with-agents-cli-2680",
+      "source": "dev_to",
+      "published_at": "2026-11-09T13:21:04Z",
+      "category": "Backend & APIs",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "python",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
