@@ -16419,6 +16419,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50413970",
+      "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+      "canonical_url": "https://github.com/sshah03/recalc",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T21:12:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
