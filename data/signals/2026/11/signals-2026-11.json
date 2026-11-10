@@ -16432,6 +16432,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1110-dev-5004944",
+      "title": "Meme Monday",
+      "canonical_url": "https://dev.to/ben/meme-monday-22ig",
+      "source": "dev_to",
+      "published_at": "2026-11-09T14:33:27Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
