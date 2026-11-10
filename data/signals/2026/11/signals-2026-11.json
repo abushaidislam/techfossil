@@ -16489,6 +16489,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50430176",
+      "title": "Claude Fable 5.2 launch offers",
+      "canonical_url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T01:12:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
