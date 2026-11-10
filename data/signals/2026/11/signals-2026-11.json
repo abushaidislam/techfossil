@@ -16666,6 +16666,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50416456",
+      "title": "The Web Is More Than Enough",
+      "canonical_url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T01:48:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
