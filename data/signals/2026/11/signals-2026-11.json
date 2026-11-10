@@ -16447,6 +16447,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1110-hn-50429031",
+      "title": "Show HN: Write GitHub Actions in any language: Loopt",
+      "canonical_url": "https://github.com/preloopdev/loopt",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T23:59:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
