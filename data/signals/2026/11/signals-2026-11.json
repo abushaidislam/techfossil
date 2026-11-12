@@ -17349,6 +17349,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463312",
+      "title": "A free and private TTS Chrome extension – works in ~30 langs using a local model",
+      "canonical_url": "https://chromewebstore.google.com/detail/unlimitedtts/jnlbohglgjlfcndeogoehpogkdhaaoip",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:11:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
