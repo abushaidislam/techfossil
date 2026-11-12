@@ -17741,6 +17741,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464971",
+      "title": "Show HN: Pure-sift – 100% pure-Rust implementation of expired SIFT patent",
+      "canonical_url": "https://github.com/dannkkie/pure-sift",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T15:29:53Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
