@@ -16933,6 +16933,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462445",
+      "title": "Upcoming meeting could determine if US loses its measles elimination status",
+      "canonical_url": "https://abcnews.com/Health/upcoming-meeting-determine-us-loses-measles-elimination-status/story?id=137989156",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T08:50:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
