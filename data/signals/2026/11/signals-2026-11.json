@@ -18226,6 +18226,21 @@
       "technologies": [
         "concurrency"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50447074",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "canonical_url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T04:17:56Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
