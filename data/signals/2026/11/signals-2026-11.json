@@ -18544,6 +18544,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463602",
+      "title": "How software engineering is changing: a tale of two eras",
+      "canonical_url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:03:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
