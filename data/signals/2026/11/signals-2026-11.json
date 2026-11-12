@@ -16787,6 +16787,20 @@
         "ui",
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5007346",
+      "title": "Software Engineering Is Becoming Factory Engineering",
+      "canonical_url": "https://dev.to/dailycontext/software-engineering-is-becoming-factory-engineering-22ll",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:28:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
