@@ -17407,6 +17407,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50452455",
+      "title": "My AI agents found an unmapped Maya site?",
+      "canonical_url": "https://pietromiotti.com/latest/maya-site",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T18:05:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
