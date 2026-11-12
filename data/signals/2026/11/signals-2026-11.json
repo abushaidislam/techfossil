@@ -17334,6 +17334,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464720",
+      "title": "Employees taking 32% more leave for GTA 6 launch day",
+      "canonical_url": "https://remote.com/gta",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:58:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
