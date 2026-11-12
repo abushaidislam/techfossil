@@ -16741,6 +16741,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462469",
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "canonical_url": "https://github.com/DaleFranks/ramasite",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T08:53:22Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "sql",
+        "ai"
+      ]
     }
   ]
 }
