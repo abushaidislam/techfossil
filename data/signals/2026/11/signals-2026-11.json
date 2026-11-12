@@ -17066,6 +17066,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5006912",
+      "title": "Vue.js Is My Workhorse. Now It's an Agent Skill.",
+      "canonical_url": "https://dev.to/playfulprogramming/vuejs-is-my-workhorse-now-its-an-agent-skill-1pfk",
+      "source": "dev_to",
+      "published_at": "2026-11-10T08:00:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "vue"
+      ]
     }
   ]
 }
