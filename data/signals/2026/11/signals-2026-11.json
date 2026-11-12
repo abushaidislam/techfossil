@@ -17421,6 +17421,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464707",
+      "title": "Atrocious Boeing Why? [video]",
+      "canonical_url": "https://www.reddit.com/r/aviation/comments/1xtvs71/this_is_atrocious_boeing_why/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:55:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
