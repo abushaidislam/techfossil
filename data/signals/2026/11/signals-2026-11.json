@@ -18198,6 +18198,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50454625",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "canonical_url": "https://github.com/FrigadeHQ/yogurt",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T21:33:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
