@@ -18358,6 +18358,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50460263",
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "canonical_url": "https://github.com/jjba23/sift",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T05:09:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
