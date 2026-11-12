@@ -17110,6 +17110,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50458208",
+      "title": "Emacs in the Age of Magic",
+      "canonical_url": "https://commandlinesystems.com/magic.txt",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T02:26:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
