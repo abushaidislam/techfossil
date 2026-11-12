@@ -17464,6 +17464,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50452224",
+      "title": "Physically Controllable Relighting of Photographs",
+      "canonical_url": "https://yaksoy.github.io/PhysicalRelighting/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T17:38:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
