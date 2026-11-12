@@ -17896,6 +17896,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462177",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "canonical_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T08:11:11Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "vulnerability"
+      ]
     }
   ]
 }
