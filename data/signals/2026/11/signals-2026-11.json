@@ -17237,6 +17237,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5019800",
+      "title": "The Case for Smart Software",
+      "canonical_url": "https://dev.to/swyx/the-case-for-smart-software-329f",
+      "source": "dev_to",
+      "published_at": "2026-11-12T01:00:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
