@@ -16771,6 +16771,22 @@
         "serverless",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-4982713",
+      "title": "Ask More of Your UI",
+      "canonical_url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:39:15Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "ui",
+        "architecture"
+      ]
     }
   ]
 }
