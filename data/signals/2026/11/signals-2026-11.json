@@ -18298,6 +18298,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50429430",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "canonical_url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T00:25:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
