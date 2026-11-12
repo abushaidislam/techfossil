@@ -18343,6 +18343,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50438958",
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "canonical_url": "https://blog.benjamin.ie/legocam",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T17:46:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
