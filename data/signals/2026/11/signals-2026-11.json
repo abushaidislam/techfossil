@@ -18071,6 +18071,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464435",
+      "title": "Uncle Timmy's Public Blog PSF 2024 Bans",
+      "canonical_url": "https://tim-one.github.io/psf/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:18:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
