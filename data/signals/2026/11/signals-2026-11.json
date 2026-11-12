@@ -16992,6 +16992,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5012098",
+      "title": "How We Review 4x More AI Code Without Reading Every Line",
+      "canonical_url": "https://dev.to/dailycontext/how-we-review-4x-more-ai-code-without-reading-every-line-d5j",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:27:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
