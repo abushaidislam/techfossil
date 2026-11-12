@@ -17868,6 +17868,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50457230",
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "canonical_url": "https://termsheetplease.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T01:12:16Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
