@@ -16712,6 +16712,20 @@
         "ai",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5016465",
+      "title": "Stop Calling getGenerativeModel() Everywhere! The Hidden Traps of Scaling Firebase AI to Multi-Model Angular Apps",
+      "canonical_url": "https://dev.to/gde/stop-calling-getgenerativemodel-everywhere-the-hidden-traps-of-scaling-firebase-ai-to-lg1",
+      "source": "dev_to",
+      "published_at": "2026-11-11T10:53:39Z",
+      "category": "Systems & Architecture",
+      "importance_score": 95,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "architecture"
+      ]
     }
   ]
 }
