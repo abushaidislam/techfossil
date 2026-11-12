@@ -17379,6 +17379,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50405611",
+      "title": "A failed experiment in laptop cooling (2025)",
+      "canonical_url": "https://kevinboone.me/failed_cooling.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-07T21:57:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
