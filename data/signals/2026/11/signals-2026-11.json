@@ -18041,6 +18041,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50445556",
+      "title": "Hayabusa2 Is Chasing the mysterious object 1998 KY26",
+      "canonical_url": "https://gizmodo.com/a-japanese-spacecraft-is-chasing-a-space-rock-that-defies-gravity-the-best-explanation-just-took-a-hit-2000837742",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T02:03:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
