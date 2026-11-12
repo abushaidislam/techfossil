@@ -16696,6 +16696,22 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5015421",
+      "title": "Google AI Classroom Part 9: Gamified \"Bingo\" Active Presence Verification & Zero-Trust Proctored Exam Mode on Google Cloud",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-9-gamified-bingo-active-presence-verification-zero-trust-proctored-52dg",
+      "source": "dev_to",
+      "published_at": "2026-11-11T07:49:09Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "cloud",
+        "ai",
+        "rust"
+      ]
     }
   ]
 }
