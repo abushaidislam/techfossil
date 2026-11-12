@@ -16875,6 +16875,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462950",
+      "title": "German Tank Problem",
+      "canonical_url": "https://en.wikipedia.org/wiki/German_tank_problem",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T10:04:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
