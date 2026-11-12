@@ -17263,6 +17263,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463466",
+      "title": "\"How Has Serving Impacted You?\" Veterans of the US Military in Their Own Words",
+      "canonical_url": "https://crimethinc.com/2026/11/11/how-has-serving-impacted-you-veterans-of-the-us-military-in-their-own-words",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:37:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
