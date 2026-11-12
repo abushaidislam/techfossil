@@ -17853,6 +17853,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464150",
+      "title": "Activae iOS app – turns forgotten screenshots into useful actions",
+      "canonical_url": "https://apps.apple.com/us/app/activae/id6828392199",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:36:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
