@@ -17180,6 +17180,19 @@
         "cloud",
         "wasm"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464055",
+      "title": "Why Every AI Model Will Ship as a Torrent",
+      "canonical_url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:20:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
