@@ -17623,6 +17623,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50412715",
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "canonical_url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T18:34:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
