@@ -17522,6 +17522,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463803",
+      "title": "258 Nvidia headlines: 6% ethics-negative before the scandal, 82% after",
+      "canonical_url": "https://github.com/twobitapps/nvidia-headlines-ethics-2026",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:39:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
