@@ -17939,6 +17939,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463682",
+      "title": "Interactive Map of GTA Series",
+      "canonical_url": "https://gtamap.io/gta-5-interactive-map/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:16:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
