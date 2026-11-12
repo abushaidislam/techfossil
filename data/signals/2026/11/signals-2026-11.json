@@ -17550,6 +17550,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463437",
+      "title": "Secure Exclaves and Ambient Sensing - Apple Security Research",
+      "canonical_url": "https://security.apple.com/blog/secure-exclaves/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:34:38Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
