@@ -18268,6 +18268,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50465034",
+      "title": "I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text",
+      "canonical_url": "https://mvakde.github.io/blog/looped-mdlarc/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T15:39:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
