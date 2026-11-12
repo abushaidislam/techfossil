@@ -17208,6 +17208,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462732",
+      "title": "The Forever-Day Problem: Unsupported Software on the Public Internet",
+      "canonical_url": "https://blog.fortirix.com/blog/forever-day/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T09:33:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
