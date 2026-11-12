@@ -18388,6 +18388,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463990",
+      "title": "API Craft Pro – Chrome SidePanel API Mocker and TypeScript/Zod Generator",
+      "canonical_url": "https://chromewebstore.google.com/detail/api-craft-pro-â-instant-a/amdohgdofjccadgobnalnmaphalloapm",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:06:08Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "typescript"
+      ]
     }
   ]
 }
