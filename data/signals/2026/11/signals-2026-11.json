@@ -18328,6 +18328,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464424",
+      "title": "Show HN: Sparks Dating reply assistant focused on natural conversarion",
+      "canonical_url": "https://www.yourdatingassistant.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:17:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
