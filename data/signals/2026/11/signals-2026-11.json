@@ -17125,6 +17125,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5015386",
+      "title": "Google AI Classroom Part 8: AI Project Supervision — Streamlined Mobile 720p Demo, 2-Stage Diarization & Fake-Log Auditing with Gemini 4",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-8-ai-project-supervision-streamlined-mobile-720p-demo-2-stage-3h98",
+      "source": "dev_to",
+      "published_at": "2026-11-11T07:41:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai"
+      ]
     }
   ]
 }
