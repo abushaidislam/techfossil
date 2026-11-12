@@ -18402,6 +18402,21 @@
         "api",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50413487",
+      "title": "The Learjet Repo Man (2009)",
+      "canonical_url": "https://www.salon.com/2009/06/06/lear_jet_repo_man/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T20:06:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
