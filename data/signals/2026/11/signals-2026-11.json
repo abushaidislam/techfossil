@@ -18559,6 +18559,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464645",
+      "title": "LLM-Anthropic 0.31",
+      "canonical_url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:48:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
