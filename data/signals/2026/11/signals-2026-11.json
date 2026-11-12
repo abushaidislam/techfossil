@@ -17808,6 +17808,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50458166",
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "canonical_url": "https://github.com/huawei-csl/MACaQ",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T02:23:57Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
