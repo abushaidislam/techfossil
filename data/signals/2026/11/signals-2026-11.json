@@ -17593,6 +17593,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50450488",
+      "title": "Tim Peters has died",
+      "canonical_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T13:03:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
