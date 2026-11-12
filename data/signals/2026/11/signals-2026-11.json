@@ -18432,6 +18432,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50453171",
+      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+      "canonical_url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T19:29:46Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture"
+      ]
     }
   ]
 }
