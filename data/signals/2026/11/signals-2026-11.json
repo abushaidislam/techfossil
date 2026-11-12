@@ -17997,6 +17997,21 @@
         "api",
         "kubernetes"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464220",
+      "title": "Tesserae: E-ink dashboard companion. Compose dashboards and push to e-ink panels",
+      "canonical_url": "https://github.com/dmellok/tesserae",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:46:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
