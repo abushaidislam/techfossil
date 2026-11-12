@@ -17668,6 +17668,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463745",
+      "title": "Show HN: JNum – Pure Java 25 NumPy/BLAS via Project Panama FFM and Vector API",
+      "canonical_url": "https://github.com/CH-Abhinav/JNum",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:28:26Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
