@@ -16964,6 +16964,19 @@
         "ai",
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50455332",
+      "title": "AI, activity, and outcomes in software engineering",
+      "canonical_url": "https://cabird.com/talks/shipping-faster/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T22:33:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
