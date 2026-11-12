@@ -18484,6 +18484,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50460154",
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "canonical_url": "https://github.com/tylertms/Stela",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T05:02:38Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
