@@ -17223,6 +17223,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5012106",
+      "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+      "canonical_url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:36:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
