@@ -17166,6 +17166,20 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5012548",
+      "title": "Detecting WasmPlugin version drift in Cloud Load Balancing Service Extensions",
+      "canonical_url": "https://dev.to/googlecloud/detecting-wasmplugin-version-drift-in-cloud-load-balancing-service-extensions-52p5",
+      "source": "dev_to",
+      "published_at": "2026-11-11T14:00:00Z",
+      "category": "Systems & Architecture",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "wasm"
+      ]
     }
   ]
 }
