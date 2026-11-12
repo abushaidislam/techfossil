@@ -17681,6 +17681,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464693",
+      "title": "Show HN: Mu Dashboard – System and Browser Vitals",
+      "canonical_url": "https://chromewebstore.google.com/detail/mu-dashboard-system-brows/glicheafndnenmakkbnolglbkbiidmbf",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:54:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
