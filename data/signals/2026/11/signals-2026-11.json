@@ -16918,6 +16918,21 @@
       "technologies": [
         "html"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5007200",
+      "title": "How did you end up in tech, and are you staying?",
+      "canonical_url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
+      "source": "dev_to",
+      "published_at": "2026-11-09T23:02:37Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
