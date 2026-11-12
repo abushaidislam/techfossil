@@ -18115,6 +18115,20 @@
         "performance",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463533",
+      "title": "Open DLSS alternative claims better performance and quality with AMD support",
+      "canonical_url": "https://github.com/apex-compute/ANR",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:48:23Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance",
+        "ai"
+      ]
     }
   ]
 }
