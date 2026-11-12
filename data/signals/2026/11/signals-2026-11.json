@@ -17838,6 +17838,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50443090",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "canonical_url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T23:02:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
