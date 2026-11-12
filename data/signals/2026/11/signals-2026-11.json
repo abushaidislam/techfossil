@@ -18445,6 +18445,19 @@
       "technologies": [
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463935",
+      "title": "Show HN: OpenPocket – iOS app for running Qwen3.5, LFM and other LLMs offline",
+      "canonical_url": "https://apps.apple.com/th/app/openpocket/id6833028114",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:58:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
