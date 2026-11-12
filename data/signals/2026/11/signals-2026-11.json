@@ -17081,6 +17081,21 @@
         "agent",
         "vue"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464024",
+      "title": "Show HN: Vibe Code 1k",
+      "canonical_url": "https://spcry.com/vibe1k",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:13:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
