@@ -18172,6 +18172,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50465260",
+      "title": "Coding Agents and Software for One",
+      "canonical_url": "https://rumple.github.io/blog/2026/11/06/coding-agents-and-software-for-one.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T16:14:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
