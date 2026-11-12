@@ -17319,6 +17319,21 @@
       "technologies": [
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50443427",
+      "title": "Val Town is winding down",
+      "canonical_url": "https://blog.val.town/winding-down",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T23:31:14Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
