@@ -18157,6 +18157,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50452652",
+      "title": "We need more goat sacrifices",
+      "canonical_url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T18:29:48Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
