@@ -17451,6 +17451,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464370",
+      "title": "Every email is three emails in a trench coat",
+      "canonical_url": "https://buttondown.com/blog/plain-text-email",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:09:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
