@@ -18185,6 +18185,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50452742",
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+      "canonical_url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T18:44:06Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
