@@ -17711,6 +17711,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50452655",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "canonical_url": "https://nathan.rs/posts/weight-space-lp/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T18:30:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
