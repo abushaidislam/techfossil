@@ -16755,6 +16755,22 @@
         "sql",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5013651",
+      "title": "Google AI Classroom Part 6: Low-Bandwidth Classroom Screen Broadcasting & Single-Pass Whole-Lecture Subtitles with Gemini 4 Argon",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-6-low-bandwidth-classroom-screen-broadcasting-single-pass-whole-lecture-1k0l",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:27:06Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "cloud",
+        "serverless",
+        "ai"
+      ]
     }
   ]
 }
