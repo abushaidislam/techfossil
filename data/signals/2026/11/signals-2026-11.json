@@ -16801,6 +16801,22 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5015629",
+      "title": "Google AI Classroom Part 10: Green AI FinOps, Self-Cleaning Storage Lifecycles & 1-Command Terraform IaC for Multi-School Deployment",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-10-green-ai-finops-self-cleaning-storage-lifecycles-1-command-1fn",
+      "source": "dev_to",
+      "published_at": "2026-11-11T08:21:46Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "devops",
+        "ai",
+        "terraform"
+      ]
     }
   ]
 }
