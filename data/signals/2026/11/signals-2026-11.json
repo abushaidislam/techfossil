@@ -17795,6 +17795,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464790",
+      "title": "Google failing to label unofficial \"visa\" websites",
+      "canonical_url": "https://indicator.media/p/google-promised-to-label-ads-for-unofficial-visa-providers-it-s-doing-a-lousy-job-of-it",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T15:08:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
