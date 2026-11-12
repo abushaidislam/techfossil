@@ -18213,6 +18213,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463735",
+      "title": "Show HN: Gohawk – A Resource Leak and Concurrency Static Analyzer for Go",
+      "canonical_url": "https://gohawk.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:26:53Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "concurrency"
+      ]
     }
   ]
 }
