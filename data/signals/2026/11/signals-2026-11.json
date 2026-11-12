@@ -17364,6 +17364,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50422216",
+      "title": "Making the Iron Giant Live",
+      "canonical_url": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T13:26:45Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
