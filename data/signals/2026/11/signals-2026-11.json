@@ -16948,6 +16948,22 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5009354",
+      "title": "Google AI Classroom Part 4: Defeating Proxy Attendance & Lab Keyloggers with WebAuthn Passkeys, Rotating HMAC QRs & GCIP Blocking Functions",
+      "canonical_url": "https://dev.to/gde/google-ai-classroom-part-4-defeating-proxy-attendance-lab-keyloggers-with-webauthn-passkeys-2gc0",
+      "source": "dev_to",
+      "published_at": "2026-11-10T07:25:07Z",
+      "category": "Security & Privacy",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "security",
+        "ai",
+        "auth"
+      ]
     }
   ]
 }
