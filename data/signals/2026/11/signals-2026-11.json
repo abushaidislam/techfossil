@@ -18241,6 +18241,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50456791",
+      "title": "Gemini Decisions API",
+      "canonical_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T00:32:42Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "api"
+      ]
     }
   ]
 }
