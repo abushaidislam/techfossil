@@ -17006,6 +17006,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5006280",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "canonical_url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-432g",
+      "source": "dev_to",
+      "published_at": "2026-11-10T14:00:00Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
