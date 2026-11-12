@@ -17250,6 +17250,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464243",
+      "title": "Revisiting inferences of trustworthiness from moral judgments",
+      "canonical_url": "https://www.nature.com/articles/s41598-023-27943-3",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:52:03Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
