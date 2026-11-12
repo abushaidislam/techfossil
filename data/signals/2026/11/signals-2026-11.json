@@ -17780,6 +17780,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50414657",
+      "title": "A Compendium of Abandoned Greenhouses",
+      "canonical_url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "source": "hacker_news",
+      "published_at": "2026-11-08T22:30:04Z",
+      "category": "Software Engineering",
+      "importance_score": 72,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
