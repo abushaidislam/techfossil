@@ -17696,6 +17696,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50455394",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "canonical_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T22:38:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
