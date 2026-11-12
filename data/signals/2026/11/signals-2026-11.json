@@ -17278,6 +17278,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50436410",
+      "title": "Your TV can see through walls (2025)",
+      "canonical_url": "https://maurycyz.com/projects/fading/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T11:24:45Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
