@@ -17293,6 +17293,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50455811",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "canonical_url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T23:11:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
