@@ -17563,6 +17563,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50438435",
+      "title": "The tiny transmitter tracking monarch butterflies' migration, Canada to Mexico",
+      "canonical_url": "https://www.begiant.ca/stories/places/monarch-butterflies-tracking-conservation",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T16:41:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
