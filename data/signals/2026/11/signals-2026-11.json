@@ -16726,6 +16726,21 @@
         "ai",
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50439193",
+      "title": "AlphaProof Code",
+      "canonical_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T18:11:12Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
