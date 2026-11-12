@@ -17051,6 +17051,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5012097",
+      "title": "The Fastest LLM Call Is The One You Never Make",
+      "canonical_url": "https://dev.to/dailycontext/the-fastest-llm-call-is-the-one-you-never-make-34lo",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:37:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
