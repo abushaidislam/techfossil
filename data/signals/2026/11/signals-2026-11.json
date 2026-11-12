@@ -18373,6 +18373,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463835",
+      "title": "Show HN: Excel Inserter - Insert notes and screenshots into Microsoft Excel",
+      "canonical_url": "https://algolassi.online/products/excel-inserter/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:44:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
