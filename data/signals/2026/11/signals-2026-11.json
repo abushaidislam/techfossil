@@ -16845,6 +16845,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50449275",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "canonical_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T08:57:08Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
