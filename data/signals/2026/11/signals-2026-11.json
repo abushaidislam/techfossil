@@ -18101,6 +18101,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463856",
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "canonical_url": "https://alignment.anthropic.com/2026/worse-together/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:48:42Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance",
+        "agent"
+      ]
     }
   ]
 }
