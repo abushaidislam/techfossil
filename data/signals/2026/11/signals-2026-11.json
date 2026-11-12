@@ -18026,6 +18026,21 @@
         "agent",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464947",
+      "title": "Adobe Project Deep Brush",
+      "canonical_url": "https://labs.adobe.com/sneaks/deep-brush",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T15:27:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
