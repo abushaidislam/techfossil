@@ -17909,6 +17909,21 @@
       "technologies": [
         "vulnerability"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463688",
+      "title": "Show HN: Open-Source Audit of 1.58M Harvard Orbits and Vera Rubin Predictions",
+      "canonical_url": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:18:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
