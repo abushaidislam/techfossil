@@ -17608,6 +17608,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464098",
+      "title": "Why Did Palantir CEO Alex Karp Buy a Swedish Forest?",
+      "canonical_url": "https://www.lemonde.fr/en/international/article/2026/11/12/why-exactly-did-palantir-ceo-alex-karp-buy-a-swedish-forest_6778477_4.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:27:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
