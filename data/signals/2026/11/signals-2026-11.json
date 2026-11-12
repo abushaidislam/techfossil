@@ -17036,6 +17036,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464131",
+      "title": "Recursive Functions of Symbolic Expressions and Their Computation by Machine",
+      "canonical_url": "https://www-formal.stanford.edu/jmc/recursive/recursive.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T13:32:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
