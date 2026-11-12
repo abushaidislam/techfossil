@@ -17954,6 +17954,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50435240",
+      "title": "A Brief History of Sierra Online (2017)",
+      "canonical_url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T08:12:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
