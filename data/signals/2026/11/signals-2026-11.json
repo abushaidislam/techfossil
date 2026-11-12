@@ -16905,6 +16905,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50462590",
+      "title": "Show HN: Eyes-free spoken N-Back where you choose the words (single HTML file)",
+      "canonical_url": "https://vernetit.github.io/spoken-n-back/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T09:14:08Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html"
+      ]
     }
   ]
 }
