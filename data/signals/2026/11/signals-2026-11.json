@@ -17982,6 +17982,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50461743",
+      "title": "Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle",
+      "canonical_url": "https://litek8s.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T07:21:59Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "api",
+        "kubernetes"
+      ]
     }
   ]
 }
