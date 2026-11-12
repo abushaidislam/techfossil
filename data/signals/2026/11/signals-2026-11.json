@@ -18144,6 +18144,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463728",
+      "title": "AI is getting smarter. Are we thinking better?",
+      "canonical_url": "https://www.daybranch.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:25:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
