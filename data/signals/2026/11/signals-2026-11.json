@@ -18086,6 +18086,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463725",
+      "title": "Show HN: Minimal and self-hosted website monitoring",
+      "canonical_url": "https://github.com/tanin47/jping",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:24:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
