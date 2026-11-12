@@ -18529,6 +18529,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50435712",
+      "title": "Stingray Fish Laser",
+      "canonical_url": "https://www.stingray.no/en/technology/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T09:29:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
