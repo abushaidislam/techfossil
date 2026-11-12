@@ -17152,6 +17152,20 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5011075",
+      "title": "The AI Evals feedback loop runs both ways",
+      "canonical_url": "https://dev.to/quinnvention/the-ai-evals-feedback-loop-runs-both-ways-1pl3",
+      "source": "dev_to",
+      "published_at": "2026-11-10T21:36:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 84,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
