@@ -17754,6 +17754,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463388",
+      "title": "Show HN: Unglazed – paper-to-explainer-video tool that gets every detail",
+      "canonical_url": "https://github.com/ShadowKingYT444/unglazed",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:27:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
