@@ -18012,6 +18012,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50453637",
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "canonical_url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T20:10:46Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ui"
+      ]
     }
   ]
 }
