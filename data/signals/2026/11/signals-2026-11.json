@@ -16817,6 +16817,19 @@
         "ai",
         "terraform"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50441518",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "canonical_url": "https://tinyvalencia.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T21:12:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
