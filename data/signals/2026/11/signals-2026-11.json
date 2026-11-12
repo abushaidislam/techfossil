@@ -17823,6 +17823,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50464467",
+      "title": "Possible Futures",
+      "canonical_url": "https://borretti.me/article/possible-futures",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T14:21:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
