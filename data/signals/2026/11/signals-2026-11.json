@@ -17767,6 +17767,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50463898",
+      "title": "A Mad Max-style desert run built from nothing but (procedural) code",
+      "canonical_url": "https://webgpu.com/showcase/maad-maxxing-procedural-webgpu-threejs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:52:41Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
