@@ -18514,6 +18514,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50455031",
+      "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
+      "canonical_url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T22:08:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
