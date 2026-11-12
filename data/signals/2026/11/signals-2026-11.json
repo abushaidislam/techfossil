@@ -17306,6 +17306,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1112-hn-50453368",
+      "title": "CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers",
+      "canonical_url": "https://httpd.apache.org/security/vulnerabilities_24.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T19:47:26Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cve"
+      ]
     }
   ]
 }
