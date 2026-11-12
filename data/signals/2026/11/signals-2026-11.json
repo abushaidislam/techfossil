@@ -17096,6 +17096,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1112-dev-5018514",
+      "title": "Use your eval as a CI gate with Agents CLI",
+      "canonical_url": "https://dev.to/googlecloud/use-your-eval-as-a-ci-gate-with-agents-cli-1ha1",
+      "source": "dev_to",
+      "published_at": "2026-11-11T18:15:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
