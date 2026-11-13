@@ -19034,6 +19034,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50471761",
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "canonical_url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T00:22:22Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres"
+      ]
     }
   ]
 }
