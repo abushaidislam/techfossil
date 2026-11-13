@@ -19388,6 +19388,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476559",
+      "title": "Show HN: Frankaa – zero-dependency gallery where a swipe drives a WebGL shader",
+      "canonical_url": "https://jabclari.github.io/frankaa/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:36:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
