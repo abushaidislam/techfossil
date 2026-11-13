@@ -19663,6 +19663,20 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477335",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:28:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
