@@ -20620,6 +20620,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487126",
+      "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+      "canonical_url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:52:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
