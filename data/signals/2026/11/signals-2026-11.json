@@ -19060,6 +19060,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50468687",
+      "title": "Roadside investigations of psyllids, ants and eucs",
+      "canonical_url": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T21:13:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
