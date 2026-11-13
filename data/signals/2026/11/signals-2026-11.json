@@ -20241,6 +20241,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50486745",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "canonical_url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:29:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
