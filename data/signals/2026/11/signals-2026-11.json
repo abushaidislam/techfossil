@@ -18674,6 +18674,21 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477331",
+      "title": "Africa's solar revolution is vast and speedy",
+      "canonical_url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:28:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
