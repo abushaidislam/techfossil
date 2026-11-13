@@ -19333,6 +19333,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50475924",
+      "title": "AI and Virtual Reality Enter the Therapist's Office",
+      "canonical_url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:29:53Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ai"
+      ]
     }
   ]
 }
