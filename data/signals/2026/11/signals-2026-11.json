@@ -20923,6 +20923,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487797",
+      "title": "Show HN: Arcstone-Airlock-Blueprint – Offline Charon/Aeneas/Coq for Rust",
+      "canonical_url": "https://github.com/trencinodin-stack/arcstone-airlock-blueprint",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:35:26Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
