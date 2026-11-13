@@ -18920,6 +18920,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50475752",
+      "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
+      "canonical_url": "https://mirendil.com/news/series-a/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:10:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
