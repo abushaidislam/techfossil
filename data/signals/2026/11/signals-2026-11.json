@@ -20735,6 +20735,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486320",
+      "title": "What Is Quantum Computing",
+      "canonical_url": "https://www.makingsoftware.com/chapters/quantum-computing",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:59:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
