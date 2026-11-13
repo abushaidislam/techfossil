@@ -20040,6 +20040,22 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-4990908",
+      "title": "From Prompt to Production: Building a Serverless Cloud Pipeline with Google Antigravity",
+      "canonical_url": "https://dev.to/gdg/from-prompt-to-production-building-a-serverless-cloud-pipeline-with-google-antigravity-264l",
+      "source": "dev_to",
+      "published_at": "2026-11-13T12:39:27Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 87,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ui",
+        "ai",
+        "serverless"
+      ]
     }
   ]
 }
