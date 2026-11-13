@@ -20937,6 +20937,21 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50488513",
+      "title": "Show HN: The Price of Patience",
+      "canonical_url": "https://github.com/konarkmodi/pi-doubleword",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:28:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
