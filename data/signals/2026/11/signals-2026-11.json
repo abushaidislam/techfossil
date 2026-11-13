@@ -20881,6 +20881,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50488351",
+      "title": "Nvidia looks for successor after exit of CEO Jensen Huang, shake the AI industry",
+      "canonical_url": "https://news.northeastern.edu/2026/11/12/jensen-huang-resigns-nvidia-successor/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:15:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
