@@ -20438,6 +20438,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-dev-5031100",
+      "title": "Scope WebMCP Tools to the Open React Workflow",
+      "canonical_url": "https://dev.to/gde/scope-webmcp-tools-to-the-open-react-workflow-262o",
+      "source": "dev_to",
+      "published_at": "2026-11-13T17:15:20Z",
+      "category": "Frontend & UI",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "react",
+        "typescript"
+      ]
     }
   ]
 }
