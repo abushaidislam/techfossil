@@ -19362,6 +19362,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476015",
+      "title": "Show HN: Survive Thanksgiving dinner – a voice game against nosy relatives",
+      "canonical_url": "https://survivedinner.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:39:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
