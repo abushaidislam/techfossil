@@ -19987,6 +19987,20 @@
       "technologies": [
         "distributed"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "canonical_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T03:24:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
