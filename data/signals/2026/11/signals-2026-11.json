@@ -19305,6 +19305,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477924",
+      "title": "Making nuclear fusion in your kitchen",
+      "canonical_url": "https://hudzah.substack.com/p/making-nuclear-fusion-in-your-kitchen",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:39:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
