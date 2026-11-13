@@ -20980,6 +20980,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487854",
+      "title": "The avalanche that hit math is coming for AI development",
+      "canonical_url": "https://www.dwarkesh.com/p/rsi",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:39:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
