@@ -20993,6 +20993,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487185",
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "canonical_url": "https://haddyalchaer.com/jepa",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:55:28Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
