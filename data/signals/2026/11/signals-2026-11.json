@@ -19205,6 +19205,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477506",
+      "title": "Doubling LLM token rates in ComfyUI",
+      "canonical_url": "https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:52:50Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "llm"
+      ]
     }
   ]
 }
