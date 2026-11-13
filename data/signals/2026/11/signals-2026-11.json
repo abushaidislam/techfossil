@@ -20127,6 +20127,19 @@
         "agent",
         "devops"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50485832",
+      "title": "Zero Data Retention Was in the Contract. Why Did Notion AI Chats Remain Stored?",
+      "canonical_url": "https://inclinq.medium.com/zero-data-retention-was-in-the-contract-why-did-notion-ai-chats-remain-stored-d20a84723787",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:26:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
