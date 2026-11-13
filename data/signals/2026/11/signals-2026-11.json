@@ -20866,6 +20866,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50478609",
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "canonical_url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T11:08:23Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
