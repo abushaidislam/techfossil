@@ -21077,6 +21077,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50468944",
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "canonical_url": "https://github.com/chocoford/ExcalidrawZ",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T21:25:52Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
