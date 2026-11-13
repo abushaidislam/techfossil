@@ -19735,6 +19735,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50456631",
+      "title": "AWS emulator",
+      "canonical_url": "https://github.com/aws/aws-emulator",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T00:21:38Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "aws"
+      ]
     }
   ]
 }
