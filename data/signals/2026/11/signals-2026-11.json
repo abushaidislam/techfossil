@@ -19433,6 +19433,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50454700",
+      "title": "Before Pixels: Speed-Minder",
+      "canonical_url": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T21:40:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
