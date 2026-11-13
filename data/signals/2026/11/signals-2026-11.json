@@ -18962,6 +18962,19 @@
         "claude",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476597",
+      "title": "I asked Claude Fable 5.2 to turn my site into a 90s Silicon Graphics workstation",
+      "canonical_url": "https://gregorywieber.com/indy/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:40:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
