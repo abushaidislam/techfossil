@@ -19290,6 +19290,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50474643",
+      "title": "PCMag demands $12000 to link to an article",
+      "canonical_url": "https://twitter.com/rickbrewPDN/status/2120970541331050926",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T03:36:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
