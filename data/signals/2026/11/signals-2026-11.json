@@ -19320,6 +19320,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476561",
+      "title": "The Nvidia AI GPU Black Market (2025)",
+      "canonical_url": "https://www.youtube.com/watch?v=1H3xQaf7BFI",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:37:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
