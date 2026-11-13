@@ -20780,6 +20780,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50482661",
+      "title": "AI agents have a big problem: Nobody wants to let them in",
+      "canonical_url": "https://www.pcworld.com/article/3283946/ai-agents-have-a-big-problem-nobody-wants-to-let-them-in.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T18:37:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
