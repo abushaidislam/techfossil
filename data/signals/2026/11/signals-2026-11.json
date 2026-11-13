@@ -18862,6 +18862,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476231",
+      "title": "The Fundamental Flaw in the Race to AGI",
+      "canonical_url": "https://project507.substack.com/p/the-fundamental-flaw-in-the-race",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:00:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
