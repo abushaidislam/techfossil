@@ -18877,6 +18877,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50474926",
+      "title": "Librem 5 v2: A phone that frees us all",
+      "canonical_url": "https://puri.sm/librem-5-v2-crowdfunding-campaign/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T03:59:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
