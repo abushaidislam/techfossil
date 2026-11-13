@@ -20312,6 +20312,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50475713",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "canonical_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:06:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
