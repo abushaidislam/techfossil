@@ -18991,6 +18991,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50459508",
+      "title": "Words of warning about radiocarbon dating medieval human bones",
+      "canonical_url": "https://www.nature.com/articles/s40494-026-02958-x",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T04:18:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
