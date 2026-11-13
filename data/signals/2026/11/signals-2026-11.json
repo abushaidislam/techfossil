@@ -19149,6 +19149,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50449748",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "canonical_url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T10:28:57Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
