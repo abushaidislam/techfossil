@@ -18762,6 +18762,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5019341",
+      "title": "Can you merge at agent speed?",
+      "canonical_url": "https://blog.mlh.com/can-you-merge-at-agent-speed-4m67",
+      "source": "dev_to",
+      "published_at": "2026-11-12T17:40:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
