@@ -19791,6 +19791,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477555",
+      "title": "Show HN: Woolly – Take your ChatGPT memory with you, local and open source",
+      "canonical_url": "https://github.com/rjcuff/woolly",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:56:57Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "gpt"
+      ]
     }
   ]
 }
