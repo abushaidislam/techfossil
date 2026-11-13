@@ -19707,6 +19707,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477949",
+      "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke",
+      "canonical_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:42:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
