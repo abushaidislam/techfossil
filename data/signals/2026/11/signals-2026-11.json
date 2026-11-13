@@ -18933,6 +18933,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5012100",
+      "title": "The Rise of the Agentic Server",
+      "canonical_url": "https://dev.to/dailycontext/the-rise-of-the-agentic-server-503g",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:59:51Z",
+      "category": "Security & Privacy",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
