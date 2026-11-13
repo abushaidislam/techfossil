@@ -18614,6 +18614,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476069",
+      "title": "Adding RSA Support to swift-nio-ssh",
+      "canonical_url": "https://lograker.app/blog/swift-nio-ssh-rsa-support",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:44:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
