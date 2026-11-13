@@ -19403,6 +19403,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50474106",
+      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+      "canonical_url": "https://github.com/cerulion-inc/cerulion",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T02:53:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
