@@ -20661,6 +20661,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50484044",
+      "title": "CVE-2026-6460 – Arbitrary Code Execution in Postgres",
+      "canonical_url": "https://www.postgresql.org/support/security/CVE-2026-6460/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:30:46Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "postgres",
+        "cve"
+      ]
     }
   ]
 }
