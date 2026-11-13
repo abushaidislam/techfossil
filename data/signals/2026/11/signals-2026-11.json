@@ -19275,6 +19275,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477772",
+      "title": "State of the tech job market: late 2026",
+      "canonical_url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:21:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
