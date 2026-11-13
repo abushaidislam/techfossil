@@ -20565,6 +20565,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486088",
+      "title": "LangChain Raises $300M to Enable Every Company to Own Its Intelligence",
+      "canonical_url": "https://www.langchain.com/blog/series-c",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:44:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
