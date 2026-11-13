@@ -19262,6 +19262,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50470488",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "canonical_url": "https://github.com/simpsoka/zigzag",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T23:02:42Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
