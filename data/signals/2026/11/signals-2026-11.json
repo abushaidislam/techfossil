@@ -20823,6 +20823,19 @@
         "security",
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487438",
+      "title": "The true fragility of the semiconductor supply chain",
+      "canonical_url": "https://haddyalchaer.com/supply-chain",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:12:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
