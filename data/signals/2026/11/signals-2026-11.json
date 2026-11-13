@@ -18586,6 +18586,20 @@
         "cloud",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5024559",
+      "title": "Nvidia Says Its Roadmap Will Continue. AI Teams Should Verify the Dependencies",
+      "canonical_url": "https://dev.to/jamilxt/nvidia-says-its-roadmap-will-continue-ai-teams-should-verify-the-dependencies-3c8d",
+      "source": "dev_to",
+      "published_at": "2026-11-12T16:23:45Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "devops",
+        "ai"
+      ]
     }
   ]
 }
