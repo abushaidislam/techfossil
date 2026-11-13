@@ -18804,6 +18804,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5024286",
+      "title": "Long Live Rails",
+      "canonical_url": "https://dev.to/ben/long-live-rails-3p21",
+      "source": "dev_to",
+      "published_at": "2026-11-12T15:30:50Z",
+      "category": "Backend & APIs",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
