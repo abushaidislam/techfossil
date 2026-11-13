@@ -19863,6 +19863,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476701",
+      "title": "Don't Go Monolithic; the Agent Stack Is Stratifying",
+      "canonical_url": "https://philippdubach.com/posts/dont-go-monolithic-the-agent-stack-is-stratifying/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:53:24Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
