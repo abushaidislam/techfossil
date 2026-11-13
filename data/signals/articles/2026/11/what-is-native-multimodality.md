@@ -1,6 +1,6 @@
 # ️🎞️ What is native multimodality?
 
-- **Signal ID:** `sig-2026-1113-dev-5025826`
+- **Signal ID:** `sig-2026-1114-dev-5025826`
 - **Source:** `dev_to`
 - **Category:** AI & Machine Learning
 - **Published:** 2026-11-13T10:00:19Z
@@ -12,4 +12,4 @@
 🍿 Just a moment #01    Did you know there are three tokenizers involved when Gemini...
 
 ---
-*Archived by TechFossil Live Ingestion Daemon on 2026-11-13 23:48:44 UTC*
+*Archived by TechFossil Live Ingestion Daemon on 2026-11-14 00:12:11 UTC*

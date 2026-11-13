@@ -20452,6 +20452,19 @@
         "react",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1114-dev-5025826",
+      "title": "️🎞️ What is native multimodality?",
+      "canonical_url": "https://dev.to/googlecloud/what-is-native-multimodality-3091",
+      "source": "dev_to",
+      "published_at": "2026-11-13T10:00:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
