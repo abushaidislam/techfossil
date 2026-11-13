@@ -19463,6 +19463,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50463899",
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+      "canonical_url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T12:52:48Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
