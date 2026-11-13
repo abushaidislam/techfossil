@@ -19805,6 +19805,21 @@
         "memory",
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476752",
+      "title": "Yang–Mills Made Visible",
+      "canonical_url": "https://alexisdpc.github.io/yang-mills/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T07:02:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
