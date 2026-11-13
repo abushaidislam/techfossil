@@ -21064,6 +21064,19 @@
         "security",
         "cve"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50471650",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "canonical_url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T00:15:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
