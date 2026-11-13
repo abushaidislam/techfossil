@@ -20183,6 +20183,19 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5019892",
+      "title": "Six Serving Engines on Four Accelerators: Gemma 4 E2B on an RTX 3050, a T4, an L4 and a TPU v5e",
+      "canonical_url": "https://dev.to/gde/six-serving-engines-on-four-accelerators-gemma-4-e2b-on-an-rtx-3050-a-t4-an-l4-and-a-tpu-v5e-1a0e",
+      "source": "dev_to",
+      "published_at": "2026-11-13T13:52:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
