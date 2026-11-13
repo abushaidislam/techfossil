@@ -20480,6 +20480,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50474959",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "canonical_url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T04:03:09Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai"
+      ]
     }
   ]
 }
