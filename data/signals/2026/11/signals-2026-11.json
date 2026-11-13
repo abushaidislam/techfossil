@@ -19902,6 +19902,19 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50484443",
+      "title": "Show HN: Harness Tuner – eval-driven tuning loop for agent tools, prompts, model",
+      "canonical_url": "https://github.com/Kiln-AI/harness-tuner",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:54:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
