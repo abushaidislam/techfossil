@@ -19620,6 +19620,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50459485",
+      "title": "Lock Your GitHub Actions",
+      "canonical_url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T04:16:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
