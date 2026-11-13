@@ -19607,6 +19607,19 @@
         "linux",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50441350",
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "canonical_url": "https://aircad.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T21:01:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
