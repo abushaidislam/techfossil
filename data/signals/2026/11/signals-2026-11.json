@@ -20424,6 +20424,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-dev-5025287",
+      "title": "Refactor or Rot: Designing a Self-Improving Codebase",
+      "canonical_url": "https://dev.to/jacob_prall_1c6bff06b0e0d/refactor-or-rot-designing-a-self-improving-codebase-22ak",
+      "source": "dev_to",
+      "published_at": "2026-11-12T20:40:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
