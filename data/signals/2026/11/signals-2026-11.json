@@ -19476,6 +19476,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476551",
+      "title": "Machines of Loving Export Controls",
+      "canonical_url": "https://mercuriusdream.com/loving-controls/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:36:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
