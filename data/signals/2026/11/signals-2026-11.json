@@ -20284,6 +20284,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5025610",
+      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
+      "canonical_url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
+      "source": "dev_to",
+      "published_at": "2026-11-13T15:56:26Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
