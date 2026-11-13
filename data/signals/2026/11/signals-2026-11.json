@@ -19959,6 +19959,21 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5024653",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "canonical_url": "https://dev.to/ricmac/the-jev-revolution-what-engineers-are-already-building-with-system-one-models-12p3",
+      "source": "dev_to",
+      "published_at": "2026-11-12T16:59:45Z",
+      "category": "Frontend & UI",
+      "importance_score": 82,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
