@@ -18848,6 +18848,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5025516",
+      "title": "Prompt Pad: What Are Tokens?",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-what-are-tokens-gec",
+      "source": "dev_to",
+      "published_at": "2026-11-12T20:34:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
