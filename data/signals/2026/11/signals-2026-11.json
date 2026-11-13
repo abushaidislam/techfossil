@@ -20633,6 +20633,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50485926",
+      "title": "NASA veteran's propellantless drive claim awaits independent verification",
+      "canonical_url": "https://www.popularmechanics.com/science/a74399234/nasa-veteran-says-drive-needs-no-propellant-survived-independent-test/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:33:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
