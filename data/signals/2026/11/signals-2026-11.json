@@ -21050,6 +21050,20 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487605",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "canonical_url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:23:49Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "cve"
+      ]
     }
   ]
 }
