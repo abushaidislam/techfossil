@@ -19722,6 +19722,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50443716",
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "canonical_url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T23:55:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
