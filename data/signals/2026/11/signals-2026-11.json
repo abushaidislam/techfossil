@@ -20705,6 +20705,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50484496",
+      "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+      "canonical_url": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:58:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
