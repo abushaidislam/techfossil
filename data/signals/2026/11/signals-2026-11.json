@@ -18948,6 +18948,20 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5020733",
+      "title": "Ultimate AI Roast! 😂😹",
+      "canonical_url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
+      "source": "dev_to",
+      "published_at": "2026-11-12T04:55:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
