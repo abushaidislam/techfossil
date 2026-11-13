@@ -21022,6 +21022,21 @@
         "security",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50483391",
+      "title": "The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T19:45:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
