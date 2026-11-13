@@ -18975,6 +18975,22 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5019869",
+      "title": "Fast multimodal control flow with the Gemini Decisions API",
+      "canonical_url": "https://dev.to/philschmid/fast-multimodal-control-flow-with-the-gemini-decisions-api-533b",
+      "source": "dev_to",
+      "published_at": "2026-11-12T01:00:57Z",
+      "category": "Backend & APIs",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "llm",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
