@@ -20155,6 +20155,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50486402",
+      "title": "Show HN: Earshot – live, on-device transcription of any app on your Mac",
+      "canonical_url": "https://github.com/Bouliw/earshot",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:05:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
