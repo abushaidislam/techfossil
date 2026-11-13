@@ -19930,6 +19930,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5019530",
+      "title": "AI Coding Agents Need to Keep Their Promises",
+      "canonical_url": "https://dev.to/jmccarthy/ai-coding-agents-need-to-keep-their-promises-2nhh",
+      "source": "dev_to",
+      "published_at": "2026-11-12T16:59:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
