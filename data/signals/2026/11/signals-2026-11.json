@@ -19347,6 +19347,21 @@
         "api",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477980",
+      "title": "Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)",
+      "canonical_url": "https://huggingface.co/Octen/Octen-WebGR-4B",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:45:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
