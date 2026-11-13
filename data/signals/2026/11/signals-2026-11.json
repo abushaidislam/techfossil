@@ -20381,6 +20381,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50483872",
+      "title": "OK who just made $200M shorting Nvidia ahead of Jensxit?",
+      "canonical_url": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:19:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
