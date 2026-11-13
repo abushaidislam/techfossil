@@ -20211,6 +20211,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5012113",
+      "title": "AI Has Changed the Economics of Hacking: What Changes for Businesses After Black October",
+      "canonical_url": "https://dev.to/dailycontext/ai-has-changed-the-economics-of-hacking-what-changes-for-businesses-after-black-october-5h4c",
+      "source": "dev_to",
+      "published_at": "2026-11-12T21:46:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "ai",
+        "devops"
+      ]
     }
   ]
 }
