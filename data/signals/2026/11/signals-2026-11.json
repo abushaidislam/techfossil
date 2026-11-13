@@ -20113,6 +20113,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5025278",
+      "title": "Keeping a software factory stable at 1,000 PRs a week",
+      "canonical_url": "https://dev.to/dailycontext/keeping-a-software-factory-stable-at-1000-prs-a-week-363j",
+      "source": "dev_to",
+      "published_at": "2026-11-12T20:46:34Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 82,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "devops"
+      ]
     }
   ]
 }
