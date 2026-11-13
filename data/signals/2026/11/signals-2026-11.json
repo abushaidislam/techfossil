@@ -18658,6 +18658,22 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5012112",
+      "title": "Your Agent Needs a Schema, Not a Better Prompt",
+      "canonical_url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
+      "source": "dev_to",
+      "published_at": "2026-11-11T20:51:14Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "llm",
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
