@@ -19177,6 +19177,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50436363",
+      "title": "Decoding REXPaint Files in Odin",
+      "canonical_url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T11:18:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
