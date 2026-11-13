@@ -19820,6 +19820,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476792",
+      "title": "Claude designed FPGA scaler board for 6th-gen consoles",
+      "canonical_url": "https://github.com/bryfur/tang-av-scaler",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T07:09:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
