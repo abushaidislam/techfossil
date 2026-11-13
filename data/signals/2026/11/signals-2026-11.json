@@ -19505,6 +19505,19 @@
         "kernel",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50467880",
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "canonical_url": "https://yourairedlines.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T20:31:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
