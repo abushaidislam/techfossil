@@ -19677,6 +19677,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50475982",
+      "title": "Show HN: Agentview Chat – a chat UI for Claude Code background sessions",
+      "canonical_url": "https://github.com/clumsy-ug/agentview-chat",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:36:09Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "claude",
+        "ui"
+      ]
     }
   ]
 }
