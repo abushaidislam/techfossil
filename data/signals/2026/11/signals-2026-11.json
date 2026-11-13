@@ -20396,6 +20396,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50485858",
+      "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
+      "canonical_url": "https://slack.engineering/proactive-measures-against-password-breaches-and-cookie-hijacking/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:28:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
