@@ -20509,6 +20509,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486882",
+      "title": "Starship Flight 15: A Vignette in Omasheet",
+      "canonical_url": "https://omasheet.org/blog/starship-flight15/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:37:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
