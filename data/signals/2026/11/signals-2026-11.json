@@ -20256,6 +20256,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50485525",
+      "title": "Firefox's free built-in VPN uncaps data limit through January 2027",
+      "canonical_url": "https://blog.mozilla.org/en/firefox/built-in-vpn-unlimited-data/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:05:03Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
