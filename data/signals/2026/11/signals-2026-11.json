@@ -19448,6 +19448,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50437790",
+      "title": "Queens Public Library under ransomware attack",
+      "canonical_url": "https://connect.queenslibrary.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T15:04:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
