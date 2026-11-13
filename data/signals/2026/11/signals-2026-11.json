@@ -19219,6 +19219,19 @@
         "ui",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50461919",
+      "title": "A2UI 1.0",
+      "canonical_url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T07:42:01Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
