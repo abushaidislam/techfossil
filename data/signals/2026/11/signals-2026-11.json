@@ -21092,6 +21092,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50488769",
+      "title": "No AI Slop: A Manifesto",
+      "canonical_url": "https://www.slopmanifesto.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:51:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
