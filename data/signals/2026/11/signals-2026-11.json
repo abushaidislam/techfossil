@@ -21037,6 +21037,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487399",
+      "title": "Cyber Insecurity: The Cost of Monopoly [pdf] [2003]",
+      "canonical_url": "https://web.archive.org/web/20030926024100/https://ccianet.org/papers/cyberinsecurity.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:09:31Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
