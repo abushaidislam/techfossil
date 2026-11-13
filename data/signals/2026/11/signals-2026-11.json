@@ -19047,6 +19047,19 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50472506",
+      "title": "Vibes Don't Maintain",
+      "canonical_url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T01:06:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
