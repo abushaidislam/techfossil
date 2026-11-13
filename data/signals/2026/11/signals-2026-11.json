@@ -19889,6 +19889,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50466410",
+      "title": "Adapting CPython for Yk",
+      "canonical_url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T18:51:38Z",
+      "category": "Backend & APIs",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
