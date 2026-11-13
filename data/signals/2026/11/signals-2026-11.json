@@ -20578,6 +20578,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486368",
+      "title": "Bootstrapping: First public demo of my \"cloud devboxes for agents\" product [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=d8-HvYyh6q4",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:02:43Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "cloud"
+      ]
     }
   ]
 }
