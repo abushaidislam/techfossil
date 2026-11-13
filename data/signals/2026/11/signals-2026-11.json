@@ -20894,6 +20894,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487184",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "canonical_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:55:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "openai",
+        "ai"
+      ]
     }
   ]
 }
