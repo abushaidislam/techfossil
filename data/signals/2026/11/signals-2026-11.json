@@ -19635,6 +19635,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50457618",
+      "title": "The Utah Teapot",
+      "canonical_url": "https://graphics.cs.utah.edu/teapot/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T01:45:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
