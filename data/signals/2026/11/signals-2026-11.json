@@ -20465,6 +20465,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487442",
+      "title": "Show HN: CtxWise – Stop 8MB MCP crashes, schema bloat, and cache misses",
+      "canonical_url": "https://github.com/FramY2/ctxwise",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:12:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
