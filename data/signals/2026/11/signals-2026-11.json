@@ -20056,6 +20056,21 @@
         "ai",
         "serverless"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50485461",
+      "title": "Yes you can measure engineering",
+      "canonical_url": "https://www.rubick.com/valuesum-metric/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:01:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
