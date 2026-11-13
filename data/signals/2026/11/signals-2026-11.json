@@ -19650,6 +19650,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477800",
+      "title": "Mythos got Claude running on AMD chips in three days, a job that took months",
+      "canonical_url": "https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:24:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
