@@ -20809,6 +20809,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487661",
+      "title": "LibreWolf: A custom version of Firefox, focused on privacy, security and freedom",
+      "canonical_url": "https://librewolf.net/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:27:25Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "privacy"
+      ]
     }
   ]
 }
