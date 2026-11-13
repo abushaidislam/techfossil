@@ -20494,6 +20494,21 @@
         "cloud",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50471281",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "canonical_url": "https://news.ycombinator.com/item?id=50471281",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T23:51:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
