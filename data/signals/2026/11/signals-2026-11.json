@@ -19578,6 +19578,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476442",
+      "title": "Structured Home Directory Layout",
+      "canonical_url": "https://chen.cat/unix/home/#home-directory-layout",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:23:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
