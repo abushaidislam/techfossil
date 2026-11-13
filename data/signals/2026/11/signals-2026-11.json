@@ -18644,6 +18644,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5012108",
+      "title": "When Is an AI Rewrite Finished?",
+      "canonical_url": "https://dev.to/dailycontext/when-is-an-ai-rewrite-finished-4ged",
+      "source": "dev_to",
+      "published_at": "2026-11-11T02:16:58Z",
+      "category": "Backend & APIs",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
