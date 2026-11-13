@@ -19763,6 +19763,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476219",
+      "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+      "canonical_url": "https://axiomstory.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:59:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
