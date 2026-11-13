@@ -19974,6 +19974,19 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50472505",
+      "title": "Distributed Ray Tracer",
+      "canonical_url": "https://ray.hatchet.run",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T01:06:23Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "distributed"
+      ]
     }
   ]
 }
