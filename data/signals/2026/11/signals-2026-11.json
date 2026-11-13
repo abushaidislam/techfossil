@@ -20196,6 +20196,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50453763",
+      "title": "Pharo in the Browser with WebAssembly",
+      "canonical_url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T20:21:27Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
