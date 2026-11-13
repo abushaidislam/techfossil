@@ -20170,6 +20170,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50486387",
+      "title": "Claude Is Superhuman at Translating Poetry Now",
+      "canonical_url": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:04:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
