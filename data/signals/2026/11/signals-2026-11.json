@@ -20226,6 +20226,21 @@
         "ai",
         "devops"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50486978",
+      "title": "354 dark web vendors and buyers arrested in Europol-coordinated global crackdown",
+      "canonical_url": "https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:42:19Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
