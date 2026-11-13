@@ -18776,6 +18776,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50475722",
+      "title": "5QL: Reflective Declarative Prompting",
+      "canonical_url": "https://fiveql.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:07:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
