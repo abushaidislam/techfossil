@@ -20851,6 +20851,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50465352",
+      "title": "Writing correct software is hard and math alone won’t help us (2016)",
+      "canonical_url": "https://pron.github.io/posts/correctness-and-complexity",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T16:28:26Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
