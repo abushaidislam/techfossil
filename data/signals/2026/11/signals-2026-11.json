@@ -20027,6 +20027,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50474883",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "canonical_url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T03:56:11Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
