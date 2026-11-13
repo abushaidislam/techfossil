@@ -20100,6 +20100,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50459745",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "canonical_url": "https://www.mcmillen.dev/sigbovik/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T04:34:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
