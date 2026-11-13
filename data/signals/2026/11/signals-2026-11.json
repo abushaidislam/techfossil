@@ -20524,6 +20524,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50485731",
+      "title": "Transcript Testing: Helping Humans Verify AI Code",
+      "canonical_url": "https://andrew.nerdnetworks.org/blog/2026/11/13/transcript-testing/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:20:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
