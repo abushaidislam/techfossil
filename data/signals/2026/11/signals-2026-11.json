@@ -20071,6 +20071,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50485318",
+      "title": "MS Office alternative Euro-Office gets Windows, macOS, and Linux desktop app",
+      "canonical_url": "https://www.neowin.net/news/microsoft-office-alternative-euro-office-gets-windows-macos-and-linux-desktop-app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T21:52:52Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
