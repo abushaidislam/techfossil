@@ -19491,6 +19491,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50450007",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "canonical_url": "https://github.com/gmkurtzer/ginux",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T11:25:54Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel",
+        "ux"
+      ]
     }
   ]
 }
