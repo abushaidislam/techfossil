@@ -20765,6 +20765,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487837",
+      "title": "Star Wars 50th Anniversary: Disney and Lucasfilm Announce 2027 Celebration",
+      "canonical_url": "https://thewaltdisneycompany.com/news/star-wars-50th-anniversary-celebration/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:38:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
