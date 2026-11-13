@@ -20794,6 +20794,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487240",
+      "title": "Show HN: Lore, ADRs you can ask questions to (local hybrid search + MCP)",
+      "canonical_url": "https://github.com/EreoTorres/lore-cli",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:59:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
