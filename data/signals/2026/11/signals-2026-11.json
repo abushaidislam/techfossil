@@ -18629,6 +18629,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476163",
+      "title": "Is Lake Transactional/Analytical Processing (LTAP) Just CDC?",
+      "canonical_url": "https://www.databricks.com/blog/dispelling-ltap-myths",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:54:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
