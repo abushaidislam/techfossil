@@ -19090,6 +19090,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476085",
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "canonical_url": "https://www.msn.com/en-us/money/markets/microsoft-outage-hits-outlook-aws-and-google-users-also-report-issues/ar-AA2hjjWA",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:46:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
