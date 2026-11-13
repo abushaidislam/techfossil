@@ -19418,6 +19418,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476238",
+      "title": "Show HN: TreasuryFlow, an overnight bank-vs-books check for small businesses",
+      "canonical_url": "https://app.treasuryflow.ai/portal?demo=true&vertical=landscape&utm_source=hn&utm_medium=show-hn&utm_campaign=launch-1112",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:00:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
