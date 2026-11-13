@@ -19748,6 +19748,21 @@
       "technologies": [
         "aws"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477282",
+      "title": "Odog.net – Criminal Enterprise [pdf]",
+      "canonical_url": "https://vault.fbi.gov/odog-criminal-enterprise/odog-criminal-enterprise-final/view",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:22:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
