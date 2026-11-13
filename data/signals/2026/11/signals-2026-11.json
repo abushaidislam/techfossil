@@ -18716,6 +18716,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50467305",
+      "title": "Electric ship batteries promise compact, cooler power",
+      "canonical_url": "https://spectrum.ieee.org/electric-ship-batteries",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T20:06:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
