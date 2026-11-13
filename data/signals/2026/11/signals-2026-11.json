@@ -19247,6 +19247,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50477231",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "canonical_url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T08:16:24Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
