@@ -20368,6 +20368,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-dev-5025639",
+      "title": "Make the most of your hackathon",
+      "canonical_url": "https://dev.to/thisisryanswift/make-the-most-of-your-hackathon-3914",
+      "source": "dev_to",
+      "published_at": "2026-11-12T21:44:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
