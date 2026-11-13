@@ -20607,6 +20607,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50487341",
+      "title": "Scientists Discover First New Penguin Species in More Than 100 Years",
+      "canonical_url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:06:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
