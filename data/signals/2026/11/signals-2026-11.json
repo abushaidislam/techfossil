@@ -19190,6 +19190,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476498",
+      "title": "Alice Huang, tied to Nvidia CEO, was barred from re-entering Singapore since Feb",
+      "canonical_url": "https://www.asiaone.com/singapore/alice-huang-entry-ban-nvidia-megaspeed",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:30:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
