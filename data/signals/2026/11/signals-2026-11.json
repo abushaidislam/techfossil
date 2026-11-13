@@ -19876,6 +19876,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50486376",
+      "title": "Show HN: Pharon – security incident alerts for your whole stack",
+      "canonical_url": "https://getpharon.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:03:23Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
