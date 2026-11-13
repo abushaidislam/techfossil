@@ -18689,6 +18689,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5012109",
+      "title": "When the Coding Agent Says It Is Done",
+      "canonical_url": "https://dev.to/dailycontext/when-the-coding-agent-says-it-is-done-4mjj",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:51:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
