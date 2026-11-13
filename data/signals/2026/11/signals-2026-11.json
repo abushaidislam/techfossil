@@ -19944,6 +19944,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1113-dev-5007377",
+      "title": "The Harness Doesn't Matter",
+      "canonical_url": "https://dev.to/kartik_sarangmath/the-harness-doesnt-matter-4ggb",
+      "source": "dev_to",
+      "published_at": "2026-11-12T17:09:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 80,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
