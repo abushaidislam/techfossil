@@ -20908,6 +20908,21 @@
         "openai",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486833",
+      "title": "Turning Compute into Data",
+      "canonical_url": "https://substratemag.com/turning-compute-into-data/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:34:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
