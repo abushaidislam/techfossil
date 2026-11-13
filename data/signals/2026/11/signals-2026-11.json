@@ -20409,6 +20409,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50485326",
+      "title": "Lumafield – Foldable Phones",
+      "canonical_url": "https://www.lumafield.com/scan-of-the-month/foldable-phones",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T21:53:07Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
