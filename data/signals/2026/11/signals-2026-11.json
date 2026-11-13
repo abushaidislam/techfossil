@@ -18892,6 +18892,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476040",
+      "title": "Kids and Parents Are Protesting Google's Classroom AI",
+      "canonical_url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:41:14Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
