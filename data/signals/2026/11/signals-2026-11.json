@@ -20340,6 +20340,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-dev-5018863",
+      "title": "Why We Built an MCP Server for AI Founders’ Go to Market",
+      "canonical_url": "https://dev.to/tedcarstensen/why-we-built-an-mcp-server-for-ai-founders-go-to-market-4hge",
+      "source": "dev_to",
+      "published_at": "2026-11-12T16:59:44Z",
+      "category": "Frontend & UI",
+      "importance_score": 82,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
