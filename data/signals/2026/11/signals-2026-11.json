@@ -19021,6 +19021,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476586",
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "canonical_url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:38:41Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
