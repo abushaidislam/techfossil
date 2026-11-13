@@ -19593,6 +19593,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476337",
+      "title": "Show HN: As IrfanView isn't on Linux, I've vibe-coded my own image viewer",
+      "canonical_url": "https://github.com/micha42-dot/uxzView",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:09:53Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
