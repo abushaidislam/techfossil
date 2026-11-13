@@ -19006,6 +19006,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476776",
+      "title": "Show HN: Autoresearch, but for Weight Space Programming",
+      "canonical_url": "https://huggingface.co/spaces/chrisvoncsefalvay/vespasian",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T07:07:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
