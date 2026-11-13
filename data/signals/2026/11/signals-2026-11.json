@@ -20646,6 +20646,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486495",
+      "title": "A web port of a classic Mac game – The Dungeon Revealed",
+      "canonical_url": "https://thedungeonrevealed.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:11:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
