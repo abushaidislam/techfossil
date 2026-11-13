@@ -21008,6 +21008,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50486258",
+      "title": "Apify Security Incident",
+      "canonical_url": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T22:55:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "api"
+      ]
     }
   ]
 }
