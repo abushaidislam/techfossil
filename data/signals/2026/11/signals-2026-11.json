@@ -19533,6 +19533,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50465829",
+      "title": "Anthropic IPO",
+      "canonical_url": "https://ipo.anthropic.com/us/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T17:46:41Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
