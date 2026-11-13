@@ -19692,6 +19692,21 @@
         "claude",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476326",
+      "title": "Part-time professors make big money teaching classes online",
+      "canonical_url": "https://calmatters.org/education/2026/11/community-college-professors-pay/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T06:08:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
