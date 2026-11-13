@@ -21105,6 +21105,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50483765",
+      "title": "Llama.cpp v1 Is Out",
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:12:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
