@@ -18747,6 +18747,21 @@
         "react",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1113-hn-50476051",
+      "title": "Generating Mini-Crosswords",
+      "canonical_url": "https://possiblywrong.wordpress.com/2018/10/31/generating-mini-crosswords/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:42:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
