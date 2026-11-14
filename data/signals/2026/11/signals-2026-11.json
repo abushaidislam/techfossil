@@ -21532,6 +21532,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492860",
+      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "canonical_url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T08:02:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
