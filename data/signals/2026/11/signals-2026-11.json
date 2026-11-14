@@ -21204,6 +21204,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491980",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "canonical_url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T06:06:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
