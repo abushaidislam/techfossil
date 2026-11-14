@@ -21433,6 +21433,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50488664",
+      "title": "Someone's Impersonating This Blog",
+      "canonical_url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:41:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
