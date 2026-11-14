@@ -21163,6 +21163,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491300",
+      "title": "Opus 5.5 is probably still nerfed",
+      "canonical_url": "https://micjm.com/blog/opus-5.5-after-fable/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:55:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
