@@ -21191,6 +21191,19 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492723",
+      "title": "FAA lifts ground stop at U.S. airports",
+      "canonical_url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T07:47:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
