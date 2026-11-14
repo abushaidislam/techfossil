@@ -21448,6 +21448,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50472038",
+      "title": "Rust 1.100",
+      "canonical_url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T00:39:05Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
