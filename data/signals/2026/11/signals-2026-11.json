@@ -21219,6 +21219,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50424581",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "canonical_url": "https://www.foldableflight.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-09T18:19:22Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
