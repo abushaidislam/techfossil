@@ -21591,6 +21591,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50489678",
+      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+      "canonical_url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T03:08:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
