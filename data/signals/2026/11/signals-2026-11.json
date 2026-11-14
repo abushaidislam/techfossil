@@ -21320,6 +21320,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492380",
+      "title": "Elon Musk to sign a petition to reinstate Jensen Huang",
+      "canonical_url": "https://twitter.com/elonmusk/status/2121345211959804234",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T07:01:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
