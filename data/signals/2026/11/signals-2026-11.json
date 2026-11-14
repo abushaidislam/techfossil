@@ -21135,6 +21135,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492852",
+      "title": "Of Course Americans Blamed the Ground Stop on AI",
+      "canonical_url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T08:02:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
