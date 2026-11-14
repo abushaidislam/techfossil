@@ -21758,6 +21758,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50489652",
+      "title": "All US airports are currently ground stopped",
+      "canonical_url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T03:06:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
