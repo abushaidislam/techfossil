@@ -21743,6 +21743,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50497911",
+      "title": "FAA Telecommunications Infrastructure (FTI)",
+      "canonical_url": "https://www.l3harris.com/all-capabilities/faa-telecommunications-infrastructure-fti",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T21:42:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
