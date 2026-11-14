@@ -21517,6 +21517,21 @@
       "technologies": [
         "hacker"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492269",
+      "title": "Show HN: Light control for MacBook charger status light (open-source)",
+      "canonical_url": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T06:44:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
