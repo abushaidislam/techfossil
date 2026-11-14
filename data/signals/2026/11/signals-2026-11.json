@@ -21504,6 +21504,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491021",
+      "title": "Show HN: NETWAR – hacker MMO with 15-second card duels on a shared hex map",
+      "canonical_url": "https://play-netwar.com/?from=hn",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:33:26Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "hacker"
+      ]
     }
   ]
 }
