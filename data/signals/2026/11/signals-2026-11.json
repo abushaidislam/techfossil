@@ -21474,6 +21474,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50477714",
+      "title": "Switcher (2004)",
+      "canonical_url": "https://folklore.org/Switcher.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T09:14:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
