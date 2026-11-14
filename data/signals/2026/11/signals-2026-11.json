@@ -21801,6 +21801,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50498975",
+      "title": "License to break in: German Bundestag passes contentious intelligence reform",
+      "canonical_url": "https://www.heise.de/en/news/License-to-break-in-Bundestag-passes-contentious-intelligence-reform-11524952.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T23:38:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
