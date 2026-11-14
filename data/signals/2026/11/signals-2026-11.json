@@ -21461,6 +21461,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491232",
+      "title": "Ground stop ordered for all airports nationwide for 'reasons of safety'",
+      "canonical_url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:49:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
