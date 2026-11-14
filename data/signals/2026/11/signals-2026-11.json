@@ -21674,6 +21674,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50496187",
+      "title": "A few drawings about Linux (2016)",
+      "canonical_url": "https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T17:36:56Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "linux",
+        "ux"
+      ]
     }
   ]
 }
