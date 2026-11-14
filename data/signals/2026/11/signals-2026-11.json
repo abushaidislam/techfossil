@@ -21489,6 +21489,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50431971",
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "canonical_url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T02:54:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
