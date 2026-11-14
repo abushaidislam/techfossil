@@ -21562,6 +21562,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50463540",
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "canonical_url": "https://www.getlazarus.org/forums/topic/17/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:49:34Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
