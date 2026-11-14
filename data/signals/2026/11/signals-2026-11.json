@@ -21859,6 +21859,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50492727",
+      "title": "GigChain Keys – a free, open-source MainStage alternative",
+      "canonical_url": "https://github.com/xDarkzx/GigChain-Keys",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T07:47:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
