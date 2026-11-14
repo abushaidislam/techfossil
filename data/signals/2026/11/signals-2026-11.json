@@ -21844,6 +21844,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50497900",
+      "title": "Formalizing US Tax Code (Using Lean)",
+      "canonical_url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T21:41:20Z",
+      "category": "Software Engineering",
+      "importance_score": 74,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
