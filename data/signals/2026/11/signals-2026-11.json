@@ -21403,6 +21403,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491570",
+      "title": "Jensen Huang commemorative plaque gone from the Denny's where he founded Nvidia",
+      "canonical_url": "https://nypost.com/2026/11/13/business/jensen-huang-commemorative-plaque-gone-from-famed-dennys-where-he-founded-nvidia-report/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T05:21:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
