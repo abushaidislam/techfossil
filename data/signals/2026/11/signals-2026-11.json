@@ -21390,6 +21390,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491757",
+      "title": "0.5B base model trained on 60B tokens rivals Qwen3.5-2B trained on 30T+ tokens",
+      "canonical_url": "https://huggingface.co/ArsalanZ/Nenya-2.5B-A0.5B-Base",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T05:40:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
