@@ -21872,6 +21872,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50497958",
+      "title": "DeepSeek v4.1 Flash matched Opus5.5 and Grok4.7 on a diplomatic negotiation eval",
+      "canonical_url": "https://www.reddit.com/r/DeepSeek/comments/1xw2gyw/comment/19smo7oond4qq/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T21:49:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
