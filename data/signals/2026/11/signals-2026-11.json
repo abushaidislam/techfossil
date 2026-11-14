@@ -21661,6 +21661,19 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50490618",
+      "title": "End‑to‑End 4‑Bit Training",
+      "canonical_url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:06:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
