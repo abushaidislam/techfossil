@@ -21771,6 +21771,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50497171",
+      "title": "Porting Elite to the Commodore PET the long way [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=6D0yT1bgH0s",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T20:11:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
