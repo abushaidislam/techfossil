@@ -21701,6 +21701,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50498466",
+      "title": "Benchmarking Qwen3-Coder-Next, DeepSeek-R1, and Qwen3.5 with Dynamic RSI",
+      "canonical_url": "https://github.com/bibble/dynamic-rsi-harness/blob/main/BENCHMARK_REPORT.md",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T22:49:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
