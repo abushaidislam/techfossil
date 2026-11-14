@@ -21377,6 +21377,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50484007",
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "canonical_url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:28:40Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
