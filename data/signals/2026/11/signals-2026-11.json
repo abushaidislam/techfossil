@@ -21262,6 +21262,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50493073",
+      "title": "US loses measles-free status after continued spread of the disease",
+      "canonical_url": "https://www.reuters.com/world/us-loses-measles-free-status-after-continued-spread-disease-wsj-reports-2026-11-14/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T08:29:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
