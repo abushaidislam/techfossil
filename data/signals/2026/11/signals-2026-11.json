@@ -21829,6 +21829,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50465926",
+      "title": "Bilingualism and Denaskuleco",
+      "canonical_url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T18:00:06Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
