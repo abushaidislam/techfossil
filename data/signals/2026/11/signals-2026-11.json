@@ -21247,6 +21247,21 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492302",
+      "title": "DeepSeek V4 Pro 0813",
+      "canonical_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T06:50:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
