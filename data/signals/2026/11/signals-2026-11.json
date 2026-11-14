@@ -21816,6 +21816,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50499041",
+      "title": "The 'europoors' rants reflect an American insecurity",
+      "canonical_url": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T23:45:35Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
