@@ -21178,6 +21178,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50492950",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "canonical_url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T08:15:41Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
