@@ -21730,6 +21730,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50468888",
+      "title": "I'm making LLMs work on small and old devices",
+      "canonical_url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T21:23:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
