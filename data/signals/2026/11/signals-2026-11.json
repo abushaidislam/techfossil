@@ -21576,6 +21576,21 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50493062",
+      "title": "Ggml v1.0.0",
+      "canonical_url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T08:28:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
