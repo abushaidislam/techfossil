@@ -21619,6 +21619,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50499204",
+      "title": "Caruana Hits 2800, Within 7.2 Points of Carlsen's World No. 1 Spot",
+      "canonical_url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T00:01:38Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
