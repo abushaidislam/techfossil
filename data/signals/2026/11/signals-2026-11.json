@@ -21634,6 +21634,19 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50472260",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "canonical_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T00:52:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
