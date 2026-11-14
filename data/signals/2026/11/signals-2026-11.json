@@ -21364,6 +21364,19 @@
         "ai",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491285",
+      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
+      "canonical_url": "https://news.ycombinator.com/item?id=50491285",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:53:31Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
