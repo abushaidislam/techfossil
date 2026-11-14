@@ -21350,6 +21350,20 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1114-hn-50491347",
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "canonical_url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T04:58:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "claude"
+      ]
     }
   ]
 }
