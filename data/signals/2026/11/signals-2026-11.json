@@ -21716,6 +21716,20 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50496705",
+      "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+      "canonical_url": "https://www.shotoku.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T19:02:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
