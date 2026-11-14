@@ -21786,6 +21786,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50488901",
+      "title": "Agda v2.9.0",
+      "canonical_url": "https://github.com/agda/agda/releases/tag/v2.9.0",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T02:03:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "development",
+        "software"
+      ]
     }
   ]
 }
