@@ -21647,6 +21647,20 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1115-dev-4999883",
+      "title": "How much does it cost to run a text game with LLMs",
+      "canonical_url": "https://dev.to/hiper2d/how-much-does-it-cost-to-run-a-text-game-with-llms-57o7",
+      "source": "dev_to",
+      "published_at": "2026-11-08T18:46:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
