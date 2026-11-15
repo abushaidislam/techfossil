@@ -22645,6 +22645,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50496885",
+      "title": "A visual explanation of reinforcement learning",
+      "canonical_url": "https://aatishb.com/myriad/how-brains-learn/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T19:31:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
