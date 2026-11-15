@@ -21932,6 +21932,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502344",
+      "title": "Ask HN: Is post-training make AI models dumber?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50502344",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T05:53:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
