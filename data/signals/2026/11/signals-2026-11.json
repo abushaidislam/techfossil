@@ -22194,6 +22194,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502839",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "canonical_url": "https://bobbiec.github.io/jamaican-font.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T06:56:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
