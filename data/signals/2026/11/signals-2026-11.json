@@ -22003,6 +22003,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502659",
+      "title": "The NBA player who got hooked on sports betting",
+      "canonical_url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T06:32:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
