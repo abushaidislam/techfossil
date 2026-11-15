@@ -22265,6 +22265,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50467278",
+      "title": "Testing a trash can Faraday cage",
+      "canonical_url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T20:04:27Z",
+      "category": "Software Engineering",
+      "importance_score": 75,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
