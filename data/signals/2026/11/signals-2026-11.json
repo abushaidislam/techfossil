@@ -22367,6 +22367,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50501098",
+      "title": "A new UMAP release brings major performance, quality, and scaling improvements",
+      "canonical_url": "https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T03:33:03Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance"
+      ]
     }
   ]
 }
