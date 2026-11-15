@@ -21945,6 +21945,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-dev-5007347",
+      "title": "Should You Rewrite It With AI? Aaron Beals on What Breaks",
+      "canonical_url": "https://dev.to/dailycontext/should-you-rewrite-it-with-ai-aaron-beals-on-what-breaks-2bng",
+      "source": "dev_to",
+      "published_at": "2026-11-11T01:52:59Z",
+      "category": "Systems & Architecture",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
