@@ -22031,6 +22031,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502667",
+      "title": "Dissecting Spring petclinic (Part 2 – Bending the persistence)",
+      "canonical_url": "https://hannomalie.github.io/posts/dissecting-spring-petclinic-persistence.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T06:34:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
