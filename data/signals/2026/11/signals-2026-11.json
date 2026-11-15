@@ -22076,6 +22076,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50491545",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "canonical_url": "https://grounds.top/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T05:17:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
