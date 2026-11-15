@@ -22690,6 +22690,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50487864",
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "canonical_url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:40:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
