@@ -22493,6 +22493,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503509",
+      "title": "Medicare's AI Experiment",
+      "canonical_url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T08:49:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
