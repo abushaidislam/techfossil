@@ -22675,6 +22675,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503097",
+      "title": "Show HN: Umbrella – macOS app to capture audio from any app",
+      "canonical_url": "https://umbrella.pixelegg.me/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:35:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
