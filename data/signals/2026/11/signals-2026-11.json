@@ -22136,6 +22136,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50504245",
+      "title": "96.0% on LongMemEval: what retrieval does for long-term memory",
+      "canonical_url": "https://www.papr.ai/blog/papr-longmemeval-96",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T11:22:08Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
