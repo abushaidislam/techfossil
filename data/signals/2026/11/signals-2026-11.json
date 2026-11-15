@@ -22506,6 +22506,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50441444",
+      "title": "Generative AI uses more energy on non-English text",
+      "canonical_url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T21:07:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
