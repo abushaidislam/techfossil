@@ -22339,6 +22339,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50504254",
+      "title": "Reading and Working for Salon",
+      "canonical_url": "https://www.typebarmagazine.com/on-reading-and-working-for-salon/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T11:23:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
