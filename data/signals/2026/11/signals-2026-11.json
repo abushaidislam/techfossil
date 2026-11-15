@@ -22220,6 +22220,21 @@
       "technologies": [
         "html"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502592",
+      "title": "Once considered macabre, the consumption of roadkill is having a culinary moment",
+      "canonical_url": "https://www.vqronline.org/essays/opportunivores-dilemma",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T06:25:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
