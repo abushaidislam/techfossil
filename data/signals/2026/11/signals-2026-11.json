@@ -22560,6 +22560,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50471431",
+      "title": "Gemini 4 Hydrogen",
+      "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T00:01:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
