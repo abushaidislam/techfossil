@@ -22547,6 +22547,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503137",
+      "title": "Pope Leo XIV warns against transhumanism serving the ultra-rich",
+      "canonical_url": "https://twitter.com/Pontifex/status/2121425383480529346",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:41:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
