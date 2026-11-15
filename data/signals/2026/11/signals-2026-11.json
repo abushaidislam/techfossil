@@ -22720,6 +22720,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503671",
+      "title": "Two planes collide at Miami International Airport",
+      "canonical_url": "https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T09:21:54Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
