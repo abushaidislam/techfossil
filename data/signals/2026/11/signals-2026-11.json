@@ -22480,6 +22480,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50501594",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "canonical_url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T04:22:49Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
