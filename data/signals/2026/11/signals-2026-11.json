@@ -21887,6 +21887,21 @@
         "development",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50486880",
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "canonical_url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:37:32Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
