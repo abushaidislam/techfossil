@@ -22354,6 +22354,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50504613",
+      "title": "Electricity Prices Fall Across Australia as Renewables Build Momentum",
+      "canonical_url": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T12:48:59Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
