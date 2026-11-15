@@ -22207,6 +22207,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50504608",
+      "title": "Hyperclay: Where your team's HTML files belong",
+      "canonical_url": "https://hyperclay.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T12:48:25Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "html"
+      ]
     }
   ]
 }
