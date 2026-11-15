@@ -22407,6 +22407,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50498063",
+      "title": "Italy fines Meta €805M over photo privacy",
+      "canonical_url": "https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T22:00:14Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "privacy"
+      ]
     }
   ]
 }
