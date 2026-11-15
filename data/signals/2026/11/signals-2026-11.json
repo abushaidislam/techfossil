@@ -21902,6 +21902,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50488835",
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "canonical_url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:58:42Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
