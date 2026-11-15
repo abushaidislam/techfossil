@@ -22465,6 +22465,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50501844",
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "canonical_url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T04:51:44Z",
+      "category": "Software Engineering",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
