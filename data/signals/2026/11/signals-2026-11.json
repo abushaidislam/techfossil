@@ -22733,6 +22733,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503923",
+      "title": "SRT Link to Red5 Opens Path to Real-Time Streaming Everywhere",
+      "canonical_url": "https://www.red5.net/blog/srt-realtime-streaming-everywhere/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T10:07:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
