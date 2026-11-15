@@ -22061,6 +22061,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50440709",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "canonical_url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "source": "hacker_news",
+      "published_at": "2026-11-10T20:16:05Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
