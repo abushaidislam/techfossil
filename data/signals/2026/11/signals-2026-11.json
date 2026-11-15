@@ -22435,6 +22435,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502957",
+      "title": "Nozzle: A streaming library that emits when possible and buffers where necessary",
+      "canonical_url": "https://github.com/Robert-Cunningham/nozzle",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:13:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
