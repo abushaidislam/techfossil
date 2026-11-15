@@ -22532,6 +22532,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503020",
+      "title": "Blogsearch.io – Search the Independent Web",
+      "canonical_url": "https://blogsearch.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:22:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
