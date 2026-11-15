@@ -22325,6 +22325,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503435",
+      "title": "Multi-agent AI (LangGraph) to audit AI papers for reproducibility",
+      "canonical_url": "https://github.com/owenpatience2010-cmyk/paperpulse",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T08:35:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
