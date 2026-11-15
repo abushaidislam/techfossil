@@ -22519,6 +22519,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50496544",
+      "title": "Air-Traffic Resilience Portfolio",
+      "canonical_url": "https://tilt.now/tilt/MTwqny",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T18:34:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
