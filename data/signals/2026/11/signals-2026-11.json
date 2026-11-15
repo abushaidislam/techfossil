@@ -21960,6 +21960,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50488325",
+      "title": "FM-1 Workbench",
+      "canonical_url": "https://open.m-vave.com/fm1-workbench",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T01:14:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
