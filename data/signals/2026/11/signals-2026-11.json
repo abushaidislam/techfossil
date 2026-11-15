@@ -22280,6 +22280,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503731",
+      "title": "Osint Case Studies",
+      "canonical_url": "https://osintsearch.org/blog/osint-case-studies",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T09:33:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
