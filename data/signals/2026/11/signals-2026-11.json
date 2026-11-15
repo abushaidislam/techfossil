@@ -22250,6 +22250,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50502523",
+      "title": "The Trolls Among Us (2008)",
+      "canonical_url": "https://www.nytimes.com/2008/08/03/magazine/03trolls-t.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T06:18:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
