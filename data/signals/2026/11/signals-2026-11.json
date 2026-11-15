@@ -22149,6 +22149,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50486521",
+      "title": "Concurrent Shell Command Queues",
+      "canonical_url": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:13:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
