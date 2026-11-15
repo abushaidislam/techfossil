@@ -22380,6 +22380,20 @@
       "technologies": [
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50478701",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "canonical_url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T11:22:08Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "rust"
+      ]
     }
   ]
 }
