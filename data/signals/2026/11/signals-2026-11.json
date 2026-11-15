@@ -22618,6 +22618,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50496602",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "canonical_url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T18:45:45Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "privacy"
+      ]
     }
   ]
 }
