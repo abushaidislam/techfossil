@@ -22632,6 +22632,19 @@
         "ai",
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50483959",
+      "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+      "canonical_url": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T20:25:46Z",
+      "category": "Frontend & UI",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
