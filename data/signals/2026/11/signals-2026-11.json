@@ -22748,6 +22748,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50486914",
+      "title": "DeepSeek Ultrafast",
+      "canonical_url": "https://github.com/basetenlabs/deepseek-ultrafast",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T23:39:03Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
