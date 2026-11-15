@@ -22295,6 +22295,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50504431",
+      "title": "Made a Firefox addon to swap and inspect fonts",
+      "canonical_url": "https://addons.mozilla.org/en-US/firefox/addon/typeshift-font-inspector/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T12:11:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
