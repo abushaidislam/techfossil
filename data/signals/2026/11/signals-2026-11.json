@@ -22018,6 +22018,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50497147",
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "canonical_url": "https://github.com/paul-nameless/agweb",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T20:08:12Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
