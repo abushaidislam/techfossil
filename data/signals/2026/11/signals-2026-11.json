@@ -22603,6 +22603,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503994",
+      "title": "FAA Outage: Why Duffy Is Spelled with Two Ms",
+      "canonical_url": "https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T10:21:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
