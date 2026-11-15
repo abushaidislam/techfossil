@@ -22420,6 +22420,21 @@
       "technologies": [
         "privacy"
       ]
+    },
+    {
+      "id": "sig-2026-1115-hn-50503073",
+      "title": "Small but Deadly: The Minié Ball (2019)",
+      "canonical_url": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1417&context=compiler",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:30:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
