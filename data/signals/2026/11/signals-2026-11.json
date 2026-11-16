@@ -23407,6 +23407,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50501887",
+      "title": "How the Telephone Changed the World",
+      "canonical_url": "https://lithub.com/how-the-telephone-changed-the-world/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T04:56:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
