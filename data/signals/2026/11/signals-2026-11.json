@@ -23505,6 +23505,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514384",
+      "title": "The Tools of Dan Gelbart",
+      "canonical_url": "https://scottlocklin.wordpress.com/2026/08/05/the-tools-of-dan-gelbart/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T11:32:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
