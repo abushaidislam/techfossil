@@ -23732,6 +23732,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513536",
+      "title": "Recent progress in mathematics, discussed by research mathematicians",
+      "canonical_url": "https://mathhelm.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T09:05:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
