@@ -23618,6 +23618,19 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514958",
+      "title": "Can We Fix AI?",
+      "canonical_url": "https://peterbloem.nl/blog/fix-ai-data",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:19:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
