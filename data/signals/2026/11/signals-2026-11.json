@@ -22995,6 +22995,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50484998",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "canonical_url": "https://www.paradedb.com/blog/joins",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T21:31:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
