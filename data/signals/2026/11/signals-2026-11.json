@@ -23562,6 +23562,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50510005",
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "canonical_url": "https://arkanumdata.com/research/house-trades",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T01:46:02Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
