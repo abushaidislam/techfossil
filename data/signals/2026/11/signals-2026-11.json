@@ -22830,6 +22830,21 @@
       "technologies": [
         "react"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514157",
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "canonical_url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T10:49:45Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "database"
+      ]
     }
   ]
 }
