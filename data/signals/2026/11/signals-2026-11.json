@@ -23139,6 +23139,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513876",
+      "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+      "canonical_url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T10:03:51Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
