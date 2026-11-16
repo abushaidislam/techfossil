@@ -23010,6 +23010,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50512991",
+      "title": "Show HN: Agency – give your agents the computer you own",
+      "canonical_url": "https://agency.makors.xyz/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T07:38:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
