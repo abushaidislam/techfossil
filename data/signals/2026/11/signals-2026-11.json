@@ -23906,6 +23906,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514525",
+      "title": "Rewriting my toy blockchain in Rust (2022)",
+      "canonical_url": "https://www.ezzeriesa.com/index/Writing/Rewriting%20my%20toy%20blockchain%20in%20Rust%209a130f225666488491ba497004821fbb.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:04:02Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "rust"
+      ]
     }
   ]
 }
