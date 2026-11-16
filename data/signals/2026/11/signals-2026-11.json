@@ -23051,6 +23051,21 @@
       "technologies": [
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513507",
+      "title": "Bill Gates Has Earned Billions Investing in Landfills",
+      "canonical_url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T09:00:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
