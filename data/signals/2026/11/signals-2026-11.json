@@ -23704,6 +23704,19 @@
       "technologies": [
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50508535",
+      "title": "Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents",
+      "canonical_url": "https://github.com/jjyr/canban",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T23:06:17Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
