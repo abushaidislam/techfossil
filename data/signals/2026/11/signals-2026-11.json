@@ -23661,6 +23661,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50515035",
+      "title": "Test/verification technique effectiveness with Astra",
+      "canonical_url": "https://danluu.com/astra-testing/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:33:51Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
