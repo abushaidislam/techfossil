@@ -22952,6 +22952,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50475759",
+      "title": "Chasing an audio artifact on power loss",
+      "canonical_url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T05:11:25Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
