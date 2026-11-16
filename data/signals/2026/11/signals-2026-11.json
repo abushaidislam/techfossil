@@ -23152,6 +23152,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513901",
+      "title": "A Local-First Agent for Private Knowledge Work",
+      "canonical_url": "https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T10:08:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
