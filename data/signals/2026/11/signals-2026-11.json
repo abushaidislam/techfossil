@@ -23777,6 +23777,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50511761",
+      "title": "Show HN: Skillset: Easily curate and install agent skills collection",
+      "canonical_url": "https://github.com/itsmeyaw/skillset",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T04:53:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
