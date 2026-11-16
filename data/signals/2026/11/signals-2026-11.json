@@ -23891,6 +23891,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50509972",
+      "title": "Handwriting, as a Font",
+      "canonical_url": "https://ductus.sorenblank.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T01:42:13Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
