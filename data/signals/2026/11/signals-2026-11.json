@@ -23066,6 +23066,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513300",
+      "title": "Show HN: Word Gambits, Daily Puzzle Capture Chess Pieces to Form Words",
+      "canonical_url": "https://wordgambits.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:29:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
