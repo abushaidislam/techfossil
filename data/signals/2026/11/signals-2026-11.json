@@ -23577,6 +23577,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50511238",
+      "title": "Show HN: Rbit – Self Hosted Git Forge in Rust",
+      "canonical_url": "https://rbit.sh/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T03:54:20Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
