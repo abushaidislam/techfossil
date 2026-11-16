@@ -23717,6 +23717,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514672",
+      "title": "Show HN: Jensen World – a Factorio mod for GPU nerds",
+      "canonical_url": "https://mods.factorio.com/mod/gpu_factorio_mod",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:28:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
