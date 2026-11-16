@@ -23490,6 +23490,21 @@
       "technologies": [
         "memory"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50452037",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "canonical_url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T17:11:22Z",
+      "category": "Software Engineering",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
