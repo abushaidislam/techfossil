@@ -22763,6 +22763,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "canonical_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T18:14:06Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
