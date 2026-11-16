@@ -23308,6 +23308,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "hacker_news",
+      "published_at": "2026-11-13T21:08:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
