@@ -23464,6 +23464,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514619",
+      "title": "What Is Air-Gapped Streaming and How Government Streams Without Internet",
+      "canonical_url": "https://www.red5.net/blog/what-is-air-gapped-streaming/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:20:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
