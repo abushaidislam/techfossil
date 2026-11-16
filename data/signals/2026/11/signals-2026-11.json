@@ -23805,6 +23805,19 @@
         "linux",
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514957",
+      "title": "In which John becomes a Machine Learning researcher",
+      "canonical_url": "https://johnwickerson.wordpress.com/2026/09/26/in-which-john-becomes-a-machine-learning-researcher/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:19:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "machine learning"
+      ]
     }
   ]
 }
