@@ -23321,6 +23321,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513215",
+      "title": "Qwen4-Max",
+      "canonical_url": "https://qwen.ai/blog?id=qwen4-max",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:14:44Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
