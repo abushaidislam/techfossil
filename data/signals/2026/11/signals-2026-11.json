@@ -22817,6 +22817,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514500",
+      "title": "HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions",
+      "canonical_url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T11:56:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "react"
+      ]
     }
   ]
 }
