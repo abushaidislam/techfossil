@@ -23848,6 +23848,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50499017",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "canonical_url": "https://www.crissyfield.de/research/lovable-en/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T23:43:10Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
