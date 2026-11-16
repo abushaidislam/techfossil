@@ -23366,6 +23366,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513280",
+      "title": "Reading speculations concerning the first ultraintelligent machine",
+      "canonical_url": "https://www.jefftk.com/p/reading-speculations-concerning-the-first-ultraintelligent-machine",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:25:39Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
