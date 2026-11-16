@@ -23295,6 +23295,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50509308",
+      "title": "A short explainer on how El Niño works [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T00:23:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
