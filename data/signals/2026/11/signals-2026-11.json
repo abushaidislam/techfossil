@@ -22980,6 +22980,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50497589",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "canonical_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T21:04:15Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
