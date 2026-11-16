@@ -23747,6 +23747,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514746",
+      "title": "TrustGraph – ACLs that follow the data through your AI agents",
+      "canonical_url": "https://github.com/skishore23/trustgraph",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:44:22Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "rust"
+      ]
     }
   ]
 }
