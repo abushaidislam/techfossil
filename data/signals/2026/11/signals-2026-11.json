@@ -23281,6 +23281,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514667",
+      "title": "Skills for AI coding agents to create diagrams in Markdown",
+      "canonical_url": "https://github.com/markdown-viewer/skills",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:27:50Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
