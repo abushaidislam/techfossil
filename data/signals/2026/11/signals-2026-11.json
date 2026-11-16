@@ -23236,6 +23236,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50511395",
+      "title": "Old Bitly links are being hijacked",
+      "canonical_url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T04:11:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
