@@ -23833,6 +23833,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514835",
+      "title": "Men and Women Are Diverging Ideologically",
+      "canonical_url": "https://www.city-journal.org/article/men-women-political-divide",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:59:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
