@@ -22845,6 +22845,23 @@
         "ai",
         "database"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514677",
+      "title": "GrapheneOS calls Linux a \"human slop kernel\" and slams its security flaws",
+      "canonical_url": "https://twitter.com/GrapheneOS/status/2122074518437134627",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:29:38Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "aws",
+        "kernel",
+        "security"
+      ]
     }
   ]
 }
