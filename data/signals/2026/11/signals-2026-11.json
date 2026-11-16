@@ -23094,6 +23094,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514572",
+      "title": "Large Angle Period of the Pendulum",
+      "canonical_url": "https://jslandy.com/pendulum/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:11:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
