@@ -23251,6 +23251,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50457979",
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "canonical_url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T02:09:34Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
