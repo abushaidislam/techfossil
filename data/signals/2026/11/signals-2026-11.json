@@ -23790,6 +23790,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513843",
+      "title": "Linux was created as a rejection of robust software architecture and tools",
+      "canonical_url": "https://twitter.com/GrapheneOS/status/2122079826257588569",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T09:58:04Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux",
+        "architecture"
+      ]
     }
   ]
 }
