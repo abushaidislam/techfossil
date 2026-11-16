@@ -23422,6 +23422,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514697",
+      "title": "cudamemcpy-tuner: cudaMemcpying up to 5x faster on a B300",
+      "canonical_url": "https://maknee.github.io/blog/2026/CudaMemcpy/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T12:33:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
