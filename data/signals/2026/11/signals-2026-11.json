@@ -22967,6 +22967,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50512950",
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "canonical_url": "https://www.hntrends.com/2026/november.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T07:31:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 81,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
