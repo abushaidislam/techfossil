@@ -23351,6 +23351,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50491423",
+      "title": "Terminal borders that don't cost a cell",
+      "canonical_url": "https://www.joshka.net/cell-borders/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T05:06:40Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
