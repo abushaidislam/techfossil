@@ -23534,6 +23534,19 @@
         "ux",
         "linux"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50492012",
+      "title": "Keylogger Detection and Containment [pdf]",
+      "canonical_url": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T06:10:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
