@@ -23038,6 +23038,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514401",
+      "title": "Qwen4 Max: Intelligence, Performance and Price Analysis",
+      "canonical_url": "https://artificialanalysis.ai/models/qwen4-max",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T11:37:04Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance"
+      ]
     }
   ]
 }
