@@ -23180,6 +23180,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50506588",
+      "title": "A NES emulator written in Odin",
+      "canonical_url": "https://lucypero.com/lucynes.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T18:51:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
