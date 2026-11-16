@@ -23605,6 +23605,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513794",
+      "title": "What music does Gemini Decision 1 like?",
+      "canonical_url": "https://blog.lwarfield.dev/what-music-does-decision-gemini-like/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T09:50:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
