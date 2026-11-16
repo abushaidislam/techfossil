@@ -23590,6 +23590,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513589",
+      "title": "New Mexico wanted free childcare for all; what's worked – and what hasn't",
+      "canonical_url": "https://text.npr.org/nx-s1-6040194",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T09:12:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
