@@ -23477,6 +23477,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50512980",
+      "title": "TRMI: Multiplayer ADE with Shared Memory",
+      "canonical_url": "https://trmi.dev/download",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T07:36:44Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "memory"
+      ]
     }
   ]
 }
