@@ -23676,6 +23676,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513444",
+      "title": "China's Economic Slowdown Deepens",
+      "canonical_url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:52:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
