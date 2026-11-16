@@ -22802,6 +22802,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50503241",
+      "title": "What a task costs on Opus 5.5",
+      "canonical_url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:57:36Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
