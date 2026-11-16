@@ -23208,6 +23208,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50507303",
+      "title": "All AI-generated code should be Open Source",
+      "canonical_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T20:46:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
