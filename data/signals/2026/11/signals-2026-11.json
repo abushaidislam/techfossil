@@ -23818,6 +23818,21 @@
       "technologies": [
         "machine learning"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50513194",
+      "title": "Mega Speed Says Alice Huang Left Company in August 2025",
+      "canonical_url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:11:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
