@@ -23520,6 +23520,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50514879",
+      "title": "Espressif Posts a Linux BSP for the ESP32-S31",
+      "canonical_url": "https://blog.adafruit.com/2026/08/25/espressif-posts-a-linux-bsp-for-the-esp32-s31/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:06:51Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ux",
+        "linux"
+      ]
     }
   ]
 }
