@@ -23195,6 +23195,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50512959",
+      "title": "How NewsNinja syncs all its data in less than 1 MB of iCloud",
+      "canonical_url": "https://ainews.ninja/blog/icloud-key-value-store-sync/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T07:32:58Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
