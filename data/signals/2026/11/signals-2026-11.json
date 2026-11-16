@@ -23437,6 +23437,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1116-hn-50512441",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "canonical_url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T06:21:54Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "api",
+        "ai"
+      ]
     }
   ]
 }
