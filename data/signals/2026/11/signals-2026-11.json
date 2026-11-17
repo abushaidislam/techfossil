@@ -24055,6 +24055,22 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5038317",
+      "title": "How to build an AI Agent with Google ADK",
+      "canonical_url": "https://dev.to/gde/how-to-build-an-ai-agent-with-google-adk-dhk",
+      "source": "dev_to",
+      "published_at": "2026-11-14T23:15:13Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "agent",
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
