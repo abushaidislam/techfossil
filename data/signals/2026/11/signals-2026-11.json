@@ -24026,6 +24026,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5031079",
+      "title": "Recover a WebMCP Update After Its Response Disappears",
+      "canonical_url": "https://dev.to/gde/recover-a-webmcp-update-after-its-response-disappears-2hp",
+      "source": "dev_to",
+      "published_at": "2026-11-15T15:05:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 97,
+      "verification_status": "verified",
+      "technologies": [
+        "react",
+        "typescript"
+      ]
     }
   ]
 }
