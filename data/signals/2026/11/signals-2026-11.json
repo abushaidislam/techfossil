@@ -24174,6 +24174,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50494033",
+      "title": "Eight years of running DocSpring on Convox",
+      "canonical_url": "https://docspring.com/blog/posts/eight-years-running-docspring-convox/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T10:46:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
