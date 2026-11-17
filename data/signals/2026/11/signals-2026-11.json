@@ -24838,6 +24838,21 @@
         "ai",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525951",
+      "title": "When Good Practices Become Empty Rituals",
+      "canonical_url": "https://faidi.tech/posts/when-good-practices-fail/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:55:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
