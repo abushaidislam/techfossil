@@ -24479,6 +24479,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526411",
+      "title": "DOJ to review DoorDash-Instacart merger",
+      "canonical_url": "https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:55:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
