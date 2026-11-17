@@ -24040,6 +24040,21 @@
         "react",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50524933",
+      "title": "Making a Staff Sling",
+      "canonical_url": "https://www.youtube.com/watch?v=zSHD8RG_mSo",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T05:13:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
