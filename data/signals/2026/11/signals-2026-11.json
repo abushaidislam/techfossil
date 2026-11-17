@@ -24376,6 +24376,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527016",
+      "title": "The WeirdML Benchmark (2025)",
+      "canonical_url": "https://www.lesswrong.com/posts/LfQCzph7rc2vxpweS/introducing-the-weirdml-benchmark",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T09:25:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
