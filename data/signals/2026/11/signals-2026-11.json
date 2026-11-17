@@ -24909,6 +24909,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50487628",
+      "title": "Exact Gradients Through a BRep Kernel",
+      "canonical_url": "https://muni.works/research/vcad",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T00:24:54Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
