@@ -24362,6 +24362,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5038143",
+      "title": "Gemini 4 or Gemma 4? It Depends.",
+      "canonical_url": "https://dev.to/gde/gemini-4-or-gemma-4-it-depends-2o18",
+      "source": "dev_to",
+      "published_at": "2026-11-14T22:04:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
