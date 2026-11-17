@@ -24434,6 +24434,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50522643",
+      "title": "Chemistry is Actually Geometry",
+      "canonical_url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T02:22:18Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
