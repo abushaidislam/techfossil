@@ -24950,6 +24950,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527716",
+      "title": "The whole world is long America",
+      "canonical_url": "https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T11:13:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
