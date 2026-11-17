@@ -23950,6 +23950,20 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5031591",
+      "title": "An MCP Tool Call Can Resolve and Still Fail",
+      "canonical_url": "https://dev.to/gde/an-mcp-tool-call-can-resolve-and-still-fail-52kc",
+      "source": "dev_to",
+      "published_at": "2026-11-16T14:28:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript",
+        "ai"
+      ]
     }
   ]
 }
