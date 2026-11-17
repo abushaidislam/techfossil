@@ -23964,6 +23964,23 @@
         "typescript",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5043647",
+      "title": "One model gateway across clouds: LiteLLM on Cloud Run and Azure with zero API keys",
+      "canonical_url": "https://dev.to/gde/one-model-gateway-across-clouds-litellm-on-cloud-run-and-azure-with-zero-api-keys-3ma7",
+      "source": "dev_to",
+      "published_at": "2026-11-15T22:23:05Z",
+      "category": "Security & Privacy",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "azure",
+        "ai",
+        "llm",
+        "cloud",
+        "api"
+      ]
     }
   ]
 }
