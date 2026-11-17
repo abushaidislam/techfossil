@@ -24419,6 +24419,21 @@
       "technologies": [
         "performance"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525260",
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "canonical_url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T05:47:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
