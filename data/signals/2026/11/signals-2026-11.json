@@ -24582,6 +24582,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50510296",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "canonical_url": "https://baron.by.dai.studio/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T02:20:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
