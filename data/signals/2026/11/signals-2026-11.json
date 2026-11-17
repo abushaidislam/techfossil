@@ -24798,6 +24798,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525658",
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "canonical_url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:23:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 86,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
