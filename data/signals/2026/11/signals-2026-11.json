@@ -25008,6 +25008,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526517",
+      "title": "Flashwright: The fastest E2E testing framework, up to 4x faster than Playwright",
+      "canonical_url": "https://flashwright.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:11:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
