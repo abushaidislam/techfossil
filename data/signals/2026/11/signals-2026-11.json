@@ -24610,6 +24610,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50508715",
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "canonical_url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T23:22:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
