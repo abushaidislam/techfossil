@@ -24896,6 +24896,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526516",
+      "title": "Show HN: Coding agents with native environments, identity and access",
+      "canonical_url": "https://kosem.ai/blog/coding-agents-workstation-moment",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:11:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
