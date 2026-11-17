@@ -24552,6 +24552,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525645",
+      "title": "Two-meter-tall pepper plants, grown on the wall of a house with under USD 400",
+      "canonical_url": "https://g4food.ro/planul-it-istului-din-cugir-care-a-creat-gradina-de-pe-acoperis-vreau-sa-cultiv-cartofi/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:21:43Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
