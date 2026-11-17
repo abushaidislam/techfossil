@@ -24464,6 +24464,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525593",
+      "title": "16TB of DDR5, 576 GB of HBM3E and 57.6 Tbps of bandwidth",
+      "canonical_url": "https://twitter.com/FinnStockinger/status/2122331139574575257",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:18:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
