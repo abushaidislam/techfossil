@@ -24189,6 +24189,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525052",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "canonical_url": "https://github.com/0nelight/sutra-os",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T05:25:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
