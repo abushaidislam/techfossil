@@ -23935,6 +23935,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5038144",
+      "title": "Which Model Should You Use? Frontier, Hosted or Local? It Depends.",
+      "canonical_url": "https://dev.to/gde/which-model-should-you-use-frontier-hosted-or-local-it-depends-2n45",
+      "source": "dev_to",
+      "published_at": "2026-11-14T22:05:33Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
