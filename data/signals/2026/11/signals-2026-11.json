@@ -24811,6 +24811,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527299",
+      "title": "External Sandboxes for Coding Agents",
+      "canonical_url": "https://blog.primeradiant.com/external-sandboxes-for-coding-agents/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T10:06:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
