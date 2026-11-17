@@ -24219,6 +24219,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526647",
+      "title": "Zeptosecond – the smallest time unit ever measured",
+      "canonical_url": "https://www.bbc.co.uk/newsround/54631056",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:27:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
