@@ -24866,6 +24866,21 @@
       "technologies": [
         "machine learning"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50512231",
+      "title": "Mini.nvim Is Now on Tangled",
+      "canonical_url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T05:55:41Z",
+      "category": "Software Engineering",
+      "importance_score": 85,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
