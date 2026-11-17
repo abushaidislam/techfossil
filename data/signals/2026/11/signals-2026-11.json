@@ -24248,6 +24248,19 @@
         "ui",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526094",
+      "title": "My Annoying Coworker Claude",
+      "canonical_url": "https://sharamp.com/personal/claude/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:12:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
