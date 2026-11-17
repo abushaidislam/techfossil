@@ -24507,6 +24507,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50524767",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "canonical_url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T05:00:34Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
