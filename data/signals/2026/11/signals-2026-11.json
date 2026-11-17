@@ -24712,6 +24712,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525941",
+      "title": "Various fixes for outside-of-Git directory reorganisations",
+      "canonical_url": "https://peateasea.de/various-fixes-for-outside-of-git-directory-reorganisations/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:54:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
