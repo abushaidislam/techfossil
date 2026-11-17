@@ -24101,6 +24101,22 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5043271",
+      "title": "Hydrogen, Carbon or Argon? A Cost-First Guide to Gemini 4 for Every Team",
+      "canonical_url": "https://dev.to/gde/hydrogen-carbon-or-argon-a-cost-first-guide-to-gemini-4-for-every-team-205b",
+      "source": "dev_to",
+      "published_at": "2026-11-15T19:42:18Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ui",
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
