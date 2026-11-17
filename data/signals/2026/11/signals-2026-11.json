@@ -23981,6 +23981,21 @@
         "cloud",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526199",
+      "title": "The Weather at Home",
+      "canonical_url": "https://alexhowells.com/writing/the-weather-at-home/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:24:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
