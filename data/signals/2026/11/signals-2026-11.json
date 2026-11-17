@@ -24147,6 +24147,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5038626",
+      "title": "The Prisoner in the Library: Mary's Room, Aphantasic Code in Motion, and the Two-Track 'Magical Voice'",
+      "canonical_url": "https://dev.to/gde/the-prisoner-in-the-library-marys-room-aphantasic-code-in-motion-and-the-two-track-magical-4o1e",
+      "source": "dev_to",
+      "published_at": "2026-11-15T00:38:47Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "architecture"
+      ]
     }
   ]
 }
