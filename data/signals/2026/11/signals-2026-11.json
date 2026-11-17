@@ -24234,6 +24234,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50463399",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "source": "hacker_news",
+      "published_at": "2026-11-12T11:29:24Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "claude"
+      ]
     }
   ]
 }
