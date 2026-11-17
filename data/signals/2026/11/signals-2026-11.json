@@ -24935,6 +24935,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50518068",
+      "title": "A 512 KiB binary message teaching chess without a shared language",
+      "canonical_url": "https://artemlegotin.com/golden-board/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T20:38:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
