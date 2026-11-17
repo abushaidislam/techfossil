@@ -24595,6 +24595,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50509837",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "canonical_url": "https://bruceroettgers.eu/blog/protomaps/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T01:26:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
