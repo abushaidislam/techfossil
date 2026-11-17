@@ -24391,6 +24391,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50502988",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "canonical_url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T07:18:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
