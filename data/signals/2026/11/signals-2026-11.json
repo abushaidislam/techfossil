@@ -23920,6 +23920,21 @@
         "ai",
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50497746",
+      "title": "Smallest possible nopert polyhedra: the Septopert",
+      "canonical_url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T21:22:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
