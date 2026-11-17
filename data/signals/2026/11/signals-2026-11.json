@@ -25169,6 +25169,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50520402",
+      "title": "Elementary Applied Topology, 2nd Ed by Robert Ghrist [pdf]",
+      "canonical_url": "https://www2.math.upenn.edu/~ghrist/books/EAT.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T23:44:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
