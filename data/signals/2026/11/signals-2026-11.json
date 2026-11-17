@@ -24204,6 +24204,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5043345",
+      "title": "MCP, A2A, UCP, AP2... Confused? A Simple Map of AI Agent Protocols (November 2026)",
+      "canonical_url": "https://dev.to/gde/mcp-a2a-ucp-ap2-confused-a-simple-map-of-ai-agent-protocols-november-2026-3ph",
+      "source": "dev_to",
+      "published_at": "2026-11-15T20:09:35Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
