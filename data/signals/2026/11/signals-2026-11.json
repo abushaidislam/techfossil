@@ -24881,6 +24881,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526023",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "canonical_url": "https://kobi.music/research/dettato",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:03:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
