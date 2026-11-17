@@ -24755,6 +24755,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526537",
+      "title": "Mem Is Shutting Down",
+      "canonical_url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:13:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
