@@ -24640,6 +24640,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526797",
+      "title": "FluxCloud: Decentralized Cloud",
+      "canonical_url": "https://runonflux.com/fluxcloud/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:53:27Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ux"
+      ]
     }
   ]
 }
