@@ -24275,6 +24275,21 @@
         "ui",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5049015",
+      "title": "Meme Monday",
+      "canonical_url": "https://dev.to/ben/meme-monday-p21",
+      "source": "dev_to",
+      "published_at": "2026-11-16T15:30:03Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
