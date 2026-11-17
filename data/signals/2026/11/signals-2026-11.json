@@ -25184,6 +25184,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50520804",
+      "title": "Strengthening the fight against online child sexual abuse",
+      "canonical_url": "https://openai.com/index/strengthening-online-child-safety/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T00:12:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
