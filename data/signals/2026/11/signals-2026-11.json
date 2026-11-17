@@ -24406,6 +24406,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526734",
+      "title": "Directly editing a VLA's weights improved its performance, with no fine-tuning",
+      "canonical_url": "https://www.abdulrahimmirani.com/research/vla-weight-editing",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T08:43:20Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "performance"
+      ]
     }
   ]
 }
