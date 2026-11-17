@@ -24965,6 +24965,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526361",
+      "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes",
+      "canonical_url": "https://www.cbc.ca/lite/story/9.7424473",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:48:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
