@@ -24071,6 +24071,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525619",
+      "title": "Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3",
+      "canonical_url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:20:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
