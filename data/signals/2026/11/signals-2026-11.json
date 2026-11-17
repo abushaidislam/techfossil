@@ -24305,6 +24305,19 @@
         "react",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526341",
+      "title": "The AI Ascent",
+      "canonical_url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:45:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
