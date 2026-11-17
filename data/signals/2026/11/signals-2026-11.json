@@ -24995,6 +24995,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50515151",
+      "title": "Squircles",
+      "canonical_url": "https://linebender.org/wiki/curves/squircle/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:55:10Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
