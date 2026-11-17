@@ -24783,6 +24783,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526927",
+      "title": "US Data Centers' Carbon Footprint Rivals Small European Countries",
+      "canonical_url": "https://www.barrons.com/news/us-data-centers-carbon-footprint-rivals-small-european-countries-0c4a0c1f",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T09:14:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
