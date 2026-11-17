@@ -25139,6 +25139,21 @@
       "technologies": [
         "python"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50524437",
+      "title": "United Halts Flights as It Addresses 'Widespread System Outage'",
+      "canonical_url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T04:34:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
