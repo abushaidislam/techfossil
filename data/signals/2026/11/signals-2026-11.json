@@ -24853,6 +24853,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527326",
+      "title": "When Rounding Breaks Machine Learning",
+      "canonical_url": "https://www.robertj1.com/ai4science/rounding-bugs-in-ml-formulas/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T10:11:00Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "machine learning"
+      ]
     }
   ]
 }
