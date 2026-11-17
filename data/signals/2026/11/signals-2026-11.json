@@ -24727,6 +24727,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525965",
+      "title": "How the Claude Code team thinks about verification",
+      "canonical_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T06:57:30Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
