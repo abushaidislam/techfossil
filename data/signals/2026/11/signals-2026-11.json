@@ -25068,6 +25068,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50519345",
+      "title": "Jolt – Clojure that speaks C",
+      "canonical_url": "https://jolt-lang.net/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T22:23:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
