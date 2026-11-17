@@ -25113,6 +25113,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527938",
+      "title": "Estonia plans to run its government from the cloud in case of a Russian invasion",
+      "canonical_url": "https://www.politico.eu/article/estonias-digital-preppers-have-a-doomsday-backup-plan/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T11:56:23Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud"
+      ]
     }
   ]
 }
