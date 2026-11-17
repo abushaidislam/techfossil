@@ -24117,6 +24117,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50511806",
+      "title": "Preserving 30 years of Salon journalism",
+      "canonical_url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T05:00:11Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
