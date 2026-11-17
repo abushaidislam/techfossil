@@ -23996,6 +23996,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50512296",
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "canonical_url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T06:03:12Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
