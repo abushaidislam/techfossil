@@ -25023,6 +25023,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50513160",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "canonical_url": "https://iter.ca/post/ubo-uxss/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T08:04:48Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
