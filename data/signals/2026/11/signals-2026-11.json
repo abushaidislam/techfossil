@@ -25126,6 +25126,19 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526333",
+      "title": "Geographic Data Science with Python",
+      "canonical_url": "https://geographicdata.science/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:44:45Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "python"
+      ]
     }
   ]
 }
