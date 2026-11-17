@@ -24332,6 +24332,21 @@
         "ai",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50452621",
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "canonical_url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "source": "hacker_news",
+      "published_at": "2026-11-11T18:25:42Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
