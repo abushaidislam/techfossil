@@ -24086,6 +24086,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50507870",
+      "title": "New open source C4 Diagram tool",
+      "canonical_url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T21:55:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
