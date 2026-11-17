@@ -24494,6 +24494,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50520741",
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "canonical_url": "https://fakemetrics.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T00:08:04Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
