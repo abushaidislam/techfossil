@@ -25098,6 +25098,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526072",
+      "title": "The Cyanotype Network",
+      "canonical_url": "https://network.studiowetware.com/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:09:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
