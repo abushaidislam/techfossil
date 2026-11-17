@@ -25197,6 +25197,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526967",
+      "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+      "canonical_url": "https://github.com/yocontra/pulsar",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T09:18:53Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
