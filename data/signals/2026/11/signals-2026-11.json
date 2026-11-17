@@ -24740,6 +24740,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50526091",
+      "title": "Old SaaS Model Is Dead. Software Is a Plug-In. The Hard Part Is Getting Picked",
+      "canonical_url": "https://www.thestateofai.com/news/saas-is-dead-software-plug-in-ai-assistants",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:11:48Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
