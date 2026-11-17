@@ -24290,6 +24290,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-dev-5031092",
+      "title": "Prepare a WebMCP Review Without Submitting the Request",
+      "canonical_url": "https://dev.to/gde/prepare-a-webmcp-review-without-submitting-the-request-j4n",
+      "source": "dev_to",
+      "published_at": "2026-11-14T16:18:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "typescript",
+        "react",
+        "ai"
+      ]
     }
   ]
 }
