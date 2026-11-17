@@ -24449,6 +24449,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50527377",
+      "title": "The Development of Nuclear Weapons [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=YeVoNe54E4M",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T10:18:27Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }

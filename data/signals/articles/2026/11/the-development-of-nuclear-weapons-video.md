@@ -1,0 +1,15 @@
+# The Development of Nuclear Weapons [video]
+
+- **Signal ID:** `sig-2026-1117-hn-50527377`
+- **Source:** `hacker_news`
+- **Category:** Software Engineering
+- **Published:** 2026-11-17T10:18:27Z
+- **Verification:** `verified` (Score: 70/100)
+- **Canonical URL:** [https://www.youtube.com/watch?v=YeVoNe54E4M](https://www.youtube.com/watch?v=YeVoNe54E4M)
+- **Technologies:** `software`, `technology`, `development`
+
+## Summary & Context
+Discussion on Hacker News with 0 comments and 1 points.
+
+---
+*Archived by TechFossil Live Ingestion Daemon on 2026-11-17 10:21:38 UTC*
