@@ -24684,6 +24684,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50516689",
+      "title": "Do Repeat Yourself",
+      "canonical_url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T18:06:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
