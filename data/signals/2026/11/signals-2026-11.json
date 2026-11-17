@@ -24261,6 +24261,20 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50525162",
+      "title": "Flawless UI-UX Skill 3.0.0",
+      "canonical_url": "https://github.com/smokeeaasd/flawless-ui-ux",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T05:35:15Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ux"
+      ]
     }
   ]
 }
