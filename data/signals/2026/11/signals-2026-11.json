@@ -24980,6 +24980,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50490159",
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "canonical_url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T03:36:59Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
