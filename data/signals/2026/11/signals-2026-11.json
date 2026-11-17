@@ -24654,6 +24654,21 @@
         "cloud",
         "ux"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50512235",
+      "title": "What's Next for Nvidia?",
+      "canonical_url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T05:55:55Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
