@@ -24770,6 +24770,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50519744",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "canonical_url": "https://burntsushi.net/jiff/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T22:53:39Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
