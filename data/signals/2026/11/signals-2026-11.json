@@ -24537,6 +24537,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1117-hn-50522980",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "canonical_url": "https://www.cs.cmu.edu/learn/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T02:43:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
