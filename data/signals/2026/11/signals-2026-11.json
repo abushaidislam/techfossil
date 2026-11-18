@@ -25236,6 +25236,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541568",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "canonical_url": "https://trynotched.com/find",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T09:40:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
