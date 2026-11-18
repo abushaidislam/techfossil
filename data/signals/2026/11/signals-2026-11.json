@@ -25667,6 +25667,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50538942",
+      "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+      "canonical_url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T04:08:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
