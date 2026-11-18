@@ -25695,6 +25695,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50515058",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "canonical_url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T13:38:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
