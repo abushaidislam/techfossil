@@ -25920,6 +25920,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542654",
+      "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+      "canonical_url": "https://news.ycombinator.com/item?id=50542654",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T12:40:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
