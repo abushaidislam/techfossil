@@ -25553,6 +25553,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50535208",
+      "title": "Who Builds the Machines That Build the Machines?",
+      "canonical_url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T23:45:39Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
