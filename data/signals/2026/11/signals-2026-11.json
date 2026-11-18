@@ -26105,6 +26105,21 @@
         "ui",
         "vulnerability"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50539747",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "canonical_url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T05:32:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
