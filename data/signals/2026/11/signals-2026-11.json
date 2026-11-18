@@ -25737,6 +25737,19 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50521870",
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "canonical_url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T01:29:17Z",
+      "category": "Frontend & UI",
+      "importance_score": 77,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
