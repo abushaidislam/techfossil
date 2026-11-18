@@ -25308,6 +25308,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50535885",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "canonical_url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T00:25:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
