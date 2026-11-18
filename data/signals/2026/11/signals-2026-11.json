@@ -25976,6 +25976,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50536438",
+      "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
+      "canonical_url": "https://twitter.com/arcprize/status/2122751233442156678",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T00:59:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
