@@ -25849,6 +25849,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50537962",
+      "title": "Human.md",
+      "canonical_url": "https://www.human-md.ai/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T02:47:36Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
