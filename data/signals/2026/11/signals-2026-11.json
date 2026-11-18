@@ -26193,6 +26193,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542229",
+      "title": "JavaScript vs. Java",
+      "canonical_url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:28:33Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "javascript"
+      ]
     }
   ]
 }
