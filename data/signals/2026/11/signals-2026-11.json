@@ -26178,6 +26178,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541110",
+      "title": "Congress can but refuses to fix the antibiotic market",
+      "canonical_url": "https://davidngo1562.substack.com/p/pioneering-antimicrobial-subscriptions",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T08:30:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
