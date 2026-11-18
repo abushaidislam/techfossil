@@ -25349,6 +25349,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50540557",
+      "title": "The Tech Leadership Blueprint: a practical handbook for engineering leaders",
+      "canonical_url": "https://www.amazon.com/Tech-Leadership-Blueprint-battle-tested-organizations-ebook/dp/B0HRHWZ4JC",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T07:05:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
