@@ -25961,6 +25961,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50537832",
+      "title": "Computer Graphics from Scratch",
+      "canonical_url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T02:37:53Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
