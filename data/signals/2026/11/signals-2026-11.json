@@ -26266,6 +26266,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542264",
+      "title": "Why Fibonacci?",
+      "canonical_url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:35:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
