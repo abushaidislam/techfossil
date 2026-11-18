@@ -25450,6 +25450,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50523291",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "canonical_url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T03:07:43Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
