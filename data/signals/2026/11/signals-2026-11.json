@@ -25765,6 +25765,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50499520",
+      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+      "canonical_url": "https://alistair.sh/thenables",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T00:35:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
