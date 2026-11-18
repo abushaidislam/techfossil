@@ -25378,6 +25378,19 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542084",
+      "title": "Microsoft's agent-framework PyPI package Compromised with Credential Stealer",
+      "canonical_url": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:02:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
