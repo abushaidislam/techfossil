@@ -25334,6 +25334,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541665",
+      "title": "How Warp Speed Works (2023)",
+      "canonical_url": "https://science.howstuffworks.com/warp-speed.htm",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T09:54:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
