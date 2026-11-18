@@ -26120,6 +26120,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542363",
+      "title": "Why They Are Marrying Younger (1955)",
+      "canonical_url": "https://www.nytimes.com/1955/01/30/archives/why-they-are-marrying-younger-uncertainties-about-the-future-might.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:53:09Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
