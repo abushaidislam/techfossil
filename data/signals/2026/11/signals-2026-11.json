@@ -26251,6 +26251,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542088",
+      "title": "Inside the $900B data centre bet behind Anthropic's IPO",
+      "canonical_url": "https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:02:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
