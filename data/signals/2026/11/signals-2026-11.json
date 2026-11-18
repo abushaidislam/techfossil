@@ -25864,6 +25864,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50526152",
+      "title": "Running coding agents without handing them my credentials",
+      "canonical_url": "https://blog.antonio.cx/running-agents-with-lend",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T07:18:56Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
