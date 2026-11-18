@@ -25523,6 +25523,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50523601",
+      "title": "BugMeNot has closed",
+      "canonical_url": "https://www.bugmenot.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T03:32:17Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
