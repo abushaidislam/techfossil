@@ -26281,6 +26281,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50543214",
+      "title": "From 181 bytes: nixpkgs' full-source bootstrap",
+      "canonical_url": "https://fzakaria.github.io/from-181-bytes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T14:03:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
