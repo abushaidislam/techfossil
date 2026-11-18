@@ -25680,6 +25680,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50519354",
+      "title": "Frame – 31.5\" color ePaper display",
+      "canonical_url": "https://trmnl.com/blog/introducing-frame",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T22:23:22Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
