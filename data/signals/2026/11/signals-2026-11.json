@@ -26165,6 +26165,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541328",
+      "title": "Mullet: The Skill for Job Security",
+      "canonical_url": "https://github.com/russell-dot-js/mullet",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T09:03:28Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
