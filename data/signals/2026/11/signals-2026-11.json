@@ -25637,6 +25637,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50514470",
+      "title": "How to make almost anything",
+      "canonical_url": "https://pub.cba.mit.edu/863.26/site/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T11:50:37Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
