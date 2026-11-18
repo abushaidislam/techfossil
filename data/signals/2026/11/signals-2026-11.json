@@ -25279,6 +25279,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50523784",
+      "title": "Spamhaus new email sender requirements in November",
+      "canonical_url": "https://www.spamhaus.org/sender-guidelines/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T03:47:19Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
