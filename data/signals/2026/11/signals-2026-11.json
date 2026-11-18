@@ -25480,6 +25480,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50539610",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "canonical_url": "https://github.com/microsoft/onnxruntime",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T05:18:49Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
