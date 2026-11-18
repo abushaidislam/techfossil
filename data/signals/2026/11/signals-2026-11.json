@@ -26206,6 +26206,21 @@
       "technologies": [
         "javascript"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50530114",
+      "title": "My Empire of Dirt",
+      "canonical_url": "https://geohot.github.io//blog/jekyll/update/2026/11/17/my-empire-of-dirt.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T17:39:20Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
