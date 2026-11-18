@@ -25821,6 +25821,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541094",
+      "title": "Decade of atmospheric data from Curiosity hints at amounts of surface water",
+      "canonical_url": "https://phys.org/news/2026-11-decade-atmospheric-nasa-curiosity-rover.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T08:26:39Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
