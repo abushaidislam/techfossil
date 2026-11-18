@@ -25251,6 +25251,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50522563",
+      "title": "Rust changed me as a developer",
+      "canonical_url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T02:16:50Z",
+      "category": "Backend & APIs",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
