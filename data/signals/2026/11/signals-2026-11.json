@@ -25321,6 +25321,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541774",
+      "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+      "canonical_url": "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T10:10:50Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
