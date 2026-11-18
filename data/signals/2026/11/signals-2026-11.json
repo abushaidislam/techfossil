@@ -26019,6 +26019,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50543061",
+      "title": "Guillotine DJ – Announcement Trailer",
+      "canonical_url": "https://www.youtube.com/watch?v=pma19x8XSFs",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T13:45:47Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
