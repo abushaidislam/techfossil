@@ -25264,6 +25264,21 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50532086",
+      "title": "We don't need more apps, we need better open source",
+      "canonical_url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T20:45:36Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
