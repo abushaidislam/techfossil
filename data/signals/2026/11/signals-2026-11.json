@@ -25933,6 +25933,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542818",
+      "title": "Nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+      "canonical_url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T13:04:46Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
