@@ -25836,6 +25836,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50503492",
+      "title": "Fun with Constrained Programming",
+      "canonical_url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T08:45:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
