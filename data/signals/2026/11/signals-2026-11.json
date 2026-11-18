@@ -25364,6 +25364,20 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-dev-5007369",
+      "title": "My AI agent kept quoting a number I had already corrected. What has yours remembered wrong?",
+      "canonical_url": "https://dev.to/heinrichneb/my-ai-agent-kept-quoting-a-number-i-had-already-corrected-what-has-yours-remembered-wrong-34d0",
+      "source": "dev_to",
+      "published_at": "2026-11-16T22:55:58Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
