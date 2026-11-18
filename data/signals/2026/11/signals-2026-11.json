@@ -25391,6 +25391,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541619",
+      "title": "Claude was trained on protein sequences at scale",
+      "canonical_url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T09:47:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "claude",
+        "ai"
+      ]
     }
   ]
 }
