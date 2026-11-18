@@ -25652,6 +25652,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541755",
+      "title": "A.I.'S People-Pleasing Problem",
+      "canonical_url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T10:07:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
