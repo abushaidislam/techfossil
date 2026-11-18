@@ -25877,6 +25877,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541790",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "canonical_url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T10:14:04Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
