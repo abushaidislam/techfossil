@@ -25538,6 +25538,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50501829",
+      "title": "Duality of Quadrilaterals via Quaternions [pdf]",
+      "canonical_url": "https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1193&context=surp",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T04:49:20Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
