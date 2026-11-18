@@ -26150,6 +26150,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541296",
+      "title": "Sharpe Ratio from First Principles",
+      "canonical_url": "https://shivanshuag.com/blog/sharpe-ratio-from-first-principles/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T08:58:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
