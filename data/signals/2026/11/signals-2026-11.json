@@ -25890,6 +25890,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50540577",
+      "title": "Waymo Pulls Its Cars from All U.S. Freeways Temporarily",
+      "canonical_url": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T07:07:40Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
