@@ -26046,6 +26046,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542671",
+      "title": "Reverse engineering STC ISP protocol. (2012)",
+      "canonical_url": "https://ncrmnt.org/2011/10/14/reverse-engeneering-stc-51-microcontroller-isp-protocol/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T12:42:29Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
