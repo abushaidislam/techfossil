@@ -25905,6 +25905,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50534631",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "canonical_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T23:12:06Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
