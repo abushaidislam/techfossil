@@ -25581,6 +25581,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50512779",
+      "title": "Nimony: A New Compiler for Nim",
+      "canonical_url": "https://nimony.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T07:05:22Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
