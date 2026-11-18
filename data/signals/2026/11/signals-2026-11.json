@@ -26236,6 +26236,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542015",
+      "title": "Cover Your Tracks See how trackers view the browser",
+      "canonical_url": "https://coveryourtracks.eff.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T10:51:24Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
