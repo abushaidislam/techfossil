@@ -26033,6 +26033,19 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541729",
+      "title": "Show HN: Project badges to show LLM preferences",
+      "canonical_url": "https://agentsp.lease/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T10:02:55Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
