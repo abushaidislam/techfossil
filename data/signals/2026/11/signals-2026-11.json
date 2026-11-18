@@ -25495,6 +25495,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50509456",
+      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+      "canonical_url": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T00:40:57Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
