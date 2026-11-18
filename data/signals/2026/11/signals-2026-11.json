@@ -25778,6 +25778,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50538994",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "canonical_url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T04:13:34Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
