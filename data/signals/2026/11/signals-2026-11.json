@@ -26135,6 +26135,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50535992",
+      "title": "Phrack 73 Released",
+      "canonical_url": "https://phrack.org/issues/73/introduction_md",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T00:31:25Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
