@@ -25989,6 +25989,21 @@
       "technologies": [
         "gpt"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50538841",
+      "title": "California bans Waymo autonomous vehicles from state freeways",
+      "canonical_url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T04:00:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
