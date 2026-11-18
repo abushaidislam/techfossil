@@ -26296,6 +26296,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50496787",
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "canonical_url": "https://github.com/ZigaoWang/zigzag",
+      "source": "hacker_news",
+      "published_at": "2026-11-14T19:17:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
