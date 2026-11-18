@@ -25948,6 +25948,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50543212",
+      "title": "Automated LLM Fine-Tuning: GPU Selection, Dataset Analysis and Feedback",
+      "canonical_url": "https://sigvard.ai",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T14:03:05Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
