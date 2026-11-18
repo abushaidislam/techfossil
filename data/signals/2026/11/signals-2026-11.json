@@ -25594,6 +25594,21 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50539039",
+      "title": "Latent Lattice Language Models",
+      "canonical_url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T04:17:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
