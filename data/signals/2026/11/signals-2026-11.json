@@ -25722,6 +25722,21 @@
         "agent",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50533270",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "canonical_url": "https://github.com/RunanywhereAI/trnrt",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T22:01:04Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "aws",
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
