@@ -25566,6 +25566,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542539",
+      "title": "10k sounds, 64 mixer slots: how much work can a game audio engine skip?",
+      "canonical_url": "https://ssenthilnathan3.github.io/blog/sonic/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T12:24:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
