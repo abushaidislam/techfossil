@@ -25624,6 +25624,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50541430",
+      "title": "Microsoft disabled API permissions seemingly overnight",
+      "canonical_url": "https://news.ycombinator.com/item?id=50541430",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T09:17:19Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
