@@ -25708,6 +25708,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1118-hn-50542112",
+      "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
+      "canonical_url": "https://zenodo.org/records/23778866",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T11:06:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai"
+      ]
     }
   ]
 }
