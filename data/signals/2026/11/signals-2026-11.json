@@ -26479,6 +26479,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5060325",
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "canonical_url": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02",
+      "source": "dev_to",
+      "published_at": "2026-11-17T23:18:41Z",
+      "category": "Systems & Architecture",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "memory",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
