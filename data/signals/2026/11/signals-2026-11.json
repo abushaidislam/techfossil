@@ -26549,6 +26549,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5060293",
+      "title": "Gemma 4 on a Hosted Colab TPU: The QAT Repack, Served in Two Minutes",
+      "canonical_url": "https://dev.to/gde/gemma-4-on-a-hosted-colab-tpu-the-qat-repack-served-in-two-minutes-360j",
+      "source": "dev_to",
+      "published_at": "2026-11-18T13:58:54Z",
+      "category": "Software Engineering",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
