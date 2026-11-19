@@ -26425,6 +26425,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50546344",
+      "title": "SiliconForest: An open operating system on Apple Silicon running Mac apps",
+      "canonical_url": "https://github.com/chriskearney/siliconforest",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T19:54:28Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
