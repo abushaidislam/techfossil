@@ -26889,6 +26889,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50508356",
+      "title": "New FreeBSD Pkgbase(8) Tool",
+      "canonical_url": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
+      "source": "hacker_news",
+      "published_at": "2026-11-15T22:46:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
