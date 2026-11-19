@@ -26850,6 +26850,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50558795",
+      "title": "A practical guide to writing job descriptions for early-stage startups",
+      "canonical_url": "https://lobox.com/articles/how-to-write-a-job-description-with-examples",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T17:30:34Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
