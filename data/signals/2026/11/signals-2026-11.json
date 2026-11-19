@@ -26662,6 +26662,21 @@
         "agent",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50551398",
+      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "canonical_url": "https://searchbrowser.app/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T02:04:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
