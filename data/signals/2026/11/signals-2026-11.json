@@ -26606,6 +26606,20 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5052303",
+      "title": "Why 'You Are a 10x Coder' Fails: The METR -19% Paradox, MIT CSAIL's Weight-Space Programming, and the - Pruning Law",
+      "canonical_url": "https://dev.to/gde/why-you-are-a-10x-coder-fails-the-metr-19-paradox-mit-csails-weight-space-programming-and-3enf",
+      "source": "dev_to",
+      "published_at": "2026-11-16T23:49:34Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
