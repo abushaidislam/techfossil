@@ -26453,6 +26453,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50554641",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "canonical_url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T06:57:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 73,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
