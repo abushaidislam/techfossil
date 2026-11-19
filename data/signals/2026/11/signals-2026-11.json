@@ -26466,6 +26466,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5059675",
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "canonical_url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+      "source": "dev_to",
+      "published_at": "2026-11-18T18:32:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
