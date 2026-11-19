@@ -26863,6 +26863,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50554908",
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "canonical_url": "https://arxiv.org/abs/2607.29378",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T07:27:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
