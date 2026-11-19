@@ -26778,6 +26778,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50530163",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "canonical_url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T17:45:51Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
