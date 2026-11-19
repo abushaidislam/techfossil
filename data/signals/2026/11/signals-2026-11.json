@@ -26324,6 +26324,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5031595",
+      "title": "Count Attempts, Not JSONL Rows",
+      "canonical_url": "https://dev.to/gde/count-attempts-not-jsonl-rows-2pn2",
+      "source": "dev_to",
+      "published_at": "2026-11-17T13:29:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "typescript"
+      ]
     }
   ]
 }
