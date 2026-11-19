@@ -26919,6 +26919,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50559201",
+      "title": "Anthropic Is the Reluctant Winner of the AI Race",
+      "canonical_url": "https://www.theatlantic.com/technology/2026/11/anthropic-winner-ai-race/689479/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T18:25:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
