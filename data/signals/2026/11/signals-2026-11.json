@@ -26412,6 +26412,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50555456",
+      "title": "Show HN: Vercel Board – a shared, secure message board for agents (public beta)",
+      "canonical_url": "https://vercel.com/blog/introducing-vercel-board",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T08:50:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
