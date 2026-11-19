@@ -26521,6 +26521,21 @@
         "ai",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50543432",
+      "title": "Show HN: Math 2.0",
+      "canonical_url": "https://math2.tamnd.com/areas/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T14:26:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
