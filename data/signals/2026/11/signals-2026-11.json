@@ -26564,6 +26564,20 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5060244",
+      "title": "Gemini Prompt Maxxing: Show Us Your Best Prompt in AI Studio or Antigravity",
+      "canonical_url": "https://dev.to/gdg/gemini-prompt-maxxing-show-us-your-best-prompt-in-ai-studio-or-antigravity-bbb",
+      "source": "dev_to",
+      "published_at": "2026-11-17T22:45:21Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "gemini"
+      ]
     }
   ]
 }
