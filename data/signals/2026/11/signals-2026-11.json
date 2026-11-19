@@ -26876,6 +26876,19 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50532515",
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "canonical_url": "https://quebec.yarn.so",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T21:16:45Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
