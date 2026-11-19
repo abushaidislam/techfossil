@@ -26536,6 +26536,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50558112",
+      "title": "Nvidia stops shipping US-approved AI chips to China",
+      "canonical_url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T15:59:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
