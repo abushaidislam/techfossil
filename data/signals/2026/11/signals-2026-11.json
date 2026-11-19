@@ -26397,6 +26397,21 @@
       "technologies": [
         "cloud"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50556585",
+      "title": "PayByPhone is stealing $50M/year from their users",
+      "canonical_url": "https://www.youtube.com/watch?v=i8mrwS5QZQE",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T12:06:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
