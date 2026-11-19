@@ -26677,6 +26677,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50548038",
+      "title": "SuperEMeans: Making e-means 3× faster",
+      "canonical_url": "https://www.lkuffo.com/superemeans/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T22:09:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
