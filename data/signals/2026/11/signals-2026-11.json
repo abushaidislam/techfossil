@@ -26692,6 +26692,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5060294",
+      "title": "The Colab MCP Endpoint From Claude Code: Set It Up, Test It, Run a Notebook on a TPU",
+      "canonical_url": "https://dev.to/gde/the-colab-mcp-endpoint-from-claude-code-set-it-up-test-it-run-a-notebook-on-a-tpu-4ck9",
+      "source": "dev_to",
+      "published_at": "2026-11-18T13:58:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
