@@ -26750,6 +26750,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50548991",
+      "title": "CrossPoint Reader",
+      "canonical_url": "https://crosspointreader.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T23:14:31Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
