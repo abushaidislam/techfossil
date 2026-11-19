@@ -26720,6 +26720,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50557633",
+      "title": "0.87.0 – Boot without the card, and a KVM switch – ESP-KVM",
+      "canonical_url": "https://espkvm.io/blog/0-87-0-boot-without-the-card/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T14:52:49Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
