@@ -26620,6 +26620,19 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50558713",
+      "title": "What AI at Work Costs",
+      "canonical_url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T17:21:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
