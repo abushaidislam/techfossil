@@ -26367,6 +26367,23 @@
         "ai",
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5069099",
+      "title": "From Prototype to Production: Building AI Agents with the Claude Platform on Google Cloud",
+      "canonical_url": "https://dev.to/googleai/from-prototype-to-production-building-ai-agents-with-the-claude-platform-on-google-cloud-ap7",
+      "source": "dev_to",
+      "published_at": "2026-11-19T00:24:39Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "cloud",
+        "ui",
+        "claude",
+        "agent"
+      ]
     }
   ]
 }
