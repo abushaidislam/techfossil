@@ -26507,6 +26507,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5031598",
+      "title": "Retrieval Ran First. Was Its Result Actually Ready?",
+      "canonical_url": "https://dev.to/gde/retrieval-ran-first-was-its-result-actually-ready-4oc2",
+      "source": "dev_to",
+      "published_at": "2026-11-18T15:29:00Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "typescript"
+      ]
     }
   ]
 }
