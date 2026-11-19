@@ -26945,6 +26945,19 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50554941",
+      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+      "canonical_url": "https://github.com/Ri4dH/failtrace",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T07:30:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
