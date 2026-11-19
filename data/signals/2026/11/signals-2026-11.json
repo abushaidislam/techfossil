@@ -26735,6 +26735,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1119-hn-50511874",
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "canonical_url": "https://visualbasic.world/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T05:08:30Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
