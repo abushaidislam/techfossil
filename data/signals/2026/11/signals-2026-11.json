@@ -26646,6 +26646,22 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1119-dev-5050836",
+      "title": "Gemini Enterprise: A platform for connecting enterprise agents, data, and applications",
+      "canonical_url": "https://dev.to/gde/gemini-enterprise-a-platform-for-connecting-enterprise-agents-data-and-applications-4g6d",
+      "source": "dev_to",
+      "published_at": "2026-11-16T21:44:36Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "agent",
+        "gemini"
+      ]
     }
   ]
 }
