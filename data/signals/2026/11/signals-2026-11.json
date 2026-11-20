@@ -28231,6 +28231,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570117",
+      "title": "Germany in real time",
+      "canonical_url": "https://adlerlicht.de",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T10:20:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
