@@ -27674,6 +27674,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569889",
+      "title": "EU Sovereign Tech Fund Survey",
+      "canonical_url": "https://survey.sovereign.tech/eustf",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:45:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
