@@ -27487,6 +27487,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569075",
+      "title": "Thousands of UK fridges secured in secret nationwide operation",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:38:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
