@@ -27874,6 +27874,21 @@
         "ui",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50557661",
+      "title": "Do not buy RAM, compress",
+      "canonical_url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T14:56:47Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
