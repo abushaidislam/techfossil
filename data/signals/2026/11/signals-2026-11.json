@@ -27042,6 +27042,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5069322",
+      "title": "Serverless Gemma 4: E2B on a Lambda GPU Function, with Google's QAT Weights and Drafter",
+      "canonical_url": "https://dev.to/gde/serverless-gemma-4-e2b-on-a-lambda-gpu-function-with-googles-qat-weights-and-drafter-fh4",
+      "source": "dev_to",
+      "published_at": "2026-11-19T01:06:01Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "serverless",
+        "ai"
+      ]
     }
   ]
 }
