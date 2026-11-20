@@ -27702,6 +27702,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569032",
+      "title": "'Companies don't care about you' is a parse error",
+      "canonical_url": "https://blog.oliverbalfour.com/2026/11/20/companies-dont-care-about-you.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:32:14Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
