@@ -27945,6 +27945,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50548004",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "canonical_url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T22:06:21Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "cve"
+      ]
     }
   ]
 }
