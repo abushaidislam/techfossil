@@ -27280,6 +27280,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50517929",
+      "title": "My Emacs 31 contributions",
+      "canonical_url": "https://xenodium.com/my-emacs-31-contributions",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T20:26:10Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
