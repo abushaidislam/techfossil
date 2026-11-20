@@ -27153,6 +27153,21 @@
         "gemini",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568277",
+      "title": "In-place migration to GKE Dataplane V2",
+      "canonical_url": "https://cloud.google.com/blog/products/networking/gke-dataplane-v2-in-place-migration",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T05:51:33Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
