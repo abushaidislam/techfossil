@@ -27295,6 +27295,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569194",
+      "title": "Show HN: Circled – a calendar for planning my week and making plans with friends",
+      "canonical_url": "https://getcircledapp.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:57:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
