@@ -27338,6 +27338,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50548808",
+      "title": "Teaching robots to carve marble sculptures",
+      "canonical_url": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T23:03:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
