@@ -27111,6 +27111,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568353",
+      "title": "Show HN: Bot-inator – Mac agent that writes its own tools, runs them sandboxed",
+      "canonical_url": "https://github.com/Bforsyth1234/bot-inator",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T06:00:40Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
