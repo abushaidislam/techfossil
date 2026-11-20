@@ -27830,6 +27830,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50543989",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "canonical_url": "https://energy-based-reasoners.github.io/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T15:29:32Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
