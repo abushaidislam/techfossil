@@ -27902,6 +27902,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50550096",
+      "title": "The Magic of Partial Evaluation",
+      "canonical_url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T00:29:03Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
