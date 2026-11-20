@@ -27383,6 +27383,22 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5075286",
+      "title": "Exploring Decision Models, Part 1: Putting Gemini Decision 1 to the Test",
+      "canonical_url": "https://dev.to/googleai/exploring-decision-models-part-1-putting-gemini-decision-1-to-the-test-50f0",
+      "source": "dev_to",
+      "published_at": "2026-11-19T16:00:34Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "cloud",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
