@@ -28100,6 +28100,19 @@
       "technologies": [
         "kernel"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570274",
+      "title": "Animated Steller's Jay, a beautiful AI benchmark",
+      "canonical_url": "https://grady.dev/projects/steller/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T10:43:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
