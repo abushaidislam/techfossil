@@ -27196,6 +27196,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5076015",
+      "title": "5 agent orchestration patterns backed by research",
+      "canonical_url": "https://dev.to/googlecloud/5-agent-orchestration-patterns-backed-by-research-2l43",
+      "source": "dev_to",
+      "published_at": "2026-11-19T19:30:28Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 90,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "agent",
+        "claude"
+      ]
     }
   ]
 }
