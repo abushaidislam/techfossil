@@ -27414,6 +27414,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569850",
+      "title": "Decision model for robot status 90% less time and money",
+      "canonical_url": "https://www.rightnowai.co/rightnow",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:39:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
