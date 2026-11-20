@@ -28158,6 +28158,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50571004",
+      "title": "Show HN: Isu-bench – coding agents tune an unseen web service with 11 load tests",
+      "canonical_url": "https://isu-bench.trasta.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T12:46:09Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
