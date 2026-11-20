@@ -27097,6 +27097,20 @@
         "llm",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-4977833",
+      "title": "NYC: Escape the IVR at Twilio Assemble (Dec 8, Brooklyn)",
+      "canonical_url": "https://dev.to/twilio/nyc-escape-the-ivr-at-twilio-assemble-dec-8-brooklyn-2dmb",
+      "source": "dev_to",
+      "published_at": "2026-11-19T23:00:38Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 88,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
