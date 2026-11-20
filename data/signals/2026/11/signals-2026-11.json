@@ -28087,6 +28087,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568169",
+      "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+      "canonical_url": "https://stass.github.io/erXos/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T05:39:34Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "kernel"
+      ]
     }
   ]
 }
