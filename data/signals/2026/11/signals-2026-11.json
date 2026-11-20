@@ -27932,6 +27932,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50542441",
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "canonical_url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T12:08:25Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
