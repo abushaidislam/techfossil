@@ -27310,6 +27310,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5074893",
+      "title": "Maintaining open source projects up to date with Renovate and Antigravity",
+      "canonical_url": "https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj",
+      "source": "dev_to",
+      "published_at": "2026-11-19T14:31:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 96,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
