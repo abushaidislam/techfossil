@@ -27616,6 +27616,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568606",
+      "title": "Perceptle",
+      "canonical_url": "https://perceptle.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T06:33:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
