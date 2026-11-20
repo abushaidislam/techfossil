@@ -27545,6 +27545,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50553843",
+      "title": "Anthropic prices initial public offering",
+      "canonical_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T05:30:09Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
