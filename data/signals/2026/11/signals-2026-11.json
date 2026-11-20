@@ -27368,6 +27368,21 @@
         "docker",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50554076",
+      "title": "Pushing WireGuard on macOS to 5 Gbit/s",
+      "canonical_url": "https://www.firezone.dev/blog/apple-client-performance",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T05:57:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
