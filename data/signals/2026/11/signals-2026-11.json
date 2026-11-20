@@ -27717,6 +27717,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50563148",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "canonical_url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T23:30:44Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "claude"
+      ]
     }
   ]
 }
