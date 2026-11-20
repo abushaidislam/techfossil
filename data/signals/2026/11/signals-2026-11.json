@@ -28045,6 +28045,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569653",
+      "title": "Show HN: I made the ultimate resource for learning about space",
+      "canonical_url": "https://farbound.fyi/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:04:11Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
