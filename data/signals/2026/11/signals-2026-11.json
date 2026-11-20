@@ -27773,6 +27773,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568006",
+      "title": "Silicon Valley Is Suffering from Model Collapse",
+      "canonical_url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T05:21:50Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
