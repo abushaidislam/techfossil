@@ -27985,6 +27985,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50567604",
+      "title": "Waymo stalls in high San Francisco floodwaters during storm",
+      "canonical_url": "https://ktla.com/news/california/waymo-stalls-san-francisco-floodwaters/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T04:46:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
