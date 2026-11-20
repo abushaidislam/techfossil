@@ -27745,6 +27745,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569622",
+      "title": "Show HN: Google Workspace / Microsoft 365 alternative",
+      "canonical_url": "https://cloud.mailflare.co",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T08:59:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
