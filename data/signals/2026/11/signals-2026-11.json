@@ -27070,6 +27070,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568114",
+      "title": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
+      "canonical_url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T05:34:03Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
