@@ -27889,6 +27889,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569694",
+      "title": "Stanford AI100 – One Hundred Year Study on Artificial Intelligence – 2026 Report",
+      "canonical_url": "https://ai100.stanford.edu/reports/2026-report",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:11:43Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
