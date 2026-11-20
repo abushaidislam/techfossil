@@ -27530,6 +27530,21 @@
         "ai",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50523377",
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "canonical_url": "https://github.com/aryamandarda/tamserve",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T03:14:39Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
