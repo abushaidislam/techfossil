@@ -27661,6 +27661,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570437",
+      "title": "Foundering of the sailing yacht Bayesian with the loss of seven lives",
+      "canonical_url": "https://www.gov.uk/maib-reports/foundering-of-the-sailing-yacht-bayesian-with-the-loss-of-seven-lives",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T11:12:37Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
