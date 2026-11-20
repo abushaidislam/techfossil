@@ -27971,6 +27971,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570766",
+      "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
+      "canonical_url": "https://github.com/XiaoMi/bsworld",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T12:06:42Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
