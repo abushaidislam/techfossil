@@ -27399,6 +27399,21 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569774",
+      "title": "Astronomers discover remarkable 3-star system just 28 light-years from Earth",
+      "canonical_url": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:25:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
