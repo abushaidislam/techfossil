@@ -28143,6 +28143,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50549188",
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "canonical_url": "https://news.ycombinator.com/item?id=50549188",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T23:26:28Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
