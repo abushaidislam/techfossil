@@ -28171,6 +28171,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50517657",
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "canonical_url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T19:58:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
