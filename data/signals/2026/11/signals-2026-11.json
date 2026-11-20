@@ -26958,6 +26958,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5076355",
+      "title": "Publishing Markdown to a LinkedIn Article from an Agent Skill",
+      "canonical_url": "https://dev.to/gde/publishing-markdown-to-a-linkedin-article-from-an-agent-skill-1hbj",
+      "source": "dev_to",
+      "published_at": "2026-11-19T19:45:08Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 89,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
