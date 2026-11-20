@@ -27573,6 +27573,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50548021",
+      "title": "Seven new models at scalable price-performance",
+      "canonical_url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T22:08:24Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "performance"
+      ]
     }
   ]
 }
