@@ -28128,6 +28128,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569312",
+      "title": "User namespaces and file capabilities = trouble",
+      "canonical_url": "https://lwn.net/Articles/1103429/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T08:11:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
