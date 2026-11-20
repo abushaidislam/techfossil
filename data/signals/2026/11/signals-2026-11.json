@@ -27601,6 +27601,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569221",
+      "title": "Show HN: SlotVFX – 2D game effects and sequences for Pixi, Phaser and Cocos",
+      "canonical_url": "https://slotvfx.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:59:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
