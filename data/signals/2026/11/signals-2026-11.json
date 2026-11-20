@@ -27241,6 +27241,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569985",
+      "title": "GIMP now has UI tests",
+      "canonical_url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T10:00:24Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
