@@ -27000,6 +27000,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50562442",
+      "title": "Aviator: HubSpot's Agent Harness",
+      "canonical_url": "https://hubspot.engineering/blog/aviator-hubspots-agent-harness/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T22:42:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
