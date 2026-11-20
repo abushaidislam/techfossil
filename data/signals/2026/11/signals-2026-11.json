@@ -28060,6 +28060,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50571019",
+      "title": "Is Building in Public Dead?",
+      "canonical_url": "https://pudlog.substack.com/p/is-building-in-public-dead",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T12:48:28Z",
+      "category": "Frontend & UI",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
