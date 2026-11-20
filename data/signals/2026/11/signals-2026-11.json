@@ -27254,6 +27254,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5076491",
+      "title": "What team-wide AI adoption actually takes",
+      "canonical_url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh",
+      "source": "dev_to",
+      "published_at": "2026-11-20T00:36:25Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
