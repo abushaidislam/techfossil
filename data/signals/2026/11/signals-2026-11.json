@@ -27817,6 +27817,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568983",
+      "title": "WebTape – Record browser demos to GIF/MP4 from a plain-text script",
+      "canonical_url": "https://github.com/zhushen12580/webtape",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:24:45Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
