@@ -27057,6 +27057,19 @@
         "serverless",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569954",
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "canonical_url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T09:56:15Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
