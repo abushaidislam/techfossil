@@ -27730,6 +27730,21 @@
       "technologies": [
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569478",
+      "title": "The Army Is Detonating a Toxic \"Lead Bomb\" in Iowa. It Forgot to Warn People",
+      "canonical_url": "https://www.motherjones.com/politics/2026/11/army-military-iowa-lead-azide-toxic-detonation-dust-health/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T08:35:52Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
