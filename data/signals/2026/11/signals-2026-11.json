@@ -27083,6 +27083,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5068570",
+      "title": "Thinking On or Off? Gemma 4 E4B on an 8 GB RTX 3050",
+      "canonical_url": "https://dev.to/gde/thinking-on-or-off-gemma-4-e4b-on-an-8-gb-rtx-3050-5d5",
+      "source": "dev_to",
+      "published_at": "2026-11-19T15:19:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 94,
+      "verification_status": "verified",
+      "technologies": [
+        "llm",
+        "ai"
+      ]
     }
   ]
 }
