@@ -27646,6 +27646,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50524227",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "canonical_url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T04:19:31Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
