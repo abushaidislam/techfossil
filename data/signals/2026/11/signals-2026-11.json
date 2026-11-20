@@ -27631,6 +27631,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569185",
+      "title": "Show HN: A collaborative music making game that teaches music as you play",
+      "canonical_url": "https://jam.resonantdsp.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T07:55:05Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
