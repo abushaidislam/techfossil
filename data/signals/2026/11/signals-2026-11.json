@@ -27459,6 +27459,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568548",
+      "title": "ChatGPT for SNES",
+      "canonical_url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T06:25:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gpt"
+      ]
     }
   ]
 }
