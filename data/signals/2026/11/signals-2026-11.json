@@ -27226,6 +27226,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50562319",
+      "title": "Jensen Huang's daughter Madison insulted employees and drove top talent away",
+      "canonical_url": "https://nypost.com/2026/11/17/business/jensen-huangs-daughter-madison-insulted-workers-reports/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T22:34:02Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
