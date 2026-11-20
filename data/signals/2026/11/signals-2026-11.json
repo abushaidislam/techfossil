@@ -27502,6 +27502,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570496",
+      "title": "I benchmarked 22 local LLMs looking for the Qwen 3.8 35B we didn't get",
+      "canonical_url": "https://sevangelatos.github.io/spiruxbench-results/blog/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T11:24:48Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "llm"
+      ]
     }
   ]
 }
