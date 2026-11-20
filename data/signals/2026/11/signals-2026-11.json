@@ -27429,6 +27429,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50570206",
+      "title": "Show HN: A Personality Test for Engineers",
+      "canonical_url": "https://engtest.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T10:32:26Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
