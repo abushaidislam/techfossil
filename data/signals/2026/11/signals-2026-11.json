@@ -27211,6 +27211,21 @@
         "agent",
         "claude"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50547048",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "canonical_url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T20:56:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
