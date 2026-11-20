@@ -27124,6 +27124,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5031601",
+      "title": "Tool Names Are Identifiers. Don't Autocorrect Them.",
+      "canonical_url": "https://dev.to/gde/tool-names-are-identifiers-dont-autocorrect-them-33g9",
+      "source": "dev_to",
+      "published_at": "2026-11-19T16:35:00Z",
+      "category": "Security & Privacy",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "security",
+        "ai",
+        "typescript"
+      ]
     }
   ]
 }
