@@ -27845,6 +27845,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50510385",
+      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "canonical_url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "source": "hacker_news",
+      "published_at": "2026-11-16T02:30:42Z",
+      "category": "Software Engineering",
+      "importance_score": 81,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
