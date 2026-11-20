@@ -27139,6 +27139,20 @@
         "ai",
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5076226",
+      "title": "Which Gemini Model Should You Use? Neon, Argon, Hydrogen, Carbon, Flash or Gemma. It Depends.",
+      "canonical_url": "https://dev.to/gde/which-gemini-model-should-you-use-neon-argon-hydrogen-carbon-flash-or-gemma-it-depends-ano",
+      "source": "dev_to",
+      "published_at": "2026-11-19T19:41:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 91,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini",
+        "ai"
+      ]
     }
   ]
 }
