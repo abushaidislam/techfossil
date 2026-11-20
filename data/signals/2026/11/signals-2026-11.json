@@ -27168,6 +27168,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50560822",
+      "title": "Everything you need to survive and rebuild society",
+      "canonical_url": "https://lastbook.org/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T20:47:18Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
