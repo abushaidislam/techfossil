@@ -28030,6 +28030,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50554935",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "canonical_url": "https://ut2004.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T07:29:29Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
