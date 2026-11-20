@@ -27323,6 +27323,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568404",
+      "title": "More than 1k French riot police call in sick",
+      "canonical_url": "https://www.thetimes.com/world/europe/article/french-police-off-sick-after-protests-7qx3l6k20",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T06:07:42Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
