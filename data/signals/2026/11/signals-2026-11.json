@@ -27181,6 +27181,21 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50544821",
+      "title": "Show HN: Type Fighter 2",
+      "canonical_url": "https://typefighter2.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T17:11:53Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
