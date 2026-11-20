@@ -28186,6 +28186,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50562101",
+      "title": "Google Chrome dev team declares bug report bankruptcy (2012)",
+      "canonical_url": "https://blog.plover.com/tech/bug-reports.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T22:20:12Z",
+      "category": "Software Engineering",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
