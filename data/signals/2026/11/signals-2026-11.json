@@ -28216,6 +28216,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50569991",
+      "title": "The Wicked Reason Removing Code Beats Better Scheduling",
+      "canonical_url": "https://infrequently.org/2026/08/notes-on-performance-remediation-strategies/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T10:01:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
