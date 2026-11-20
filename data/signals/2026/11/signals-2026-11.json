@@ -27515,6 +27515,21 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50568763",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "canonical_url": "https://thunderphone.com/blog/introducing-zeus",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T06:51:52Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent",
+        "ai",
+        "claude"
+      ]
     }
   ]
 }
