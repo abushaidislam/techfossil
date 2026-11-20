@@ -27760,6 +27760,19 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50564282",
+      "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+      "canonical_url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T00:42:13Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
