@@ -27013,6 +27013,20 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1120-dev-5068483",
+      "title": "Major League Hacking and SpaceXSI Come Together to Support the Next Generation of Builders",
+      "canonical_url": "https://blog.mlh.com/major-league-hacking-and-spacexsi-come-together-to-support-the-next-generation-of-builders-feh",
+      "source": "dev_to",
+      "published_at": "2026-11-19T16:55:26Z",
+      "category": "Frontend & UI",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ui",
+        "ai"
+      ]
     }
   ]
 }
