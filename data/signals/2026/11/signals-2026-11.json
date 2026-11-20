@@ -27802,6 +27802,21 @@
         "postgres",
         "sql"
       ]
+    },
+    {
+      "id": "sig-2026-1120-hn-50558906",
+      "title": "Someone reported java4shell bug in September 2026",
+      "canonical_url": "https://github.com/openjdk/jdk/pull/32781",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T17:47:03Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "development",
+        "technology",
+        "software"
+      ]
     }
   ]
 }
