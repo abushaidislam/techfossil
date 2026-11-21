@@ -28290,6 +28290,23 @@
         "agent",
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5083961",
+      "title": "Zombie Sweep on Google Cloud: A Daily Waste Report on AlloyDB Express, With a Database Bill You Can Predict",
+      "canonical_url": "https://dev.to/gde/zombie-sweep-on-google-cloud-a-daily-waste-report-on-alloydb-express-with-a-database-bill-you-can-305g",
+      "source": "dev_to",
+      "published_at": "2026-11-20T20:01:04Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 92,
+      "verification_status": "verified",
+      "technologies": [
+        "serverless",
+        "ai",
+        "database",
+        "cloud",
+        "postgres"
+      ]
     }
   ]
 }
