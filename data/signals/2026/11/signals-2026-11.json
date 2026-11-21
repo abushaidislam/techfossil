@@ -28709,6 +28709,19 @@
       "technologies": [
         "compiler"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583826",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "canonical_url": "https://www.bbc.com/news/articles/cwz0k3nn5p5mo",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T05:25:53Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
