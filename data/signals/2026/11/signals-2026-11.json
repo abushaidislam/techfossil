@@ -29129,6 +29129,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585288",
+      "title": "Discord Rewrites Desktop and Mobile Clients in Rust",
+      "canonical_url": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:26:46Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust"
+      ]
     }
   ]
 }
