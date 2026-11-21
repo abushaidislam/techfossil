@@ -29354,6 +29354,21 @@
       "technologies": [
         "auth"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50535504",
+      "title": "Replacing implicit optionals with a None type in TypeDB",
+      "canonical_url": "https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T00:03:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
