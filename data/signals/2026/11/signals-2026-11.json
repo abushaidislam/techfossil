@@ -28885,6 +28885,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50562320",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "canonical_url": "https://github.com/onlook-dev/onlook/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T22:34:04Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
