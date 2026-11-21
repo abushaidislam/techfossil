@@ -29384,6 +29384,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585265",
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis",
+      "canonical_url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:23:20Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
