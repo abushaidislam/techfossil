@@ -29341,6 +29341,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50581110",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "canonical_url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T02:03:59Z",
+      "category": "Security & Privacy",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "auth"
+      ]
     }
   ]
 }
