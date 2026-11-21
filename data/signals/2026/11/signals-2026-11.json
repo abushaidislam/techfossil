@@ -28275,6 +28275,21 @@
         "cloud",
         "backend"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5081870",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "canonical_url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md",
+      "source": "dev_to",
+      "published_at": "2026-11-20T12:45:36Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "gemini"
+      ]
     }
   ]
 }
