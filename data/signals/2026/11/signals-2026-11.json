@@ -28623,6 +28623,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50550430",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "canonical_url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T00:50:35Z",
+      "category": "Security & Privacy",
+      "importance_score": 75,
+      "verification_status": "verified",
+      "technologies": [
+        "security"
+      ]
     }
   ]
 }
