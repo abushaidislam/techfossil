@@ -28812,6 +28812,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583134",
+      "title": "Merkle Tree Certificates",
+      "canonical_url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T04:19:23Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
