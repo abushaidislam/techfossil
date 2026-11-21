@@ -29227,6 +29227,21 @@
         "ai",
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586958",
+      "title": "Design for Understandability",
+      "canonical_url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T13:44:30Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
