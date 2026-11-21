@@ -29257,6 +29257,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586326",
+      "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
+      "canonical_url": "https://zenodo.org/records/24412128",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T11:43:19Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "gemini"
+      ]
     }
   ]
 }
