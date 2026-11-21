@@ -29071,6 +29071,19 @@
         "auth",
         "openai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50577901",
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "canonical_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T22:59:27Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
