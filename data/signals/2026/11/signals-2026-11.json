@@ -28900,6 +28900,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585451",
+      "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+      "canonical_url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:54:07Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent"
+      ]
     }
   ]
 }
