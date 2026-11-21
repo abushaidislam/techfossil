@@ -29170,6 +29170,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50577603",
+      "title": "Teenage Engineering EP/BC–1 professional CD player",
+      "canonical_url": "https://teenage.engineering/products/bc-1",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T22:44:58Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
