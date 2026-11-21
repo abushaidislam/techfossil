@@ -29114,6 +29114,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584716",
+      "title": "Show HN: Craoli – describe a job in one sentence, it finds real postings",
+      "canonical_url": "https://craoli.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:08:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
