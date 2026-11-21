@@ -28394,6 +28394,19 @@
       "technologies": [
         "typescript"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5056698",
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "canonical_url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+      "source": "dev_to",
+      "published_at": "2026-11-20T16:28:49Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
