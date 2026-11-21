@@ -28927,6 +28927,19 @@
       "technologies": [
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584400",
+      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+      "canonical_url": "https://cvigoe.github.io/website/ai-cures/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T06:29:57Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
