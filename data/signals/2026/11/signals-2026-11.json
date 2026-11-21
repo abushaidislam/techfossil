@@ -28737,6 +28737,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586255",
+      "title": "Dutch Court Bars Chinese SUV in Europe over Resemblance to Land Rover Defender",
+      "canonical_url": "https://www.reuters.com/world/china/chinas-byd-has-suv-that-infringes-jlr-defender-design-dutch-court-rules-2026-11-20/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T11:32:04Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
