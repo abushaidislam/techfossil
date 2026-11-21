@@ -28493,6 +28493,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5077749",
+      "title": "I Merely Am Someone Who Doesn't Touch Hot Stoves: Consciousness, Flores Speech Acts, the DSM Blindspot, and Why RLHF Is a Bad Actor",
+      "canonical_url": "https://dev.to/gde/i-merely-am-someone-who-doesnt-touch-hot-stoves-consciousness-flores-speech-acts-the-dsm-2n62",
+      "source": "dev_to",
+      "published_at": "2026-11-20T00:27:05Z",
+      "category": "Systems & Architecture",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "architecture"
+      ]
     }
   ]
 }
