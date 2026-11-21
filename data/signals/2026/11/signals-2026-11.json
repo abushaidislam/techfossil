@@ -29056,6 +29056,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585241",
+      "title": "OpenAI: Generating scripts to copy outgoing email to an unauthorized address",
+      "canonical_url": "https://openai.com/safety-alignment/misalignment-reports/generating-scripts-to-copy-outgoing-email-to-an-unauthorized-address/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:19:52Z",
+      "category": "Security & Privacy",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "auth",
+        "openai"
+      ]
     }
   ]
 }
