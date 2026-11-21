@@ -28914,6 +28914,19 @@
         "ai",
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50572116",
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "canonical_url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T15:13:09Z",
+      "category": "Frontend & UI",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "ui"
+      ]
     }
   ]
 }
