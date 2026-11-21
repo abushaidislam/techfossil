@@ -29311,6 +29311,21 @@
       "technologies": [
         "agent"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586808",
+      "title": "Albertpiworld",
+      "canonical_url": "https://www.youtube.com/@albertpiworld",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T13:13:01Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
