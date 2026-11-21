@@ -28855,6 +28855,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583207",
+      "title": "Give Me Back My Monolith (2019)",
+      "canonical_url": "https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T04:25:22Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
