@@ -28246,6 +28246,21 @@
         "technology",
         "software"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584597",
+      "title": "Riemann Hypothesis Catastrophe",
+      "canonical_url": "https://www.lesswrong.com/w/riemann-hypothesis-catastrophe",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T06:56:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
