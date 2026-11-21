@@ -28407,6 +28407,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5077799",
+      "title": "Making Offline Web AI RAG Universal: Introducing SourceDesk AI & Replaceable Subject Packs",
+      "canonical_url": "https://dev.to/gde/making-offline-web-ai-rag-universal-introducing-sourcedesk-ai-replaceable-subject-packs-4lbd",
+      "source": "dev_to",
+      "published_at": "2026-11-20T16:33:46Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 93,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
