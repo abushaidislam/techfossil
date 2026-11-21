@@ -28782,6 +28782,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50523241",
+      "title": "The Strongest Sokoban Solver",
+      "canonical_url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T03:04:01Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
