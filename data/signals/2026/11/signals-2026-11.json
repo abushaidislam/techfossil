@@ -29041,6 +29041,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586540",
+      "title": "HTTP/1.1 Must Die",
+      "canonical_url": "https://http1mustdie.com/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T12:23:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
