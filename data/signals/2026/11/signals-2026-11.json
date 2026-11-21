@@ -28261,6 +28261,20 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5076376",
+      "title": "llama.cpp on a Cloud TPU: An Unofficial ggml Backend Through XLA",
+      "canonical_url": "https://dev.to/gde/llamacpp-on-a-cloud-tpu-an-unofficial-ggml-backend-through-xla-5j8",
+      "source": "dev_to",
+      "published_at": "2026-11-19T20:22:11Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "cloud",
+        "backend"
+      ]
     }
   ]
 }
