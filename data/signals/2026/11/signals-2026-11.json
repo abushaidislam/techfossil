@@ -29200,6 +29200,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585411",
+      "title": "The Most Important Charts in AI Are Wrong",
+      "canonical_url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:45:31Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
