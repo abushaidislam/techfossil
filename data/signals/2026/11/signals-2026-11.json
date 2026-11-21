@@ -28507,6 +28507,21 @@
         "ai",
         "architecture"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583768",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "canonical_url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T05:19:44Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
