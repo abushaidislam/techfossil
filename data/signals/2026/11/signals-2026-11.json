@@ -28840,6 +28840,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50581084",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "canonical_url": "https://scottaaronson.blog/?p=10344",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T02:03:07Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
