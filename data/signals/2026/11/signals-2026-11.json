@@ -28797,6 +28797,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583862",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "canonical_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T05:30:13Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
