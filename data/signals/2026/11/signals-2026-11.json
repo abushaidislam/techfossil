@@ -29155,6 +29155,21 @@
       "technologies": [
         "wasm"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585001",
+      "title": "Why Does Windows Use Backslash as Path Separator? (2019)",
+      "canonical_url": "http://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:46:35Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
