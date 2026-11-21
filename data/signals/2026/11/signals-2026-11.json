@@ -28610,6 +28610,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583804",
+      "title": "ICE details Princeton neuroscientist claiming asylum",
+      "canonical_url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T05:24:16Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
