@@ -28350,6 +28350,20 @@
       "technologies": [
         "llm"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5084452",
+      "title": "Prompt Pad: What Is a Context Window?",
+      "canonical_url": "https://blog.mlh.com/prompt-pad-what-is-a-context-window-16hf",
+      "source": "dev_to",
+      "published_at": "2026-11-20T21:40:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "llm"
+      ]
     }
   ]
 }
