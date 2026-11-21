@@ -28307,6 +28307,21 @@
         "cloud",
         "postgres"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50583664",
+      "title": "Wikipedia Rewrote Zionism",
+      "canonical_url": "https://quillette.com/2026/10/30/how-wikipedia-rewrote-zionism/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T05:08:41Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
