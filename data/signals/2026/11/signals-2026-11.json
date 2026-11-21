@@ -29270,6 +29270,21 @@
       "technologies": [
         "gemini"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586870",
+      "title": "Show HN: A human-readable account of the Lean proof of the Riemann Hypothesis",
+      "canonical_url": "https://news.ycombinator.com/item?id=50586870",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T13:23:55Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
