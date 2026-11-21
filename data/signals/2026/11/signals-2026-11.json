@@ -29142,6 +29142,19 @@
       "technologies": [
         "rust"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50580536",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "canonical_url": "https://winedroid.soham.sh/demo/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T01:30:16Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "wasm"
+      ]
     }
   ]
 }
