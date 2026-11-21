@@ -28522,6 +28522,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584678",
+      "title": "Android phone and desktop mode on your Mac",
+      "canonical_url": "https://github.com/lucianmarin/macdroid",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:03:59Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
