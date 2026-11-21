@@ -28827,6 +28827,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584623",
+      "title": "I think we can have a market for (Explaining as a Service) EaaS",
+      "canonical_url": "https://news.ycombinator.com/item?id=50584623",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T06:58:34Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
