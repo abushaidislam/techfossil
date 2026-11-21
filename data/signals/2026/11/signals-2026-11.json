@@ -28681,6 +28681,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585175",
+      "title": "Army is about to blow up a cache of dangerous lead azide in Iowa",
+      "canonical_url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:11:00Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
