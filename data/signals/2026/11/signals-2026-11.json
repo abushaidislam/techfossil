@@ -28322,6 +28322,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5075287",
+      "title": "Where Agents Fail: Part 1",
+      "canonical_url": "https://dev.to/googleai/where-agents-fail-part-1-54hg",
+      "source": "dev_to",
+      "published_at": "2026-11-20T16:50:28Z",
+      "category": "Cloud & DevOps",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai",
+        "agent",
+        "cloud"
+      ]
     }
   ]
 }
