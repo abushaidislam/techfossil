@@ -28420,6 +28420,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585772",
+      "title": "A fresh look for Bitwarden: enhancing your experience",
+      "canonical_url": "https://bitwarden.com/blog/2026-design-update/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T09:55:18Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
