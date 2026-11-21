@@ -28537,6 +28537,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585998",
+      "title": "The Other Road",
+      "canonical_url": "https://borretti.me/article/the-other-road",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T10:39:21Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
