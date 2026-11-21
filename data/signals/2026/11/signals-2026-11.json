@@ -29298,6 +29298,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585848",
+      "title": "Show HN: CLI for agents to download movie clips from dialogues",
+      "canonical_url": "https://github.com/robinroy03/scene-finder",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T10:09:29Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "agent"
+      ]
     }
   ]
 }
