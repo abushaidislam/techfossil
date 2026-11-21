@@ -29013,6 +29013,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584786",
+      "title": "Things I learned coding with AI for a year",
+      "canonical_url": "https://twnstr.com/blogs/software-development-post-ai",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:18:18Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
