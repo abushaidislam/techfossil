@@ -29242,6 +29242,21 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584732",
+      "title": "Search Engine Relationship Charts",
+      "canonical_url": "https://www.searchengines.net/guides/search-engine-relationship-charts/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:11:57Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
