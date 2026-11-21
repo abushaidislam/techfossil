@@ -28696,6 +28696,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50537492",
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "canonical_url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T02:12:34Z",
+      "category": "Systems & Architecture",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "compiler"
+      ]
     }
   ]
 }
