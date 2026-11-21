@@ -28552,6 +28552,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-dev-5074788",
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "canonical_url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+      "source": "dev_to",
+      "published_at": "2026-11-20T08:55:01Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 98,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
