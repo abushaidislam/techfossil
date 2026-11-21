@@ -29426,6 +29426,21 @@
         "ai",
         "ui"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50586810",
+      "title": "DroidDeck: PC Gaming on Android",
+      "canonical_url": "https://droid-deck.dev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T13:13:15Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "technology",
+        "software",
+        "development"
+      ]
     }
   ]
 }
