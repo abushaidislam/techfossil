@@ -29099,6 +29099,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584327",
+      "title": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
+      "canonical_url": "https://github.com/aleff-github/onion-routing-anatomy",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T06:20:37Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
