@@ -28565,6 +28565,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50584842",
+      "title": "What if GTA 6 were set in Boulder?",
+      "canonical_url": "https://www.axios.com/local/boulder/2026/11/20/boulder-grand-theft-auto-6-gta-subaru-parody",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T07:25:56Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
