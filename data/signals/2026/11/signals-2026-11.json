@@ -29026,6 +29026,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585282",
+      "title": "Phoebe Bridgers banned phones at gigs; fans use art to remember them",
+      "canonical_url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T08:25:54Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
