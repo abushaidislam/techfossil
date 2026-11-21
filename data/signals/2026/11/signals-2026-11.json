@@ -28450,6 +28450,19 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585532",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "canonical_url": "https://mit-han-lab.github.io/pear-blog/",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T09:12:33Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
