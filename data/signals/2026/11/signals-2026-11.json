@@ -29185,6 +29185,21 @@
         "technology",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50535187",
+      "title": "Substrate: A Lisp for WebAssembly",
+      "canonical_url": "https://substrate-lang.com",
+      "source": "hacker_news",
+      "published_at": "2026-11-17T23:44:10Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
