@@ -28722,6 +28722,21 @@
       "technologies": [
         "security"
       ]
+    },
+    {
+      "id": "sig-2026-1121-hn-50585530",
+      "title": "How do we get 1 TW a year of orbital compute by 2035?",
+      "canonical_url": "https://news.ycombinator.com/item?id=50585530",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T09:11:47Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "technology",
+        "development"
+      ]
     }
   ]
 }
