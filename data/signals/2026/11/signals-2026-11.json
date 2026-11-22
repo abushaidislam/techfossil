@@ -29553,6 +29553,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "canonical_url": "https://architectlabs.com/blog/frostbite",
+      "source": "hacker_news",
+      "published_at": "2026-11-20T16:01:41Z",
+      "category": "Systems & Architecture",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "architecture",
+        "ai"
+      ]
     }
   ]
 }
