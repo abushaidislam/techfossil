@@ -29567,6 +29567,21 @@
         "architecture",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50587208",
+      "title": "RCE in Gnupg",
+      "canonical_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-21T14:32:58Z",
+      "category": "Software Engineering",
+      "importance_score": 99,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
