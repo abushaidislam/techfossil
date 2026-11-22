@@ -29527,6 +29527,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50553223",
+      "title": "Shaping the Loops, Closing the Loops",
+      "canonical_url": "https://revyl.com/blog/pattern-engineering/",
+      "source": "hacker_news",
+      "published_at": "2026-11-19T04:29:04Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
