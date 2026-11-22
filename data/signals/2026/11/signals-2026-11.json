@@ -29582,6 +29582,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50594667",
+      "title": "Fley AI Update 1.2v a voice AI assistant",
+      "canonical_url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T05:26:32Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
