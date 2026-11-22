@@ -29635,6 +29635,19 @@
         "rust",
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50591875",
+      "title": "FBI Criminal Database Hacked",
+      "canonical_url": "https://www.france24.com/en/fbi-criminal-database-hacked",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T00:05:09Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "database"
+      ]
     }
   ]
 }
