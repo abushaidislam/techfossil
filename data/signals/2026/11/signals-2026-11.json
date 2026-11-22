@@ -29621,6 +29621,20 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50548136",
+      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "canonical_url": "https://contextgeneric.dev/blog/v0.8.0-release/",
+      "source": "hacker_news",
+      "published_at": "2026-11-18T22:17:41Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "rust",
+        "ai"
+      ]
     }
   ]
 }
