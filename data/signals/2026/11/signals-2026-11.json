@@ -29469,6 +29469,19 @@
         "development",
         "technology"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50595213",
+      "title": "Browser API for Utilizing On-Device Models",
+      "canonical_url": "https://github.com/webmachinelearning/proposals/issues/22",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T07:05:25Z",
+      "category": "Backend & APIs",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "api"
+      ]
     }
   ]
 }
