@@ -29482,6 +29482,21 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50594741",
+      "title": "Port Scanning for Mojang",
+      "canonical_url": "https://sipacid.com/blog/port-scanning-for-mojang/",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T05:37:16Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
