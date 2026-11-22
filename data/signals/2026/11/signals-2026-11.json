@@ -29595,6 +29595,19 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50595928",
+      "title": "Learning the Language of Machine Learning",
+      "canonical_url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T09:27:02Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "machine learning"
+      ]
     }
   ]
 }
