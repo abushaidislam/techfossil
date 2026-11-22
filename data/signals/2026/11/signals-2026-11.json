@@ -29441,6 +29441,19 @@
         "software",
         "development"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50596013",
+      "title": "California Research Measure Is a Windfall for a Billionaire's Pet Project",
+      "canonical_url": "https://www.nytimes.com/2026/11/18/science/california-prop-38-gary-michelson.html",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T09:41:59Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
