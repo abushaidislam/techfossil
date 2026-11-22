@@ -29608,6 +29608,19 @@
       "technologies": [
         "machine learning"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50595812",
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "canonical_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T09:06:35Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
