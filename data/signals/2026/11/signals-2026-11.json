@@ -29540,6 +29540,19 @@
       "technologies": [
         "api"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50595089",
+      "title": "West Coast Customs Turns a Tesla Model 3 into a 1955 Chevy Bel Air",
+      "canonical_url": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T06:40:23Z",
+      "category": "AI & Machine Learning",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "ai"
+      ]
     }
   ]
 }
