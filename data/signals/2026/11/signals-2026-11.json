@@ -29454,6 +29454,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50594526",
+      "title": "MHUB – install and update 28 open source Mac utilities from the menu bar",
+      "canonical_url": "https://github.com/starbudweiser/mHUB",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T05:05:17Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
