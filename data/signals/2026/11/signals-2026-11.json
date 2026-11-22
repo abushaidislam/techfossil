@@ -29661,6 +29661,21 @@
       "technologies": [
         "ai"
       ]
+    },
+    {
+      "id": "sig-2026-1122-hn-50595528",
+      "title": "Practical cryptanalysis with MiniMax's latest Internal Model",
+      "canonical_url": "https://www.minimax.io/blog/practical-cryptanalysis-with-minimaxs-latest-internal-model",
+      "source": "hacker_news",
+      "published_at": "2026-11-22T08:08:08Z",
+      "category": "Software Engineering",
+      "importance_score": 70,
+      "verification_status": "verified",
+      "technologies": [
+        "software",
+        "development",
+        "technology"
+      ]
     }
   ]
 }
